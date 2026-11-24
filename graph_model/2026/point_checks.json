@@ -1,0 +1,146 @@
+{
+  "season": 2026,
+  "random_seed": 20261124,
+  "checks": [
+    {
+      "game_id": "401856637",
+      "edge": "Florida Atlantic loses_to Florida",
+      "edge_properties": {
+        "game_date": "2026-09-05",
+        "week": "1",
+        "winner_score": "66",
+        "loser_score": "21",
+        "margin": "45"
+      },
+      "result": "pass",
+      "ncaa": "Florida 66, Florida Atlantic 21 on 2026-09-05",
+      "url": "https://www.ncaa.com/game/6603643"
+    },
+    {
+      "game_id": "401867866",
+      "edge": "Murray State loses_to Middle Tennessee",
+      "edge_properties": {
+        "game_date": "2026-09-05",
+        "week": "1",
+        "winner_score": "38",
+        "loser_score": "14",
+        "margin": "24"
+      },
+      "result": "pass",
+      "ncaa": "Middle Tennessee 38, Murray State 14 on 2026-09-05",
+      "url": "https://www.ncaa.com/game/6640287"
+    },
+    {
+      "game_id": "401856700",
+      "edge": "Oklahoma loses_to Georgia",
+      "edge_properties": {
+        "game_date": "2026-09-26",
+        "week": "4",
+        "winner_score": "41",
+        "loser_score": "13",
+        "margin": "28"
+      },
+      "result": "pass",
+      "ncaa": "Georgia 41, Oklahoma 13 on 2026-09-26",
+      "url": "https://www.ncaa.com/game/6604190"
+    },
+    {
+      "game_id": "401856808",
+      "edge": "Hawai'i loses_to Arizona State",
+      "edge_properties": {
+        "game_date": "2026-10-10",
+        "week": "6",
+        "winner_score": "30",
+        "loser_score": "12",
+        "margin": "18"
+      },
+      "result": "pass",
+      "ncaa": "Arizona State 30, Hawai'i 12 on 2026-10-10",
+      "url": "https://www.ncaa.com/game/6604209"
+    },
+    {
+      "game_id": "401856844",
+      "edge": "UCF loses_to Baylor",
+      "edge_properties": {
+        "game_date": "2026-10-30",
+        "week": "9",
+        "winner_score": "41",
+        "loser_score": "9",
+        "margin": "32"
+      },
+      "result": "pass",
+      "ncaa": "Baylor 41, UCF 9 on 2026-10-30",
+      "url": "https://www.ncaa.com/game/6603631"
+    },
+    {
+      "game_id": "401871095",
+      "edge": "UL Monroe loses_to Southern Miss",
+      "edge_properties": {
+        "game_date": "2026-10-31",
+        "week": "9",
+        "winner_score": "35",
+        "loser_score": "21",
+        "margin": "14"
+      },
+      "result": "pass",
+      "ncaa": "Southern Miss 35, UL Monroe 21 on 2026-10-31",
+      "url": "https://www.ncaa.com/game/6603706"
+    },
+    {
+      "game_id": "401866457",
+      "edge": "Sacramento State loses_to Toledo",
+      "edge_properties": {
+        "game_date": "2026-11-04",
+        "week": "10",
+        "winner_score": "20",
+        "loser_score": "17",
+        "margin": "3"
+      },
+      "result": "pass",
+      "ncaa": "Toledo 20, Sacramento State 17 on 2026-11-04",
+      "url": "https://www.ncaa.com/game/6603979"
+    },
+    {
+      "game_id": "401866460",
+      "edge": "Ohio loses_to Miami (OH)",
+      "edge_properties": {
+        "game_date": "2026-11-10",
+        "week": "11",
+        "winner_score": "34",
+        "loser_score": "17",
+        "margin": "17"
+      },
+      "result": "pass",
+      "ncaa": "Miami (OH) 34, Ohio 17 on 2026-11-10",
+      "url": "https://www.ncaa.com/game/6603991"
+    },
+    {
+      "game_id": "401860916",
+      "edge": "Fresno State loses_to Texas State",
+      "edge_properties": {
+        "game_date": "2026-11-14",
+        "week": "11",
+        "winner_score": "37",
+        "loser_score": "35",
+        "margin": "2"
+      },
+      "result": "pass",
+      "ncaa": "Texas State 37, Fresno State 35 on 2026-11-14",
+      "url": "https://www.ncaa.com/game/6604225"
+    },
+    {
+      "game_id": "401864537",
+      "edge": "Hawai'i loses_to North Dakota State",
+      "edge_properties": {
+        "game_date": "2026-11-14",
+        "week": "11",
+        "winner_score": "21",
+        "loser_score": "13",
+        "margin": "8"
+      },
+      "result": "pass",
+      "ncaa": "North Dakota State 21, Hawai'i 13 on 2026-11-14",
+      "url": "https://www.ncaa.com/game/6604132"
+    }
+  ]
+}

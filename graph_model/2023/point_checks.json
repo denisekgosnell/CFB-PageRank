@@ -1,0 +1,146 @@
+{
+  "season": 2023,
+  "random_seed": 20261124,
+  "checks": [
+    {
+      "game_id": "401520148",
+      "edge": "Nebraska loses_to Minnesota",
+      "edge_properties": {
+        "game_date": "2023-08-31",
+        "week": "1",
+        "winner_score": "13",
+        "loser_score": "10",
+        "margin": "3"
+      },
+      "result": "pass",
+      "ncaa": "Minnesota 13, Nebraska 10 on 2023-08-31",
+      "url": "https://www.ncaa.com/game/6154129"
+    },
+    {
+      "game_id": "401520190",
+      "edge": "McNeese loses_to Florida",
+      "edge_properties": {
+        "game_date": "2023-09-09",
+        "week": "2",
+        "winner_score": "49",
+        "loser_score": "7",
+        "margin": "42"
+      },
+      "result": "pass",
+      "ncaa": "Florida 49, McNeese 7 on 2023-09-09",
+      "url": "https://www.ncaa.com/game/6154331"
+    },
+    {
+      "game_id": "401520287",
+      "edge": "Northwestern loses_to Penn State",
+      "edge_properties": {
+        "game_date": "2023-09-30",
+        "week": "5",
+        "winner_score": "41",
+        "loser_score": "13",
+        "margin": "28"
+      },
+      "result": "pass",
+      "ncaa": "Penn State 41, Northwestern 13 on 2023-09-30",
+      "url": "https://www.ncaa.com/game/6154177"
+    },
+    {
+      "game_id": "401531404",
+      "edge": "Charlotte loses_to SMU",
+      "edge_properties": {
+        "game_date": "2023-09-30",
+        "week": "5",
+        "winner_score": "34",
+        "loser_score": "16",
+        "margin": "18"
+      },
+      "result": "pass",
+      "ncaa": "SMU 34, Charlotte 16 on 2023-09-30",
+      "url": "https://www.ncaa.com/game/6154464"
+    },
+    {
+      "game_id": "401532589",
+      "edge": "San Diego State loses_to Air Force",
+      "edge_properties": {
+        "game_date": "2023-09-30",
+        "week": "5",
+        "winner_score": "49",
+        "loser_score": "10",
+        "margin": "39"
+      },
+      "result": "pass",
+      "ncaa": "Air Force 49, San Diego State 10 on 2023-09-30",
+      "url": "https://www.ncaa.com/game/6154507"
+    },
+    {
+      "game_id": "401531885",
+      "edge": "UL Monroe loses_to South Alabama",
+      "edge_properties": {
+        "game_date": "2023-10-07",
+        "week": "6",
+        "winner_score": "55",
+        "loser_score": "7",
+        "margin": "48"
+      },
+      "result": "pass",
+      "ncaa": "South Alabama 55, UL Monroe 7 on 2023-10-07",
+      "url": "https://www.ncaa.com/game/6154539"
+    },
+    {
+      "game_id": "401531888",
+      "edge": "App State loses_to Coastal Carolina",
+      "edge_properties": {
+        "game_date": "2023-10-10",
+        "week": "7",
+        "winner_score": "27",
+        "loser_score": "24",
+        "margin": "3"
+      },
+      "result": "pass",
+      "ncaa": "Coastal Carolina 27, App State 24 on 2023-10-10",
+      "url": "https://www.ncaa.com/game/6154556"
+    },
+    {
+      "game_id": "401520323",
+      "edge": "Purdue loses_to Ohio State",
+      "edge_properties": {
+        "game_date": "2023-10-14",
+        "week": "7",
+        "winner_score": "41",
+        "loser_score": "7",
+        "margin": "34"
+      },
+      "result": "pass",
+      "ncaa": "Ohio State 41, Purdue 7 on 2023-10-14",
+      "url": "https://www.ncaa.com/game/6154103"
+    },
+    {
+      "game_id": "401531905",
+      "edge": "Marshall loses_to App State",
+      "edge_properties": {
+        "game_date": "2023-11-04",
+        "week": "10",
+        "winner_score": "31",
+        "loser_score": "9",
+        "margin": "22"
+      },
+      "result": "pass",
+      "ncaa": "App State 31, Marshall 9 on 2023-11-04",
+      "url": "https://www.ncaa.com/game/6154742"
+    },
+    {
+      "game_id": "401532617",
+      "edge": "San Diego State loses_to Colorado State",
+      "edge_properties": {
+        "game_date": "2023-11-11",
+        "week": "11",
+        "winner_score": "22",
+        "loser_score": "19",
+        "margin": "3"
+      },
+      "result": "pass",
+      "ncaa": "Colorado State 22, San Diego State 19 on 2023-11-11",
+      "url": "https://www.ncaa.com/game/6154812"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "season": 2025,
+  "random_seed": 20261124,
+  "checks": [
+    {
+      "game_id": "401752668",
+      "edge": "Long Island University loses_to Florida",
+      "edge_properties": {
+        "game_date": "2025-08-30",
+        "week": "1",
+        "winner_score": "55",
+        "loser_score": "0",
+        "margin": "55"
+      },
+      "result": "pass",
+      "ncaa": "Florida 55, Long Island University 0 on 2025-08-30",
+      "url": "https://www.ncaa.com/game/6458802"
+    },
+    {
+      "game_id": "401752806",
+      "edge": "Old Dominion loses_to Indiana",
+      "edge_properties": {
+        "game_date": "2025-08-30",
+        "week": "1",
+        "winner_score": "27",
+        "loser_score": "14",
+        "margin": "13"
+      },
+      "result": "pass",
+      "ncaa": "Indiana 27, Old Dominion 14 on 2025-08-30",
+      "url": "https://www.ncaa.com/game/6459519"
+    },
+    {
+      "game_id": "401762794",
+      "edge": "Saint Francis loses_to Buffalo",
+      "edge_properties": {
+        "game_date": "2025-09-06",
+        "week": "2",
+        "winner_score": "45",
+        "loser_score": "6",
+        "margin": "39"
+      },
+      "result": "pass",
+      "ncaa": "Buffalo 45, Saint Francis 6 on 2025-09-06",
+      "url": "https://www.ncaa.com/game/6459279"
+    },
+    {
+      "game_id": "401752710",
+      "edge": "SE Louisiana loses_to LSU",
+      "edge_properties": {
+        "game_date": "2025-09-20",
+        "week": "4",
+        "winner_score": "56",
+        "loser_score": "10",
+        "margin": "46"
+      },
+      "result": "pass",
+      "ncaa": "LSU 56, SE Louisiana 10 on 2025-09-20",
+      "url": "https://www.ncaa.com/game/6458841"
+    },
+    {
+      "game_id": "401752843",
+      "edge": "Illinois loses_to Indiana",
+      "edge_properties": {
+        "game_date": "2025-09-20",
+        "week": "4",
+        "winner_score": "63",
+        "loser_score": "10",
+        "margin": "53"
+      },
+      "result": "pass",
+      "ncaa": "Indiana 63, Illinois 10 on 2025-09-20",
+      "url": "https://www.ncaa.com/game/6459521"
+    },
+    {
+      "game_id": "401761620",
+      "edge": "Texas State loses_to Arkansas State",
+      "edge_properties": {
+        "game_date": "2025-10-04",
+        "week": "6",
+        "winner_score": "31",
+        "loser_score": "30",
+        "margin": "1"
+      },
+      "result": "pass",
+      "ncaa": "Arkansas State 31, Texas State 30 on 2025-10-04",
+      "url": "https://www.ncaa.com/game/6459208"
+    },
+    {
+      "game_id": "401760391",
+      "edge": "San Jos\u00e9 State loses_to Wyoming",
+      "edge_properties": {
+        "game_date": "2025-10-11",
+        "week": "7",
+        "winner_score": "35",
+        "loser_score": "28",
+        "margin": "7"
+      },
+      "result": "pass",
+      "ncaa": "Wyoming 35, San Jos\u00e9 State 28 on 2025-10-11",
+      "url": "https://www.ncaa.com/game/6459343"
+    },
+    {
+      "game_id": "401761623",
+      "edge": "UL Monroe loses_to Coastal Carolina",
+      "edge_properties": {
+        "game_date": "2025-10-11",
+        "week": "7",
+        "winner_score": "23",
+        "loser_score": "8",
+        "margin": "15"
+      },
+      "result": "pass",
+      "ncaa": "Coastal Carolina 23, UL Monroe 8 on 2025-10-11",
+      "url": "https://www.ncaa.com/game/6459335"
+    },
+    {
+      "game_id": "401762842",
+      "edge": "Kent State loses_to Toledo",
+      "edge_properties": {
+        "game_date": "2025-10-18",
+        "week": "8",
+        "winner_score": "45",
+        "loser_score": "10",
+        "margin": "35"
+      },
+      "result": "pass",
+      "ncaa": "Toledo 45, Kent State 10 on 2025-10-18",
+      "url": "https://www.ncaa.com/game/6458869"
+    },
+    {
+      "game_id": "401761640",
+      "edge": "Marshall loses_to Coastal Carolina",
+      "edge_properties": {
+        "game_date": "2025-10-30",
+        "week": "10",
+        "winner_score": "44",
+        "loser_score": "27",
+        "margin": "17"
+      },
+      "result": "pass",
+      "ncaa": "Coastal Carolina 44, Marshall 27 on 2025-10-30",
+      "url": "https://www.ncaa.com/game/6459591"
+    }
+  ]
+}

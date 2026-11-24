@@ -1,0 +1,146 @@
+{
+  "season": 2024,
+  "random_seed": 20261124,
+  "checks": [
+    {
+      "game_id": "401628461",
+      "edge": "Western Michigan loses_to Wisconsin",
+      "edge_properties": {
+        "game_date": "2024-08-30",
+        "week": "1",
+        "winner_score": "28",
+        "loser_score": "14",
+        "margin": "14"
+      },
+      "result": "pass",
+      "ncaa": "Wisconsin 28, Western Michigan 14 on 2024-08-30",
+      "url": "https://www.ncaa.com/game/6306193"
+    },
+    {
+      "game_id": "401628322",
+      "edge": "Florida loses_to Miami",
+      "edge_properties": {
+        "game_date": "2024-08-31",
+        "week": "1",
+        "winner_score": "41",
+        "loser_score": "17",
+        "margin": "24"
+      },
+      "result": "pass",
+      "ncaa": "Miami 41, Florida 17 on 2024-08-31",
+      "url": "https://www.ncaa.com/game/6305956"
+    },
+    {
+      "game_id": "401628364",
+      "edge": "Ohio loses_to Kentucky",
+      "edge_properties": {
+        "game_date": "2024-09-21",
+        "week": "4",
+        "winner_score": "41",
+        "loser_score": "6",
+        "margin": "35"
+      },
+      "result": "pass",
+      "ncaa": "Kentucky 41, Ohio 6 on 2024-09-21",
+      "url": "https://www.ncaa.com/game/6306297"
+    },
+    {
+      "game_id": "401628497",
+      "edge": "Minnesota loses_to Michigan",
+      "edge_properties": {
+        "game_date": "2024-09-28",
+        "week": "5",
+        "winner_score": "27",
+        "loser_score": "24",
+        "margin": "3"
+      },
+      "result": "pass",
+      "ncaa": "Michigan 27, Minnesota 24 on 2024-09-28",
+      "url": "https://www.ncaa.com/game/6306005"
+    },
+    {
+      "game_id": "401645337",
+      "edge": "South Florida loses_to Tulane",
+      "edge_properties": {
+        "game_date": "2024-09-28",
+        "week": "5",
+        "winner_score": "45",
+        "loser_score": "10",
+        "margin": "35"
+      },
+      "result": "pass",
+      "ncaa": "Tulane 45, South Florida 10 on 2024-09-28",
+      "url": "https://www.ncaa.com/game/6306731"
+    },
+    {
+      "game_id": "401643804",
+      "edge": "Marshall loses_to Georgia Southern",
+      "edge_properties": {
+        "game_date": "2024-10-12",
+        "week": "7",
+        "winner_score": "24",
+        "loser_score": "23",
+        "margin": "1"
+      },
+      "result": "pass",
+      "ncaa": "Georgia Southern 24, Marshall 23 on 2024-10-12",
+      "url": "https://www.ncaa.com/game/6305983"
+    },
+    {
+      "game_id": "401643807",
+      "edge": "Southern Miss loses_to UL Monroe",
+      "edge_properties": {
+        "game_date": "2024-10-12",
+        "week": "7",
+        "winner_score": "38",
+        "loser_score": "21",
+        "margin": "17"
+      },
+      "result": "pass",
+      "ncaa": "UL Monroe 38, Southern Miss 21 on 2024-10-12",
+      "url": "https://www.ncaa.com/game/6306029"
+    },
+    {
+      "game_id": "401643736",
+      "edge": "Hawai'i loses_to Washington State",
+      "edge_properties": {
+        "game_date": "2024-10-19",
+        "week": "8",
+        "winner_score": "42",
+        "loser_score": "10",
+        "margin": "32"
+      },
+      "result": "pass",
+      "ncaa": "Washington State 42, Hawai'i 10 on 2024-10-19",
+      "url": "https://www.ncaa.com/game/6306566"
+    },
+    {
+      "game_id": "401643824",
+      "edge": "Coastal Carolina loses_to Troy",
+      "edge_properties": {
+        "game_date": "2024-11-02",
+        "week": "10",
+        "winner_score": "38",
+        "loser_score": "24",
+        "margin": "14"
+      },
+      "result": "pass",
+      "ncaa": "Troy 38, Coastal Carolina 24 on 2024-11-02",
+      "url": "https://www.ncaa.com/game/6306338"
+    },
+    {
+      "game_id": "401645365",
+      "edge": "Tulsa loses_to East Carolina",
+      "edge_properties": {
+        "game_date": "2024-11-14",
+        "week": "12",
+        "winner_score": "38",
+        "loser_score": "31",
+        "margin": "7"
+      },
+      "result": "pass",
+      "ncaa": "East Carolina 38, Tulsa 31 on 2024-11-14",
+      "url": "https://www.ncaa.com/game/6306695"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+season 2026
+  pass  1. edge count equals game count (822 edges, 822 games)
+  pass  2. every game id appears exactly once in the edges, and vice versa (missing 0, extra 0, duplicates 0)
+  pass  3. every edge runs from the loser to the winner with winner_score > loser_score (0 wrong)
+  pass  4. every edge property equals the matching column in games.csv (0 wrong)
+  pass  5. the vertex set equals the team set (0 vertices not in teams.csv, 0 teams without a vertex)
+  pass  6. every edge endpoint is a vertex (0 unknown endpoints)
+  pass  7. no self-loops (0 self-loops)
+  pass  8. rebuilding games.csv from the edges reproduces every row (0 rows differ)

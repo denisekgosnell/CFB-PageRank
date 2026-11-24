@@ -1,0 +1,864 @@
+source,target,game_id,game_date,week,winner_score,loser_score,margin,neutral_site
+Florida State,Georgia Tech,401635525,2024-08-24,0,24,21,3,true
+Nevada,SMU,401643696,2024-08-24,0,29,24,5,false
+New Mexico,Montana State,401643697,2024-08-24,0,35,31,4,false
+Delaware State,Hawai'i,401643858,2024-08-24,0,35,14,21,false
+Arkansas-Pine Bluff,Arkansas,401628320,2024-08-29,1,70,0,70,true
+Murray State,Missouri,401628327,2024-08-29,1,51,0,51,false
+Minnesota,North Carolina,401628448,2024-08-29,1,19,17,2,false
+Howard,Rutgers,401628458,2024-08-29,1,44,7,37,false
+North Carolina A&T,Wake Forest,401628581,2024-08-29,1,45,13,32,false
+New Hampshire,UCF,401628582,2024-08-29,1,57,3,54,false
+North Dakota State,Colorado,401634206,2024-08-29,1,31,26,5,false
+Western Carolina,NC State,401634299,2024-08-29,1,38,21,17,false
+Jackson State,UL Monroe,401636387,2024-08-29,1,30,14,16,false
+Lindenwood,Kansas,401636606,2024-08-29,1,48,3,45,false
+Southern Utah,Utah,401636607,2024-08-29,1,49,0,49,false
+Jacksonville State,Coastal Carolina,401640998,2024-08-29,1,55,27,28,false
+Sacramento State,San José State,401643698,2024-08-29,1,42,24,18,false
+Lafayette,Buffalo,401644727,2024-08-29,1,30,13,17,false
+Duquesne,Toledo,401644728,2024-08-29,1,49,10,39,false
+Fordham,Bowling Green,401644729,2024-08-29,1,41,17,24,false
+Central Connecticut,Central Michigan,401644730,2024-08-29,1,66,10,56,false
+Alcorn State,UAB,401645316,2024-08-29,1,41,3,38,false
+SE Louisiana,Tulane,401645317,2024-08-29,1,52,0,52,false
+Northwestern State,Tulsa,401645318,2024-08-29,1,62,28,34,false
+Eastern Illinois,Illinois,401654845,2024-08-29,1,45,0,45,false
+Temple,Oklahoma,401628328,2024-08-30,1,51,3,48,false
+Florida Atlantic,Michigan State,401628453,2024-08-30,1,16,10,6,false
+Western Michigan,Wisconsin,401628461,2024-08-30,1,28,14,14,false
+Elon,Duke,401628584,2024-08-30,1,26,3,23,false
+Stanford,TCU,401634300,2024-08-30,1,34,27,7,false
+Lehigh,Army,401645319,2024-08-30,1,42,7,35,false
+Western Kentucky,Alabama,401628319,2024-08-31,1,63,0,63,false
+Alabama A&M,Auburn,401628321,2024-08-31,1,73,3,70,false
+Florida,Miami,401628322,2024-08-31,1,41,17,24,false
+Clemson,Georgia,401628323,2024-08-31,1,34,3,31,true
+Southern Miss,Kentucky,401628324,2024-08-31,1,31,0,31,false
+Furman,Ole Miss,401628325,2024-08-31,1,76,0,76,false
+Eastern Kentucky,Mississippi State,401628326,2024-08-31,1,56,7,49,false
+Old Dominion,South Carolina,401628329,2024-08-31,1,23,19,4,false
+Chattanooga,Tennessee,401628330,2024-08-31,1,69,3,66,false
+Colorado State,Texas,401628331,2024-08-31,1,52,0,52,false
+Texas A&M,Notre Dame,401628332,2024-08-31,1,23,13,10,false
+Virginia Tech,Vanderbilt,401628333,2024-08-31,1,34,27,7,false
+Florida International,Indiana,401628449,2024-08-31,1,31,7,24,false
+Illinois State,Iowa,401628450,2024-08-31,1,40,0,40,false
+UConn,Maryland,401628451,2024-08-31,1,50,7,43,false
+Fresno State,Michigan,401628452,2024-08-31,1,30,10,20,false
+UTEP,Nebraska,401628454,2024-08-31,1,40,7,33,false
+Akron,Ohio State,401628455,2024-08-31,1,52,6,46,false
+Idaho,Oregon,401628456,2024-08-31,1,24,14,10,false
+West Virginia,Penn State,401628457,2024-08-31,1,34,12,22,false
+Hawai'i,UCLA,401628459,2024-08-31,1,16,13,3,false
+Weber State,Washington,401628460,2024-08-31,1,35,3,32,false
+Campbell,Liberty,401628586,2024-08-31,1,41,24,17,false
+Richmond,Virginia,401628589,2024-08-31,1,34,13,21,false
+Stony Brook,Marshall,401628590,2024-08-31,1,45,3,42,false
+Towson,Cincinnati,401628591,2024-08-31,1,38,20,18,false
+Massachusetts,Eastern Michigan,401629039,2024-08-31,1,28,14,14,false
+Austin Peay,Louisville,401632062,2024-08-31,1,62,0,62,false
+Central Arkansas,Arkansas State,401632064,2024-08-31,1,34,31,3,false
+East Tennessee State,App State,401634133,2024-08-31,1,38,10,28,false
+Indiana State,Purdue,401634169,2024-08-31,1,49,0,49,false
+North Dakota,Iowa State,401634197,2024-08-31,1,21,3,18,false
+South Dakota State,Oklahoma State,401634212,2024-08-31,1,44,20,24,false
+Southern Illinois,BYU,401634240,2024-08-31,1,41,13,28,false
+UC Davis,California,401634301,2024-08-31,1,31,13,18,false
+Georgia State,Georgia Tech,401634302,2024-08-31,1,35,12,23,false
+Houston Christian,SMU,401634303,2024-08-31,1,59,7,52,false
+Ohio,Syracuse,401634304,2024-08-31,1,38,22,16,false
+Kent State,Pittsburgh,401634305,2024-08-31,1,55,24,31,false
+Bethune-Cookman,South Florida,401636363,2024-08-31,1,48,3,45,false
+Grambling,Louisiana,401636380,2024-08-31,1,40,10,30,false
+New Mexico,Arizona,401636608,2024-08-31,1,61,39,22,false
+Wyoming,Arizona State,401636609,2024-08-31,1,48,7,41,false
+Tarleton State,Baylor,401636610,2024-08-31,1,45,3,42,false
+Houston,UNLV,401636611,2024-08-31,1,27,7,20,false
+UT Martin,Kansas State,401636612,2024-08-31,1,41,6,35,false
+Abilene Christian,Texas Tech,401636613,2024-08-31,1,52,51,1,false
+Portland State,Washington State,401637159,2024-08-31,1,70,30,40,false
+Nicholls,Louisiana Tech,401641007,2024-08-31,1,25,17,8,false
+Kennesaw State,UTSA,401641015,2024-08-31,1,28,16,12,false
+Tennessee Tech,Middle Tennessee,401641023,2024-08-31,1,32,25,7,false
+Southeast Missouri State,New Mexico State,401641032,2024-08-31,1,23,16,7,false
+Rice,Sam Houston,401641039,2024-08-31,1,34,14,20,false
+Merrimack,Air Force,401643699,2024-08-31,1,21,6,15,false
+Georgia Southern,Boise State,401643700,2024-08-31,1,56,45,11,false
+Troy,Nevada,401643701,2024-08-31,1,28,26,2,false
+East Texas A&M,San Diego State,401643702,2024-08-31,1,45,14,31,false
+Robert Morris,Utah State,401643703,2024-08-31,1,36,14,22,false
+Idaho State,Oregon State,401643704,2024-08-31,1,38,15,23,false
+Charlotte,James Madison,401643774,2024-08-31,1,30,7,23,false
+South Alabama,North Texas,401643775,2024-08-31,1,52,38,14,false
+Lamar,Texas State,401643776,2024-08-31,1,34,27,7,false
+Miami (OH),Northwestern,401644683,2024-08-31,1,13,6,7,false
+Western Illinois,Northern Illinois,401644731,2024-08-31,1,54,15,39,false
+Norfolk State,East Carolina,401645320,2024-08-31,1,42,3,39,false
+North Alabama,Memphis,401645321,2024-08-31,1,40,0,40,false
+Bucknell,Navy,401645322,2024-08-31,1,49,21,28,false
+LSU,USC,401628334,2024-09-01,1,27,20,7,true
+Florida State,Boston College,401634306,2024-09-02,1,28,13,15,false
+Western Illinois,Indiana,401628463,2024-09-06,2,77,3,74,false
+SMU,BYU,401634765,2024-09-06,2,18,15,3,false
+Northwestern,Duke,401635533,2024-09-06,2,26,20,6,false
+South Florida,Alabama,401628335,2024-09-07,2,42,16,26,false
+Arkansas,Oklahoma State,401628336,2024-09-07,2,39,31,8,false
+Auburn,California,401628337,2024-09-07,2,21,14,7,false
+Samford,Florida,401628338,2024-09-07,2,45,7,38,false
+Tennessee Tech,Georgia,401628339,2024-09-07,2,48,3,45,false
+Kentucky,South Carolina,401628340,2024-09-07,2,31,6,25,false
+Nicholls,LSU,401628341,2024-09-07,2,44,21,23,false
+Middle Tennessee,Ole Miss,401628342,2024-09-07,2,52,3,49,false
+Mississippi State,Arizona State,401628343,2024-09-07,2,30,23,7,false
+Buffalo,Missouri,401628344,2024-09-07,2,38,0,38,false
+Houston,Oklahoma,401628345,2024-09-07,2,16,12,4,false
+NC State,Tennessee,401628346,2024-09-07,2,51,10,41,true
+Michigan,Texas,401628347,2024-09-07,2,31,12,19,false
+McNeese,Texas A&M,401628348,2024-09-07,2,52,10,42,false
+Alcorn State,Vanderbilt,401628349,2024-09-07,2,55,0,55,false
+Kansas,Illinois,401628462,2024-09-07,2,23,17,6,false
+Iowa,Iowa State,401628464,2024-09-07,2,20,19,1,false
+Maryland,Michigan State,401628465,2024-09-07,2,27,24,3,false
+Rhode Island,Minnesota,401628466,2024-09-07,2,48,0,48,false
+Colorado,Nebraska,401628467,2024-09-07,2,28,10,18,false
+Western Michigan,Ohio State,401628468,2024-09-07,2,56,0,56,false
+Boise State,Oregon,401628469,2024-09-07,2,37,34,3,false
+Bowling Green,Penn State,401628470,2024-09-07,2,34,27,7,false
+Akron,Rutgers,401628471,2024-09-07,2,49,17,32,false
+Utah State,USC,401628472,2024-09-07,2,48,0,48,false
+Eastern Michigan,Washington,401628473,2024-09-07,2,30,9,21,false
+South Dakota,Wisconsin,401628474,2024-09-07,2,27,13,14,false
+UAlbany,West Virginia,401628593,2024-09-07,2,49,14,35,false
+William & Mary,Coastal Carolina,401628603,2024-09-07,2,40,21,19,false
+Notre Dame,Northern Illinois,401628977,2024-09-07,2,16,14,2,false
+Massachusetts,Toledo,401629040,2024-09-07,2,38,23,15,false
+Eastern Kentucky,Western Kentucky,401632068,2024-09-07,2,31,0,31,false
+Utah Tech,UNLV,401632071,2024-09-07,2,72,14,58,false
+UTEP,Southern Utah,401632072,2024-09-07,2,27,24,3,false
+Chattanooga,Georgia State,401632459,2024-09-07,2,24,21,3,false
+Missouri State,Ball State,401634181,2024-09-07,2,42,34,8,false
+Duquesne,Boston College,401635531,2024-09-07,2,56,0,56,false
+App State,Clemson,401635532,2024-09-07,2,66,20,46,false
+Georgia Tech,Syracuse,401635534,2024-09-07,2,31,28,3,false
+Jacksonville State,Louisville,401635535,2024-09-07,2,49,14,35,false
+Florida A&M,Miami,401635536,2024-09-07,2,56,9,47,false
+Charlotte,North Carolina,401635537,2024-09-07,2,38,20,18,false
+Cincinnati,Pittsburgh,401635538,2024-09-07,2,28,27,1,false
+Cal Poly,Stanford,401635539,2024-09-07,2,41,7,34,false
+Marshall,Virginia Tech,401635540,2024-09-07,2,31,14,17,false
+Wake Forest,Virginia,401635639,2024-09-07,2,31,30,1,false
+Northern Arizona,Arizona,401636614,2024-09-07,2,22,10,12,false
+Long Island University,TCU,401636615,2024-09-07,2,45,0,45,false
+Tulane,Kansas State,401636616,2024-09-07,2,34,27,7,false
+Sam Houston,UCF,401636617,2024-09-07,2,45,14,31,false
+Baylor,Utah,401636618,2024-09-07,2,23,12,11,false
+Texas Tech,Washington State,401636859,2024-09-07,2,37,16,21,false
+Merrimack,UConn,401636999,2024-09-07,2,63,17,46,false
+Central Michigan,Florida International,401640979,2024-09-07,2,52,16,36,false
+New Mexico State,Liberty,401640989,2024-09-07,2,30,24,6,false
+Kennesaw State,Louisiana,401641016,2024-09-07,2,34,10,24,false
+Air Force,San José State,401643705,2024-09-07,2,17,7,10,false
+Northern Colorado,Colorado State,401643706,2024-09-07,2,38,17,21,false
+Sacramento State,Fresno State,401643707,2024-09-07,2,46,30,16,false
+Nevada,Georgia Southern,401643708,2024-09-07,2,20,17,3,false
+San Diego State,Oregon State,401643709,2024-09-07,2,21,0,21,false
+Wyoming,Idaho,401643710,2024-09-07,2,17,13,4,false
+Gardner-Webb,James Madison,401643777,2024-09-07,2,13,6,7,false
+Old Dominion,East Carolina,401643778,2024-09-07,2,20,14,6,false
+Tulsa,Arkansas State,401643779,2024-09-07,2,28,24,4,false
+UAB,UL Monroe,401643780,2024-09-07,2,32,6,26,false
+South Alabama,Ohio,401643781,2024-09-07,2,27,20,7,false
+SE Louisiana,Southern Miss,401643782,2024-09-07,2,35,10,25,false
+UTSA,Texas State,401643783,2024-09-07,2,49,10,39,false
+Troy,Memphis,401643784,2024-09-07,2,38,17,21,false
+Kent State,Saint Francis,401644732,2024-09-07,2,23,17,6,false
+Florida Atlantic,Army,401645323,2024-09-07,2,24,7,17,false
+Temple,Navy,401645324,2024-09-07,2,38,11,27,false
+Stephen F. Austin,North Texas,401645325,2024-09-07,2,35,20,15,false
+Texas Southern,Rice,401645326,2024-09-07,2,69,7,62,false
+Texas State,Arizona State,401636867,2024-09-12,3,31,28,3,false
+Northwestern State,South Alabama,401643788,2024-09-12,3,87,10,77,false
+Kansas,UNLV,401636863,2024-09-13,3,23,20,3,false
+Arizona,Kansas State,401636864,2024-09-13,3,31,7,24,false
+Wisconsin,Alabama,401628350,2024-09-14,3,42,10,32,false
+UAB,Arkansas,401628351,2024-09-14,3,37,27,10,false
+New Mexico,Auburn,401628352,2024-09-14,3,45,19,26,false
+Florida,Texas A&M,401628353,2024-09-14,3,33,20,13,false
+Kentucky,Georgia,401628354,2024-09-14,3,13,12,1,false
+Wake Forest,Ole Miss,401628355,2024-09-14,3,40,6,34,false
+Mississippi State,Toledo,401628356,2024-09-14,3,41,17,24,false
+Boston College,Missouri,401628357,2024-09-14,3,27,21,6,false
+Tulane,Oklahoma,401628358,2024-09-14,3,34,19,15,false
+South Carolina,LSU,401628359,2024-09-14,3,36,33,3,false
+Kent State,Tennessee,401628360,2024-09-14,3,71,0,71,false
+UTSA,Texas,401628361,2024-09-14,3,56,7,49,false
+Vanderbilt,Georgia State,401628362,2024-09-14,3,36,32,4,false
+Central Michigan,Illinois,401628475,2024-09-14,3,30,9,21,false
+UCLA,Indiana,401628476,2024-09-14,3,42,13,29,false
+Troy,Iowa,401628477,2024-09-14,3,38,21,17,false
+Virginia,Maryland,401628478,2024-09-14,3,27,13,14,false
+Arkansas State,Michigan,401628479,2024-09-14,3,28,18,10,false
+Prairie View A&M,Michigan State,401628480,2024-09-14,3,40,0,40,false
+Nevada,Minnesota,401628481,2024-09-14,3,27,0,27,false
+Northern Iowa,Nebraska,401628482,2024-09-14,3,34,3,31,false
+Oregon State,Oregon,401628483,2024-09-14,3,49,14,35,false
+Washington,Washington State,401628484,2024-09-14,3,24,19,5,true
+Purdue,Notre Dame,401628978,2024-09-14,3,66,7,59,false
+UConn,Duke,401629030,2024-09-14,3,26,21,5,false
+Massachusetts,Buffalo,401629041,2024-09-14,3,34,3,31,false
+San Diego State,California,401635541,2024-09-14,3,31,10,21,false
+Florida State,Memphis,401635542,2024-09-14,3,20,12,8,false
+VMI,Georgia Tech,401635543,2024-09-14,3,59,7,52,false
+Ball State,Miami,401635544,2024-09-14,3,62,0,62,false
+North Carolina Central,North Carolina,401635545,2024-09-14,3,45,10,35,false
+Louisiana Tech,NC State,401635546,2024-09-14,3,30,20,10,false
+West Virginia,Pittsburgh,401635547,2024-09-14,3,38,34,4,false
+Old Dominion,Virginia Tech,401635548,2024-09-14,3,37,17,20,false
+Bethune-Cookman,Western Michigan,401636364,2024-09-14,3,59,31,28,false
+Air Force,Baylor,401636860,2024-09-14,3,31,3,28,false
+Colorado State,Colorado,401636861,2024-09-14,3,28,9,19,false
+Rice,Houston,401636862,2024-09-14,3,33,7,26,false
+Miami (OH),Cincinnati,401636865,2024-09-14,3,27,16,11,false
+TCU,UCF,401636866,2024-09-14,3,35,34,1,false
+North Texas,Texas Tech,401636868,2024-09-14,3,66,21,45,false
+Tulsa,Oklahoma State,401636869,2024-09-14,3,45,10,35,false
+Utah State,Utah,401636870,2024-09-14,3,38,21,17,false
+Wyoming,BYU,401636871,2024-09-14,3,34,14,20,false
+Florida International,Florida Atlantic,401640980,2024-09-14,3,38,20,18,false
+UTEP,Liberty,401640990,2024-09-14,3,28,10,18,false
+Jacksonville State,Eastern Michigan,401640999,2024-09-14,3,37,34,3,false
+Kennesaw State,San José State,401641017,2024-09-14,3,31,10,21,false
+Middle Tennessee,Western Kentucky,401641024,2024-09-14,3,49,21,28,false
+New Mexico State,Fresno State,401641033,2024-09-14,3,48,0,48,false
+Hawai'i,Sam Houston,401641040,2024-09-14,3,31,13,18,false
+East Carolina,App State,401643785,2024-09-14,3,21,19,2,false
+Temple,Coastal Carolina,401643786,2024-09-14,3,28,20,8,false
+South Carolina State,Georgia Southern,401643787,2024-09-14,3,42,14,28,false
+Southern Miss,South Florida,401643789,2024-09-14,3,49,24,25,false
+Colgate,Akron,401644733,2024-09-14,3,31,20,11,false
+Morgan State,Ohio,401644734,2024-09-14,3,21,6,15,false
+Gardner-Webb,Charlotte,401645327,2024-09-14,3,27,26,1,false
+Eastern Illinois,Northwestern,401655632,2024-09-14,3,31,7,24,false
+App State,South Alabama,401643790,2024-09-19,4,48,14,34,false
+Nebraska,Illinois,401628485,2024-09-20,4,31,24,7,false
+Syracuse,Stanford,401634766,2024-09-20,4,26,24,2,false
+San José State,Washington State,401643714,2024-09-20,4,54,52,2,false
+Auburn,Arkansas,401628363,2024-09-21,4,24,14,10,false
+Ohio,Kentucky,401628364,2024-09-21,4,41,6,35,false
+UCLA,LSU,401628365,2024-09-21,4,34,17,17,false
+Georgia Southern,Ole Miss,401628366,2024-09-21,4,52,13,39,false
+Mississippi State,Florida,401628367,2024-09-21,4,45,28,17,false
+Vanderbilt,Missouri,401628368,2024-09-21,4,30,27,3,false
+Oklahoma,Tennessee,401628369,2024-09-21,4,25,15,10,false
+Akron,South Carolina,401628370,2024-09-21,4,50,7,43,false
+UL Monroe,Texas,401628371,2024-09-21,4,51,3,48,false
+Bowling Green,Texas A&M,401628372,2024-09-21,4,26,20,6,false
+Charlotte,Indiana,401628486,2024-09-21,4,52,14,38,false
+Minnesota,Iowa,401628487,2024-09-21,4,31,14,17,false
+Villanova,Maryland,401628488,2024-09-21,4,38,20,18,false
+USC,Michigan,401628489,2024-09-21,4,27,24,3,false
+Michigan State,Boston College,401628490,2024-09-21,4,23,19,4,false
+Northwestern,Washington,401628491,2024-09-21,4,24,5,19,false
+Marshall,Ohio State,401628492,2024-09-21,4,49,14,35,false
+Kent State,Penn State,401628493,2024-09-21,4,56,0,56,false
+Virginia Tech,Rutgers,401628494,2024-09-21,4,26,23,3,false
+Florida International,Monmouth,401628625,2024-09-21,4,45,42,3,false
+Miami (OH),Notre Dame,401628979,2024-09-21,4,28,3,25,false
+Florida Atlantic,UConn,401629031,2024-09-21,4,48,14,34,false
+Central Connecticut,Massachusetts,401629042,2024-09-21,4,35,31,4,false
+Youngstown State,Pittsburgh,401634247,2024-09-21,4,73,17,56,false
+California,Florida State,401635551,2024-09-21,4,14,9,5,false
+NC State,Clemson,401635552,2024-09-21,4,59,35,24,false
+Middle Tennessee,Duke,401635553,2024-09-21,4,45,17,28,false
+Georgia Tech,Louisville,401635554,2024-09-21,4,31,19,12,false
+South Florida,Miami,401635555,2024-09-21,4,50,15,35,false
+North Carolina,James Madison,401635556,2024-09-21,4,70,50,20,false
+TCU,SMU,401635557,2024-09-21,4,66,42,24,false
+Coastal Carolina,Virginia,401635558,2024-09-21,4,43,24,19,false
+Florida A&M,Troy,401636374,2024-09-21,4,34,12,22,false
+Kansas State,BYU,401636872,2024-09-21,4,38,9,29,false
+Houston,Cincinnati,401636873,2024-09-21,4,34,0,34,false
+Baylor,Colorado,401636874,2024-09-21,4,38,31,7,false
+Arkansas State,Iowa State,401636875,2024-09-21,4,52,7,45,false
+Oklahoma State,Utah,401636876,2024-09-21,4,22,19,3,false
+Arizona State,Texas Tech,401636877,2024-09-21,4,30,22,8,false
+Kansas,West Virginia,401636879,2024-09-21,4,32,28,4,false
+Portland State,Boise State,401637162,2024-09-21,4,56,14,42,false
+East Carolina,Liberty,401640991,2024-09-21,4,35,24,11,false
+Southern Miss,Jacksonville State,401641000,2024-09-21,4,44,7,37,false
+Louisiana Tech,Tulsa,401641008,2024-09-21,4,23,20,3,false
+UTEP,Colorado State,401641028,2024-09-21,4,27,17,10,false
+New Mexico State,Sam Houston,401641034,2024-09-21,4,31,11,20,false
+Toledo,Western Kentucky,401641037,2024-09-21,4,26,21,5,false
+New Mexico,Fresno State,401643711,2024-09-21,4,38,21,17,false
+Northern Iowa,Hawai'i,401643712,2024-09-21,4,36,7,29,false
+Eastern Washington,Nevada,401643713,2024-09-21,4,49,16,33,false
+Utah State,Temple,401643715,2024-09-21,4,45,29,16,false
+Wyoming,North Texas,401643716,2024-09-21,4,44,17,27,false
+Purdue,Oregon State,401643717,2024-09-21,4,38,21,17,false
+Louisiana,Tulane,401643791,2024-09-21,4,41,33,8,false
+Ball State,Central Michigan,401644735,2024-09-21,4,37,34,3,false
+Northern Illinois,Buffalo,401644736,2024-09-21,4,23,20,3,false
+Saint Francis,Eastern Michigan,401644737,2024-09-21,4,36,0,36,false
+Rice,Army,401645328,2024-09-21,4,37,14,23,false
+Memphis,Navy,401645329,2024-09-21,4,56,44,12,false
+Houston Christian,UTSA,401645330,2024-09-21,4,45,7,38,false
+Temple,Army,401645331,2024-09-26,5,42,14,28,false
+Washington,Rutgers,401628501,2024-09-27,5,21,18,3,false
+Virginia Tech,Miami,401634767,2024-09-27,5,38,34,4,false
+Arkansas,Texas A&M,401628373,2024-09-28,5,21,17,4,true
+Georgia,Alabama,401628374,2024-09-28,5,41,34,7,false
+Auburn,Oklahoma,401628375,2024-09-28,5,27,21,6,false
+South Alabama,LSU,401628376,2024-09-28,5,42,10,32,false
+Ole Miss,Kentucky,401628377,2024-09-28,5,20,17,3,false
+Mississippi State,Texas,401628378,2024-09-28,5,35,13,22,false
+Illinois,Penn State,401628495,2024-09-28,5,21,7,14,false
+Maryland,Indiana,401628496,2024-09-28,5,42,28,14,false
+Minnesota,Michigan,401628497,2024-09-28,5,27,24,3,false
+Michigan State,Ohio State,401628498,2024-09-28,5,38,7,31,false
+Purdue,Nebraska,401628499,2024-09-28,5,28,10,18,false
+UCLA,Oregon,401628500,2024-09-28,5,34,13,21,false
+Wisconsin,USC,401628502,2024-09-28,5,38,21,17,false
+Louisville,Notre Dame,401628980,2024-09-28,5,31,24,7,false
+Buffalo,UConn,401629032,2024-09-28,5,47,3,44,false
+Massachusetts,Miami (OH),401629043,2024-09-28,5,23,20,3,false
+Western Kentucky,Boston College,401635560,2024-09-28,5,21,20,1,false
+Stanford,Clemson,401635561,2024-09-28,5,40,14,26,false
+North Carolina,Duke,401635562,2024-09-28,5,21,20,1,false
+Florida State,SMU,401635563,2024-09-28,5,42,16,26,false
+Northern Illinois,NC State,401635564,2024-09-28,5,24,17,7,false
+Holy Cross,Syracuse,401635565,2024-09-28,5,42,14,28,false
+Wake Forest,Louisiana,401635659,2024-09-28,5,41,38,3,false
+Baylor,BYU,401636880,2024-09-28,5,34,28,6,false
+Houston,Iowa State,401636881,2024-09-28,5,20,0,20,false
+Kansas,TCU,401636882,2024-09-28,5,38,27,11,false
+Oklahoma State,Kansas State,401636883,2024-09-28,5,42,20,22,false
+Cincinnati,Texas Tech,401636884,2024-09-28,5,44,41,3,false
+UCF,Colorado,401636885,2024-09-28,5,48,21,27,false
+Utah,Arizona,401636886,2024-09-28,5,23,10,13,false
+Louisiana Tech,Florida International,401640981,2024-09-28,5,17,10,7,false
+Kennesaw State,UT Martin,401641018,2024-09-28,5,24,13,11,false
+Middle Tennessee,Memphis,401641025,2024-09-28,5,24,7,17,false
+New Mexico State,New Mexico,401641035,2024-09-28,5,50,40,10,false
+Texas State,Sam Houston,401641041,2024-09-28,5,40,39,1,true
+Air Force,Wyoming,401643718,2024-09-28,5,31,19,12,false
+Washington State,Boise State,401643719,2024-09-28,5,45,24,21,false
+Fresno State,UNLV,401643720,2024-09-28,5,59,14,45,false
+San Diego State,Central Michigan,401643721,2024-09-28,5,22,21,1,false
+Georgia State,Georgia Southern,401643792,2024-09-28,5,38,21,17,false
+Ball State,James Madison,401643793,2024-09-28,5,63,7,56,false
+Western Michigan,Marshall,401643794,2024-09-28,5,27,20,7,false
+Bowling Green,Old Dominion,401643795,2024-09-28,5,30,27,3,false
+Troy,UL Monroe,401643796,2024-09-28,5,13,9,4,false
+Akron,Ohio,401644738,2024-09-28,5,30,10,20,false
+Kent State,Eastern Michigan,401644739,2024-09-28,5,52,33,19,false
+UAB,Navy,401645332,2024-09-28,5,41,18,23,false
+Rice,Charlotte,401645333,2024-09-28,5,21,20,1,false
+UTSA,East Carolina,401645334,2024-09-28,5,30,20,10,false
+Wagner,Florida Atlantic,401645335,2024-09-28,5,41,10,31,false
+Tulsa,North Texas,401645336,2024-09-28,5,52,20,32,false
+South Florida,Tulane,401645337,2024-09-28,5,45,10,35,false
+UTEP,Sam Houston,401641029,2024-10-03,6,41,21,20,false
+Troy,Texas State,401643797,2024-10-03,6,38,17,21,false
+Michigan State,Oregon,401628506,2024-10-04,6,31,10,21,false
+UNLV,Syracuse,401634779,2024-10-04,6,44,41,3,false
+TCU,Houston,401636891,2024-10-04,6,30,19,11,false
+Kennesaw State,Jacksonville State,401641001,2024-10-04,6,63,24,39,false
+Tennessee,Arkansas,401628379,2024-10-05,6,19,14,5,false
+UCF,Florida,401628380,2024-10-05,6,24,13,11,false
+Auburn,Georgia,401628381,2024-10-05,6,31,13,18,false
+South Carolina,Ole Miss,401628382,2024-10-05,6,27,3,24,false
+Missouri,Texas A&M,401628383,2024-10-05,6,41,10,31,false
+Alabama,Vanderbilt,401628384,2024-10-05,6,40,35,5,false
+Northwestern,Indiana,401628503,2024-10-05,6,41,24,17,false
+Iowa,Ohio State,401628504,2024-10-05,6,35,7,28,false
+Michigan,Washington,401628505,2024-10-05,6,27,17,10,false
+USC,Minnesota,401628507,2024-10-05,6,24,17,7,false
+Rutgers,Nebraska,401628508,2024-10-05,6,14,7,7,false
+Purdue,Wisconsin,401628509,2024-10-05,6,52,6,46,false
+UCLA,Penn State,401628510,2024-10-05,6,27,11,16,false
+Temple,UConn,401629033,2024-10-05,6,29,20,9,false
+Massachusetts,Northern Illinois,401629044,2024-10-05,6,34,20,14,false
+Boston College,Virginia,401635567,2024-10-05,6,24,14,10,false
+California,Miami,401635568,2024-10-05,6,39,38,1,false
+Florida State,Clemson,401635569,2024-10-05,6,29,13,16,false
+Duke,Georgia Tech,401635570,2024-10-05,6,24,14,10,false
+Louisville,SMU,401635571,2024-10-05,6,34,27,7,false
+North Carolina,Pittsburgh,401635572,2024-10-05,6,34,24,10,false
+Stanford,Virginia Tech,401635573,2024-10-05,6,31,7,24,false
+NC State,Wake Forest,401635638,2024-10-05,6,34,30,4,false
+Arizona,Texas Tech,401636887,2024-10-05,6,28,22,6,false
+Kansas,Arizona State,401636888,2024-10-05,6,35,31,4,false
+Baylor,Iowa State,401636889,2024-10-05,6,43,21,22,false
+Oklahoma State,West Virginia,401636890,2024-10-05,6,38,14,24,false
+Air Force,Navy,401643722,2024-10-05,6,34,7,27,false
+Utah State,Boise State,401643723,2024-10-05,6,62,30,32,false
+Colorado State,Oregon State,401643724,2024-10-05,6,39,31,8,false
+Hawai'i,San Diego State,401643725,2024-10-05,6,27,24,3,false
+Nevada,San José State,401643726,2024-10-05,6,35,31,4,false
+Old Dominion,Coastal Carolina,401643798,2024-10-05,6,45,37,8,false
+App State,Marshall,401643799,2024-10-05,6,52,37,15,false
+South Alabama,Arkansas State,401643800,2024-10-05,6,18,16,2,false
+James Madison,UL Monroe,401643801,2024-10-05,6,21,19,2,false
+Southern Miss,Louisiana,401643802,2024-10-05,6,23,13,10,false
+Miami (OH),Toledo,401644684,2024-10-05,6,30,20,10,false
+Akron,Bowling Green,401644740,2024-10-05,6,27,20,7,false
+Ball State,Western Michigan,401644741,2024-10-05,6,45,42,3,false
+UAB,Tulane,401645338,2024-10-05,6,71,20,51,false
+Tulsa,Army,401645339,2024-10-05,6,49,7,42,false
+East Carolina,Charlotte,401645340,2024-10-05,6,55,24,31,false
+Florida International,Liberty,401640982,2024-10-08,7,31,24,7,false
+New Mexico State,Jacksonville State,401641002,2024-10-09,7,54,13,41,false
+Middle Tennessee,Louisiana Tech,401641009,2024-10-10,7,48,21,27,false
+UTEP,Western Kentucky,401641030,2024-10-10,7,44,17,27,false
+Coastal Carolina,James Madison,401643803,2024-10-10,7,39,7,32,false
+Maryland,Northwestern,401628513,2024-10-11,7,37,10,27,false
+Utah,Arizona State,401636892,2024-10-11,7,27,19,8,false
+Utah State,UNLV,401643733,2024-10-11,7,50,34,16,false
+South Carolina,Alabama,401628385,2024-10-12,7,27,25,2,false
+Mississippi State,Georgia,401628386,2024-10-12,7,41,31,10,false
+Kentucky,Vanderbilt,401628387,2024-10-12,7,20,13,7,false
+Ole Miss,LSU,401628388,2024-10-12,7,29,26,3,false
+Massachusetts,Missouri,401628389,2024-10-12,7,45,3,42,false
+Oklahoma,Texas,401628390,2024-10-12,7,34,3,31,true
+Florida,Tennessee,401628391,2024-10-12,7,23,17,6,false
+Purdue,Illinois,401628511,2024-10-12,7,50,49,1,false
+Washington,Iowa,401628512,2024-10-12,7,40,16,24,false
+UCLA,Minnesota,401628514,2024-10-12,7,21,17,4,false
+Ohio State,Oregon,401628515,2024-10-12,7,32,31,1,false
+USC,Penn State,401628516,2024-10-12,7,33,30,3,false
+Rutgers,Wisconsin,401628517,2024-10-12,7,42,7,35,false
+Stanford,Notre Dame,401628981,2024-10-12,7,49,7,42,false
+NC State,Syracuse,401635574,2024-10-12,7,24,17,7,false
+California,Pittsburgh,401635575,2024-10-12,7,17,15,2,false
+Wake Forest,Clemson,401635576,2024-10-12,7,49,14,35,false
+North Carolina,Georgia Tech,401635577,2024-10-12,7,41,34,7,false
+Virginia,Louisville,401635578,2024-10-12,7,24,20,4,false
+Arizona,BYU,401636893,2024-10-12,7,41,19,22,false
+Colorado,Kansas State,401636894,2024-10-12,7,31,28,3,false
+UCF,Cincinnati,401636895,2024-10-12,7,19,13,6,false
+West Virginia,Iowa State,401636896,2024-10-12,7,28,16,12,false
+Air Force,New Mexico,401643727,2024-10-12,7,52,37,15,false
+Hawai'i,Boise State,401643728,2024-10-12,7,28,7,21,false
+San José State,Colorado State,401643729,2024-10-12,7,31,24,7,false
+Fresno State,Washington State,401643730,2024-10-12,7,25,17,8,false
+Oregon State,Nevada,401643731,2024-10-12,7,42,37,5,false
+Wyoming,San Diego State,401643732,2024-10-12,7,27,24,3,false
+Marshall,Georgia Southern,401643804,2024-10-12,7,24,23,1,false
+Georgia State,Old Dominion,401643805,2024-10-12,7,21,14,7,false
+App State,Louisiana,401643806,2024-10-12,7,34,24,10,false
+Southern Miss,UL Monroe,401643807,2024-10-12,7,38,21,17,false
+Arkansas State,Texas State,401643808,2024-10-12,7,41,9,32,false
+Eastern Michigan,Miami (OH),401644685,2024-10-12,7,38,14,24,false
+Akron,Western Michigan,401644742,2024-10-12,7,34,24,10,false
+Kent State,Ball State,401644743,2024-10-12,7,37,35,2,false
+Bowling Green,Northern Illinois,401644744,2024-10-12,7,17,7,10,false
+Toledo,Buffalo,401644745,2024-10-12,7,30,15,15,false
+Central Michigan,Ohio,401644746,2024-10-12,7,27,25,2,false
+South Florida,Memphis,401645341,2024-10-12,7,21,3,18,false
+UAB,Army,401645342,2024-10-12,7,44,10,34,false
+Florida Atlantic,North Texas,401645343,2024-10-12,7,41,37,4,false
+UTSA,Rice,401645344,2024-10-12,7,29,27,2,false
+Louisiana Tech,New Mexico State,401641010,2024-10-15,8,33,30,3,false
+Kennesaw State,Middle Tennessee,401641019,2024-10-15,8,14,5,9,false
+Troy,South Alabama,401643809,2024-10-15,8,25,9,16,false
+Florida International,UTEP,401640983,2024-10-16,8,30,21,9,false
+Sam Houston,Western Kentucky,401641038,2024-10-16,8,31,14,17,false
+Boston College,Virginia Tech,401634768,2024-10-17,8,42,21,21,false
+Georgia State,Marshall,401643810,2024-10-17,8,35,20,15,false
+Purdue,Oregon,401628523,2024-10-18,8,35,0,35,false
+Florida State,Duke,401634769,2024-10-18,8,23,16,7,false
+Oklahoma State,BYU,401636898,2024-10-18,8,38,35,3,false
+Nevada,Fresno State,401643735,2024-10-18,8,24,21,3,false
+Arkansas,LSU,401628392,2024-10-19,8,34,10,24,false
+Kentucky,Florida,401628393,2024-10-19,8,48,20,28,false
+Mississippi State,Texas A&M,401628394,2024-10-19,8,34,24,10,false
+Auburn,Missouri,401628395,2024-10-19,8,21,17,4,false
+Oklahoma,South Carolina,401628396,2024-10-19,8,35,9,26,false
+Alabama,Tennessee,401628397,2024-10-19,8,24,17,7,false
+Texas,Georgia,401628398,2024-10-19,8,30,15,15,false
+Ball State,Vanderbilt,401628399,2024-10-19,8,24,14,10,false
+Michigan,Illinois,401628518,2024-10-19,8,21,7,14,false
+Nebraska,Indiana,401628519,2024-10-19,8,56,7,49,false
+Iowa,Michigan State,401628520,2024-10-19,8,32,20,12,false
+USC,Maryland,401628521,2024-10-19,8,29,28,1,false
+Northwestern,Wisconsin,401628522,2024-10-19,8,23,3,20,false
+Rutgers,UCLA,401628524,2024-10-19,8,35,32,3,false
+Georgia Tech,Notre Dame,401628982,2024-10-19,8,31,13,18,true
+UConn,Wake Forest,401629034,2024-10-19,8,23,20,3,false
+California,NC State,401635587,2024-10-19,8,24,23,1,false
+Virginia,Clemson,401635588,2024-10-19,8,48,31,17,false
+Louisville,Miami,401635589,2024-10-19,8,52,45,7,false
+Stanford,SMU,401635590,2024-10-19,8,40,10,30,false
+Arizona,Colorado,401636897,2024-10-19,8,34,7,27,false
+Arizona State,Cincinnati,401636899,2024-10-19,8,24,14,10,false
+UCF,Iowa State,401636900,2024-10-19,8,38,35,3,false
+Houston,Kansas,401636901,2024-10-19,8,42,14,28,false
+Texas Tech,Baylor,401636902,2024-10-19,8,59,35,24,false
+Utah,TCU,401636903,2024-10-19,8,13,7,6,false
+West Virginia,Kansas State,401636904,2024-10-19,8,45,18,27,false
+Air Force,Colorado State,401643734,2024-10-19,8,21,13,8,false
+Hawai'i,Washington State,401643736,2024-10-19,8,42,10,32,false
+Utah State,New Mexico,401643737,2024-10-19,8,50,45,5,false
+Wyoming,San José State,401643738,2024-10-19,8,24,14,10,false
+Oregon State,UNLV,401643739,2024-10-19,8,33,25,8,false
+Coastal Carolina,Louisiana,401643811,2024-10-19,8,34,24,10,false
+James Madison,Georgia Southern,401643812,2024-10-19,8,28,14,14,false
+Texas State,Old Dominion,401643813,2024-10-19,8,24,14,10,false
+Southern Miss,Arkansas State,401643814,2024-10-19,8,44,28,16,false
+Ohio,Miami (OH),401644686,2024-10-19,8,30,20,10,false
+Kent State,Bowling Green,401644748,2024-10-19,8,27,6,21,false
+Buffalo,Western Michigan,401644749,2024-10-19,8,48,41,7,false
+Central Michigan,Eastern Michigan,401644750,2024-10-19,8,38,34,4,false
+Northern Illinois,Toledo,401644751,2024-10-19,8,13,6,7,false
+UAB,South Florida,401645345,2024-10-19,8,35,25,10,false
+East Carolina,Army,401645346,2024-10-19,8,45,28,17,false
+Charlotte,Navy,401645347,2024-10-19,8,51,17,34,false
+Florida Atlantic,UTSA,401645348,2024-10-19,8,38,24,14,false
+North Texas,Memphis,401645349,2024-10-19,8,52,44,8,false
+Rice,Tulane,401645350,2024-10-19,8,24,10,14,false
+Tulsa,Temple,401645351,2024-10-19,8,20,10,10,false
+Florida International,Sam Houston,401640984,2024-10-22,9,10,7,3,false
+UTEP,Louisiana Tech,401641011,2024-10-22,9,14,10,4,false
+Liberty,Kennesaw State,401640993,2024-10-23,9,27,24,3,false
+Middle Tennessee,Jacksonville State,401641003,2024-10-23,9,42,20,22,false
+Syracuse,Pittsburgh,401634770,2024-10-24,9,41,13,28,false
+Georgia Southern,Old Dominion,401643815,2024-10-24,9,47,19,28,false
+Rutgers,USC,401628532,2024-10-25,9,42,20,22,false
+Boston College,Louisville,401634771,2024-10-25,9,31,27,4,false
+UNLV,Boise State,401643740,2024-10-25,9,29,24,5,false
+Missouri,Alabama,401628400,2024-10-26,9,34,0,34,false
+Kentucky,Auburn,401628401,2024-10-26,9,24,10,14,false
+Oklahoma,Ole Miss,401628402,2024-10-26,9,26,14,12,false
+Mississippi State,Arkansas,401628403,2024-10-26,9,58,25,33,false
+LSU,Texas A&M,401628404,2024-10-26,9,38,23,15,false
+Vanderbilt,Texas,401628405,2024-10-26,9,27,24,3,false
+Illinois,Oregon,401628525,2024-10-26,9,38,9,29,false
+Washington,Indiana,401628526,2024-10-26,9,31,17,14,false
+Northwestern,Iowa,401628527,2024-10-26,9,40,14,26,false
+Maryland,Minnesota,401628528,2024-10-26,9,48,23,25,false
+Michigan State,Michigan,401628529,2024-10-26,9,24,17,7,false
+Nebraska,Ohio State,401628530,2024-10-26,9,21,17,4,false
+Wisconsin,Penn State,401628531,2024-10-26,9,28,13,15,false
+Navy,Notre Dame,401628983,2024-10-26,9,51,14,37,true
+Rice,UConn,401629035,2024-10-26,9,17,10,7,false
+Oregon State,California,401635594,2024-10-26,9,44,7,37,false
+Duke,SMU,401635595,2024-10-26,9,28,27,1,false
+Florida State,Miami,401635596,2024-10-26,9,36,14,22,false
+Georgia Tech,Virginia Tech,401635597,2024-10-26,9,21,6,15,false
+Virginia,North Carolina,401635598,2024-10-26,9,41,14,27,false
+Stanford,Wake Forest,401635599,2024-10-26,9,27,24,3,false
+Arizona,West Virginia,401636905,2024-10-26,9,31,26,5,false
+Oklahoma State,Baylor,401636906,2024-10-26,9,38,28,10,false
+Cincinnati,Colorado,401636907,2024-10-26,9,34,23,11,false
+Utah,Houston,401636908,2024-10-26,9,17,14,3,false
+Kansas,Kansas State,401636909,2024-10-26,9,29,27,2,false
+Texas Tech,TCU,401636910,2024-10-26,9,35,34,1,false
+UCF,BYU,401636911,2024-10-26,9,37,24,13,false
+New Mexico,Colorado State,401643741,2024-10-26,9,17,6,11,false
+San José State,Fresno State,401643742,2024-10-26,9,33,10,23,false
+Nevada,Hawai'i,401643743,2024-10-26,9,34,13,21,false
+San Diego State,Washington State,401643744,2024-10-26,9,29,26,3,false
+Wyoming,Utah State,401643745,2024-10-26,9,27,25,2,false
+Georgia State,App State,401643816,2024-10-26,9,33,26,7,false
+Southern Miss,James Madison,401643817,2024-10-26,9,32,15,17,false
+Troy,Arkansas State,401643818,2024-10-26,9,34,31,3,false
+UL Monroe,South Alabama,401643819,2024-10-26,9,46,17,29,false
+Central Michigan,Miami (OH),401644687,2024-10-26,9,46,7,39,false
+Eastern Michigan,Akron,401644752,2024-10-26,9,25,21,4,false
+Northern Illinois,Ball State,401644753,2024-10-26,9,25,23,2,false
+Toledo,Bowling Green,401644754,2024-10-26,9,41,26,15,false
+Buffalo,Ohio,401644755,2024-10-26,9,47,16,31,false
+Kent State,Western Michigan,401644756,2024-10-26,9,52,21,31,false
+Wagner,Massachusetts,401645308,2024-10-26,9,35,7,28,false
+Temple,East Carolina,401645352,2024-10-26,9,56,34,22,false
+Charlotte,Memphis,401645353,2024-10-26,9,33,28,5,false
+North Texas,Tulane,401645354,2024-10-26,9,45,37,8,false
+UTSA,Tulsa,401645355,2024-10-26,9,46,45,1,false
+New Mexico State,Florida International,401640985,2024-10-29,10,34,13,21,false
+Louisiana Tech,Sam Houston,401641012,2024-10-29,10,9,3,6,false
+Texas State,Louisiana,401643820,2024-10-29,10,23,17,6,false
+Liberty,Jacksonville State,401640994,2024-10-30,10,31,21,10,false
+Kennesaw State,Western Kentucky,401641020,2024-10-30,10,31,14,17,false
+Charlotte,Tulane,401645356,2024-10-31,10,34,3,31,false
+Georgia State,UConn,401629036,2024-11-01,10,34,27,7,false
+San Diego State,Boise State,401643747,2024-11-01,10,56,24,32,false
+Florida Atlantic,South Florida,401645357,2024-11-01,10,44,21,23,false
+Arkansas,Ole Miss,401628406,2024-11-02,10,63,31,32,false
+Auburn,Vanderbilt,401628407,2024-11-02,10,17,7,10,false
+Florida,Georgia,401628408,2024-11-02,10,34,20,14,true
+Massachusetts,Mississippi State,401628409,2024-11-02,10,45,20,25,false
+Maine,Oklahoma,401628410,2024-11-02,10,59,14,45,false
+Texas A&M,South Carolina,401628411,2024-11-02,10,44,20,24,false
+Kentucky,Tennessee,401628412,2024-11-02,10,28,18,10,false
+Illinois,Minnesota,401628533,2024-11-02,10,25,17,8,false
+Michigan State,Indiana,401628534,2024-11-02,10,47,10,37,false
+Wisconsin,Iowa,401628535,2024-11-02,10,42,10,32,false
+Michigan,Oregon,401628536,2024-11-02,10,38,17,21,false
+Nebraska,UCLA,401628537,2024-11-02,10,27,20,7,false
+Purdue,Northwestern,401628538,2024-11-02,10,26,20,6,false
+Penn State,Ohio State,401628539,2024-11-02,10,20,13,7,false
+USC,Washington,401628540,2024-11-02,10,26,21,5,false
+Stanford,NC State,401635516,2024-11-02,10,59,28,31,false
+Clemson,Louisville,401635600,2024-11-02,10,33,21,12,false
+Duke,Miami,401635601,2024-11-02,10,53,31,22,false
+Florida State,North Carolina,401635602,2024-11-02,10,35,11,24,false
+Virginia Tech,Syracuse,401635604,2024-11-02,10,38,31,7,false
+Pittsburgh,SMU,401635627,2024-11-02,10,48,25,23,false
+TCU,Baylor,401636912,2024-11-02,10,37,34,3,false
+Kansas State,Houston,401636913,2024-11-02,10,24,19,5,false
+Iowa State,Texas Tech,401636914,2024-11-02,10,23,22,1,false
+Oklahoma State,Arizona State,401636915,2024-11-02,10,42,21,21,false
+Arizona,UCF,401636916,2024-11-02,10,56,12,44,false
+UTEP,Middle Tennessee,401641026,2024-11-02,10,20,13,7,false
+Air Force,Army,401643746,2024-11-02,10,20,3,17,false
+Nevada,Colorado State,401643748,2024-11-02,10,38,21,17,false
+Fresno State,Hawai'i,401643749,2024-11-02,10,21,20,1,false
+New Mexico,Wyoming,401643750,2024-11-02,10,49,45,4,false
+Old Dominion,App State,401643821,2024-11-02,10,28,20,8,false
+UL Monroe,Marshall,401643822,2024-11-02,10,28,23,5,false
+South Alabama,Georgia Southern,401643823,2024-11-02,10,34,30,4,false
+Coastal Carolina,Troy,401643824,2024-11-02,10,38,24,14,false
+Akron,Buffalo,401644757,2024-11-02,10,41,30,11,false
+Eastern Michigan,Toledo,401644758,2024-11-02,10,29,28,1,false
+Tulsa,UAB,401645358,2024-11-02,10,59,21,38,false
+Memphis,UTSA,401645359,2024-11-02,10,44,36,8,false
+Navy,Rice,401645360,2024-11-02,10,24,10,14,false
+Ball State,Miami (OH),401644688,2024-11-05,11,27,21,6,false
+Central Michigan,Bowling Green,401644760,2024-11-05,11,23,13,10,false
+Kent State,Ohio,401644761,2024-11-06,11,41,0,41,false
+Western Michigan,Northern Illinois,401644762,2024-11-06,11,42,28,14,false
+App State,Coastal Carolina,401643825,2024-11-07,11,38,24,14,false
+Florida Atlantic,East Carolina,401645361,2024-11-07,11,49,14,35,false
+Iowa,UCLA,401628542,2024-11-08,11,20,17,3,false
+Wake Forest,California,401634773,2024-11-08,11,46,36,10,false
+San Diego State,New Mexico,401643754,2024-11-08,11,21,16,5,false
+Rice,Memphis,401645362,2024-11-08,11,27,20,7,false
+LSU,Alabama,401628413,2024-11-09,11,42,13,29,false
+Georgia,Ole Miss,401628414,2024-11-09,11,28,10,18,false
+Oklahoma,Missouri,401628415,2024-11-09,11,30,23,7,false
+Mississippi State,Tennessee,401628416,2024-11-09,11,33,14,19,false
+Florida,Texas,401628417,2024-11-09,11,49,17,32,false
+Vanderbilt,South Carolina,401628418,2024-11-09,11,28,7,21,false
+Michigan,Indiana,401628541,2024-11-09,11,20,15,5,false
+Maryland,Oregon,401628543,2024-11-09,11,39,18,21,false
+Minnesota,Rutgers,401628544,2024-11-09,11,26,19,7,false
+Purdue,Ohio State,401628545,2024-11-09,11,45,0,45,false
+Washington,Penn State,401628546,2024-11-09,11,35,6,29,false
+Florida State,Notre Dame,401628984,2024-11-09,11,52,3,49,false
+UAB,UConn,401629037,2024-11-09,11,31,23,8,false
+North Texas,Army,401629045,2024-11-09,11,14,3,11,false
+Syracuse,Boston College,401635606,2024-11-09,11,37,31,6,false
+Virginia Tech,Clemson,401635607,2024-11-09,11,24,14,10,false
+NC State,Duke,401635608,2024-11-09,11,29,19,10,false
+Miami,Georgia Tech,401635609,2024-11-09,11,28,23,5,false
+Pittsburgh,Virginia,401635610,2024-11-09,11,24,19,5,false
+UCF,Arizona State,401636917,2024-11-09,11,35,31,4,false
+Cincinnati,West Virginia,401636918,2024-11-09,11,31,24,7,false
+Iowa State,Kansas,401636919,2024-11-09,11,45,36,9,false
+Oklahoma State,TCU,401636920,2024-11-09,11,38,13,25,false
+Texas Tech,Colorado,401636921,2024-11-09,11,41,27,14,false
+Utah,BYU,401636922,2024-11-09,11,22,21,1,false
+Middle Tennessee,Liberty,401640995,2024-11-09,11,37,17,20,false
+Louisiana Tech,Jacksonville State,401641004,2024-11-09,11,44,37,7,false
+Kennesaw State,UTEP,401641021,2024-11-09,11,43,35,8,false
+New Mexico State,Western Kentucky,401641036,2024-11-09,11,41,28,13,false
+Fresno State,Air Force,401643751,2024-11-09,11,36,28,8,false
+Nevada,Boise State,401643752,2024-11-09,11,28,21,7,false
+Hawai'i,UNLV,401643753,2024-11-09,11,29,27,2,false
+Oregon State,San José State,401643755,2024-11-09,11,24,13,11,false
+Utah State,Washington State,401643756,2024-11-09,11,49,28,21,false
+Georgia State,James Madison,401643826,2024-11-09,11,38,7,31,false
+Arkansas State,Louisiana,401643827,2024-11-09,11,55,19,36,false
+UL Monroe,Texas State,401643828,2024-11-09,11,38,17,21,false
+Southern Miss,Marshall,401643829,2024-11-09,11,37,3,34,false
+South Florida,Navy,401645363,2024-11-09,11,28,7,21,false
+Temple,Tulane,401645364,2024-11-09,11,52,6,46,false
+Ball State,Buffalo,401644763,2024-11-12,12,51,48,3,false
+Western Michigan,Bowling Green,401644764,2024-11-12,12,31,13,18,false
+Central Michigan,Toledo,401644765,2024-11-12,12,37,10,27,false
+Kent State,Miami (OH),401644689,2024-11-13,12,34,7,27,false
+Akron,Northern Illinois,401644766,2024-11-13,12,29,16,13,false
+Eastern Michigan,Ohio,401644767,2024-11-13,12,35,10,25,false
+Tulsa,East Carolina,401645365,2024-11-14,12,38,31,7,false
+UCLA,Washington,401628553,2024-11-15,12,31,19,12,false
+Houston,Arizona,401636923,2024-11-15,12,27,3,24,false
+Wyoming,Colorado State,401643759,2024-11-15,12,24,10,14,false
+North Texas,UTSA,401645366,2024-11-15,12,48,27,21,false
+Arkansas,Texas,401628419,2024-11-16,12,20,10,10,false
+LSU,Florida,401628420,2024-11-16,12,27,16,11,false
+Tennessee,Georgia,401628421,2024-11-16,12,31,17,14,false
+Murray State,Kentucky,401628422,2024-11-16,12,48,6,42,false
+Missouri,South Carolina,401628423,2024-11-16,12,34,30,4,false
+New Mexico State,Texas A&M,401628424,2024-11-16,12,38,3,35,false
+Mercer,Alabama,401628425,2024-11-16,12,52,7,45,false
+UL Monroe,Auburn,401628426,2024-11-16,12,48,14,34,false
+Michigan State,Illinois,401628547,2024-11-16,12,38,16,22,false
+Maryland,Rutgers,401628548,2024-11-16,12,31,17,14,false
+Nebraska,USC,401628549,2024-11-16,12,28,20,8,false
+Northwestern,Ohio State,401628550,2024-11-16,12,31,7,24,false
+Wisconsin,Oregon,401628551,2024-11-16,12,16,13,3,false
+Purdue,Penn State,401628552,2024-11-16,12,49,10,39,false
+Virginia,Notre Dame,401628985,2024-11-16,12,35,14,21,false
+Massachusetts,Liberty,401629046,2024-11-16,12,35,34,1,false
+Louisville,Stanford,401635517,2024-11-16,12,38,35,3,false
+Boston College,SMU,401635580,2024-11-16,12,38,28,10,false
+California,Syracuse,401635581,2024-11-16,12,33,25,8,false
+Pittsburgh,Clemson,401635582,2024-11-16,12,24,20,4,false
+Wake Forest,North Carolina,401635583,2024-11-16,12,31,24,7,false
+BYU,Kansas,401636924,2024-11-16,12,17,13,4,false
+Utah,Colorado,401636925,2024-11-16,12,49,24,25,false
+Cincinnati,Iowa State,401636926,2024-11-16,12,34,17,17,false
+Kansas State,Arizona State,401636927,2024-11-16,12,24,14,10,false
+West Virginia,Baylor,401636929,2024-11-16,12,49,35,14,false
+Florida International,Jacksonville State,401640986,2024-11-16,12,34,31,3,false
+Western Kentucky,Louisiana Tech,401641013,2024-11-16,12,12,7,5,false
+Kennesaw State,Sam Houston,401641022,2024-11-16,12,23,17,6,false
+Oregon State,Air Force,401643757,2024-11-16,12,28,0,28,false
+San José State,Boise State,401643758,2024-11-16,12,42,21,21,false
+Hawai'i,Utah State,401643760,2024-11-16,12,55,10,45,false
+Washington State,New Mexico,401643761,2024-11-16,12,38,35,3,false
+San Diego State,UNLV,401643762,2024-11-16,12,41,20,21,false
+Georgia Southern,Troy,401643830,2024-11-16,12,28,20,8,false
+Georgia State,Arkansas State,401643831,2024-11-16,12,27,20,7,false
+Coastal Carolina,Marshall,401643832,2024-11-16,12,31,19,12,false
+Old Dominion,James Madison,401643833,2024-11-16,12,35,32,3,false
+Louisiana,South Alabama,401643834,2024-11-16,12,24,22,2,false
+Southern Miss,Texas State,401643835,2024-11-16,12,58,3,55,false
+UAB,Memphis,401645367,2024-11-16,12,53,18,35,false
+Charlotte,South Florida,401645368,2024-11-16,12,59,24,35,false
+Florida Atlantic,Temple,401645369,2024-11-16,12,18,15,3,false
+Navy,Tulane,401645370,2024-11-16,12,35,0,35,false
+Northern Illinois,Miami (OH),401644690,2024-11-19,13,20,9,11,false
+Kent State,Akron,401644769,2024-11-19,13,38,17,21,false
+Western Michigan,Central Michigan,401644770,2024-11-19,13,16,14,2,false
+Eastern Michigan,Buffalo,401644772,2024-11-20,13,37,20,17,false
+Toledo,Ohio,401644773,2024-11-20,13,24,7,17,false
+NC State,Georgia Tech,401634772,2024-11-21,13,30,29,1,false
+Purdue,Michigan State,401628558,2024-11-22,13,24,17,7,false
+San José State,UNLV,401643767,2024-11-22,13,27,16,11,false
+Temple,UTSA,401645374,2024-11-22,13,51,27,24,false
+Louisiana Tech,Arkansas,401628427,2024-11-23,13,35,14,21,false
+Texas A&M,Auburn,401628428,2024-11-23,13,43,41,2,false
+Ole Miss,Florida,401628429,2024-11-23,13,24,17,7,false
+Massachusetts,Georgia,401628430,2024-11-23,13,59,21,38,false
+Vanderbilt,LSU,401628431,2024-11-23,13,24,17,7,false
+Mississippi State,Missouri,401628432,2024-11-23,13,39,20,19,false
+Alabama,Oklahoma,401628433,2024-11-23,13,24,3,21,false
+Wofford,South Carolina,401628434,2024-11-23,13,56,12,44,false
+UTEP,Tennessee,401628435,2024-11-23,13,56,0,56,false
+Kentucky,Texas,401628436,2024-11-23,13,31,14,17,false
+Rutgers,Illinois,401628554,2024-11-23,13,38,31,7,false
+Indiana,Ohio State,401628555,2024-11-23,13,38,15,23,false
+Maryland,Iowa,401628556,2024-11-23,13,29,13,16,false
+Northwestern,Michigan,401628557,2024-11-23,13,50,6,44,false
+Minnesota,Penn State,401628559,2024-11-23,13,26,25,1,false
+Wisconsin,Nebraska,401628560,2024-11-23,13,44,25,19,false
+UCLA,USC,401628561,2024-11-23,13,19,13,6,false
+Washington State,Oregon State,401628572,2024-11-23,13,41,38,3,false
+UConn,Syracuse,401635518,2024-11-23,13,31,24,7,false
+North Carolina,Boston College,401635612,2024-11-23,13,41,21,20,false
+Stanford,California,401635613,2024-11-23,13,24,21,3,false
+The Citadel,Clemson,401635614,2024-11-23,13,51,14,37,false
+Virginia Tech,Duke,401635615,2024-11-23,13,31,28,3,false
+Charleston Southern,Florida State,401635616,2024-11-23,13,41,7,34,false
+Pittsburgh,Louisville,401635617,2024-11-23,13,37,9,28,false
+Wake Forest,Miami,401635618,2024-11-23,13,42,14,28,false
+Virginia,SMU,401635619,2024-11-23,13,33,7,26,false
+BYU,Arizona State,401636930,2024-11-23,13,28,23,5,false
+Houston,Baylor,401636931,2024-11-23,13,20,10,10,false
+Colorado,Kansas,401636932,2024-11-23,13,37,21,16,false
+Cincinnati,Kansas State,401636933,2024-11-23,13,41,15,26,false
+Oklahoma State,Texas Tech,401636934,2024-11-23,13,56,48,8,false
+Arizona,TCU,401636935,2024-11-23,13,49,28,21,false
+Utah,Iowa State,401636936,2024-11-23,13,31,28,3,false
+UCF,West Virginia,401636937,2024-11-23,13,31,21,10,false
+Army,Notre Dame,401640959,2024-11-23,13,49,14,35,true
+Florida International,Kennesaw State,401640987,2024-11-23,13,27,26,1,false
+Western Kentucky,Liberty,401640996,2024-11-23,13,38,21,17,false
+Sam Houston,Jacksonville State,401641005,2024-11-23,13,21,11,10,false
+Middle Tennessee,New Mexico State,401641027,2024-11-23,13,36,21,15,false
+Nevada,Air Force,401643763,2024-11-23,13,22,19,3,false
+Wyoming,Boise State,401643764,2024-11-23,13,17,13,4,false
+Colorado State,Fresno State,401643765,2024-11-23,13,28,22,6,false
+San Diego State,Utah State,401643766,2024-11-23,13,41,20,21,false
+James Madison,App State,401643836,2024-11-23,13,34,20,14,false
+Coastal Carolina,Georgia Southern,401643837,2024-11-23,13,26,6,20,false
+Old Dominion,Marshall,401643838,2024-11-23,13,42,35,7,false
+UL Monroe,Arkansas State,401643839,2024-11-23,13,28,21,7,false
+Troy,Louisiana,401643840,2024-11-23,13,51,30,21,false
+Southern Miss,South Alabama,401643841,2024-11-23,13,35,14,21,false
+Texas State,Georgia State,401643842,2024-11-23,13,52,44,8,false
+Ball State,Bowling Green,401644774,2024-11-23,13,38,13,25,false
+Florida Atlantic,Charlotte,401645371,2024-11-23,13,39,27,12,false
+North Texas,East Carolina,401645372,2024-11-23,13,40,28,12,false
+Rice,UAB,401645373,2024-11-23,13,40,14,26,false
+Tulsa,South Florida,401645375,2024-11-23,13,63,30,33,false
+Toledo,Akron,401644775,2024-11-26,14,21,14,7,false
+Kent State,Buffalo,401644776,2024-11-26,14,43,7,36,false
+Tulane,Memphis,401645376,2024-11-28,14,34,24,10,false
+Georgia Tech,Georgia,401628439,2024-11-29,14,44,42,2,false
+Mississippi State,Ole Miss,401628442,2024-11-29,14,26,14,12,false
+Nebraska,Iowa,401628562,2024-11-29,14,13,10,3,false
+Wisconsin,Minnesota,401628568,2024-11-29,14,24,7,17,false
+Stanford,San José State,401635625,2024-11-29,14,34,31,3,false
+Oklahoma State,Colorado,401636938,2024-11-29,14,52,0,52,false
+UCF,Utah,401636939,2024-11-29,14,28,14,14,false
+Liberty,Sam Houston,401640997,2024-11-29,14,20,18,2,false
+Oregon State,Boise State,401643769,2024-11-29,14,34,18,16,false
+Utah State,Colorado State,401643770,2024-11-29,14,42,37,5,false
+South Alabama,Texas State,401643843,2024-11-29,14,45,38,7,false
+Bowling Green,Miami (OH),401644691,2024-11-29,14,28,12,16,false
+Ball State,Ohio,401644777,2024-11-29,14,42,21,21,false
+East Carolina,Navy,401645379,2024-11-29,14,34,20,14,false
+Auburn,Alabama,401628437,2024-11-30,14,28,14,14,false
+Florida State,Florida,401628438,2024-11-30,14,31,11,20,false
+Kentucky,Louisville,401628440,2024-11-30,14,41,14,27,false
+Oklahoma,LSU,401628441,2024-11-30,14,37,17,20,false
+Arkansas,Missouri,401628443,2024-11-30,14,28,21,7,false
+Clemson,South Carolina,401628444,2024-11-30,14,17,14,3,false
+Texas A&M,Texas,401628445,2024-11-30,14,17,7,10,false
+Vanderbilt,Tennessee,401628446,2024-11-30,14,36,23,13,false
+Northwestern,Illinois,401628563,2024-11-30,14,38,28,10,true
+Purdue,Indiana,401628564,2024-11-30,14,66,0,66,false
+Maryland,Penn State,401628565,2024-11-30,14,44,7,37,false
+Ohio State,Michigan,401628566,2024-11-30,14,13,10,3,false
+Michigan State,Rutgers,401628567,2024-11-30,14,41,14,27,false
+Washington,Oregon,401628569,2024-11-30,14,49,21,28,false
+Fresno State,UCLA,401628570,2024-11-30,14,20,13,7,false
+USC,Notre Dame,401628571,2024-11-30,14,49,35,14,false
+Massachusetts,UConn,401629038,2024-11-30,14,47,42,5,false
+Pittsburgh,Boston College,401635620,2024-11-30,14,34,23,11,false
+California,SMU,401635621,2024-11-30,14,38,6,32,false
+Wake Forest,Duke,401635622,2024-11-30,14,23,17,6,false
+Miami,Syracuse,401635623,2024-11-30,14,42,38,4,false
+North Carolina,NC State,401635624,2024-11-30,14,35,30,5,false
+Virginia,Virginia Tech,401635640,2024-11-30,14,37,17,20,false
+Arizona,Arizona State,401636940,2024-11-30,14,49,7,42,false
+Kansas,Baylor,401636941,2024-11-30,14,45,17,28,false
+Houston,BYU,401636942,2024-11-30,14,30,18,12,false
+Cincinnati,TCU,401636943,2024-11-30,14,20,13,7,false
+Kansas State,Iowa State,401636944,2024-11-30,14,29,21,8,false
+West Virginia,Texas Tech,401636945,2024-11-30,14,52,15,37,false
+Middle Tennessee,Florida International,401640988,2024-11-30,14,35,24,11,false
+Jacksonville State,Western Kentucky,401641006,2024-11-30,14,19,17,2,false
+Kennesaw State,Louisiana Tech,401641014,2024-11-30,14,33,0,33,false
+New Mexico State,UTEP,401641031,2024-11-30,14,42,35,7,false
+San Diego State,Air Force,401643768,2024-11-30,14,31,20,11,false
+New Mexico,Hawai'i,401643771,2024-11-30,14,38,30,8,false
+Nevada,UNLV,401643772,2024-11-30,14,38,14,24,false
+Washington State,Wyoming,401643773,2024-11-30,14,15,14,1,false
+App State,Georgia Southern,401643844,2024-11-30,14,29,20,9,false
+Georgia State,Coastal Carolina,401643845,2024-11-30,14,48,27,21,false
+James Madison,Marshall,401643846,2024-11-30,14,35,33,2,false
+Arkansas State,Old Dominion,401643847,2024-11-30,14,40,32,8,false
+UL Monroe,Louisiana,401643848,2024-11-30,14,37,23,14,false
+Southern Miss,Troy,401643849,2024-11-30,14,52,20,32,false
+Central Michigan,Northern Illinois,401644779,2024-11-30,14,24,16,8,false
+Eastern Michigan,Western Michigan,401644780,2024-11-30,14,26,18,8,false
+UAB,Charlotte,401645377,2024-11-30,14,29,27,2,false
+UTSA,Army,401645378,2024-11-30,14,29,24,5,false
+Tulsa,Florida Atlantic,401645380,2024-11-30,14,63,16,47,false
+Temple,North Texas,401645381,2024-11-30,14,24,17,7,false
+South Florida,Rice,401645382,2024-11-30,14,35,28,7,false
