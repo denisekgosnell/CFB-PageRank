@@ -1,0 +1,565 @@
+source,alias,canonical_team
+college_poll_archive,Air Force,Air Force
+college_poll_archive,Alabama,Alabama
+college_poll_archive,Arizona,Arizona
+college_poll_archive,Arizona State,Arizona State
+college_poll_archive,Army,Army
+college_poll_archive,Auburn,Auburn
+college_poll_archive,BYU,BYU
+college_poll_archive,Boise State,Boise State
+college_poll_archive,Boston College,Boston College
+college_poll_archive,Cincinnati,Cincinnati
+college_poll_archive,Clemson,Clemson
+college_poll_archive,Colorado,Colorado
+college_poll_archive,Duke,Duke
+college_poll_archive,Florida,Florida
+college_poll_archive,Florida State,Florida State
+college_poll_archive,Fresno State,Fresno State
+college_poll_archive,Georgia,Georgia
+college_poll_archive,Georgia Tech,Georgia Tech
+college_poll_archive,Houston,Houston
+college_poll_archive,Illinois,Illinois
+college_poll_archive,Indiana,Indiana
+college_poll_archive,Iowa,Iowa
+college_poll_archive,Iowa State,Iowa State
+college_poll_archive,James Madison,James Madison
+college_poll_archive,Kansas,Kansas
+college_poll_archive,Kansas State,Kansas State
+college_poll_archive,Kentucky,Kentucky
+college_poll_archive,LSU,LSU
+college_poll_archive,Liberty,Liberty
+college_poll_archive,Louisville,Louisville
+college_poll_archive,Memphis,Memphis
+college_poll_archive,Miami (FL),Miami
+college_poll_archive,Michigan,Michigan
+college_poll_archive,Mississippi,Ole Miss
+college_poll_archive,Mississippi State,Mississippi State
+college_poll_archive,Missouri,Missouri
+college_poll_archive,NC State,NC State
+college_poll_archive,Navy,Navy
+college_poll_archive,Nebraska,Nebraska
+college_poll_archive,New Mexico,New Mexico
+college_poll_archive,North Carolina,North Carolina
+college_poll_archive,North Texas,North Texas
+college_poll_archive,Northern Illinois,Northern Illinois
+college_poll_archive,Northwestern,Northwestern
+college_poll_archive,Notre Dame,Notre Dame
+college_poll_archive,Ohio State,Ohio State
+college_poll_archive,Oklahoma,Oklahoma
+college_poll_archive,Oklahoma State,Oklahoma State
+college_poll_archive,Oregon,Oregon
+college_poll_archive,Oregon State,Oregon State
+college_poll_archive,Penn State,Penn State
+college_poll_archive,Pittsburgh,Pittsburgh
+college_poll_archive,SMU,SMU
+college_poll_archive,South Carolina,South Carolina
+college_poll_archive,South Florida,South Florida
+college_poll_archive,Syracuse,Syracuse
+college_poll_archive,TCU,TCU
+college_poll_archive,Tennessee,Tennessee
+college_poll_archive,Texas,Texas
+college_poll_archive,Texas A&M,Texas A&M
+college_poll_archive,Texas Tech,Texas Tech
+college_poll_archive,Toledo,Toledo
+college_poll_archive,Tulane,Tulane
+college_poll_archive,UCLA,UCLA
+college_poll_archive,UNLV,UNLV
+college_poll_archive,USC,USC
+college_poll_archive,Utah,Utah
+college_poll_archive,Vanderbilt,Vanderbilt
+college_poll_archive,Virginia,Virginia
+college_poll_archive,Wake Forest,Wake Forest
+college_poll_archive,Washington,Washington
+college_poll_archive,Washington State,Washington State
+college_poll_archive,Wisconsin,Wisconsin
+espn,Abilene Christian,Abilene Christian
+espn,Air Force,Air Force
+espn,Akron,Akron
+espn,Alabama,Alabama
+espn,Alabama A&M,Alabama A&M
+espn,Alabama State,Alabama State
+espn,Alcorn State,Alcorn State
+espn,App State,App State
+espn,Appalachian State,App State
+espn,Arizona,Arizona
+espn,Arizona State,Arizona State
+espn,Arkansas,Arkansas
+espn,Arkansas State,Arkansas State
+espn,Arkansas-Pine Bluff,Arkansas-Pine Bluff
+espn,Army,Army
+espn,Auburn,Auburn
+espn,Austin Peay,Austin Peay
+espn,BYU,BYU
+espn,Ball State,Ball State
+espn,Baylor,Baylor
+espn,Bethune-Cookman,Bethune-Cookman
+espn,Boise State,Boise State
+espn,Boston College,Boston College
+espn,Bowling Green,Bowling Green
+espn,Bryant,Bryant
+espn,Bucknell,Bucknell
+espn,Buffalo,Buffalo
+espn,Cal Poly,Cal Poly
+espn,California,California
+espn,Campbell,Campbell
+espn,Central Arkansas,Central Arkansas
+espn,Central Connecticut,Central Connecticut
+espn,Central Michigan,Central Michigan
+espn,Charleston Southern,Charleston Southern
+espn,Charlotte,Charlotte
+espn,Chattanooga,Chattanooga
+espn,Cincinnati,Cincinnati
+espn,Clemson,Clemson
+espn,Coastal Carolina,Coastal Carolina
+espn,Colgate,Colgate
+espn,Colorado,Colorado
+espn,Colorado State,Colorado State
+espn,Delaware,Delaware
+espn,Delaware State,Delaware State
+espn,Duke,Duke
+espn,Duquesne,Duquesne
+espn,East Carolina,East Carolina
+espn,East Tennessee State,East Tennessee State
+espn,East Texas A&M,East Texas A&M
+espn,Eastern Illinois,Eastern Illinois
+espn,Eastern Kentucky,Eastern Kentucky
+espn,Eastern Michigan,Eastern Michigan
+espn,Eastern Washington,Eastern Washington
+espn,Elon,Elon
+espn,Florida,Florida
+espn,Florida A&M,Florida A&M
+espn,Florida Atlantic,Florida Atlantic
+espn,Florida International,Florida International
+espn,Florida State,Florida State
+espn,Fordham,Fordham
+espn,Fresno State,Fresno State
+espn,Furman,Furman
+espn,Gardner-Webb,Gardner-Webb
+espn,Georgia,Georgia
+espn,Georgia Southern,Georgia Southern
+espn,Georgia State,Georgia State
+espn,Georgia Tech,Georgia Tech
+espn,Grambling,Grambling
+espn,Hampton,Hampton
+espn,Hawai'i,Hawai'i
+espn,Holy Cross,Holy Cross
+espn,Houston,Houston
+espn,Houston Christian,Houston Christian
+espn,Howard,Howard
+espn,Idaho,Idaho
+espn,Idaho State,Idaho State
+espn,Illinois,Illinois
+espn,Illinois State,Illinois State
+espn,Incarnate Word,Incarnate Word
+espn,Indiana,Indiana
+espn,Indiana State,Indiana State
+espn,Iowa,Iowa
+espn,Iowa State,Iowa State
+espn,Jackson State,Jackson State
+espn,Jacksonville State,Jacksonville State
+espn,James Madison,James Madison
+espn,Kansas,Kansas
+espn,Kansas State,Kansas State
+espn,Kennesaw State,Kennesaw State
+espn,Kent State,Kent State
+espn,Kentucky,Kentucky
+espn,LSU,LSU
+espn,Lafayette,Lafayette
+espn,Lamar,Lamar
+espn,Lehigh,Lehigh
+espn,Liberty,Liberty
+espn,Lindenwood,Lindenwood
+espn,Long Island University,Long Island University
+espn,Louisiana,Louisiana
+espn,Louisiana Tech,Louisiana Tech
+espn,Louisville,Louisville
+espn,Maine,Maine
+espn,Marshall,Marshall
+espn,Maryland,Maryland
+espn,Massachusetts,Massachusetts
+espn,McNeese,McNeese
+espn,Memphis,Memphis
+espn,Mercer,Mercer
+espn,Mercyhurst,Mercyhurst
+espn,Merrimack,Merrimack
+espn,Miami,Miami
+espn,Miami (OH),Miami (OH)
+espn,Michigan,Michigan
+espn,Michigan State,Michigan State
+espn,Middle Tennessee,Middle Tennessee
+espn,Minnesota,Minnesota
+espn,Mississippi State,Mississippi State
+espn,Mississippi Valley State,Mississippi Valley State
+espn,Missouri,Missouri
+espn,Missouri State,Missouri State
+espn,Monmouth,Monmouth
+espn,Montana,Montana
+espn,Montana State,Montana State
+espn,Morgan State,Morgan State
+espn,Murray State,Murray State
+espn,NC State,NC State
+espn,Navy,Navy
+espn,Nebraska,Nebraska
+espn,Nevada,Nevada
+espn,New Hampshire,New Hampshire
+espn,New Mexico,New Mexico
+espn,New Mexico State,New Mexico State
+espn,Nicholls,Nicholls
+espn,Norfolk State,Norfolk State
+espn,North Alabama,North Alabama
+espn,North Carolina,North Carolina
+espn,North Carolina A&T,North Carolina A&T
+espn,North Carolina Central,North Carolina Central
+espn,North Dakota,North Dakota
+espn,North Dakota State,North Dakota State
+espn,North Texas,North Texas
+espn,Northern Arizona,Northern Arizona
+espn,Northern Colorado,Northern Colorado
+espn,Northern Illinois,Northern Illinois
+espn,Northern Iowa,Northern Iowa
+espn,Northwestern,Northwestern
+espn,Northwestern State,Northwestern State
+espn,Notre Dame,Notre Dame
+espn,Ohio,Ohio
+espn,Ohio State,Ohio State
+espn,Oklahoma,Oklahoma
+espn,Oklahoma State,Oklahoma State
+espn,Old Dominion,Old Dominion
+espn,Ole Miss,Ole Miss
+espn,Oregon,Oregon
+espn,Oregon State,Oregon State
+espn,Penn State,Penn State
+espn,Pittsburgh,Pittsburgh
+espn,Portland State,Portland State
+espn,Prairie View A&M,Prairie View A&M
+espn,Purdue,Purdue
+espn,Rhode Island,Rhode Island
+espn,Rice,Rice
+espn,Richmond,Richmond
+espn,Robert Morris,Robert Morris
+espn,Rutgers,Rutgers
+espn,SE Louisiana,SE Louisiana
+espn,SMU,SMU
+espn,Sacramento State,Sacramento State
+espn,Sacred Heart,Sacred Heart
+espn,Saint Francis,Saint Francis
+espn,Sam Houston,Sam Houston
+espn,Samford,Samford
+espn,San Diego State,San Diego State
+espn,San José State,San José State
+espn,South Alabama,South Alabama
+espn,South Carolina,South Carolina
+espn,South Carolina State,South Carolina State
+espn,South Dakota,South Dakota
+espn,South Dakota State,South Dakota State
+espn,South Florida,South Florida
+espn,Southeast Missouri State,Southeast Missouri State
+espn,Southern,Southern
+espn,Southern Illinois,Southern Illinois
+espn,Southern Miss,Southern Miss
+espn,Southern Utah,Southern Utah
+espn,St. Francis (PA),Saint Francis
+espn,Stanford,Stanford
+espn,Stephen F. Austin,Stephen F. Austin
+espn,Stonehill,Stonehill
+espn,Stony Brook,Stony Brook
+espn,Syracuse,Syracuse
+espn,TCU,TCU
+espn,Tarleton State,Tarleton State
+espn,Temple,Temple
+espn,Tennessee,Tennessee
+espn,Tennessee State,Tennessee State
+espn,Tennessee Tech,Tennessee Tech
+espn,Texas,Texas
+espn,Texas A&M,Texas A&M
+espn,Texas A&M-Commerce,East Texas A&M
+espn,Texas Southern,Texas Southern
+espn,Texas State,Texas State
+espn,Texas Tech,Texas Tech
+espn,The Citadel,The Citadel
+espn,Toledo,Toledo
+espn,Towson,Towson
+espn,Troy,Troy
+espn,Tulane,Tulane
+espn,Tulsa,Tulsa
+espn,UAB,UAB
+espn,UAlbany,UAlbany
+espn,UC Davis,UC Davis
+espn,UCF,UCF
+espn,UCLA,UCLA
+espn,UConn,UConn
+espn,UL Monroe,UL Monroe
+espn,UNLV,UNLV
+espn,USC,USC
+espn,UT Martin,UT Martin
+espn,UT Rio Grande Valley,UT Rio Grande Valley
+espn,UTEP,UTEP
+espn,UTSA,UTSA
+espn,Utah,Utah
+espn,Utah State,Utah State
+espn,Utah Tech,Utah Tech
+espn,VMI,VMI
+espn,Vanderbilt,Vanderbilt
+espn,Villanova,Villanova
+espn,Virginia,Virginia
+espn,Virginia Tech,Virginia Tech
+espn,Wagner,Wagner
+espn,Wake Forest,Wake Forest
+espn,Washington,Washington
+espn,Washington State,Washington State
+espn,Weber State,Weber State
+espn,West Georgia,West Georgia
+espn,West Virginia,West Virginia
+espn,Western Carolina,Western Carolina
+espn,Western Illinois,Western Illinois
+espn,Western Kentucky,Western Kentucky
+espn,Western Michigan,Western Michigan
+espn,William & Mary,William & Mary
+espn,Wisconsin,Wisconsin
+espn,Wofford,Wofford
+espn,Wyoming,Wyoming
+espn,Youngstown State,Youngstown State
+ncaa,Abilene Christian,Abilene Christian
+ncaa,Air Force,Air Force
+ncaa,Akron,Akron
+ncaa,Alabama,Alabama
+ncaa,Alabama A&M,Alabama A&M
+ncaa,Alabama St.,Alabama State
+ncaa,Alcorn,Alcorn State
+ncaa,App State,App State
+ncaa,Arizona,Arizona
+ncaa,Arizona St.,Arizona State
+ncaa,Ark.-Pine Bluff,Arkansas-Pine Bluff
+ncaa,Arkansas,Arkansas
+ncaa,Arkansas St.,Arkansas State
+ncaa,Army West Point,Army
+ncaa,Auburn,Auburn
+ncaa,Austin Peay,Austin Peay
+ncaa,BYU,BYU
+ncaa,Ball St.,Ball State
+ncaa,Baylor,Baylor
+ncaa,Bethune-Cookman,Bethune-Cookman
+ncaa,Boise St.,Boise State
+ncaa,Boston College,Boston College
+ncaa,Bowling Green,Bowling Green
+ncaa,Bryant,Bryant
+ncaa,Bucknell,Bucknell
+ncaa,Buffalo,Buffalo
+ncaa,Cal Poly,Cal Poly
+ncaa,California,California
+ncaa,Campbell,Campbell
+ncaa,Central Ark.,Central Arkansas
+ncaa,Central Conn. St.,Central Connecticut
+ncaa,Central Mich.,Central Michigan
+ncaa,Charleston So.,Charleston Southern
+ncaa,Charlotte,Charlotte
+ncaa,Chattanooga,Chattanooga
+ncaa,Cincinnati,Cincinnati
+ncaa,Clemson,Clemson
+ncaa,Coastal Carolina,Coastal Carolina
+ncaa,Colgate,Colgate
+ncaa,Colorado,Colorado
+ncaa,Colorado St.,Colorado State
+ncaa,Delaware,Delaware
+ncaa,Delaware St.,Delaware State
+ncaa,Duke,Duke
+ncaa,Duquesne,Duquesne
+ncaa,ETSU,East Tennessee State
+ncaa,East Carolina,East Carolina
+ncaa,East Texas A&M,East Texas A&M
+ncaa,Eastern Ill.,Eastern Illinois
+ncaa,Eastern Ky.,Eastern Kentucky
+ncaa,Eastern Mich.,Eastern Michigan
+ncaa,Eastern Wash.,Eastern Washington
+ncaa,Elon,Elon
+ncaa,FIU,Florida International
+ncaa,Fla. Atlantic,Florida Atlantic
+ncaa,Florida,Florida
+ncaa,Florida A&M,Florida A&M
+ncaa,Florida St.,Florida State
+ncaa,Fordham,Fordham
+ncaa,Fresno St.,Fresno State
+ncaa,Furman,Furman
+ncaa,Ga. Southern,Georgia Southern
+ncaa,Gardner-Webb,Gardner-Webb
+ncaa,Georgia,Georgia
+ncaa,Georgia St.,Georgia State
+ncaa,Georgia Tech,Georgia Tech
+ncaa,Grambling,Grambling
+ncaa,Hampton,Hampton
+ncaa,Hawaii,Hawai'i
+ncaa,Holy Cross,Holy Cross
+ncaa,Houston,Houston
+ncaa,Houston Christian,Houston Christian
+ncaa,Howard,Howard
+ncaa,Idaho,Idaho
+ncaa,Idaho St.,Idaho State
+ncaa,Illinois,Illinois
+ncaa,Illinois St.,Illinois State
+ncaa,Indiana,Indiana
+ncaa,Indiana St.,Indiana State
+ncaa,Iowa,Iowa
+ncaa,Iowa St.,Iowa State
+ncaa,Jackson St.,Jackson State
+ncaa,Jacksonville St.,Jacksonville State
+ncaa,James Madison,James Madison
+ncaa,Kansas,Kansas
+ncaa,Kansas St.,Kansas State
+ncaa,Kennesaw St.,Kennesaw State
+ncaa,Kent St.,Kent State
+ncaa,Kentucky,Kentucky
+ncaa,LIU,Long Island University
+ncaa,LSU,LSU
+ncaa,Lafayette,Lafayette
+ncaa,Lamar University,Lamar
+ncaa,Lehigh,Lehigh
+ncaa,Liberty,Liberty
+ncaa,Lindenwood,Lindenwood
+ncaa,Louisiana,Louisiana
+ncaa,Louisiana Tech,Louisiana Tech
+ncaa,Louisville,Louisville
+ncaa,Maine,Maine
+ncaa,Marshall,Marshall
+ncaa,Maryland,Maryland
+ncaa,Massachusetts,Massachusetts
+ncaa,McNeese,McNeese
+ncaa,Memphis,Memphis
+ncaa,Mercer,Mercer
+ncaa,Mercyhurst,Mercyhurst
+ncaa,Merrimack,Merrimack
+ncaa,Miami (FL),Miami
+ncaa,Miami (OH),Miami (OH)
+ncaa,Michigan,Michigan
+ncaa,Michigan St.,Michigan State
+ncaa,Middle Tenn.,Middle Tennessee
+ncaa,Minnesota,Minnesota
+ncaa,Mississippi St.,Mississippi State
+ncaa,Mississippi Val.,Mississippi Valley State
+ncaa,Missouri,Missouri
+ncaa,Missouri St.,Missouri State
+ncaa,Monmouth,Monmouth
+ncaa,Montana,Montana
+ncaa,Montana St.,Montana State
+ncaa,Morgan St.,Morgan State
+ncaa,Murray St.,Murray State
+ncaa,N.C. A&T,North Carolina A&T
+ncaa,N.C. Central,North Carolina Central
+ncaa,NC State,NC State
+ncaa,NIU,Northern Illinois
+ncaa,Navy,Navy
+ncaa,Nebraska,Nebraska
+ncaa,Nevada,Nevada
+ncaa,New Hampshire,New Hampshire
+ncaa,New Mexico,New Mexico
+ncaa,New Mexico St.,New Mexico State
+ncaa,Nicholls,Nicholls
+ncaa,Norfolk St.,Norfolk State
+ncaa,North Ala.,North Alabama
+ncaa,North Carolina,North Carolina
+ncaa,North Dakota,North Dakota
+ncaa,North Dakota St.,North Dakota State
+ncaa,North Texas,North Texas
+ncaa,Northern Ariz.,Northern Arizona
+ncaa,Northern Colo.,Northern Colorado
+ncaa,Northwestern,Northwestern
+ncaa,Northwestern St.,Northwestern State
+ncaa,Notre Dame,Notre Dame
+ncaa,Ohio,Ohio
+ncaa,Ohio St.,Ohio State
+ncaa,Oklahoma,Oklahoma
+ncaa,Oklahoma St.,Oklahoma State
+ncaa,Old Dominion,Old Dominion
+ncaa,Ole Miss,Ole Miss
+ncaa,Oregon,Oregon
+ncaa,Oregon St.,Oregon State
+ncaa,Penn St.,Penn State
+ncaa,Pittsburgh,Pittsburgh
+ncaa,Portland St.,Portland State
+ncaa,Prairie View,Prairie View A&M
+ncaa,Purdue,Purdue
+ncaa,Rhode Island,Rhode Island
+ncaa,Rice,Rice
+ncaa,Richmond,Richmond
+ncaa,Robert Morris,Robert Morris
+ncaa,Rutgers,Rutgers
+ncaa,SFA,Stephen F. Austin
+ncaa,SMU,SMU
+ncaa,Sacramento St.,Sacramento State
+ncaa,Sacred Heart,Sacred Heart
+ncaa,Saint Francis,Saint Francis
+ncaa,Sam Houston,Sam Houston
+ncaa,Samford,Samford
+ncaa,San Diego St.,San Diego State
+ncaa,San Jose St.,San José State
+ncaa,South Alabama,South Alabama
+ncaa,South Carolina,South Carolina
+ncaa,South Carolina St.,South Carolina State
+ncaa,South Dakota,South Dakota
+ncaa,South Dakota St.,South Dakota State
+ncaa,South Fla.,South Florida
+ncaa,Southeast Mo. St.,Southeast Missouri State
+ncaa,Southeastern La.,SE Louisiana
+ncaa,Southern California,USC
+ncaa,Southern Ill.,Southern Illinois
+ncaa,Southern Miss.,Southern Miss
+ncaa,Southern U.,Southern
+ncaa,Southern Utah,Southern Utah
+ncaa,Stanford,Stanford
+ncaa,Stonehill,Stonehill
+ncaa,Stony Brook,Stony Brook
+ncaa,Syracuse,Syracuse
+ncaa,TCU,TCU
+ncaa,Tarleton St.,Tarleton State
+ncaa,Temple,Temple
+ncaa,Tennessee,Tennessee
+ncaa,Tennessee St.,Tennessee State
+ncaa,Tennessee Tech,Tennessee Tech
+ncaa,Texas,Texas
+ncaa,Texas A&M,Texas A&M
+ncaa,Texas Southern,Texas Southern
+ncaa,Texas St.,Texas State
+ncaa,Texas Tech,Texas Tech
+ncaa,The Citadel,The Citadel
+ncaa,Toledo,Toledo
+ncaa,Towson,Towson
+ncaa,Troy,Troy
+ncaa,Tulane,Tulane
+ncaa,Tulsa,Tulsa
+ncaa,UAB,UAB
+ncaa,UAlbany,UAlbany
+ncaa,UC Davis,UC Davis
+ncaa,UCF,UCF
+ncaa,UCLA,UCLA
+ncaa,UConn,UConn
+ncaa,UIW,Incarnate Word
+ncaa,ULM,UL Monroe
+ncaa,UNI,Northern Iowa
+ncaa,UNLV,UNLV
+ncaa,UT Martin,UT Martin
+ncaa,UTEP,UTEP
+ncaa,UTRGV,UT Rio Grande Valley
+ncaa,UTSA,UTSA
+ncaa,Utah,Utah
+ncaa,Utah St.,Utah State
+ncaa,Utah Tech,Utah Tech
+ncaa,VMI,VMI
+ncaa,Vanderbilt,Vanderbilt
+ncaa,Villanova,Villanova
+ncaa,Virginia,Virginia
+ncaa,Virginia Tech,Virginia Tech
+ncaa,Wagner,Wagner
+ncaa,Wake Forest,Wake Forest
+ncaa,Washington,Washington
+ncaa,Washington St.,Washington State
+ncaa,Weber St.,Weber State
+ncaa,West Ga.,West Georgia
+ncaa,West Virginia,West Virginia
+ncaa,Western Caro.,Western Carolina
+ncaa,Western Ill.,Western Illinois
+ncaa,Western Ky.,Western Kentucky
+ncaa,Western Mich.,Western Michigan
+ncaa,William & Mary,William & Mary
+ncaa,Wisconsin,Wisconsin
+ncaa,Wofford,Wofford
+ncaa,Wyoming,Wyoming
+ncaa,Youngstown St.,Youngstown State
