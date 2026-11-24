@@ -1,0 +1,1413 @@
+{
+ "season": 2023,
+ "mode": "weighted",
+ "cap": 28,
+ "week": 3,
+ "games_in_snapshot": 254,
+ "iterations": 25,
+ "converged": true,
+ "damping": 0.85,
+ "tolerance": 1e-10,
+ "rankings": [
+  {
+   "rank": 1,
+   "team": "Miami",
+   "conference": "ACC",
+   "score": 0.020300994856
+  },
+  {
+   "rank": 2,
+   "team": "Florida State",
+   "conference": "ACC",
+   "score": 0.014100705624
+  },
+  {
+   "rank": 3,
+   "team": "Ole Miss",
+   "conference": "SEC",
+   "score": 0.013610160478
+  },
+  {
+   "rank": 4,
+   "team": "Texas A&M",
+   "conference": "SEC",
+   "score": 0.013537699972
+  },
+  {
+   "rank": 5,
+   "team": "Oklahoma",
+   "conference": "Big 12",
+   "score": 0.013085919674
+  },
+  {
+   "rank": 6,
+   "team": "North Carolina",
+   "conference": "ACC",
+   "score": 0.012730150476
+  },
+  {
+   "rank": 7,
+   "team": "UCLA",
+   "conference": "Pac-12",
+   "score": 0.012452517348
+  },
+  {
+   "rank": 8,
+   "team": "Texas",
+   "conference": "Big 12",
+   "score": 0.012448590371
+  },
+  {
+   "rank": 9,
+   "team": "Colorado",
+   "conference": "Pac-12",
+   "score": 0.012021595601
+  },
+  {
+   "rank": 10,
+   "team": "Notre Dame",
+   "conference": "FBS Independents",
+   "score": 0.01200819813
+  },
+  {
+   "rank": 11,
+   "team": "Utah",
+   "conference": "Pac-12",
+   "score": 0.011546769322
+  },
+  {
+   "rank": 12,
+   "team": "Washington",
+   "conference": "Pac-12",
+   "score": 0.011425777258
+  },
+  {
+   "rank": 13,
+   "team": "Washington State",
+   "conference": "Pac-12",
+   "score": 0.011324912366
+  },
+  {
+   "rank": 14,
+   "team": "Auburn",
+   "conference": "SEC",
+   "score": 0.011307661138
+  },
+  {
+   "rank": 15,
+   "team": "Duke",
+   "conference": "ACC",
+   "score": 0.011250965679
+  },
+  {
+   "rank": 16,
+   "team": "Rutgers",
+   "conference": "Big Ten",
+   "score": 0.011086047294
+  },
+  {
+   "rank": 17,
+   "team": "UL Monroe",
+   "conference": "Sun Belt",
+   "score": 0.010645785082
+  },
+  {
+   "rank": 18,
+   "team": "Penn State",
+   "conference": "Big Ten",
+   "score": 0.010637610076
+  },
+  {
+   "rank": 19,
+   "team": "Ohio State",
+   "conference": "Big Ten",
+   "score": 0.010506639853
+  },
+  {
+   "rank": 20,
+   "team": "LSU",
+   "conference": "SEC",
+   "score": 0.010262350556
+  },
+  {
+   "rank": 21,
+   "team": "Missouri",
+   "conference": "SEC",
+   "score": 0.010012285625
+  },
+  {
+   "rank": 22,
+   "team": "BYU",
+   "conference": "Big 12",
+   "score": 0.009181364813
+  },
+  {
+   "rank": 23,
+   "team": "SMU",
+   "conference": "American Athletic",
+   "score": 0.009101936059
+  },
+  {
+   "rank": 24,
+   "team": "Michigan",
+   "conference": "Big Ten",
+   "score": 0.008966851228
+  },
+  {
+   "rank": 25,
+   "team": "Tulane",
+   "conference": "American Athletic",
+   "score": 0.008911682064
+  },
+  {
+   "rank": 26,
+   "team": "Army",
+   "conference": "FBS Independents",
+   "score": 0.007998685271
+  },
+  {
+   "rank": 27,
+   "team": "Syracuse",
+   "conference": "ACC",
+   "score": 0.007894429804
+  },
+  {
+   "rank": 28,
+   "team": "Florida",
+   "conference": "SEC",
+   "score": 0.007854776828
+  },
+  {
+   "rank": 29,
+   "team": "Wake Forest",
+   "conference": "ACC",
+   "score": 0.007617518293
+  },
+  {
+   "rank": 30,
+   "team": "Mississippi State",
+   "conference": "SEC",
+   "score": 0.007547585829
+  },
+  {
+   "rank": 31,
+   "team": "Oregon",
+   "conference": "Pac-12",
+   "score": 0.007547351427
+  },
+  {
+   "rank": 32,
+   "team": "Oregon State",
+   "conference": "Pac-12",
+   "score": 0.007437504375
+  },
+  {
+   "rank": 33,
+   "team": "Wisconsin",
+   "conference": "Big Ten",
+   "score": 0.007207523924
+  },
+  {
+   "rank": 34,
+   "team": "Iowa",
+   "conference": "Big Ten",
+   "score": 0.007051821357
+  },
+  {
+   "rank": 35,
+   "team": "Louisiana Tech",
+   "conference": "Conference USA",
+   "score": 0.006955191341
+  },
+  {
+   "rank": 36,
+   "team": "Kansas State",
+   "conference": "Big 12",
+   "score": 0.006898778666
+  },
+  {
+   "rank": 37,
+   "team": "Miami (OH)",
+   "conference": "Mid-American",
+   "score": 0.006859759029
+  },
+  {
+   "rank": 38,
+   "team": "Kentucky",
+   "conference": "SEC",
+   "score": 0.006790700465
+  },
+  {
+   "rank": 39,
+   "team": "UTSA",
+   "conference": "American Athletic",
+   "score": 0.006716119023
+  },
+  {
+   "rank": 40,
+   "team": "TCU",
+   "conference": "Big 12",
+   "score": 0.006690508997
+  },
+  {
+   "rank": 41,
+   "team": "Virginia Tech",
+   "conference": "ACC",
+   "score": 0.006623798033
+  },
+  {
+   "rank": 42,
+   "team": "South Alabama",
+   "conference": "Sun Belt",
+   "score": 0.006532661171
+  },
+  {
+   "rank": 43,
+   "team": "Air Force",
+   "conference": "Mountain West",
+   "score": 0.006470792186
+  },
+  {
+   "rank": 44,
+   "team": "Georgia",
+   "conference": "SEC",
+   "score": 0.006468688024
+  },
+  {
+   "rank": 45,
+   "team": "Clemson",
+   "conference": "ACC",
+   "score": 0.006462796371
+  },
+  {
+   "rank": 46,
+   "team": "USC",
+   "conference": "Pac-12",
+   "score": 0.006426295324
+  },
+  {
+   "rank": 47,
+   "team": "Coastal Carolina",
+   "conference": "Sun Belt",
+   "score": 0.006393371176
+  },
+  {
+   "rank": 48,
+   "team": "California",
+   "conference": "Pac-12",
+   "score": 0.0063618356
+  },
+  {
+   "rank": 49,
+   "team": "Liberty",
+   "conference": "Conference USA",
+   "score": 0.006336514868
+  },
+  {
+   "rank": 50,
+   "team": "San Diego State",
+   "conference": "Mountain West",
+   "score": 0.006267880863
+  },
+  {
+   "rank": 51,
+   "team": "Old Dominion",
+   "conference": "Sun Belt",
+   "score": 0.006190501973
+  },
+  {
+   "rank": 52,
+   "team": "Minnesota",
+   "conference": "Big Ten",
+   "score": 0.005997483596
+  },
+  {
+   "rank": 53,
+   "team": "Maryland",
+   "conference": "Big Ten",
+   "score": 0.005991753402
+  },
+  {
+   "rank": 54,
+   "team": "Georgia State",
+   "conference": "Sun Belt",
+   "score": 0.005958438594
+  },
+  {
+   "rank": 55,
+   "team": "UCF",
+   "conference": "Big 12",
+   "score": 0.005896019388
+  },
+  {
+   "rank": 56,
+   "team": "Fresno State",
+   "conference": "Mountain West",
+   "score": 0.005840185804
+  },
+  {
+   "rank": 57,
+   "team": "Alabama",
+   "conference": "SEC",
+   "score": 0.005666069136
+  },
+  {
+   "rank": 58,
+   "team": "Kansas",
+   "conference": "Big 12",
+   "score": 0.005647022642
+  },
+  {
+   "rank": 59,
+   "team": "Western Kentucky",
+   "conference": "Conference USA",
+   "score": 0.005640055589
+  },
+  {
+   "rank": 60,
+   "team": "Michigan State",
+   "conference": "Big Ten",
+   "score": 0.005481836208
+  },
+  {
+   "rank": 61,
+   "team": "Texas State",
+   "conference": "Sun Belt",
+   "score": 0.005454955543
+  },
+  {
+   "rank": 62,
+   "team": "Arkansas",
+   "conference": "SEC",
+   "score": 0.005285644175
+  },
+  {
+   "rank": 63,
+   "team": "Georgia Southern",
+   "conference": "Sun Belt",
+   "score": 0.005193318513
+  },
+  {
+   "rank": 64,
+   "team": "Arizona",
+   "conference": "Pac-12",
+   "score": 0.005167425899
+  },
+  {
+   "rank": 65,
+   "team": "Nebraska",
+   "conference": "Big Ten",
+   "score": 0.005132853983
+  },
+  {
+   "rank": 66,
+   "team": "West Virginia",
+   "conference": "Big 12",
+   "score": 0.005078951138
+  },
+  {
+   "rank": 67,
+   "team": "Memphis",
+   "conference": "American Athletic",
+   "score": 0.005006821714
+  },
+  {
+   "rank": 68,
+   "team": "Louisiana",
+   "conference": "Sun Belt",
+   "score": 0.004836582542
+  },
+  {
+   "rank": 69,
+   "team": "Illinois",
+   "conference": "Big Ten",
+   "score": 0.004793133024
+  },
+  {
+   "rank": 70,
+   "team": "Tennessee",
+   "conference": "SEC",
+   "score": 0.004715146148
+  },
+  {
+   "rank": 71,
+   "team": "New Mexico State",
+   "conference": "Conference USA",
+   "score": 0.004707393973
+  },
+  {
+   "rank": 72,
+   "team": "Florida International",
+   "conference": "Conference USA",
+   "score": 0.004637662551
+  },
+  {
+   "rank": 73,
+   "team": "Cincinnati",
+   "conference": "Big 12",
+   "score": 0.004502448929
+  },
+  {
+   "rank": 74,
+   "team": "Ohio",
+   "conference": "Mid-American",
+   "score": 0.004465526128
+  },
+  {
+   "rank": 75,
+   "team": "Oklahoma State",
+   "conference": "Big 12",
+   "score": 0.004425441849
+  },
+  {
+   "rank": 76,
+   "team": "UNLV",
+   "conference": "Mountain West",
+   "score": 0.004419355146
+  },
+  {
+   "rank": 77,
+   "team": "NC State",
+   "conference": "ACC",
+   "score": 0.004312033073
+  },
+  {
+   "rank": 78,
+   "team": "App State",
+   "conference": "Sun Belt",
+   "score": 0.00428877655
+  },
+  {
+   "rank": 79,
+   "team": "Vanderbilt",
+   "conference": "SEC",
+   "score": 0.004265332682
+  },
+  {
+   "rank": 80,
+   "team": "Louisville",
+   "conference": "ACC",
+   "score": 0.004180061531
+  },
+  {
+   "rank": 81,
+   "team": "Temple",
+   "conference": "American Athletic",
+   "score": 0.004163341364
+  },
+  {
+   "rank": 82,
+   "team": "James Madison",
+   "conference": "Sun Belt",
+   "score": 0.004095902448
+  },
+  {
+   "rank": 83,
+   "team": "Northern Illinois",
+   "conference": "Mid-American",
+   "score": 0.004041327139
+  },
+  {
+   "rank": 84,
+   "team": "Jacksonville State",
+   "conference": "Conference USA",
+   "score": 0.004035548787
+  },
+  {
+   "rank": 85,
+   "team": "Eastern Michigan",
+   "conference": "Mid-American",
+   "score": 0.003993559622
+  },
+  {
+   "rank": 86,
+   "team": "Akron",
+   "conference": "Mid-American",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Arkansas State",
+   "conference": "Sun Belt",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Boise State",
+   "conference": "Mountain West",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Boston College",
+   "conference": "ACC",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Bowling Green",
+   "conference": "Mid-American",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Central Michigan",
+   "conference": "Mid-American",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Florida Atlantic",
+   "conference": "American Athletic",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Iowa State",
+   "conference": "Big 12",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Kent State",
+   "conference": "Mid-American",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Navy",
+   "conference": "American Athletic",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "New Mexico",
+   "conference": "Mountain West",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Pittsburgh",
+   "conference": "ACC",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "San Jos\u00e9 State",
+   "conference": "Mountain West",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "South Carolina",
+   "conference": "SEC",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "South Florida",
+   "conference": "American Athletic",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Southern Miss",
+   "conference": "Sun Belt",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Texas Tech",
+   "conference": "Big 12",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Troy",
+   "conference": "Sun Belt",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Tulsa",
+   "conference": "American Athletic",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "UAB",
+   "conference": "American Athletic",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "UTEP",
+   "conference": "Conference USA",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 86,
+   "team": "Western Michigan",
+   "conference": "Mid-American",
+   "score": 0.003846902602
+  },
+  {
+   "rank": 108,
+   "team": "Northwestern",
+   "conference": "Big Ten",
+   "score": 0.003840104541
+  },
+  {
+   "rank": 109,
+   "team": "Massachusetts",
+   "conference": "FBS Independents",
+   "score": 0.00370955991
+  },
+  {
+   "rank": 110,
+   "team": "Houston",
+   "conference": "Big 12",
+   "score": 0.003636325313
+  },
+  {
+   "rank": 111,
+   "team": "Purdue",
+   "conference": "Big Ten",
+   "score": 0.003595237516
+  },
+  {
+   "rank": 112,
+   "team": "Utah State",
+   "conference": "Mountain West",
+   "score": 0.00345412576
+  },
+  {
+   "rank": 113,
+   "team": "Hawai'i",
+   "conference": "Mountain West",
+   "score": 0.003375570391
+  },
+  {
+   "rank": 114,
+   "team": "Wyoming",
+   "conference": "Mountain West",
+   "score": 0.003322545518
+  },
+  {
+   "rank": 115,
+   "team": "Rice",
+   "conference": "American Athletic",
+   "score": 0.003210424828
+  },
+  {
+   "rank": 116,
+   "team": "Toledo",
+   "conference": "Mid-American",
+   "score": 0.003192619073
+  },
+  {
+   "rank": 117,
+   "team": "Baylor",
+   "conference": "Big 12",
+   "score": 0.003095716891
+  },
+  {
+   "rank": 118,
+   "team": "Georgia Tech",
+   "conference": "ACC",
+   "score": 0.003089404406
+  },
+  {
+   "rank": 119,
+   "team": "Marshall",
+   "conference": "Sun Belt",
+   "score": 0.00308098776
+  },
+  {
+   "rank": 120,
+   "team": "Ball State",
+   "conference": "Mid-American",
+   "score": 0.002963154707
+  },
+  {
+   "rank": 120,
+   "team": "Indiana",
+   "conference": "Big Ten",
+   "score": 0.002963154707
+  },
+  {
+   "rank": 122,
+   "team": "Stanford",
+   "conference": "Pac-12",
+   "score": 0.002856491246
+  },
+  {
+   "rank": 123,
+   "team": "Charlotte",
+   "conference": "American Athletic",
+   "score": 0.002836905008
+  },
+  {
+   "rank": 123,
+   "team": "Middle Tennessee",
+   "conference": "Conference USA",
+   "score": 0.002836905008
+  },
+  {
+   "rank": 125,
+   "team": "North Texas",
+   "conference": "American Athletic",
+   "score": 0.002736285994
+  },
+  {
+   "rank": 126,
+   "team": "Arizona State",
+   "conference": "Pac-12",
+   "score": 0.002268781361
+  },
+  {
+   "rank": 127,
+   "team": "Buffalo",
+   "conference": "Mid-American",
+   "score": 0.002079406812
+  },
+  {
+   "rank": 127,
+   "team": "Colorado State",
+   "conference": "Mountain West",
+   "score": 0.002079406812
+  },
+  {
+   "rank": 127,
+   "team": "East Carolina",
+   "conference": "American Athletic",
+   "score": 0.002079406812
+  },
+  {
+   "rank": 127,
+   "team": "Nevada",
+   "conference": "Mountain West",
+   "score": 0.002079406812
+  },
+  {
+   "rank": 127,
+   "team": "Sam Houston",
+   "conference": "Conference USA",
+   "score": 0.002079406812
+  },
+  {
+   "rank": 127,
+   "team": "UConn",
+   "conference": "FBS Independents",
+   "score": 0.002079406812
+  },
+  {
+   "rank": 127,
+   "team": "Virginia",
+   "conference": "ACC",
+   "score": 0.002079406812
+  }
+ ],
+ "games_added_this_week": [
+  {
+   "game_id": "401525499",
+   "game_date": "2023-09-14",
+   "loser": "Bethune-Cookman",
+   "winner": "Miami",
+   "winner_score": 48,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401531428",
+   "game_date": "2023-09-14",
+   "loser": "Navy",
+   "winner": "Memphis",
+   "winner_score": 28,
+   "loser_score": 24
+  },
+  {
+   "game_id": "401520231",
+   "game_date": "2023-09-15",
+   "loser": "Virginia",
+   "winner": "Maryland",
+   "winner_score": 42,
+   "loser_score": 14
+  },
+  {
+   "game_id": "401531396",
+   "game_date": "2023-09-15",
+   "loser": "UTSA",
+   "winner": "Army",
+   "winner_score": 37,
+   "loser_score": 29
+  },
+  {
+   "game_id": "401532581",
+   "game_date": "2023-09-15",
+   "loser": "Utah State",
+   "winner": "Air Force",
+   "winner_score": 39,
+   "loser_score": 21
+  },
+  {
+   "game_id": "401520219",
+   "game_date": "2023-09-16",
+   "loser": "UTEP",
+   "winner": "Arizona",
+   "winner_score": 31,
+   "loser_score": 10
+  },
+  {
+   "game_id": "401520220",
+   "game_date": "2023-09-16",
+   "loser": "Arkansas",
+   "winner": "BYU",
+   "winner_score": 38,
+   "loser_score": 31
+  },
+  {
+   "game_id": "401520221",
+   "game_date": "2023-09-16",
+   "loser": "Samford",
+   "winner": "Auburn",
+   "winner_score": 45,
+   "loser_score": 13
+  },
+  {
+   "game_id": "401520222",
+   "game_date": "2023-09-16",
+   "loser": "Buffalo",
+   "winner": "Liberty",
+   "winner_score": 55,
+   "loser_score": 27
+  },
+  {
+   "game_id": "401520223",
+   "game_date": "2023-09-16",
+   "loser": "Northwestern",
+   "winner": "Duke",
+   "winner_score": 38,
+   "loser_score": 14
+  },
+  {
+   "game_id": "401520224",
+   "game_date": "2023-09-16",
+   "loser": "Tennessee",
+   "winner": "Florida",
+   "winner_score": 29,
+   "loser_score": 16
+  },
+  {
+   "game_id": "401520225",
+   "game_date": "2023-09-16",
+   "loser": "South Carolina",
+   "winner": "Georgia",
+   "winner_score": 24,
+   "loser_score": 14
+  },
+  {
+   "game_id": "401520226",
+   "game_date": "2023-09-16",
+   "loser": "Illinois",
+   "winner": "Penn State",
+   "winner_score": 30,
+   "loser_score": 13
+  },
+  {
+   "game_id": "401520227",
+   "game_date": "2023-09-16",
+   "loser": "Western Michigan",
+   "winner": "Iowa",
+   "winner_score": 41,
+   "loser_score": 10
+  },
+  {
+   "game_id": "401520228",
+   "game_date": "2023-09-16",
+   "loser": "Akron",
+   "winner": "Kentucky",
+   "winner_score": 35,
+   "loser_score": 3
+  },
+  {
+   "game_id": "401520229",
+   "game_date": "2023-09-16",
+   "loser": "Louisiana Tech",
+   "winner": "North Texas",
+   "winner_score": 40,
+   "loser_score": 37
+  },
+  {
+   "game_id": "401520230",
+   "game_date": "2023-09-16",
+   "loser": "Indiana",
+   "winner": "Louisville",
+   "winner_score": 21,
+   "loser_score": 14
+  },
+  {
+   "game_id": "401520232",
+   "game_date": "2023-09-16",
+   "loser": "Bowling Green",
+   "winner": "Michigan",
+   "winner_score": 31,
+   "loser_score": 6
+  },
+  {
+   "game_id": "401520233",
+   "game_date": "2023-09-16",
+   "loser": "Michigan State",
+   "winner": "Washington",
+   "winner_score": 41,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401520234",
+   "game_date": "2023-09-16",
+   "loser": "Murray State",
+   "winner": "Middle Tennessee",
+   "winner_score": 35,
+   "loser_score": 14
+  },
+  {
+   "game_id": "401520235",
+   "game_date": "2023-09-16",
+   "loser": "Mississippi State",
+   "winner": "LSU",
+   "winner_score": 41,
+   "loser_score": 14
+  },
+  {
+   "game_id": "401520236",
+   "game_date": "2023-09-16",
+   "loser": "Kansas State",
+   "winner": "Missouri",
+   "winner_score": 30,
+   "loser_score": 27
+  },
+  {
+   "game_id": "401520237",
+   "game_date": "2023-09-16",
+   "loser": "Northern Illinois",
+   "winner": "Nebraska",
+   "winner_score": 35,
+   "loser_score": 11
+  },
+  {
+   "game_id": "401520238",
+   "game_date": "2023-09-16",
+   "loser": "New Mexico",
+   "winner": "New Mexico State",
+   "winner_score": 27,
+   "loser_score": 17
+  },
+  {
+   "game_id": "401520239",
+   "game_date": "2023-09-16",
+   "loser": "Minnesota",
+   "winner": "North Carolina",
+   "winner_score": 31,
+   "loser_score": 13
+  },
+  {
+   "game_id": "401520240",
+   "game_date": "2023-09-16",
+   "loser": "Western Kentucky",
+   "winner": "Ohio State",
+   "winner_score": 63,
+   "loser_score": 10
+  },
+  {
+   "game_id": "401520241",
+   "game_date": "2023-09-16",
+   "loser": "Georgia Tech",
+   "winner": "Ole Miss",
+   "winner_score": 48,
+   "loser_score": 23
+  },
+  {
+   "game_id": "401520242",
+   "game_date": "2023-09-16",
+   "loser": "Purdue",
+   "winner": "Syracuse",
+   "winner_score": 35,
+   "loser_score": 20
+  },
+  {
+   "game_id": "401520243",
+   "game_date": "2023-09-16",
+   "loser": "Virginia Tech",
+   "winner": "Rutgers",
+   "winner_score": 35,
+   "loser_score": 16
+  },
+  {
+   "game_id": "401520244",
+   "game_date": "2023-09-16",
+   "loser": "South Florida",
+   "winner": "Alabama",
+   "winner_score": 17,
+   "loser_score": 3
+  },
+  {
+   "game_id": "401520245",
+   "game_date": "2023-09-16",
+   "loser": "UL Monroe",
+   "winner": "Texas A&M",
+   "winner_score": 47,
+   "loser_score": 3
+  },
+  {
+   "game_id": "401520246",
+   "game_date": "2023-09-16",
+   "loser": "UConn",
+   "winner": "Florida International",
+   "winner_score": 24,
+   "loser_score": 17
+  },
+  {
+   "game_id": "401520247",
+   "game_date": "2023-09-16",
+   "loser": "Vanderbilt",
+   "winner": "UNLV",
+   "winner_score": 40,
+   "loser_score": 37
+  },
+  {
+   "game_id": "401520249",
+   "game_date": "2023-09-16",
+   "loser": "Georgia Southern",
+   "winner": "Wisconsin",
+   "winner_score": 35,
+   "loser_score": 14
+  },
+  {
+   "game_id": "401524005",
+   "game_date": "2023-09-16",
+   "loser": "Arizona State",
+   "winner": "Fresno State",
+   "winner_score": 29,
+   "loser_score": 0
+  },
+  {
+   "game_id": "401524006",
+   "game_date": "2023-09-16",
+   "loser": "Idaho",
+   "winner": "California",
+   "winner_score": 31,
+   "loser_score": 17
+  },
+  {
+   "game_id": "401524007",
+   "game_date": "2023-09-16",
+   "loser": "Colorado State",
+   "winner": "Colorado",
+   "winner_score": 43,
+   "loser_score": 35
+  },
+  {
+   "game_id": "401524008",
+   "game_date": "2023-09-16",
+   "loser": "Hawai'i",
+   "winner": "Oregon",
+   "winner_score": 55,
+   "loser_score": 10
+  },
+  {
+   "game_id": "401524009",
+   "game_date": "2023-09-16",
+   "loser": "San Diego State",
+   "winner": "Oregon State",
+   "winner_score": 26,
+   "loser_score": 9
+  },
+  {
+   "game_id": "401524010",
+   "game_date": "2023-09-16",
+   "loser": "Stanford",
+   "winner": "Sacramento State",
+   "winner_score": 30,
+   "loser_score": 23
+  },
+  {
+   "game_id": "401524011",
+   "game_date": "2023-09-16",
+   "loser": "North Carolina Central",
+   "winner": "UCLA",
+   "winner_score": 59,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401524012",
+   "game_date": "2023-09-16",
+   "loser": "Weber State",
+   "winner": "Utah",
+   "winner_score": 31,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401524013",
+   "game_date": "2023-09-16",
+   "loser": "Northern Colorado",
+   "winner": "Washington State",
+   "winner_score": 64,
+   "loser_score": 21
+  },
+  {
+   "game_id": "401525437",
+   "game_date": "2023-09-16",
+   "loser": "Central Michigan",
+   "winner": "Notre Dame",
+   "winner_score": 41,
+   "loser_score": 17
+  },
+  {
+   "game_id": "401525500",
+   "game_date": "2023-09-16",
+   "loser": "Boston College",
+   "winner": "Florida State",
+   "winner_score": 31,
+   "loser_score": 29
+  },
+  {
+   "game_id": "401525501",
+   "game_date": "2023-09-16",
+   "loser": "Florida Atlantic",
+   "winner": "Clemson",
+   "winner_score": 48,
+   "loser_score": 14
+  },
+  {
+   "game_id": "401525502",
+   "game_date": "2023-09-16",
+   "loser": "VMI",
+   "winner": "NC State",
+   "winner_score": 45,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401525503",
+   "game_date": "2023-09-16",
+   "loser": "Pittsburgh",
+   "winner": "West Virginia",
+   "winner_score": 17,
+   "loser_score": 6
+  },
+  {
+   "game_id": "401525504",
+   "game_date": "2023-09-16",
+   "loser": "Old Dominion",
+   "winner": "Wake Forest",
+   "winner_score": 27,
+   "loser_score": 24
+  },
+  {
+   "game_id": "401525834",
+   "game_date": "2023-09-16",
+   "loser": "Long Island University",
+   "winner": "Baylor",
+   "winner_score": 30,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401525835",
+   "game_date": "2023-09-16",
+   "loser": "Cincinnati",
+   "winner": "Miami (OH)",
+   "winner_score": 31,
+   "loser_score": 24
+  },
+  {
+   "game_id": "401525836",
+   "game_date": "2023-09-16",
+   "loser": "Houston",
+   "winner": "TCU",
+   "winner_score": 36,
+   "loser_score": 13
+  },
+  {
+   "game_id": "401525837",
+   "game_date": "2023-09-16",
+   "loser": "Nevada",
+   "winner": "Kansas",
+   "winner_score": 31,
+   "loser_score": 24
+  },
+  {
+   "game_id": "401525838",
+   "game_date": "2023-09-16",
+   "loser": "Iowa State",
+   "winner": "Ohio",
+   "winner_score": 10,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401525839",
+   "game_date": "2023-09-16",
+   "loser": "Oklahoma State",
+   "winner": "South Alabama",
+   "winner_score": 33,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401525840",
+   "game_date": "2023-09-16",
+   "loser": "Wyoming",
+   "winner": "Texas",
+   "winner_score": 31,
+   "loser_score": 10
+  },
+  {
+   "game_id": "401525841",
+   "game_date": "2023-09-16",
+   "loser": "Tarleton State",
+   "winner": "Texas Tech",
+   "winner_score": 41,
+   "loser_score": 3
+  },
+  {
+   "game_id": "401525842",
+   "game_date": "2023-09-16",
+   "loser": "Tulsa",
+   "winner": "Oklahoma",
+   "winner_score": 66,
+   "loser_score": 17
+  },
+  {
+   "game_id": "401525843",
+   "game_date": "2023-09-16",
+   "loser": "Villanova",
+   "winner": "UCF",
+   "winner_score": 48,
+   "loser_score": 14
+  },
+  {
+   "game_id": "401526834",
+   "game_date": "2023-09-16",
+   "loser": "Massachusetts",
+   "winner": "Eastern Michigan",
+   "winner_score": 19,
+   "loser_score": 17
+  },
+  {
+   "game_id": "401531348",
+   "game_date": "2023-09-16",
+   "loser": "Southern Miss",
+   "winner": "Tulane",
+   "winner_score": 21,
+   "loser_score": 3
+  },
+  {
+   "game_id": "401531379",
+   "game_date": "2023-09-16",
+   "loser": "UAB",
+   "winner": "Louisiana",
+   "winner_score": 41,
+   "loser_score": 21
+  },
+  {
+   "game_id": "401531388",
+   "game_date": "2023-09-16",
+   "loser": "Norfolk State",
+   "winner": "Temple",
+   "winner_score": 41,
+   "loser_score": 9
+  },
+  {
+   "game_id": "401531403",
+   "game_date": "2023-09-16",
+   "loser": "Charlotte",
+   "winner": "Georgia State",
+   "winner_score": 41,
+   "loser_score": 25
+  },
+  {
+   "game_id": "401531412",
+   "game_date": "2023-09-16",
+   "loser": "East Carolina",
+   "winner": "App State",
+   "winner_score": 43,
+   "loser_score": 28
+  },
+  {
+   "game_id": "401531438",
+   "game_date": "2023-09-16",
+   "loser": "Prairie View A&M",
+   "winner": "SMU",
+   "winner_score": 69,
+   "loser_score": 0
+  },
+  {
+   "game_id": "401531441",
+   "game_date": "2023-09-16",
+   "loser": "Texas Southern",
+   "winner": "Rice",
+   "winner_score": 59,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401531845",
+   "game_date": "2023-09-16",
+   "loser": "Duquesne",
+   "winner": "Coastal Carolina",
+   "winner_score": 66,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401531846",
+   "game_date": "2023-09-16",
+   "loser": "Stony Brook",
+   "winner": "Arkansas State",
+   "winner_score": 31,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401531847",
+   "game_date": "2023-09-16",
+   "loser": "Jackson State",
+   "winner": "Texas State",
+   "winner_score": 77,
+   "loser_score": 34
+  },
+  {
+   "game_id": "401531848",
+   "game_date": "2023-09-16",
+   "loser": "Troy",
+   "winner": "James Madison",
+   "winner_score": 16,
+   "loser_score": 14
+  },
+  {
+   "game_id": "401532402",
+   "game_date": "2023-09-16",
+   "loser": "Indiana State",
+   "winner": "Ball State",
+   "winner_score": 45,
+   "loser_score": 7
+  },
+  {
+   "game_id": "401532403",
+   "game_date": "2023-09-16",
+   "loser": "San Jos\u00e9 State",
+   "winner": "Toledo",
+   "winner_score": 21,
+   "loser_score": 17
+  },
+  {
+   "game_id": "401532404",
+   "game_date": "2023-09-16",
+   "loser": "Central Connecticut",
+   "winner": "Kent State",
+   "winner_score": 38,
+   "loser_score": 10
+  },
+  {
+   "game_id": "401532582",
+   "game_date": "2023-09-16",
+   "loser": "North Dakota",
+   "winner": "Boise State",
+   "winner_score": 42,
+   "loser_score": 18
+  }
+ ]
+}
