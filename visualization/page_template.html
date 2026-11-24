@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<!--
+CFB-PageRank
+Copyright 2026 Denise Koessler Gosnell
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+    http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CFB-PageRank __SEASON__</title>
+<style>
+  body { margin: 0; font-family: Helvetica, Arial, sans-serif; color: #111; background: white; }
+  header { padding: 16px 24px 8px; border-bottom: 1px solid #111; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  header p { margin: 0; font-size: 14px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 18px 28px; align-items: center; padding: 12px 24px; border-bottom: 1px solid #ddd; font-size: 14px; }
+  .controls label { display: flex; align-items: center; gap: 8px; }
+  input[type=range] { width: 320px; }
+  input[type=search] { font-size: 14px; padding: 4px 6px; border: 1px solid #999; width: 200px; }
+  .tabs button { font-size: 14px; padding: 4px 12px; border: 1px solid #111; background: white; cursor: pointer; }
+  .tabs button.active { background: #111; color: white; }
+  main { display: grid; grid-template-columns: 1fr 360px; gap: 0; }
+  #graph-panel, #bump-panel { padding: 8px 12px; }
+  #table-panel { border-left: 1px solid #ddd; padding: 8px 12px; max-height: calc(100vh - 150px); overflow-y: auto; }
+  svg { display: block; }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; }
+  th, td { text-align: left; padding: 3px 6px; border-bottom: 1px solid #eee; }
+  th { background: #111; color: white; font-weight: bold; }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  tr.hit td { background: #FFF1E6; }
+  .legend { display: flex; flex-wrap: wrap; gap: 6px 14px; padding: 6px 24px 10px; font-size: 12px; }
+  .legend span { display: inline-flex; align-items: center; gap: 5px; }
+  .legend i { display: inline-block; width: 12px; height: 12px; border-radius: 50%; border: 3px solid; box-sizing: border-box; background: white; }
+  .hidden { display: none; }
+  .caption { font-size: 13px; font-style: italic; font-family: Georgia, Times, serif; padding: 4px 24px 14px; }
+  @media (max-width: 900px) { main { grid-template-columns: 1fr; } #table-panel { border-left: none; border-top: 1px solid #ddd; max-height: none; } input[type=range] { width: 200px; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>CFB-PageRank __SEASON__</h1>
+  <p id="subtitle"></p>
+</header>
+<div class="controls">
+  <label>Week <input type="range" id="week" min="0" max="0" step="1" value="0"> <strong id="week-label"></strong></label>
+  <label><input type="radio" name="mode" value="unweighted" checked> unweighted</label>
+  <label><input type="radio" name="mode" value="weighted"> weighted (margin capped at 28)</label>
+  <label>Find a team <input type="search" id="search" placeholder="type a team name"></label>
+  <span class="tabs"><button id="tab-graph" class="active">Graph</button><button id="tab-bump">Rank over time</button></span>
+</div>
+<div class="legend" id="legend"></div>
+<main>
+  <div id="graph-panel"><svg id="graph"></svg><div class="caption">Each circle is a Team vertex, sized by its PageRank score in the selected week. Each arrow is a loses_to edge from the team that lost to the team that won. Top 25 teams are labeled; hover for the rest.</div></div>
+  <div id="bump-panel" class="hidden"><svg id="bump"></svg><div class="caption">One line per team in the selected week's top 25, showing its PageRank rank in every week. Ranks past 60 are drawn at the bottom edge.</div></div>
+  <div id="table-panel"><table id="top"><thead><tr><th>rank</th><th>team</th><th>score</th><th>change</th></tr></thead><tbody></tbody></table></div>
+</main>
+<script src="../lib/d3.v7.min.js"></script>
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function () {
+  const data = JSON.parse(document.getElementById("data").textContent);
+  const weeks = data.weeks;
+  let week = weeks[weeks.length - 1];
+  let mode = "unweighted";
+  let highlighted = null;
+
+  // The subtitle says what the page holds and when the data stops.
+  const subtitle = document.getElementById("subtitle");
+  subtitle.textContent = data.season_complete
+    ? "Regular season through rivalry week. " + data.edges.length + " games, " + data.vertices.length + " teams. Slide the week to watch the ranking change."
+    : "Season in progress: games through " + data.last_game + " (collected " + data.collected_at + "). " + data.edges.length + " games, " + data.vertices.length + " teams. Slide the week to watch the ranking change.";
+
+  // Week slider.
+  const slider = document.getElementById("week");
+  slider.min = weeks[0]; slider.max = weeks[weeks.length - 1]; slider.value = week;
+  const weekLabel = document.getElementById("week-label");
+  function describeWeek(w) {
+    const win = data.week_windows[String(w)];
+    const games = data.edges.filter(e => e.week <= w).length;
+    return "week " + w + " (" + (win ? win.first_game + " to " + win.last_game : "no games") + "), " + games + " games so far";
+  }
+
+  // Colors by conference, with a legend.
+  const colorOf = v => v.division === "FBS" ? data.colors[v.conference] : data.fcs_color;
+  const legend = d3.select("#legend");
+  Object.keys(data.colors).forEach(c => {
+    legend.append("span").html('<i style="border-color:' + data.colors[c] + '"></i>' + c);
+  });
+  legend.append("span").html('<i style="border-color:' + data.fcs_color + '"></i>FCS opponent');
+
+  function snapshot() { return data.snapshots[mode][String(week)]; }
+  function previousSnapshot() {
+    const i = weeks.indexOf(week);
+    return i > 0 ? data.snapshots[mode][String(weeks[i - 1])] : null;
+  }
+  function rankOf(team) { const s = snapshot()[team]; return s ? s[0] : null; }
+  function scoreOf(team) { const s = snapshot()[team]; return s ? s[1] : 0; }
+
+  // The graph: positions come from one force layout over the whole season,
+  // computed once. Sliding the week only shows or hides edges and resizes
+  // circles. Nothing is recomputed.
+  const graphSvg = d3.select("#graph");
+  const width = Math.max(600, Math.min(1100, window.innerWidth - 400)), height = Math.max(520, window.innerHeight - 200);
+  graphSvg.attr("width", width).attr("height", height).attr("viewBox", [0, 0, width, height]);
+  graphSvg.append("defs").append("marker").attr("id", "arrow").attr("viewBox", "0 0 10 10").attr("refX", 10).attr("refY", 5)
+    .attr("markerWidth", 5).attr("markerHeight", 5).attr("orient", "auto")
+    .append("path").attr("d", "M 0 0 L 10 5 L 0 10 z").attr("fill", "#111");
+  const nodes = data.vertices.map(v => Object.assign({}, v));
+  const nodeById = new Map(nodes.map(n => [n.id, n]));
+  const links = data.edges.map(e => Object.assign({}, e, { source: nodeById.get(e.source), target: nodeById.get(e.target) }));
+  const radius = d3.scaleSqrt().range([3, 26]);
+
+  const simulation = d3.forceSimulation(nodes)
+    .force("link", d3.forceLink(links).distance(40).strength(0.15))
+    .force("charge", d3.forceManyBody().strength(-45))
+    .force("center", d3.forceCenter(width / 2, height / 2))
+    .force("collide", d3.forceCollide().radius(14))
+    .stop();
+  for (let i = 0; i < 300; i++) simulation.tick();
+  nodes.forEach(n => { n.x = Math.max(30, Math.min(width - 30, n.x)); n.y = Math.max(30, Math.min(height - 30, n.y)); });
+
+  const linkSel = graphSvg.append("g").selectAll("line").data(links).join("line")
+    .attr("stroke", "#111").attr("stroke-width", 0.8).attr("stroke-opacity", 0.35).attr("marker-end", "url(#arrow)");
+  const nodeSel = graphSvg.append("g").selectAll("circle").data(nodes).join("circle")
+    .attr("fill", "white").attr("stroke", colorOf).attr("stroke-width", 2.5).attr("cx", d => d.x).attr("cy", d => d.y)
+    .on("mouseover", (event, d) => { hoverLabel.text(d.id + ": rank " + (rankOf(d.id) || "unranked (FCS)") + ", score " + scoreOf(d.id).toFixed(5)).attr("x", d.x + 10).attr("y", d.y - 10).style("display", null); })
+    .on("mouseout", () => hoverLabel.style("display", "none"))
+    .on("click", (event, d) => { setHighlight(d.id); });
+  const labelSel = graphSvg.append("g").selectAll("text").data(nodes).join("text")
+    .attr("font-size", 11).attr("font-weight", "bold").attr("text-anchor", "middle").attr("pointer-events", "none").text(d => d.id);
+  const hoverLabel = graphSvg.append("text").attr("font-size", 12).attr("font-weight", "bold").attr("pointer-events", "none").style("display", "none");
+
+  function endpoint(link, which) {
+    // Shorten each arrow so the head stops at the circle's edge.
+    const s = link.source, t = link.target;
+    const dx = t.x - s.x, dy = t.y - s.y, len = Math.max(1, Math.hypot(dx, dy));
+    const rt = radius(scoreOf(t.id)) + 2, rs = radius(scoreOf(s.id)) + 1;
+    return which === "x1" ? s.x + dx / len * rs : which === "y1" ? s.y + dy / len * rs : which === "x2" ? t.x - dx / len * rt : t.y - dy / len * rt;
+  }
+
+  function drawGraph() {
+    const snap = snapshot();
+    radius.domain([0, d3.max(Object.values(snap), s => s[1])]);
+    nodeSel.attr("r", d => radius(scoreOf(d.id)))
+      .attr("stroke-width", d => highlighted === d.id ? 5 : 2.5)
+      .attr("stroke", d => highlighted === d.id ? "#FE7D2B" : colorOf(d));
+    linkSel.style("display", l => l.week <= week ? null : "none")
+      .attr("x1", l => endpoint(l, "x1")).attr("y1", l => endpoint(l, "y1")).attr("x2", l => endpoint(l, "x2")).attr("y2", l => endpoint(l, "y2"))
+      .attr("stroke", l => highlighted && (l.source.id === highlighted || l.target.id === highlighted) ? "#FE7D2B" : "#111")
+      .attr("stroke-width", l => highlighted && (l.source.id === highlighted || l.target.id === highlighted) ? 2 : 0.8)
+      .attr("stroke-opacity", l => highlighted ? (l.source.id === highlighted || l.target.id === highlighted ? 0.95 : 0.12) : 0.35);
+    labelSel.style("display", d => { const r = rankOf(d.id); return (r && r <= 25) || highlighted === d.id ? null : "none"; })
+      .attr("x", d => d.x).attr("y", d => d.y - radius(scoreOf(d.id)) - 3);
+  }
+
+  // The table beside the graph: the top 25 of the selected week and mode.
+  function drawTable() {
+    const snap = snapshot(), prev = previousSnapshot();
+    const rows = Object.entries(snap).map(([team, s]) => ({ team, rank: s[0], score: s[1] }))
+      .sort((a, b) => a.rank - b.rank || a.team.localeCompare(b.team)).slice(0, 25);
+    const body = d3.select("#top tbody");
+    const tr = body.selectAll("tr").data(rows, d => d.team).join("tr");
+    tr.classed("hit", d => d.team === highlighted).on("click", (event, d) => setHighlight(d.team));
+    tr.selectAll("td").data(d => {
+      const change = prev && prev[d.team] ? prev[d.team][0] - d.rank : null;
+      return [d.rank, d.team, d.score.toFixed(5), change === null ? "" : (change > 0 ? "up " + change : change < 0 ? "down " + (-change) : "same")];
+    }).join("td").attr("class", (d, i) => i === 1 || i === 3 ? null : "num").text(d => d);
+    tr.order();
+  }
+
+  // The bump chart: rank in every week for the selected week's top 25.
+  const bumpSvg = d3.select("#bump");
+  const bw = width, bh = height, margin = { top: 20, right: 150, bottom: 30, left: 40 };
+  bumpSvg.attr("width", bw).attr("height", bh).attr("viewBox", [0, 0, bw, bh]);
+  const bumpG = bumpSvg.append("g");
+  function drawBump() {
+    bumpG.selectAll("*").remove();
+    const snap = snapshot();
+    const teams = Object.entries(snap).filter(([t, s]) => s[0] <= 25).sort((a, b) => a[1][0] - b[1][0]).map(([t]) => t);
+    const maxRank = 60;
+    const x = d3.scalePoint().domain(weeks).range([margin.left, bw - margin.right]);
+    const y = d3.scaleLinear().domain([1, maxRank]).range([margin.top, bh - margin.bottom]).clamp(true);
+    bumpG.append("g").attr("transform", "translate(0," + (bh - margin.bottom) + ")").call(d3.axisBottom(x).tickFormat(w => "wk " + w));
+    bumpG.append("g").attr("transform", "translate(" + margin.left + ",0)").call(d3.axisLeft(y).tickValues([1, 5, 10, 15, 20, 25, 30, 40, 50, 60]));
+    const line = d3.line().x(w => x(w)).y((w, i, arr) => y(arr.rankOf(w))).curve(d3.curveMonotoneX);
+    teams.forEach(team => {
+      const series = weeks.slice(); series.rankOf = w => data.snapshots[mode][String(w)][team][0];
+      const v = nodeById.get(team);
+      const isHit = highlighted === team;
+      bumpG.append("path").datum(series).attr("fill", "none").attr("stroke", isHit ? "#FE7D2B" : colorOf(v))
+        .attr("stroke-width", isHit ? 4 : 1.8).attr("stroke-opacity", highlighted && !isHit ? 0.25 : 0.9).attr("d", line)
+        .on("click", () => setHighlight(team));
+      bumpG.append("text").attr("x", x(weeks[weeks.length - 1]) + 6).attr("y", y(series.rankOf(weeks[weeks.length - 1])) + 4)
+        .attr("font-size", 11).attr("font-weight", isHit ? "bold" : null).text(series.rankOf(week) + ". " + team);
+    });
+    bumpG.append("line").attr("x1", x(week)).attr("x2", x(week)).attr("y1", margin.top).attr("y2", bh - margin.bottom).attr("stroke", "#111").attr("stroke-dasharray", "4 3");
+  }
+
+  function setHighlight(team) {
+    highlighted = highlighted === team ? null : team;
+    document.getElementById("search").value = highlighted || "";
+    redraw();
+  }
+
+  function redraw() {
+    weekLabel.textContent = describeWeek(week);
+    drawGraph(); drawTable();
+    if (!document.getElementById("bump-panel").classList.contains("hidden")) drawBump();
+  }
+
+  slider.addEventListener("input", () => { week = +slider.value; redraw(); });
+  document.querySelectorAll("input[name=mode]").forEach(r => r.addEventListener("change", () => { mode = r.value; redraw(); }));
+  document.getElementById("search").addEventListener("input", event => {
+    const text = event.target.value.trim().toLowerCase();
+    const match = text ? nodes.find(n => n.id.toLowerCase() === text) || nodes.find(n => n.id.toLowerCase().startsWith(text)) : null;
+    highlighted = match ? match.id : null;
+    redraw();
+  });
+  document.getElementById("tab-graph").addEventListener("click", () => {
+    document.getElementById("graph-panel").classList.remove("hidden"); document.getElementById("bump-panel").classList.add("hidden");
+    document.getElementById("tab-graph").classList.add("active"); document.getElementById("tab-bump").classList.remove("active"); redraw();
+  });
+  document.getElementById("tab-bump").addEventListener("click", () => {
+    document.getElementById("bump-panel").classList.remove("hidden"); document.getElementById("graph-panel").classList.add("hidden");
+    document.getElementById("tab-bump").classList.add("active"); document.getElementById("tab-graph").classList.remove("active"); redraw();
+  });
+  redraw();
+})();
+</script>
+</body>
+</html>
