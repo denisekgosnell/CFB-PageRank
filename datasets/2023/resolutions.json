@@ -1,0 +1,98 @@
+[
+  {
+    "game_id": "401520150",
+    "field": "neutral_site",
+    "value": "false",
+    "primary_value": "true",
+    "espn_value": "false",
+    "source": "https://en.wikipedia.org/wiki/2023_Arkansas_Razorbacks_football_team",
+    "reason": "Played at War Memorial Stadium in Little Rock. The schedule lists it as an Arkansas home game, and the season summary counts one neutral-site game for Arkansas, the Texas A&M game in Arlington."
+  },
+  {
+    "game_id": "401520435",
+    "field": "neutral_site",
+    "value": "true",
+    "primary_value": "true",
+    "espn_value": "false",
+    "source": "https://en.wikipedia.org/wiki/2023_Michigan_State_Spartans_football_team",
+    "reason": "Played at Ford Field in Detroit. The schedule marks the game as a neutral-site game, which agrees with the primary source."
+  },
+  {
+    "game_id": "401520167",
+    "field": "home_team",
+    "value": "South Carolina",
+    "primary_value": "North Carolina",
+    "espn_value": "South Carolina",
+    "source": "https://www.ncaa.com/game/6154260 and ESPN",
+    "reason": "Neutral-site game in Charlotte. NCAA.com and ESPN both designate South Carolina as the home team; the primary source designates North Carolina. The winner, the loser, and both teams' scores are the same in every source."
+  },
+  {
+    "game_id": "401520167",
+    "field": "away_team",
+    "value": "North Carolina",
+    "primary_value": "South Carolina",
+    "espn_value": "North Carolina",
+    "source": "https://www.ncaa.com/game/6154260 and ESPN",
+    "reason": "Neutral-site game in Charlotte. NCAA.com and ESPN both designate South Carolina as the home team; the primary source designates North Carolina. The winner, the loser, and both teams' scores are the same in every source."
+  },
+  {
+    "game_id": "401520167",
+    "field": "home_score",
+    "value": "17",
+    "primary_value": "31",
+    "espn_value": "17",
+    "source": "https://www.ncaa.com/game/6154260 and ESPN",
+    "reason": "Neutral-site game in Charlotte. NCAA.com and ESPN both designate South Carolina as the home team; the primary source designates North Carolina. The winner, the loser, and both teams' scores are the same in every source."
+  },
+  {
+    "game_id": "401520167",
+    "field": "away_score",
+    "value": "31",
+    "primary_value": "17",
+    "espn_value": "31",
+    "source": "https://www.ncaa.com/game/6154260 and ESPN",
+    "reason": "Neutral-site game in Charlotte. NCAA.com and ESPN both designate South Carolina as the home team; the primary source designates North Carolina. The winner, the loser, and both teams' scores are the same in every source."
+  },
+  {
+    "game_id": "401520349",
+    "field": "conference_game",
+    "value": "false",
+    "primary_value": "true",
+    "espn_value": "false",
+    "source": "datasets/2023/teams.csv (both teams are listed as FBS Independents)",
+    "reason": "Both teams were FBS Independents. A team with no conference cannot play a conference game, so the primary source's flag is a labeling quirk."
+  },
+  {
+    "game_id": "401520443",
+    "field": "conference_game",
+    "value": "false",
+    "primary_value": "true",
+    "espn_value": "false",
+    "source": "datasets/2023/teams.csv (both teams are listed as FBS Independents)",
+    "reason": "Both teams were FBS Independents. A team with no conference cannot play a conference game, so the primary source's flag is a labeling quirk."
+  },
+  {
+    "poll_file": "ap_poll.csv",
+    "poll_date": "2023-09-24",
+    "team": "Florida State",
+    "field": "points",
+    "value": "1351",
+    "primary_value": "1351",
+    "espn_value": "1351",
+    "archive_value": "1366",
+    "source": "https://lsusports.net/news/2023/09/24/sept-24-football-national-rankings",
+    "reason": "College Poll Archive lists different point totals. The primary source and ESPN agree, and a published copy of the poll from the day it was released shows the same totals as ours."
+  },
+  {
+    "poll_file": "ap_poll.csv",
+    "poll_date": "2023-09-24",
+    "team": "Florida",
+    "field": "points",
+    "value": "235",
+    "primary_value": "235",
+    "espn_value": "235",
+    "archive_value": "220",
+    "source": "https://lsusports.net/news/2023/09/24/sept-24-football-national-rankings",
+    "reason": "College Poll Archive lists different point totals. The primary source and ESPN agree, and a published copy of the poll from the day it was released shows the same totals as ours."
+  }
+]

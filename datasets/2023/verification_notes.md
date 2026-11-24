@@ -1,0 +1,7 @@
+Three things in this season's record deserve a sentence of explanation.
+
+1. South Carolina and North Carolina met at a neutral site in Charlotte on September 2. Every source agrees on the result (North Carolina 31, South Carolina 17) and on the neutral site. The primary source designated North Carolina as the home team; ESPN and NCAA.com both designated South Carolina. We kept the designation that two of the three sources use, and the change is listed in the cross-check table above. No edge in the graph depends on this designation.
+
+2. The AP poll released September 24 is the one poll where College Poll Archive's tallies differ from ours: it lists Florida State with 1,366 points and Florida with 220, while the primary source and ESPN both list 1,351 and 235. A published copy of the poll from that day (https://lsusports.net/news/2023/09/24/sept-24-football-national-rankings) shows 1,351 and 235, so our values stand. The ranks are the same in every source.
+
+3. Michigan State's game against Penn State on November 24 was played at Ford Field in Detroit. The primary source calls it a neutral site and ESPN does not. The Wikipedia season page for Michigan State marks it as a neutral-site game, so the neutral flag stays true. Arkansas's game against Western Carolina on September 2 went the other way: it was played at War Memorial Stadium in Little Rock, which the Wikipedia season page lists as an Arkansas home game, so its neutral flag is false.

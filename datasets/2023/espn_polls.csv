@@ -1,0 +1,901 @@
+poll,poll_date,rank,team_id,team,points,first_place_votes
+ap,2023-08-14,1,61,Georgia,1572,60
+ap,2023-08-14,2,130,Michigan,1490,2
+ap,2023-08-14,3,194,Ohio State,1400,1
+ap,2023-08-14,4,333,Alabama,1398,0
+ap,2023-08-14,5,99,LSU,1276,0
+ap,2023-08-14,6,30,USC,1245,0
+ap,2023-08-14,7,213,Penn State,1177,0
+ap,2023-08-14,8,52,Florida State,1147,0
+ap,2023-08-14,9,228,Clemson,1032,0
+ap,2023-08-14,10,264,Washington,977,0
+ap,2023-08-14,11,251,Texas,882,0
+ap,2023-08-14,12,2633,Tennessee,868,0
+ap,2023-08-14,13,87,Notre Dame,863,0
+ap,2023-08-14,14,254,Utah,811,0
+ap,2023-08-14,15,2483,Oregon,732,0
+ap,2023-08-14,16,2306,Kansas State,501,0
+ap,2023-08-14,17,2628,TCU,416,0
+ap,2023-08-14,18,204,Oregon State,406,0
+ap,2023-08-14,19,275,Wisconsin,386,0
+ap,2023-08-14,20,201,Oklahoma,296,0
+ap,2023-08-14,21,153,North Carolina,292,0
+ap,2023-08-14,22,145,Ole Miss,281,0
+ap,2023-08-14,23,245,Texas A&M,227,0
+ap,2023-08-14,24,2655,Tulane,224,0
+ap,2023-08-14,25,2294,Iowa,131,0
+ap,2023-09-05,1,61,Georgia,1569,58
+ap,2023-09-05,2,130,Michigan,1485,2
+ap,2023-09-05,3,333,Alabama,1424,0
+ap,2023-09-05,4,52,Florida State,1384,3
+ap,2023-09-05,5,194,Ohio State,1308,0
+ap,2023-09-05,6,30,USC,1255,0
+ap,2023-09-05,7,213,Penn State,1212,0
+ap,2023-09-05,8,264,Washington,1107,0
+ap,2023-09-05,9,2633,Tennessee,975,0
+ap,2023-09-05,10,87,Notre Dame,967,0
+ap,2023-09-05,11,251,Texas,935,0
+ap,2023-09-05,12,254,Utah,919,0
+ap,2023-09-05,13,2483,Oregon,823,0
+ap,2023-09-05,14,99,LSU,706,0
+ap,2023-09-05,15,2306,Kansas State,579,0
+ap,2023-09-05,16,204,Oregon State,558,0
+ap,2023-09-05,17,153,North Carolina,551,0
+ap,2023-09-05,18,201,Oklahoma,426,0
+ap,2023-09-05,19,275,Wisconsin,407,0
+ap,2023-09-05,20,145,Ole Miss,379,0
+ap,2023-09-05,21,150,Duke,343,0
+ap,2023-09-05,22,38,Colorado,269,0
+ap,2023-09-05,23,245,Texas A&M,267,0
+ap,2023-09-05,24,2655,Tulane,241,0
+ap,2023-09-05,25,228,Clemson,141,0
+ap,2023-09-10,1,61,Georgia,1540,55
+ap,2023-09-10,2,130,Michigan,1458,2
+ap,2023-09-10,3,52,Florida State,1413,3
+ap,2023-09-10,4,251,Texas,1338,2
+ap,2023-09-10,5,30,USC,1269,0
+ap,2023-09-10,6,194,Ohio State,1265,0
+ap,2023-09-10,7,213,Penn State,1204,0
+ap,2023-09-10,8,264,Washington,1102,0
+ap,2023-09-10,9,87,Notre Dame,1015,0
+ap,2023-09-10,10,333,Alabama,953,0
+ap,2023-09-10,11,2633,Tennessee,929,0
+ap,2023-09-10,12,254,Utah,847,0
+ap,2023-09-10,13,2483,Oregon,827,0
+ap,2023-09-10,14,99,LSU,667,0
+ap,2023-09-10,15,2306,Kansas State,636,0
+ap,2023-09-10,16,204,Oregon State,605,0
+ap,2023-09-10,17,145,Ole Miss,505,0
+ap,2023-09-10,18,38,Colorado,481,0
+ap,2023-09-10,19,201,Oklahoma,453,0
+ap,2023-09-10,20,153,North Carolina,444,0
+ap,2023-09-10,21,150,Duke,421,0
+ap,2023-09-10,22,2390,Miami,230,0
+ap,2023-09-10,23,265,Washington State,129,0
+ap,2023-09-10,24,26,UCLA,107,0
+ap,2023-09-10,25,2294,Iowa,106,0
+ap,2023-09-17,1,61,Georgia,1566,57
+ap,2023-09-17,2,130,Michigan,1481,2
+ap,2023-09-17,3,251,Texas,1380,3
+ap,2023-09-17,4,52,Florida State,1378,1
+ap,2023-09-17,5,30,USC,1296,0
+ap,2023-09-17,6,194,Ohio State,1291,0
+ap,2023-09-17,7,213,Penn State,1217,0
+ap,2023-09-17,8,264,Washington,1194,0
+ap,2023-09-17,9,87,Notre Dame,1066,0
+ap,2023-09-17,10,2483,Oregon,942,0
+ap,2023-09-17,11,254,Utah,921,0
+ap,2023-09-17,12,99,LSU,805,0
+ap,2023-09-17,13,333,Alabama,796,0
+ap,2023-09-17,14,204,Oregon State,715,0
+ap,2023-09-17,15,145,Ole Miss,657,0
+ap,2023-09-17,16,201,Oklahoma,606,0
+ap,2023-09-17,17,153,North Carolina,567,0
+ap,2023-09-17,18,150,Duke,530,0
+ap,2023-09-17,19,38,Colorado,509,0
+ap,2023-09-17,20,2390,Miami,359,0
+ap,2023-09-17,21,265,Washington State,278,0
+ap,2023-09-17,22,26,UCLA,204,0
+ap,2023-09-17,23,2633,Tennessee,198,0
+ap,2023-09-17,24,2294,Iowa,125,0
+ap,2023-09-17,25,57,Florida,103,0
+ap,2023-09-24,1,61,Georgia,1562,55
+ap,2023-09-24,2,130,Michigan,1445,1
+ap,2023-09-24,3,251,Texas,1401,2
+ap,2023-09-24,4,194,Ohio State,1370,1
+ap,2023-09-24,5,52,Florida State,1351,3
+ap,2023-09-24,6,213,Penn State,1244,0
+ap,2023-09-24,7,264,Washington,1228,1
+ap,2023-09-24,8,30,USC,1169,0
+ap,2023-09-24,9,2483,Oregon,1076,0
+ap,2023-09-24,10,254,Utah,981,0
+ap,2023-09-24,11,87,Notre Dame,904,0
+ap,2023-09-24,12,333,Alabama,862,0
+ap,2023-09-24,13,99,LSU,813,0
+ap,2023-09-24,14,201,Oklahoma,716,0
+ap,2023-09-24,15,153,North Carolina,659,0
+ap,2023-09-24,16,265,Washington State,652,0
+ap,2023-09-24,17,150,Duke,648,0
+ap,2023-09-24,18,2390,Miami,523,0
+ap,2023-09-24,19,204,Oregon State,366,0
+ap,2023-09-24,20,145,Ole Miss,349,0
+ap,2023-09-24,21,2633,Tennessee,260,0
+ap,2023-09-24,22,57,Florida,235,0
+ap,2023-09-24,23,142,Missouri,197,0
+ap,2023-09-24,24,2305,Kansas,132,0
+ap,2023-09-24,25,278,Fresno State,64,0
+ap,2023-10-01,1,61,Georgia,1501,35
+ap,2023-10-01,2,130,Michigan,1436,12
+ap,2023-10-01,3,251,Texas,1426,10
+ap,2023-10-01,4,194,Ohio State,1357,1
+ap,2023-10-01,5,52,Florida State,1336,4
+ap,2023-10-01,6,213,Penn State,1227,0
+ap,2023-10-01,7,264,Washington,1213,0
+ap,2023-10-01,8,2483,Oregon,1113,0
+ap,2023-10-01,9,30,USC,1077,0
+ap,2023-10-01,10,87,Notre Dame,975,0
+ap,2023-10-01,11,333,Alabama,921,0
+ap,2023-10-01,12,201,Oklahoma,840,0
+ap,2023-10-01,13,265,Washington State,765,0
+ap,2023-10-01,14,153,North Carolina,726,0
+ap,2023-10-01,15,204,Oregon State,633,0
+ap,2023-10-01,16,145,Ole Miss,616,0
+ap,2023-10-01,17,2390,Miami,589,0
+ap,2023-10-01,18,254,Utah,454,0
+ap,2023-10-01,19,150,Duke,384,0
+ap,2023-10-01,20,96,Kentucky,344,0
+ap,2023-10-01,21,142,Missouri,329,0
+ap,2023-10-01,22,2633,Tennessee,306,0
+ap,2023-10-01,23,99,LSU,149,0
+ap,2023-10-01,24,278,Fresno State,130,0
+ap,2023-10-01,25,97,Louisville,90,0
+ap,2023-10-08,1,61,Georgia,1559,50
+ap,2023-10-08,2,130,Michigan,1489,11
+ap,2023-10-08,3,194,Ohio State,1408,1
+ap,2023-10-08,4,52,Florida State,1389,1
+ap,2023-10-08,5,201,Oklahoma,1278,0
+ap,2023-10-08,6,213,Penn State,1273,0
+ap,2023-10-08,7,264,Washington,1239,0
+ap,2023-10-08,8,2483,Oregon,1150,0
+ap,2023-10-08,9,251,Texas,1052,0
+ap,2023-10-08,10,30,USC,999,0
+ap,2023-10-08,11,333,Alabama,971,0
+ap,2023-10-08,12,153,North Carolina,894,0
+ap,2023-10-08,13,145,Ole Miss,748,0
+ap,2023-10-08,14,97,Louisville,731,0
+ap,2023-10-08,15,204,Oregon State,725,0
+ap,2023-10-08,16,254,Utah,567,0
+ap,2023-10-08,17,150,Duke,479,0
+ap,2023-10-08,18,26,UCLA,438,0
+ap,2023-10-08,19,265,Washington State,412,0
+ap,2023-10-08,19,2633,Tennessee,412,0
+ap,2023-10-08,21,87,Notre Dame,374,0
+ap,2023-10-08,22,99,LSU,321,0
+ap,2023-10-08,23,2305,Kansas,103,0
+ap,2023-10-08,24,96,Kentucky,99,0
+ap,2023-10-08,25,2390,Miami,74,0
+ap,2023-10-15,1,61,Georgia,1541,43
+ap,2023-10-15,2,130,Michigan,1492,16
+ap,2023-10-15,3,194,Ohio State,1393,1
+ap,2023-10-15,4,52,Florida State,1388,1
+ap,2023-10-15,5,264,Washington,1355,2
+ap,2023-10-15,6,201,Oklahoma,1277,0
+ap,2023-10-15,7,213,Penn State,1253,0
+ap,2023-10-15,8,251,Texas,1098,0
+ap,2023-10-15,9,2483,Oregon,1034,0
+ap,2023-10-15,10,153,North Carolina,1011,0
+ap,2023-10-15,11,333,Alabama,987,0
+ap,2023-10-15,12,204,Oregon State,834,0
+ap,2023-10-15,13,145,Ole Miss,825,0
+ap,2023-10-15,14,254,Utah,695,0
+ap,2023-10-15,15,87,Notre Dame,664,0
+ap,2023-10-15,16,150,Duke,593,0
+ap,2023-10-15,17,2633,Tennessee,557,0
+ap,2023-10-15,18,30,USC,530,0
+ap,2023-10-15,19,99,LSU,493,0
+ap,2023-10-15,20,142,Missouri,365,0
+ap,2023-10-15,21,97,Louisville,309,0
+ap,2023-10-15,22,2005,Air Force,245,0
+ap,2023-10-15,23,2655,Tulane,137,0
+ap,2023-10-15,24,2294,Iowa,125,0
+ap,2023-10-15,25,26,UCLA,122,0
+ap,2023-10-22,1,61,Georgia,1536,38
+ap,2023-10-22,2,130,Michigan,1504,19
+ap,2023-10-22,3,194,Ohio State,1454,3
+ap,2023-10-22,4,52,Florida State,1408,3
+ap,2023-10-22,5,264,Washington,1325,0
+ap,2023-10-22,6,201,Oklahoma,1267,0
+ap,2023-10-22,7,251,Texas,1150,0
+ap,2023-10-22,8,2483,Oregon,1133,0
+ap,2023-10-22,9,333,Alabama,1071,0
+ap,2023-10-22,10,213,Penn State,999,0
+ap,2023-10-22,11,204,Oregon State,922,0
+ap,2023-10-22,12,145,Ole Miss,889,0
+ap,2023-10-22,13,254,Utah,868,0
+ap,2023-10-22,14,87,Notre Dame,718,0
+ap,2023-10-22,15,99,LSU,687,0
+ap,2023-10-22,16,142,Missouri,594,0
+ap,2023-10-22,17,153,North Carolina,506,0
+ap,2023-10-22,18,97,Louisville,420,0
+ap,2023-10-22,19,2005,Air Force,395,0
+ap,2023-10-22,20,150,Duke,371,0
+ap,2023-10-22,21,2633,Tennessee,306,0
+ap,2023-10-22,22,2655,Tulane,248,0
+ap,2023-10-22,23,26,UCLA,243,0
+ap,2023-10-22,24,30,USC,193,0
+ap,2023-10-22,25,256,James Madison,167,0
+ap,2023-10-29,1,61,Georgia,1553,48
+ap,2023-10-29,2,130,Michigan,1494,9
+ap,2023-10-29,3,194,Ohio State,1446,3
+ap,2023-10-29,4,52,Florida State,1421,3
+ap,2023-10-29,5,264,Washington,1327,0
+ap,2023-10-29,6,2483,Oregon,1235,0
+ap,2023-10-29,7,251,Texas,1189,0
+ap,2023-10-29,8,333,Alabama,1114,0
+ap,2023-10-29,9,213,Penn State,1044,0
+ap,2023-10-29,10,201,Oklahoma,1010,0
+ap,2023-10-29,11,145,Ole Miss,990,0
+ap,2023-10-29,12,87,Notre Dame,847,0
+ap,2023-10-29,13,99,LSU,816,0
+ap,2023-10-29,14,142,Missouri,714,0
+ap,2023-10-29,15,97,Louisville,666,0
+ap,2023-10-29,16,204,Oregon State,557,0
+ap,2023-10-29,17,2005,Air Force,526,0
+ap,2023-10-29,18,254,Utah,510,0
+ap,2023-10-29,19,2633,Tennessee,473,0
+ap,2023-10-29,20,26,UCLA,331,0
+ap,2023-10-29,21,2655,Tulane,303,0
+ap,2023-10-29,22,2305,Kansas,250,0
+ap,2023-10-29,23,256,James Madison,192,0
+ap,2023-10-29,24,30,USC,139,0
+ap,2023-10-29,25,2306,Kansas State,112,0
+ap,2023-11-05,1,61,Georgia,1558,49
+ap,2023-11-05,2,130,Michigan,1485,9
+ap,2023-11-05,3,194,Ohio State,1453,3
+ap,2023-11-05,4,52,Florida State,1411,2
+ap,2023-11-05,5,264,Washington,1333,0
+ap,2023-11-05,6,2483,Oregon,1240,0
+ap,2023-11-05,7,251,Texas,1190,0
+ap,2023-11-05,8,333,Alabama,1143,0
+ap,2023-11-05,9,213,Penn State,1075,0
+ap,2023-11-05,10,145,Ole Miss,1027,0
+ap,2023-11-05,11,97,Louisville,926,0
+ap,2023-11-05,12,204,Oregon State,772,0
+ap,2023-11-05,13,254,Utah,734,0
+ap,2023-11-05,14,2633,Tennessee,703,0
+ap,2023-11-05,15,197,Oklahoma State,660,0
+ap,2023-11-05,16,142,Missouri,644,0
+ap,2023-11-05,17,201,Oklahoma,547,0
+ap,2023-11-05,18,99,LSU,532,0
+ap,2023-11-05,19,2305,Kansas,496,0
+ap,2023-11-05,20,2655,Tulane,351,0
+ap,2023-11-05,21,256,James Madison,294,0
+ap,2023-11-05,22,87,Notre Dame,270,0
+ap,2023-11-05,23,12,Arizona,176,0
+ap,2023-11-05,24,153,North Carolina,95,0
+ap,2023-11-05,25,2335,Liberty,85,0
+ap,2023-11-12,1,61,Georgia,1540,54
+ap,2023-11-12,2,130,Michigan,1464,7
+ap,2023-11-12,3,194,Ohio State,1433,1
+ap,2023-11-12,4,52,Florida State,1366,0
+ap,2023-11-12,5,264,Washington,1322,0
+ap,2023-11-12,6,2483,Oregon,1218,0
+ap,2023-11-12,7,251,Texas,1180,0
+ap,2023-11-12,8,333,Alabama,1141,0
+ap,2023-11-12,9,97,Louisville,1002,0
+ap,2023-11-12,10,204,Oregon State,934,0
+ap,2023-11-12,11,142,Missouri,917,0
+ap,2023-11-12,12,213,Penn State,857,0
+ap,2023-11-12,13,145,Ole Miss,810,0
+ap,2023-11-12,14,201,Oklahoma,733,0
+ap,2023-11-12,15,99,LSU,703,0
+ap,2023-11-12,16,254,Utah,543,0
+ap,2023-11-12,17,2655,Tulane,412,0
+ap,2023-11-12,18,256,James Madison,405,0
+ap,2023-11-12,19,12,Arizona,387,0
+ap,2023-11-12,20,87,Notre Dame,359,0
+ap,2023-11-12,21,2633,Tennessee,333,0
+ap,2023-11-12,22,153,North Carolina,265,0
+ap,2023-11-12,23,2306,Kansas State,240,0
+ap,2023-11-12,24,197,Oklahoma State,178,0
+ap,2023-11-12,25,2335,Liberty,133,0
+ap,2023-11-19,1,61,Georgia,1549,61
+ap,2023-11-19,2,194,Ohio State,1447,1
+ap,2023-11-19,3,130,Michigan,1440,0
+ap,2023-11-19,4,264,Washington,1367,0
+ap,2023-11-19,5,52,Florida State,1324,0
+ap,2023-11-19,6,2483,Oregon,1219,0
+ap,2023-11-19,7,251,Texas,1180,0
+ap,2023-11-19,8,333,Alabama,1138,0
+ap,2023-11-19,9,97,Louisville,1017,0
+ap,2023-11-19,10,142,Missouri,964,0
+ap,2023-11-19,11,213,Penn State,894,0
+ap,2023-11-19,12,145,Ole Miss,878,0
+ap,2023-11-19,13,201,Oklahoma,766,0
+ap,2023-11-19,14,99,LSU,748,0
+ap,2023-11-19,15,204,Oregon State,714,0
+ap,2023-11-19,16,12,Arizona,625,0
+ap,2023-11-19,17,87,Notre Dame,503,0
+ap,2023-11-19,18,2655,Tulane,499,0
+ap,2023-11-19,19,2306,Kansas State,418,0
+ap,2023-11-19,20,2294,Iowa,332,0
+ap,2023-11-19,21,197,Oklahoma State,329,0
+ap,2023-11-19,22,2335,Liberty,229,0
+ap,2023-11-19,23,2649,Toledo,118,0
+ap,2023-11-19,24,256,James Madison,75,0
+ap,2023-11-19,25,2633,Tennessee,72,0
+ap,2023-11-26,1,61,Georgia,1540,52
+ap,2023-11-26,2,130,Michigan,1495,10
+ap,2023-11-26,3,264,Washington,1413,0
+ap,2023-11-26,4,52,Florida State,1358,0
+ap,2023-11-26,5,2483,Oregon,1277,0
+ap,2023-11-26,6,194,Ohio State,1251,0
+ap,2023-11-26,7,251,Texas,1205,0
+ap,2023-11-26,8,333,Alabama,1125,0
+ap,2023-11-26,9,142,Missouri,1011,0
+ap,2023-11-26,10,213,Penn State,961,0
+ap,2023-11-26,11,145,Ole Miss,936,0
+ap,2023-11-26,12,201,Oklahoma,857,0
+ap,2023-11-26,13,99,LSU,809,0
+ap,2023-11-26,14,12,Arizona,712,0
+ap,2023-11-26,15,97,Louisville,689,0
+ap,2023-11-26,16,87,Notre Dame,592,0
+ap,2023-11-26,17,2655,Tulane,557,0
+ap,2023-11-26,18,2294,Iowa,458,0
+ap,2023-11-26,19,197,Oklahoma State,407,0
+ap,2023-11-26,20,2335,Liberty,293,0
+ap,2023-11-26,21,152,NC State,269,0
+ap,2023-11-26,21,204,Oregon State,269,0
+ap,2023-11-26,23,2649,Toledo,176,0
+ap,2023-11-26,24,256,James Madison,121,0
+ap,2023-11-26,25,2567,SMU,108,0
+ap,2023-12-03,1,130,Michigan,1539,51
+ap,2023-12-03,2,264,Washington,1499,11
+ap,2023-12-03,3,251,Texas,1375,0
+ap,2023-12-03,4,52,Florida State,1358,0
+ap,2023-12-03,5,333,Alabama,1329,0
+ap,2023-12-03,6,61,Georgia,1256,0
+ap,2023-12-03,7,194,Ohio State,1185,0
+ap,2023-12-03,8,2483,Oregon,1119,0
+ap,2023-12-03,9,142,Missouri,1014,0
+ap,2023-12-03,10,213,Penn State,960,0
+ap,2023-12-03,11,145,Ole Miss,944,0
+ap,2023-12-03,12,201,Oklahoma,867,0
+ap,2023-12-03,13,99,LSU,823,0
+ap,2023-12-03,14,12,Arizona,740,0
+ap,2023-12-03,15,87,Notre Dame,634,0
+ap,2023-12-03,16,97,Louisville,584,0
+ap,2023-12-03,17,2567,SMU,432,0
+ap,2023-12-03,18,2335,Liberty,424,0
+ap,2023-12-03,19,152,NC State,377,0
+ap,2023-12-03,20,2294,Iowa,356,0
+ap,2023-12-03,21,204,Oregon State,309,0
+ap,2023-12-03,22,197,Oklahoma State,256,0
+ap,2023-12-03,23,2655,Tulane,201,0
+ap,2023-12-03,24,256,James Madison,177,0
+ap,2023-12-03,25,2633,Tennessee,98,0
+cfp,2023-10-31,1,194,Ohio State,0,0
+cfp,2023-10-31,2,61,Georgia,0,0
+cfp,2023-10-31,3,130,Michigan,0,0
+cfp,2023-10-31,4,52,Florida State,0,0
+cfp,2023-10-31,5,264,Washington,0,0
+cfp,2023-10-31,6,2483,Oregon,0,0
+cfp,2023-10-31,7,251,Texas,0,0
+cfp,2023-10-31,8,333,Alabama,0,0
+cfp,2023-10-31,9,201,Oklahoma,0,0
+cfp,2023-10-31,10,145,Ole Miss,0,0
+cfp,2023-10-31,11,213,Penn State,0,0
+cfp,2023-10-31,12,142,Missouri,0,0
+cfp,2023-10-31,13,97,Louisville,0,0
+cfp,2023-10-31,14,99,LSU,0,0
+cfp,2023-10-31,15,87,Notre Dame,0,0
+cfp,2023-10-31,16,204,Oregon State,0,0
+cfp,2023-10-31,17,2633,Tennessee,0,0
+cfp,2023-10-31,18,254,Utah,0,0
+cfp,2023-10-31,19,26,UCLA,0,0
+cfp,2023-10-31,20,30,USC,0,0
+cfp,2023-10-31,21,2305,Kansas,0,0
+cfp,2023-10-31,22,197,Oklahoma State,0,0
+cfp,2023-10-31,23,2306,Kansas State,0,0
+cfp,2023-10-31,24,2655,Tulane,0,0
+cfp,2023-10-31,25,2005,Air Force,0,0
+cfp,2023-11-07,1,194,Ohio State,0,0
+cfp,2023-11-07,2,61,Georgia,0,0
+cfp,2023-11-07,3,130,Michigan,0,0
+cfp,2023-11-07,4,52,Florida State,0,0
+cfp,2023-11-07,5,264,Washington,0,0
+cfp,2023-11-07,6,2483,Oregon,0,0
+cfp,2023-11-07,7,251,Texas,0,0
+cfp,2023-11-07,8,333,Alabama,0,0
+cfp,2023-11-07,9,145,Ole Miss,0,0
+cfp,2023-11-07,10,213,Penn State,0,0
+cfp,2023-11-07,11,97,Louisville,0,0
+cfp,2023-11-07,12,204,Oregon State,0,0
+cfp,2023-11-07,13,2633,Tennessee,0,0
+cfp,2023-11-07,14,142,Missouri,0,0
+cfp,2023-11-07,15,197,Oklahoma State,0,0
+cfp,2023-11-07,16,2305,Kansas,0,0
+cfp,2023-11-07,17,201,Oklahoma,0,0
+cfp,2023-11-07,18,254,Utah,0,0
+cfp,2023-11-07,19,99,LSU,0,0
+cfp,2023-11-07,20,87,Notre Dame,0,0
+cfp,2023-11-07,21,12,Arizona,0,0
+cfp,2023-11-07,22,2294,Iowa,0,0
+cfp,2023-11-07,23,2655,Tulane,0,0
+cfp,2023-11-07,24,153,North Carolina,0,0
+cfp,2023-11-07,25,2306,Kansas State,0,0
+cfp,2023-11-14,1,61,Georgia,0,0
+cfp,2023-11-14,2,194,Ohio State,0,0
+cfp,2023-11-14,3,130,Michigan,0,0
+cfp,2023-11-14,4,52,Florida State,0,0
+cfp,2023-11-14,5,264,Washington,0,0
+cfp,2023-11-14,6,2483,Oregon,0,0
+cfp,2023-11-14,7,251,Texas,0,0
+cfp,2023-11-14,8,333,Alabama,0,0
+cfp,2023-11-14,9,142,Missouri,0,0
+cfp,2023-11-14,10,97,Louisville,0,0
+cfp,2023-11-14,11,204,Oregon State,0,0
+cfp,2023-11-14,12,213,Penn State,0,0
+cfp,2023-11-14,13,145,Ole Miss,0,0
+cfp,2023-11-14,14,201,Oklahoma,0,0
+cfp,2023-11-14,15,99,LSU,0,0
+cfp,2023-11-14,16,2294,Iowa,0,0
+cfp,2023-11-14,17,12,Arizona,0,0
+cfp,2023-11-14,18,2633,Tennessee,0,0
+cfp,2023-11-14,19,87,Notre Dame,0,0
+cfp,2023-11-14,20,153,North Carolina,0,0
+cfp,2023-11-14,21,2306,Kansas State,0,0
+cfp,2023-11-14,22,254,Utah,0,0
+cfp,2023-11-14,23,197,Oklahoma State,0,0
+cfp,2023-11-14,24,2655,Tulane,0,0
+cfp,2023-11-14,25,2305,Kansas,0,0
+cfp,2023-11-21,1,61,Georgia,0,0
+cfp,2023-11-21,2,194,Ohio State,0,0
+cfp,2023-11-21,3,130,Michigan,0,0
+cfp,2023-11-21,4,264,Washington,0,0
+cfp,2023-11-21,5,52,Florida State,0,0
+cfp,2023-11-21,6,2483,Oregon,0,0
+cfp,2023-11-21,7,251,Texas,0,0
+cfp,2023-11-21,8,333,Alabama,0,0
+cfp,2023-11-21,9,142,Missouri,0,0
+cfp,2023-11-21,10,97,Louisville,0,0
+cfp,2023-11-21,11,213,Penn State,0,0
+cfp,2023-11-21,12,145,Ole Miss,0,0
+cfp,2023-11-21,13,201,Oklahoma,0,0
+cfp,2023-11-21,14,99,LSU,0,0
+cfp,2023-11-21,15,12,Arizona,0,0
+cfp,2023-11-21,16,204,Oregon State,0,0
+cfp,2023-11-21,17,2294,Iowa,0,0
+cfp,2023-11-21,18,87,Notre Dame,0,0
+cfp,2023-11-21,19,2306,Kansas State,0,0
+cfp,2023-11-21,20,197,Oklahoma State,0,0
+cfp,2023-11-21,21,2633,Tennessee,0,0
+cfp,2023-11-21,22,152,NC State,0,0
+cfp,2023-11-21,23,2655,Tulane,0,0
+cfp,2023-11-21,24,228,Clemson,0,0
+cfp,2023-11-21,25,2335,Liberty,0,0
+cfp,2023-11-28,1,61,Georgia,0,0
+cfp,2023-11-28,2,130,Michigan,0,0
+cfp,2023-11-28,3,264,Washington,0,0
+cfp,2023-11-28,4,52,Florida State,0,0
+cfp,2023-11-28,5,2483,Oregon,0,0
+cfp,2023-11-28,6,194,Ohio State,0,0
+cfp,2023-11-28,7,251,Texas,0,0
+cfp,2023-11-28,8,333,Alabama,0,0
+cfp,2023-11-28,9,142,Missouri,0,0
+cfp,2023-11-28,10,213,Penn State,0,0
+cfp,2023-11-28,11,145,Ole Miss,0,0
+cfp,2023-11-28,12,201,Oklahoma,0,0
+cfp,2023-11-28,13,99,LSU,0,0
+cfp,2023-11-28,14,97,Louisville,0,0
+cfp,2023-11-28,15,12,Arizona,0,0
+cfp,2023-11-28,16,2294,Iowa,0,0
+cfp,2023-11-28,17,87,Notre Dame,0,0
+cfp,2023-11-28,18,197,Oklahoma State,0,0
+cfp,2023-11-28,19,152,NC State,0,0
+cfp,2023-11-28,20,204,Oregon State,0,0
+cfp,2023-11-28,21,2633,Tennessee,0,0
+cfp,2023-11-28,22,2655,Tulane,0,0
+cfp,2023-11-28,23,228,Clemson,0,0
+cfp,2023-11-28,24,2335,Liberty,0,0
+cfp,2023-11-28,25,2306,Kansas State,0,0
+cfp,2023-12-03,1,130,Michigan,0,0
+cfp,2023-12-03,2,264,Washington,0,0
+cfp,2023-12-03,3,251,Texas,0,0
+cfp,2023-12-03,4,333,Alabama,0,0
+cfp,2023-12-03,5,52,Florida State,0,0
+cfp,2023-12-03,6,61,Georgia,0,0
+cfp,2023-12-03,7,194,Ohio State,0,0
+cfp,2023-12-03,8,2483,Oregon,0,0
+cfp,2023-12-03,9,142,Missouri,0,0
+cfp,2023-12-03,10,213,Penn State,0,0
+cfp,2023-12-03,11,145,Ole Miss,0,0
+cfp,2023-12-03,12,201,Oklahoma,0,0
+cfp,2023-12-03,13,99,LSU,0,0
+cfp,2023-12-03,14,12,Arizona,0,0
+cfp,2023-12-03,15,97,Louisville,0,0
+cfp,2023-12-03,16,87,Notre Dame,0,0
+cfp,2023-12-03,17,2294,Iowa,0,0
+cfp,2023-12-03,18,152,NC State,0,0
+cfp,2023-12-03,19,204,Oregon State,0,0
+cfp,2023-12-03,20,197,Oklahoma State,0,0
+cfp,2023-12-03,21,2633,Tennessee,0,0
+cfp,2023-12-03,22,228,Clemson,0,0
+cfp,2023-12-03,23,2335,Liberty,0,0
+cfp,2023-12-03,24,2567,SMU,0,0
+cfp,2023-12-03,25,2306,Kansas State,0,0
+coaches,2023-08-07,1,61,Georgia,1643,61
+coaches,2023-08-07,2,130,Michigan,1510,0
+coaches,2023-08-07,3,333,Alabama,1489,4
+coaches,2023-08-07,4,194,Ohio State,1485,1
+coaches,2023-08-07,5,99,LSU,1294,0
+coaches,2023-08-07,6,30,USC,1228,0
+coaches,2023-08-07,7,213,Penn State,1181,0
+coaches,2023-08-07,8,52,Florida State,1145,0
+coaches,2023-08-07,9,228,Clemson,1078,0
+coaches,2023-08-07,10,2633,Tennessee,991,0
+coaches,2023-08-07,11,264,Washington,941,0
+coaches,2023-08-07,12,251,Texas,848,0
+coaches,2023-08-07,13,87,Notre Dame,841,0
+coaches,2023-08-07,14,254,Utah,839,0
+coaches,2023-08-07,15,2483,Oregon,820,0
+coaches,2023-08-07,16,2628,TCU,655,0
+coaches,2023-08-07,17,2306,Kansas State,440,0
+coaches,2023-08-07,18,204,Oregon State,365,0
+coaches,2023-08-07,19,201,Oklahoma,320,0
+coaches,2023-08-07,20,153,North Carolina,315,0
+coaches,2023-08-07,21,275,Wisconsin,309,0
+coaches,2023-08-07,22,145,Ole Miss,303,0
+coaches,2023-08-07,23,2655,Tulane,225,0
+coaches,2023-08-07,24,2641,Texas Tech,200,0
+coaches,2023-08-07,25,245,Texas A&M,196,0
+coaches,2023-09-05,1,61,Georgia,1647,63
+coaches,2023-09-05,2,130,Michigan,1534,1
+coaches,2023-09-05,3,333,Alabama,1515,2
+coaches,2023-09-05,4,194,Ohio State,1422,0
+coaches,2023-09-05,5,52,Florida State,1388,0
+coaches,2023-09-05,6,30,USC,1283,0
+coaches,2023-09-05,7,213,Penn State,1216,0
+coaches,2023-09-05,8,264,Washington,1115,0
+coaches,2023-09-05,9,2633,Tennessee,1099,0
+coaches,2023-09-05,10,251,Texas,957,0
+coaches,2023-09-05,11,87,Notre Dame,950,0
+coaches,2023-09-05,12,254,Utah,924,0
+coaches,2023-09-05,13,2483,Oregon,904,0
+coaches,2023-09-05,14,99,LSU,738,0
+coaches,2023-09-05,15,2306,Kansas State,630,0
+coaches,2023-09-05,16,153,North Carolina,546,0
+coaches,2023-09-05,17,201,Oklahoma,543,0
+coaches,2023-09-05,18,204,Oregon State,499,0
+coaches,2023-09-05,19,275,Wisconsin,445,0
+coaches,2023-09-05,20,145,Ole Miss,411,0
+coaches,2023-09-05,21,228,Clemson,287,0
+coaches,2023-09-05,22,2655,Tulane,255,0
+coaches,2023-09-05,23,245,Texas A&M,236,0
+coaches,2023-09-05,24,150,Duke,222,0
+coaches,2023-09-05,25,38,Colorado,161,0
+coaches,2023-09-10,1,61,Georgia,1624,64
+coaches,2023-09-10,2,130,Michigan,1533,1
+coaches,2023-09-10,3,52,Florida State,1441,0
+coaches,2023-09-10,4,194,Ohio State,1401,0
+coaches,2023-09-10,5,30,USC,1319,0
+coaches,2023-09-10,6,251,Texas,1318,0
+coaches,2023-09-10,7,213,Penn State,1229,0
+coaches,2023-09-10,8,264,Washington,1129,0
+coaches,2023-09-10,9,2633,Tennessee,1039,0
+coaches,2023-09-10,10,333,Alabama,1016,0
+coaches,2023-09-10,11,87,Notre Dame,1004,0
+coaches,2023-09-10,12,254,Utah,893,0
+coaches,2023-09-10,13,2483,Oregon,870,0
+coaches,2023-09-10,14,99,LSU,714,0
+coaches,2023-09-10,15,2306,Kansas State,675,0
+coaches,2023-09-10,16,201,Oklahoma,584,0
+coaches,2023-09-10,17,204,Oregon State,562,0
+coaches,2023-09-10,18,153,North Carolina,506,0
+coaches,2023-09-10,19,145,Ole Miss,503,0
+coaches,2023-09-10,20,150,Duke,363,0
+coaches,2023-09-10,21,38,Colorado,357,0
+coaches,2023-09-10,22,228,Clemson,207,0
+coaches,2023-09-10,23,2390,Miami,195,0
+coaches,2023-09-10,24,2294,Iowa,166,0
+coaches,2023-09-10,25,26,UCLA,101,0
+coaches,2023-09-17,1,61,Georgia,1598,62
+coaches,2023-09-17,2,130,Michigan,1514,1
+coaches,2023-09-17,3,52,Florida State,1396,0
+coaches,2023-09-17,4,194,Ohio State,1394,1
+coaches,2023-09-17,5,30,USC,1325,0
+coaches,2023-09-17,6,251,Texas,1312,0
+coaches,2023-09-17,7,213,Penn State,1224,0
+coaches,2023-09-17,8,264,Washington,1164,0
+coaches,2023-09-17,9,87,Notre Dame,1044,0
+coaches,2023-09-17,10,254,Utah,967,0
+coaches,2023-09-17,11,2483,Oregon,946,0
+coaches,2023-09-17,12,333,Alabama,886,0
+coaches,2023-09-17,13,99,LSU,808,0
+coaches,2023-09-17,14,201,Oklahoma,683,0
+coaches,2023-09-17,15,204,Oregon State,660,0
+coaches,2023-09-17,16,145,Ole Miss,602,0
+coaches,2023-09-17,17,153,North Carolina,592,0
+coaches,2023-09-17,18,150,Duke,469,0
+coaches,2023-09-17,19,38,Colorado,435,0
+coaches,2023-09-17,20,2633,Tennessee,362,0
+coaches,2023-09-17,21,2390,Miami,298,0
+coaches,2023-09-17,22,2294,Iowa,206,0
+coaches,2023-09-17,23,228,Clemson,193,0
+coaches,2023-09-17,24,265,Washington State,160,0
+coaches,2023-09-17,25,26,UCLA,156,0
+coaches,2023-09-24,1,61,Georgia,1592,61
+coaches,2023-09-24,2,130,Michigan,1495,0
+coaches,2023-09-24,3,194,Ohio State,1414,2
+coaches,2023-09-24,4,52,Florida State,1390,0
+coaches,2023-09-24,5,251,Texas,1336,0
+coaches,2023-09-24,6,30,USC,1288,0
+coaches,2023-09-24,7,213,Penn State,1225,0
+coaches,2023-09-24,8,264,Washington,1194,1
+coaches,2023-09-24,9,2483,Oregon,1071,0
+coaches,2023-09-24,10,254,Utah,1010,0
+coaches,2023-09-24,11,333,Alabama,930,0
+coaches,2023-09-24,12,99,LSU,844,0
+coaches,2023-09-24,13,87,Notre Dame,837,0
+coaches,2023-09-24,14,201,Oklahoma,784,0
+coaches,2023-09-24,15,153,North Carolina,698,0
+coaches,2023-09-24,16,150,Duke,605,0
+coaches,2023-09-24,17,265,Washington State,555,0
+coaches,2023-09-24,18,2390,Miami,485,0
+coaches,2023-09-24,19,2633,Tennessee,404,0
+coaches,2023-09-24,20,145,Ole Miss,305,0
+coaches,2023-09-24,21,204,Oregon State,293,0
+coaches,2023-09-24,22,142,Missouri,140,0
+coaches,2023-09-24,23,57,Florida,134,0
+coaches,2023-09-24,24,2305,Kansas,120,0
+coaches,2023-09-24,25,2306,Kansas State,109,0
+coaches,2023-10-01,1,61,Georgia,1589,59
+coaches,2023-10-01,2,130,Michigan,1503,1
+coaches,2023-10-01,3,194,Ohio State,1405,2
+coaches,2023-10-01,4,251,Texas,1381,1
+coaches,2023-10-01,5,52,Florida State,1374,0
+coaches,2023-10-01,6,213,Penn State,1241,0
+coaches,2023-10-01,7,30,USC,1227,0
+coaches,2023-10-01,8,264,Washington,1199,1
+coaches,2023-10-01,9,2483,Oregon,1118,0
+coaches,2023-10-01,10,333,Alabama,996,0
+coaches,2023-10-01,11,87,Notre Dame,925,0
+coaches,2023-10-01,12,201,Oklahoma,888,0
+coaches,2023-10-01,13,153,North Carolina,795,0
+coaches,2023-10-01,14,265,Washington State,711,0
+coaches,2023-10-01,15,145,Ole Miss,617,0
+coaches,2023-10-01,16,204,Oregon State,606,0
+coaches,2023-10-01,17,2390,Miami,566,0
+coaches,2023-10-01,18,2633,Tennessee,490,0
+coaches,2023-10-01,19,254,Utah,428,0
+coaches,2023-10-01,20,96,Kentucky,356,0
+coaches,2023-10-01,21,150,Duke,319,0
+coaches,2023-10-01,22,142,Missouri,283,0
+coaches,2023-10-01,23,99,LSU,169,0
+coaches,2023-10-01,24,278,Fresno State,144,0
+coaches,2023-10-01,25,97,Louisville,99,0
+coaches,2023-10-08,1,61,Georgia,1597,61
+coaches,2023-10-08,2,130,Michigan,1512,0
+coaches,2023-10-08,3,194,Ohio State,1443,2
+coaches,2023-10-08,4,52,Florida State,1411,0
+coaches,2023-10-08,5,213,Penn State,1300,0
+coaches,2023-10-08,6,264,Washington,1246,1
+coaches,2023-10-08,7,201,Oklahoma,1200,0
+coaches,2023-10-08,8,2483,Oregon,1168,0
+coaches,2023-10-08,9,30,USC,1121,0
+coaches,2023-10-08,10,333,Alabama,1025,0
+coaches,2023-10-08,11,251,Texas,982,0
+coaches,2023-10-08,12,153,North Carolina,912,0
+coaches,2023-10-08,13,145,Ole Miss,764,0
+coaches,2023-10-08,14,204,Oregon State,713,0
+coaches,2023-10-08,15,97,Louisville,651,0
+coaches,2023-10-08,16,254,Utah,600,0
+coaches,2023-10-08,17,2633,Tennessee,587,0
+coaches,2023-10-08,18,150,Duke,451,0
+coaches,2023-10-08,19,265,Washington State,370,0
+coaches,2023-10-08,20,99,LSU,355,0
+coaches,2023-10-08,21,87,Notre Dame,324,0
+coaches,2023-10-08,22,26,UCLA,276,0
+coaches,2023-10-08,23,96,Kentucky,159,0
+coaches,2023-10-08,24,2305,Kansas,120,0
+coaches,2023-10-08,25,142,Missouri,78,0
+coaches,2023-10-15,1,61,Georgia,1590,58
+coaches,2023-10-15,2,130,Michigan,1516,4
+coaches,2023-10-15,3,194,Ohio State,1429,1
+coaches,2023-10-15,4,52,Florida State,1390,0
+coaches,2023-10-15,5,264,Washington,1325,0
+coaches,2023-10-15,6,213,Penn State,1302,0
+coaches,2023-10-15,7,201,Oklahoma,1260,1
+coaches,2023-10-15,8,251,Texas,1078,0
+coaches,2023-10-15,8,333,Alabama,1078,0
+coaches,2023-10-15,10,153,North Carolina,1038,0
+coaches,2023-10-15,11,2483,Oregon,989,0
+coaches,2023-10-15,12,145,Ole Miss,849,0
+coaches,2023-10-15,13,204,Oregon State,809,0
+coaches,2023-10-15,14,254,Utah,704,0
+coaches,2023-10-15,15,2633,Tennessee,663,0
+coaches,2023-10-15,16,30,USC,606,0
+coaches,2023-10-15,17,150,Duke,590,0
+coaches,2023-10-15,18,87,Notre Dame,572,0
+coaches,2023-10-15,19,99,LSU,482,0
+coaches,2023-10-15,20,142,Missouri,368,0
+coaches,2023-10-15,21,97,Louisville,309,0
+coaches,2023-10-15,22,2005,Air Force,196,0
+coaches,2023-10-15,23,2294,Iowa,192,0
+coaches,2023-10-15,24,2655,Tulane,112,0
+coaches,2023-10-15,25,26,UCLA,70,0
+coaches,2023-10-22,1,61,Georgia,1586,58
+coaches,2023-10-22,2,130,Michigan,1522,4
+coaches,2023-10-22,3,194,Ohio State,1459,2
+coaches,2023-10-22,4,52,Florida State,1426,0
+coaches,2023-10-22,5,264,Washington,1333,0
+coaches,2023-10-22,6,201,Oklahoma,1283,0
+coaches,2023-10-22,7,251,Texas,1150,0
+coaches,2023-10-22,8,333,Alabama,1141,0
+coaches,2023-10-22,9,2483,Oregon,1089,0
+coaches,2023-10-22,10,213,Penn State,1056,0
+coaches,2023-10-22,11,145,Ole Miss,931,0
+coaches,2023-10-22,12,204,Oregon State,892,0
+coaches,2023-10-22,13,254,Utah,866,0
+coaches,2023-10-22,14,87,Notre Dame,688,0
+coaches,2023-10-22,15,99,LSU,677,0
+coaches,2023-10-22,16,142,Missouri,604,0
+coaches,2023-10-22,17,153,North Carolina,574,0
+coaches,2023-10-22,18,97,Louisville,451,0
+coaches,2023-10-22,19,2005,Air Force,374,0
+coaches,2023-10-22,20,2633,Tennessee,356,0
+coaches,2023-10-22,21,150,Duke,350,0
+coaches,2023-10-22,22,30,USC,269,0
+coaches,2023-10-22,23,2655,Tulane,202,0
+coaches,2023-10-22,24,26,UCLA,195,0
+coaches,2023-10-22,25,256,James Madison,101,0
+coaches,2023-10-29,1,61,Georgia,1590,58
+coaches,2023-10-29,2,130,Michigan,1520,3
+coaches,2023-10-29,3,194,Ohio State,1454,3
+coaches,2023-10-29,4,52,Florida State,1439,0
+coaches,2023-10-29,5,264,Washington,1344,0
+coaches,2023-10-29,6,251,Texas,1212,0
+coaches,2023-10-29,7,2483,Oregon,1211,0
+coaches,2023-10-29,8,333,Alabama,1187,0
+coaches,2023-10-29,9,213,Penn State,1072,0
+coaches,2023-10-29,10,145,Ole Miss,1021,0
+coaches,2023-10-29,11,201,Oklahoma,948,0
+coaches,2023-10-29,12,87,Notre Dame,847,0
+coaches,2023-10-29,13,99,LSU,809,0
+coaches,2023-10-29,14,142,Missouri,741,0
+coaches,2023-10-29,15,97,Louisville,701,0
+coaches,2023-10-29,16,2633,Tennessee,553,0
+coaches,2023-10-29,17,2005,Air Force,523,0
+coaches,2023-10-29,18,254,Utah,509,0
+coaches,2023-10-29,19,204,Oregon State,465,0
+coaches,2023-10-29,20,26,UCLA,309,0
+coaches,2023-10-29,21,2655,Tulane,304,0
+coaches,2023-10-29,22,30,USC,239,0
+coaches,2023-10-29,23,2305,Kansas,182,0
+coaches,2023-10-29,24,256,James Madison,169,0
+coaches,2023-10-29,25,153,North Carolina,120,0
+coaches,2023-11-05,1,61,Georgia,1587,55
+coaches,2023-11-05,2,130,Michigan,1479,4
+coaches,2023-11-05,3,194,Ohio State,1468,5
+coaches,2023-11-05,4,52,Florida State,1433,0
+coaches,2023-11-05,5,264,Washington,1357,0
+coaches,2023-11-05,6,2483,Oregon,1235,0
+coaches,2023-11-05,7,251,Texas,1209,0
+coaches,2023-11-05,8,333,Alabama,1187,0
+coaches,2023-11-05,9,213,Penn State,1093,0
+coaches,2023-11-05,10,145,Ole Miss,1052,0
+coaches,2023-11-05,11,97,Louisville,938,0
+coaches,2023-11-05,12,2633,Tennessee,785,0
+coaches,2023-11-05,13,204,Oregon State,756,0
+coaches,2023-11-05,14,254,Utah,747,0
+coaches,2023-11-05,15,142,Missouri,658,0
+coaches,2023-11-05,16,201,Oklahoma,552,0
+coaches,2023-11-05,17,197,Oklahoma State,543,0
+coaches,2023-11-05,18,2305,Kansas,481,0
+coaches,2023-11-05,19,99,LSU,468,0
+coaches,2023-11-05,20,2655,Tulane,377,0
+coaches,2023-11-05,21,256,James Madison,279,0
+coaches,2023-11-05,22,87,Notre Dame,264,0
+coaches,2023-11-05,23,153,North Carolina,233,0
+coaches,2023-11-05,24,12,Arizona,118,0
+coaches,2023-11-05,25,278,Fresno State,113,0
+coaches,2023-11-12,1,61,Georgia,1591,58
+coaches,2023-11-12,2,130,Michigan,1479,3
+coaches,2023-11-12,3,194,Ohio State,1467,3
+coaches,2023-11-12,4,52,Florida State,1428,0
+coaches,2023-11-12,5,264,Washington,1358,0
+coaches,2023-11-12,6,2483,Oregon,1256,0
+coaches,2023-11-12,7,251,Texas,1207,0
+coaches,2023-11-12,8,333,Alabama,1197,0
+coaches,2023-11-12,9,97,Louisville,1042,0
+coaches,2023-11-12,10,204,Oregon State,945,0
+coaches,2023-11-12,11,142,Missouri,937,0
+coaches,2023-11-12,12,213,Penn State,890,0
+coaches,2023-11-12,13,201,Oklahoma,817,0
+coaches,2023-11-12,14,145,Ole Miss,815,0
+coaches,2023-11-12,15,99,LSU,667,0
+coaches,2023-11-12,16,254,Utah,531,0
+coaches,2023-11-12,17,2655,Tulane,434,0
+coaches,2023-11-12,18,87,Notre Dame,424,0
+coaches,2023-11-12,19,2633,Tennessee,401,0
+coaches,2023-11-12,20,153,North Carolina,387,0
+coaches,2023-11-12,21,256,James Madison,343,0
+coaches,2023-11-12,22,12,Arizona,295,0
+coaches,2023-11-12,23,2294,Iowa,252,0
+coaches,2023-11-12,24,2306,Kansas State,216,0
+coaches,2023-11-12,25,197,Oklahoma State,145,0
+coaches,2023-11-19,1,61,Georgia,1571,61
+coaches,2023-11-19,2,194,Ohio State,1460,1
+coaches,2023-11-19,3,130,Michigan,1458,1
+coaches,2023-11-19,4,52,Florida State,1375,0
+coaches,2023-11-19,5,264,Washington,1367,0
+coaches,2023-11-19,6,2483,Oregon,1234,0
+coaches,2023-11-19,7,251,Texas,1193,0
+coaches,2023-11-19,8,333,Alabama,1174,0
+coaches,2023-11-19,9,97,Louisville,1035,0
+coaches,2023-11-19,10,142,Missouri,981,0
+coaches,2023-11-19,11,213,Penn State,908,0
+coaches,2023-11-19,12,145,Ole Miss,863,0
+coaches,2023-11-19,13,201,Oklahoma,840,0
+coaches,2023-11-19,14,99,LSU,726,0
+coaches,2023-11-19,15,204,Oregon State,684,0
+coaches,2023-11-19,16,12,Arizona,568,0
+coaches,2023-11-19,17,87,Notre Dame,536,0
+coaches,2023-11-19,18,2655,Tulane,493,0
+coaches,2023-11-19,19,2294,Iowa,447,0
+coaches,2023-11-19,20,2306,Kansas State,424,0
+coaches,2023-11-19,21,197,Oklahoma State,299,0
+coaches,2023-11-19,22,2335,Liberty,158,0
+coaches,2023-11-19,23,2633,Tennessee,109,0
+coaches,2023-11-19,24,152,NC State,97,0
+coaches,2023-11-19,25,2567,SMU,84,0
+coaches,2023-11-26,1,61,Georgia,1571,59
+coaches,2023-11-26,2,130,Michigan,1506,4
+coaches,2023-11-26,3,264,Washington,1417,0
+coaches,2023-11-26,4,52,Florida State,1403,0
+coaches,2023-11-26,5,2483,Oregon,1278,0
+coaches,2023-11-26,6,194,Ohio State,1250,0
+coaches,2023-11-26,7,251,Texas,1226,0
+coaches,2023-11-26,8,333,Alabama,1182,0
+coaches,2023-11-26,9,142,Missouri,1034,0
+coaches,2023-11-26,10,213,Penn State,967,0
+coaches,2023-11-26,11,145,Ole Miss,937,0
+coaches,2023-11-26,12,201,Oklahoma,895,0
+coaches,2023-11-26,13,99,LSU,780,0
+coaches,2023-11-26,14,97,Louisville,716,0
+coaches,2023-11-26,15,12,Arizona,681,0
+coaches,2023-11-26,16,87,Notre Dame,602,0
+coaches,2023-11-26,17,2294,Iowa,553,0
+coaches,2023-11-26,18,2655,Tulane,549,0
+coaches,2023-11-26,19,197,Oklahoma State,417,0
+coaches,2023-11-26,20,152,NC State,303,0
+coaches,2023-11-26,21,204,Oregon State,253,0
+coaches,2023-11-26,22,2335,Liberty,236,0
+coaches,2023-11-26,23,2633,Tennessee,209,0
+coaches,2023-11-26,24,2567,SMU,135,0
+coaches,2023-11-26,25,256,James Madison,79,0
+coaches,2023-12-03,1,130,Michigan,1535,51
+coaches,2023-12-03,2,264,Washington,1482,8
+coaches,2023-12-03,3,52,Florida State,1358,0
+coaches,2023-12-03,4,333,Alabama,1351,3
+coaches,2023-12-03,4,251,Texas,1351,0
+coaches,2023-12-03,6,61,Georgia,1275,0
+coaches,2023-12-03,7,194,Ohio State,1187,0
+coaches,2023-12-03,8,2483,Oregon,1092,0
+coaches,2023-12-03,9,142,Missouri,1023,0
+coaches,2023-12-03,10,213,Penn State,952,0
+coaches,2023-12-03,11,145,Ole Miss,932,0
+coaches,2023-12-03,12,201,Oklahoma,898,0
+coaches,2023-12-03,13,99,LSU,796,0
+coaches,2023-12-03,14,12,Arizona,707,0
+coaches,2023-12-03,15,97,Louisville,642,0
+coaches,2023-12-03,16,87,Notre Dame,633,0
+coaches,2023-12-03,17,2294,Iowa,426,0
+coaches,2023-12-03,18,152,NC State,423,0
+coaches,2023-12-03,19,2567,SMU,375,0
+coaches,2023-12-03,20,2335,Liberty,315,0
+coaches,2023-12-03,21,197,Oklahoma State,299,0
+coaches,2023-12-03,22,204,Oregon State,295,0
+coaches,2023-12-03,23,2633,Tennessee,226,0
+coaches,2023-12-03,24,2655,Tulane,139,0
+coaches,2023-12-03,25,256,James Madison,114,0

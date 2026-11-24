@@ -1,0 +1,101 @@
+[
+  {
+    "game_id": "401539476",
+    "game_date": "2023-12-01",
+    "week": 14,
+    "home_team": "Liberty",
+    "away_team": "New Mexico State",
+    "notes": "Conference USA Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401539475",
+    "game_date": "2023-12-01",
+    "week": 14,
+    "home_team": "Washington",
+    "away_team": "Oregon",
+    "notes": "Pac-12 Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401539481",
+    "game_date": "2023-12-02",
+    "week": 14,
+    "home_team": "Toledo",
+    "away_team": "Miami (OH)",
+    "notes": "MAC Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401539479",
+    "game_date": "2023-12-02",
+    "week": 14,
+    "home_team": "Texas",
+    "away_team": "Oklahoma State",
+    "notes": "Dr Pepper Big 12 Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401539482",
+    "game_date": "2023-12-02",
+    "week": 14,
+    "home_team": "UNLV",
+    "away_team": "Boise State",
+    "notes": "Mountain West Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401539477",
+    "game_date": "2023-12-02",
+    "week": 14,
+    "home_team": "Tulane",
+    "away_team": "SMU",
+    "notes": "American Athletic Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401539484",
+    "game_date": "2023-12-02",
+    "week": 14,
+    "home_team": "Troy",
+    "away_team": "App State",
+    "notes": "Sun Belt Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401539483",
+    "game_date": "2023-12-02",
+    "week": 14,
+    "home_team": "Alabama",
+    "away_team": "Georgia",
+    "notes": "SEC Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401539480",
+    "game_date": "2023-12-02",
+    "week": 14,
+    "home_team": "Iowa",
+    "away_team": "Michigan",
+    "notes": "Big Ten Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401539478",
+    "game_date": "2023-12-02",
+    "week": 14,
+    "home_team": "Florida State",
+    "away_team": "Louisville",
+    "notes": "ACC Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401520445",
+    "game_date": "2023-12-09",
+    "week": 15,
+    "home_team": "Army",
+    "away_team": "Navy",
+    "notes": null,
+    "reason": "after rivalry week"
+  }
+]

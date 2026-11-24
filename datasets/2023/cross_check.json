@@ -1,0 +1,18 @@
+{
+  "season": 2023,
+  "games_in_dataset": 857,
+  "games_found_in_espn": 857,
+  "game_disagreements": [],
+  "settled_by_third_source": [
+    {
+      "game_id": "401520435",
+      "game_date": "2023-11-24",
+      "matchup": "Penn State at Michigan State",
+      "field": "neutral_site",
+      "ours": "true",
+      "espn": "false"
+    }
+  ],
+  "games_only_in_espn": [],
+  "poll_disagreements": []
+}

@@ -1,0 +1,230 @@
+team,team_id,conference,division,season
+Abilene Christian,2000,UAC,FCS,2023
+Air Force,2005,Mountain West,FBS,2023
+Akron,2006,Mid-American,FBS,2023
+Alabama,333,SEC,FBS,2023
+Alabama A&M,2010,SWAC,FCS,2023
+Alcorn State,2016,SWAC,FCS,2023
+App State,2026,Sun Belt,FBS,2023
+Arizona,12,Pac-12,FBS,2023
+Arizona State,9,Pac-12,FBS,2023
+Arkansas,8,SEC,FBS,2023
+Arkansas State,2032,Sun Belt,FBS,2023
+Arkansas-Pine Bluff,2029,SWAC,FCS,2023
+Army,349,FBS Independents,FBS,2023
+Auburn,2,SEC,FBS,2023
+Austin Peay,2046,UAC,FCS,2023
+BYU,252,Big 12,FBS,2023
+Ball State,2050,Mid-American,FBS,2023
+Baylor,239,Big 12,FBS,2023
+Bethune-Cookman,2065,SWAC,FCS,2023
+Boise State,68,Mountain West,FBS,2023
+Boston College,103,ACC,FBS,2023
+Bowling Green,189,Mid-American,FBS,2023
+Bryant,2803,Big South-OVC,FCS,2023
+Bucknell,2083,Patriot,FCS,2023
+Buffalo,2084,Mid-American,FBS,2023
+Cal Poly,13,Big Sky,FCS,2023
+California,25,Pac-12,FBS,2023
+Campbell,2097,Coastal Athletic,FCS,2023
+Central Arkansas,2110,UAC,FCS,2023
+Central Connecticut,2115,NEC,FCS,2023
+Central Michigan,2117,Mid-American,FBS,2023
+Charleston Southern,2127,Big South-OVC,FCS,2023
+Charlotte,2429,American Athletic,FBS,2023
+Chattanooga,236,Southern,FCS,2023
+Cincinnati,2132,Big 12,FBS,2023
+Clemson,228,ACC,FBS,2023
+Coastal Carolina,324,Sun Belt,FBS,2023
+Colgate,2142,Patriot,FCS,2023
+Colorado,38,Pac-12,FBS,2023
+Colorado State,36,Mountain West,FBS,2023
+Delaware,48,CAA,FCS,2023
+Delaware State,2169,MEAC,FCS,2023
+Duke,150,ACC,FBS,2023
+Duquesne,2184,NEC,FCS,2023
+East Carolina,151,American Athletic,FBS,2023
+East Tennessee State,2193,Southern,FCS,2023
+East Texas A&M,2837,Southland,FCS,2023
+Eastern Illinois,2197,Big South-OVC,FCS,2023
+Eastern Kentucky,2198,UAC,FCS,2023
+Eastern Michigan,2199,Mid-American,FBS,2023
+Eastern Washington,331,Big Sky,FCS,2023
+Elon,2210,Coastal Athletic,FCS,2023
+Florida,57,SEC,FBS,2023
+Florida A&M,50,SWAC,FCS,2023
+Florida Atlantic,2226,American Athletic,FBS,2023
+Florida International,2229,Conference USA,FBS,2023
+Florida State,52,ACC,FBS,2023
+Fordham,2230,Patriot,FCS,2023
+Fresno State,278,Mountain West,FBS,2023
+Furman,231,Southern,FCS,2023
+Gardner-Webb,2241,Big South-OVC,FCS,2023
+Georgia,61,SEC,FBS,2023
+Georgia Southern,290,Sun Belt,FBS,2023
+Georgia State,2247,Sun Belt,FBS,2023
+Georgia Tech,59,ACC,FBS,2023
+Grambling,2755,SWAC,FCS,2023
+Hawai'i,62,Mountain West,FBS,2023
+Holy Cross,107,Patriot,FCS,2023
+Houston,248,Big 12,FBS,2023
+Houston Christian,2277,Southland,FCS,2023
+Howard,47,MEAC,FCS,2023
+Idaho,70,Big Sky,FCS,2023
+Idaho State,304,Big Sky,FCS,2023
+Illinois,356,Big Ten,FBS,2023
+Incarnate Word,2916,Southland,FCS,2023
+Indiana,84,Big Ten,FBS,2023
+Indiana State,282,MVFC,FCS,2023
+Iowa,2294,Big Ten,FBS,2023
+Iowa State,66,Big 12,FBS,2023
+Jackson State,2296,SWAC,FCS,2023
+Jacksonville State,55,Conference USA,FBS,2023
+James Madison,256,Sun Belt,FBS,2023
+Kansas,2305,Big 12,FBS,2023
+Kansas State,2306,Big 12,FBS,2023
+Kennesaw State,338,FCS Independents,FCS,2023
+Kent State,2309,Mid-American,FBS,2023
+Kentucky,96,SEC,FBS,2023
+LSU,99,SEC,FBS,2023
+Lafayette,322,Patriot,FCS,2023
+Lamar,2320,Southland,FCS,2023
+Liberty,2335,Conference USA,FBS,2023
+Long Island University,2341,NEC,FCS,2023
+Louisiana,309,Sun Belt,FBS,2023
+Louisiana Tech,2348,Conference USA,FBS,2023
+Louisville,97,ACC,FBS,2023
+Maine,311,Coastal Athletic,FCS,2023
+Marshall,276,Sun Belt,FBS,2023
+Maryland,120,Big Ten,FBS,2023
+Massachusetts,113,FBS Independents,FBS,2023
+McNeese,2377,Southland,FCS,2023
+Memphis,235,American Athletic,FBS,2023
+Mercer,2382,Southern,FCS,2023
+Merrimack,2771,NEC,FCS,2023
+Miami,2390,ACC,FBS,2023
+Miami (OH),193,Mid-American,FBS,2023
+Michigan,130,Big Ten,FBS,2023
+Michigan State,127,Big Ten,FBS,2023
+Middle Tennessee,2393,Conference USA,FBS,2023
+Minnesota,135,Big Ten,FBS,2023
+Mississippi State,344,SEC,FBS,2023
+Missouri,142,SEC,FBS,2023
+Missouri State,2623,MVFC,FCS,2023
+Monmouth,2405,Coastal Athletic,FCS,2023
+Morgan State,2415,MEAC,FCS,2023
+Murray State,93,MVFC,FCS,2023
+NC State,152,ACC,FBS,2023
+Navy,2426,American Athletic,FBS,2023
+Nebraska,158,Big Ten,FBS,2023
+Nevada,2440,Mountain West,FBS,2023
+New Hampshire,160,Coastal Athletic,FCS,2023
+New Mexico,167,Mountain West,FBS,2023
+New Mexico State,166,Conference USA,FBS,2023
+Nicholls,2447,Southland,FCS,2023
+Norfolk State,2450,MEAC,FCS,2023
+North Alabama,2453,UAC,FCS,2023
+North Carolina,153,ACC,FBS,2023
+North Carolina A&T,2448,Coastal Athletic,FCS,2023
+North Carolina Central,2428,MEAC,FCS,2023
+North Dakota,155,MVFC,FCS,2023
+North Texas,249,American Athletic,FBS,2023
+Northern Arizona,2464,Big Sky,FCS,2023
+Northern Colorado,2458,Big Sky,FCS,2023
+Northern Illinois,2459,Mid-American,FBS,2023
+Northern Iowa,2460,MVFC,FCS,2023
+Northwestern,77,Big Ten,FBS,2023
+Northwestern State,2466,Southland,FCS,2023
+Notre Dame,87,FBS Independents,FBS,2023
+Ohio,195,Mid-American,FBS,2023
+Ohio State,194,Big Ten,FBS,2023
+Oklahoma,201,Big 12,FBS,2023
+Oklahoma State,197,Big 12,FBS,2023
+Old Dominion,295,Sun Belt,FBS,2023
+Ole Miss,145,SEC,FBS,2023
+Oregon,2483,Pac-12,FBS,2023
+Oregon State,204,Pac-12,FBS,2023
+Penn State,213,Big Ten,FBS,2023
+Pittsburgh,221,ACC,FBS,2023
+Portland State,2502,Big Sky,FCS,2023
+Prairie View A&M,2504,SWAC,FCS,2023
+Purdue,2509,Big Ten,FBS,2023
+Rhode Island,227,Coastal Athletic,FCS,2023
+Rice,242,American Athletic,FBS,2023
+Richmond,257,Coastal Athletic,FCS,2023
+Robert Morris,2523,Big South,FCS,2023
+Rutgers,164,Big Ten,FBS,2023
+SE Louisiana,2545,Southland,FCS,2023
+SMU,2567,American Athletic,FBS,2023
+Sacramento State,16,Big Sky,FCS,2023
+Sacred Heart,2529,NEC,FCS,2023
+Saint Francis,2598,NEC,FCS,2023
+Sam Houston,2534,Conference USA,FBS,2023
+Samford,2535,Southern,FCS,2023
+San Diego State,21,Mountain West,FBS,2023
+San José State,23,Mountain West,FBS,2023
+South Alabama,6,Sun Belt,FBS,2023
+South Carolina,2579,SEC,FBS,2023
+South Carolina State,2569,MEAC,FCS,2023
+South Dakota,233,MVFC,FCS,2023
+South Florida,58,American Athletic,FBS,2023
+Southeast Missouri State,2546,Big South-OVC,FCS,2023
+Southern Illinois,79,MVFC,FCS,2023
+Southern Miss,2572,Sun Belt,FBS,2023
+Southern Utah,253,UAC,FCS,2023
+Stanford,24,Pac-12,FBS,2023
+Stephen F. Austin,2617,UAC,FCS,2023
+Stony Brook,2619,Coastal Athletic,FCS,2023
+Syracuse,183,ACC,FBS,2023
+TCU,2628,Big 12,FBS,2023
+Tarleton State,2627,UAC,FCS,2023
+Temple,218,American Athletic,FBS,2023
+Tennessee,2633,SEC,FBS,2023
+Tennessee State,2634,Big South-OVC,FCS,2023
+Tennessee Tech,2635,Big South-OVC,FCS,2023
+Texas,251,Big 12,FBS,2023
+Texas A&M,245,SEC,FBS,2023
+Texas Southern,2640,SWAC,FCS,2023
+Texas State,326,Sun Belt,FBS,2023
+Texas Tech,2641,Big 12,FBS,2023
+The Citadel,2643,Southern,FCS,2023
+Toledo,2649,Mid-American,FBS,2023
+Towson,119,Coastal Athletic,FCS,2023
+Troy,2653,Sun Belt,FBS,2023
+Tulane,2655,American Athletic,FBS,2023
+Tulsa,202,American Athletic,FBS,2023
+UAB,5,American Athletic,FBS,2023
+UAlbany,399,Coastal Athletic,FCS,2023
+UC Davis,302,Big Sky,FCS,2023
+UCF,2116,Big 12,FBS,2023
+UCLA,26,Pac-12,FBS,2023
+UConn,41,FBS Independents,FBS,2023
+UL Monroe,2433,Sun Belt,FBS,2023
+UNLV,2439,Mountain West,FBS,2023
+USC,30,Pac-12,FBS,2023
+UT Martin,2630,Big South-OVC,FCS,2023
+UTEP,2638,Conference USA,FBS,2023
+UTSA,2636,American Athletic,FBS,2023
+Utah,254,Pac-12,FBS,2023
+Utah State,328,Mountain West,FBS,2023
+Utah Tech,3101,UAC,FCS,2023
+VMI,2678,Southern,FCS,2023
+Vanderbilt,238,SEC,FBS,2023
+Villanova,222,Coastal Athletic,FCS,2023
+Virginia,258,ACC,FBS,2023
+Virginia Tech,259,ACC,FBS,2023
+Wagner,2681,NEC,FCS,2023
+Wake Forest,154,ACC,FBS,2023
+Washington,264,Pac-12,FBS,2023
+Washington State,265,Pac-12,FBS,2023
+Weber State,2692,Big Sky,FCS,2023
+West Virginia,277,Big 12,FBS,2023
+Western Carolina,2717,Southern,FCS,2023
+Western Illinois,2710,MVFC,FCS,2023
+Western Kentucky,98,Conference USA,FBS,2023
+Western Michigan,2711,Mid-American,FBS,2023
+William & Mary,2729,Coastal Athletic,FCS,2023
+Wisconsin,275,Big Ten,FBS,2023
+Wofford,2747,Southern,FCS,2023
+Wyoming,2751,Mountain West,FBS,2023
+Youngstown State,2754,MVFC,FCS,2023
