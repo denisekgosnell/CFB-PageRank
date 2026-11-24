@@ -59,9 +59,9 @@ limitations under the License.
 </div>
 <div class="legend" id="legend"></div>
 <main>
-  <div id="graph-panel"><svg id="graph"></svg><div class="caption">Each circle is a Team vertex, sized by its PageRank score in the selected week. Each arrow is a loses_to edge from the team that lost to the team that won. Top 25 teams are labeled; hover for the rest.</div></div>
+  <div id="graph-panel"><svg id="graph"></svg><div class="caption">Each circle is a Team vertex, sized by its PageRank points in the selected week. Every team starts the preseason with 100 points and ends with its share of the same pool. Each arrow is a loses_to edge from the team that lost to the team that won. Top 25 teams are labeled; hover for the rest.</div></div>
   <div id="bump-panel" class="hidden"><svg id="bump"></svg><div class="caption">One line per team in the selected week's top 25, showing its PageRank rank in every week. Ranks past 60 are drawn at the bottom edge.</div></div>
-  <div id="table-panel"><table id="top"><thead><tr><th>rank</th><th>team</th><th>score</th><th>change</th></tr></thead><tbody></tbody></table></div>
+  <div id="table-panel"><table id="top"><thead><tr><th>rank</th><th>team</th><th>points</th><th>change</th></tr></thead><tbody></tbody></table></div>
 </main>
 <script src="../lib/d3.v7.min.js"></script>
 <script id="data" type="application/json">__DATA__</script>
@@ -84,6 +84,7 @@ limitations under the License.
   slider.min = weeks[0]; slider.max = weeks[weeks.length - 1]; slider.value = week;
   const weekLabel = document.getElementById("week-label");
   function describeWeek(w) {
+    if (w < 0) return "preseason: no games played, every team holds 100 points and is tied for first";
     const win = data.week_windows[String(w)];
     const games = data.edges.filter(e => e.week <= w).length;
     return "week " + w + " (" + (win ? win.first_game + " to " + win.last_game : "no games") + "), " + games + " games so far";
@@ -117,7 +118,13 @@ limitations under the License.
   const nodes = data.vertices.map(v => Object.assign({}, v));
   const nodeById = new Map(nodes.map(n => [n.id, n]));
   const links = data.edges.map(e => Object.assign({}, e, { source: nodeById.get(e.source), target: nodeById.get(e.target) }));
+  // Circle size is on one scale for the whole season, so a team's circle is
+  // comparable from one week to the next. The scale is set per mode below.
   const radius = d3.scaleSqrt().range([3, 26]);
+  const seasonMax = {};
+  Object.keys(data.snapshots).forEach(m => {
+    seasonMax[m] = d3.max(Object.values(data.snapshots[m]), snap => d3.max(Object.values(snap), s => s[1]));
+  });
 
   const simulation = d3.forceSimulation(nodes)
     .force("link", d3.forceLink(links).distance(40).strength(0.15))
@@ -132,7 +139,7 @@ limitations under the License.
     .attr("stroke", "#111").attr("stroke-width", 0.8).attr("stroke-opacity", 0.35).attr("marker-end", "url(#arrow)");
   const nodeSel = graphSvg.append("g").selectAll("circle").data(nodes).join("circle")
     .attr("fill", "white").attr("stroke", colorOf).attr("stroke-width", 2.5).attr("cx", d => d.x).attr("cy", d => d.y)
-    .on("mouseover", (event, d) => { hoverLabel.text(d.id + ": rank " + (rankOf(d.id) || "unranked (FCS)") + ", score " + scoreOf(d.id).toFixed(5)).attr("x", d.x + 10).attr("y", d.y - 10).style("display", null); })
+    .on("mouseover", (event, d) => { hoverLabel.text(d.id + ": rank " + (rankOf(d.id) || "unranked (FCS)") + ", " + scoreOf(d.id).toFixed(2) + " points").attr("x", d.x + 10).attr("y", d.y - 10).style("display", null); })
     .on("mouseout", () => hoverLabel.style("display", "none"))
     .on("click", (event, d) => { setHighlight(d.id); });
   const labelSel = graphSvg.append("g").selectAll("text").data(nodes).join("text")
@@ -148,8 +155,7 @@ limitations under the License.
   }
 
   function drawGraph() {
-    const snap = snapshot();
-    radius.domain([0, d3.max(Object.values(snap), s => s[1])]);
+    radius.domain([0, seasonMax[mode]]);
     nodeSel.attr("r", d => radius(scoreOf(d.id)))
       .attr("stroke-width", d => highlighted === d.id ? 5 : 2.5)
       .attr("stroke", d => highlighted === d.id ? "#FE7D2B" : colorOf(d));
@@ -172,7 +178,7 @@ limitations under the License.
     tr.classed("hit", d => d.team === highlighted).on("click", (event, d) => setHighlight(d.team));
     tr.selectAll("td").data(d => {
       const change = prev && prev[d.team] ? prev[d.team][0] - d.rank : null;
-      return [d.rank, d.team, d.score.toFixed(5), change === null ? "" : (change > 0 ? "up " + change : change < 0 ? "down " + (-change) : "same")];
+      return [d.rank, d.team, d.score.toFixed(2), change === null ? "" : (change > 0 ? "up " + change : change < 0 ? "down " + (-change) : "same")];
     }).join("td").attr("class", (d, i) => i === 1 || i === 3 ? null : "num").text(d => d);
     tr.order();
   }
@@ -189,7 +195,7 @@ limitations under the License.
     const maxRank = 60;
     const x = d3.scalePoint().domain(weeks).range([margin.left, bw - margin.right]);
     const y = d3.scaleLinear().domain([1, maxRank]).range([margin.top, bh - margin.bottom]).clamp(true);
-    bumpG.append("g").attr("transform", "translate(0," + (bh - margin.bottom) + ")").call(d3.axisBottom(x).tickFormat(w => "wk " + w));
+    bumpG.append("g").attr("transform", "translate(0," + (bh - margin.bottom) + ")").call(d3.axisBottom(x).tickFormat(w => w < 0 ? "pre" : "wk " + w));
     bumpG.append("g").attr("transform", "translate(" + margin.left + ",0)").call(d3.axisLeft(y).tickValues([1, 5, 10, 15, 20, 25, 30, 40, 50, 60]));
     const line = d3.line().x(w => x(w)).y((w, i, arr) => y(arr.rankOf(w))).curve(d3.curveMonotoneX);
     const labels = [];

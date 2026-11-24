@@ -1,26 +1,26 @@
-rank,unweighted_team,unweighted_score,weighted_team,weighted_score,ap_team,cfp_team
-1,1. Auburn,0.02951023,1. Georgia,0.03654868,Georgia,Georgia
-2,2. Georgia,0.02844859,2. Auburn,0.03394908,Utah,Utah
-3,3. Florida,0.02613081,3. BYU,0.02972067,Notre Dame,Alabama
-4,4. Texas,0.02586174,4. Tennessee,0.02701604,Miami,UCLA
-5,5. Oklahoma,0.02459399,5. Oregon,0.02616840,Texas,Texas
-6,6. BYU,0.02313675,6. Utah,0.02609177,Alabama,Notre Dame
-7,7. Utah,0.02194350,7. Ohio State,0.02465845,Tennessee,Miami
-8,8. South Carolina,0.02095869,8. Texas,0.02433568,Wake Forest,Indiana
-9,9. Michigan,0.02047160,9. Florida,0.02281135,Texas Tech,Tennessee
-10,10. Tennessee,0.02027227,10. South Carolina,0.02251675,UCLA,BYU
-11,11. Notre Dame,0.01819293,11. Ole Miss,0.02223974,BYU,Wake Forest
-12,12. Oregon,0.01612818,12. Notre Dame,0.02152021,Indiana,Texas Tech
-13,13. Ohio State,0.01483245,13. Oklahoma,0.02083404,Iowa,Oregon
-14,14. Ole Miss,0.01422016,14. Alabama,0.01795159,Oregon,Ohio State
-15,15. Cincinnati,0.01417146,15. UCF,0.01667884,USC,Iowa
-16,16. Kentucky,0.01371424,16. Texas Tech,0.01660976,Arizona,Kentucky
-17,17. UCLA,0.01367749,17. Cincinnati,0.01638928,Houston,Boise State
-18,18. Indiana,0.01351458,18. LSU,0.01629409,Louisville,USC
-19,19. UCF,0.01350009,19. Illinois,0.01606194,Oklahoma,Arizona
-20,20. Miami,0.01345158,20. Iowa,0.01522170,Florida,Houston
-21,21. Alabama,0.01341083,21. USC,0.01508306,Liberty,South Carolina
-22,22. Minnesota,0.01311392,22. Oklahoma State,0.01460835,Boise State,Oklahoma
-23,23. LSU,0.01263487,23. Miami,0.01446378,Ole Miss,Louisville
-24,24. Texas Tech,0.01248881,24. Missouri,0.01201505,Missouri,Florida
-25,25. Iowa,0.01235902,25. Arkansas,0.01172931,Ohio State,Ole Miss
+rank,unweighted_team,unweighted_score,unweighted_ap_rank,unweighted_ap_match,unweighted_coaches_rank,unweighted_coaches_match,unweighted_cfp_rank,unweighted_cfp_match,weighted_team,weighted_score,weighted_ap_rank,weighted_ap_match,weighted_coaches_rank,weighted_coaches_match,weighted_cfp_rank,weighted_cfp_match,ap_team,coaches_team,cfp_team
+1,Auburn,702.34,unranked,no,unranked,no,unranked,no,Georgia,869.86,1,yes,1,yes,1,yes,Georgia,Georgia,Georgia
+2,Georgia,677.08,1,no,1,no,1,no,Auburn,807.99,unranked,no,unranked,no,unranked,no,Utah,Utah,Utah
+3,Florida,621.91,20,no,20,no,24,no,BYU,707.35,11,no,11,no,10,no,Notre Dame,Notre Dame,Alabama
+4,Texas,615.51,5,no,6,no,5,no,Tennessee,642.98,7,no,7,no,9,no,Miami,Miami,UCLA
+5,Oklahoma,585.34,19,no,22,no,22,no,Oregon,622.81,14,no,14,no,13,no,Texas,Alabama,Texas
+6,BYU,550.65,11,no,11,no,10,no,Utah,620.98,2,no,2,no,2,no,Alabama,Texas,Notre Dame
+7,Utah,522.26,2,no,2,no,2,no,Ohio State,586.87,25,no,unranked,no,14,no,Tennessee,Tennessee,Miami
+8,South Carolina,498.82,unranked,no,unranked,no,21,no,Texas,579.19,5,no,6,no,5,no,Wake Forest,Wake Forest,Indiana
+9,Michigan,487.22,unranked,no,unranked,no,unranked,no,Florida,542.91,20,no,20,no,24,no,Texas Tech,Texas Tech,Tennessee
+10,Tennessee,482.48,7,no,7,no,9,no,South Carolina,535.90,unranked,no,unranked,no,21,no,UCLA,UCLA,BYU
+11,Notre Dame,432.99,3,no,3,no,6,no,Ole Miss,529.31,23,no,19,no,25,no,BYU,BYU,Wake Forest
+12,Oregon,383.85,14,no,14,no,13,no,Notre Dame,512.18,3,no,3,no,6,no,Indiana,Indiana,Texas Tech
+13,Ohio State,353.01,25,no,unranked,no,14,no,Oklahoma,495.85,19,no,22,no,22,no,Iowa,Iowa,Oregon
+14,Ole Miss,338.44,23,no,19,no,25,no,Alabama,427.25,6,no,5,no,3,no,Oregon,Oregon,Ohio State
+15,Cincinnati,337.28,unranked,no,unranked,no,unranked,no,UCF,396.96,unranked,no,unranked,no,unranked,no,USC,USC,Iowa
+16,Kentucky,326.40,unranked,no,25,no,16,yes,Texas Tech,395.31,9,no,9,no,12,no,Arizona,Arizona,Kentucky
+17,UCLA,325.52,10,no,10,no,4,no,Cincinnati,390.06,unranked,no,unranked,no,unranked,no,Houston,Houston,Boise State
+18,Indiana,321.65,12,no,12,no,8,no,LSU,387.80,unranked,no,unranked,no,unranked,no,Louisville,Louisville,USC
+19,UCF,321.30,unranked,no,unranked,no,unranked,no,Illinois,382.27,unranked,no,unranked,no,unranked,no,Oklahoma,Ole Miss,Arizona
+20,Miami,320.15,4,no,4,no,7,no,Iowa,362.28,13,no,13,no,15,no,Florida,Florida,Houston
+21,Alabama,319.18,6,no,5,no,3,no,USC,358.98,15,no,15,no,18,no,Liberty,Boise State,South Carolina
+22,Minnesota,312.11,unranked,no,unranked,no,unranked,no,Oklahoma State,347.68,unranked,no,unranked,no,unranked,no,Boise State,Oklahoma,Oklahoma
+23,LSU,300.71,unranked,no,unranked,no,unranked,no,Miami,344.24,4,no,4,no,7,no,Ole Miss,Missouri,Louisville
+24,Texas Tech,297.23,9,no,9,no,12,no,Missouri,285.96,24,yes,23,no,unranked,no,Missouri,Liberty,Florida
+25,Iowa,294.14,13,no,13,no,15,no,Arkansas,279.16,unranked,no,unranked,no,unranked,no,Ohio State,Kentucky,Ole Miss

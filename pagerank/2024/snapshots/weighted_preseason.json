@@ -1,0 +1,820 @@
+{
+ "season": 2024,
+ "mode": "weighted",
+ "cap": 28,
+ "week": -1,
+ "label": "preseason",
+ "games_in_snapshot": 0,
+ "iterations": 1,
+ "converged": true,
+ "damping": 0.85,
+ "tolerance": 1e-10,
+ "start_value": 100.0,
+ "rankings": [
+  {
+   "rank": 1,
+   "team": "Air Force",
+   "conference": "Mountain West",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Akron",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Alabama",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "App State",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Arizona",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Arizona State",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Arkansas",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Arkansas State",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Army",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Auburn",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "BYU",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Ball State",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Baylor",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Boise State",
+   "conference": "Mountain West",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Boston College",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Bowling Green",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Buffalo",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "California",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Central Michigan",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Charlotte",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Cincinnati",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Clemson",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Coastal Carolina",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Colorado",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Colorado State",
+   "conference": "Mountain West",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Duke",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "East Carolina",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Eastern Michigan",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Florida",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Florida Atlantic",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Florida International",
+   "conference": "Conference USA",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Florida State",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Fresno State",
+   "conference": "Mountain West",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Georgia",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Georgia Southern",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Georgia State",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Georgia Tech",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Hawai'i",
+   "conference": "Mountain West",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Houston",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Illinois",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Indiana",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Iowa",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Iowa State",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Jacksonville State",
+   "conference": "Conference USA",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "James Madison",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Kansas",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Kansas State",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Kennesaw State",
+   "conference": "Conference USA",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Kent State",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Kentucky",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "LSU",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Liberty",
+   "conference": "Conference USA",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Louisiana",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Louisiana Tech",
+   "conference": "Conference USA",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Louisville",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Marshall",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Maryland",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Massachusetts",
+   "conference": "FBS Independents",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Memphis",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Miami",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Miami (OH)",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Michigan",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Michigan State",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Middle Tennessee",
+   "conference": "Conference USA",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Minnesota",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Mississippi State",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Missouri",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "NC State",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Navy",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Nebraska",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Nevada",
+   "conference": "Mountain West",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "New Mexico",
+   "conference": "Mountain West",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "New Mexico State",
+   "conference": "Conference USA",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "North Carolina",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "North Texas",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Northern Illinois",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Northwestern",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Notre Dame",
+   "conference": "FBS Independents",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Ohio",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Ohio State",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Oklahoma",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Oklahoma State",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Old Dominion",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Ole Miss",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Oregon",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Oregon State",
+   "conference": "Pac-12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Penn State",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Pittsburgh",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Purdue",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Rice",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Rutgers",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "SMU",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Sam Houston",
+   "conference": "Conference USA",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "San Diego State",
+   "conference": "Mountain West",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "San Jos\u00e9 State",
+   "conference": "Mountain West",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "South Alabama",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "South Carolina",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "South Florida",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Southern Miss",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Stanford",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Syracuse",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "TCU",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Temple",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Tennessee",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Texas",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Texas A&M",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Texas State",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Texas Tech",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Toledo",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Troy",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Tulane",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Tulsa",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "UAB",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "UCF",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "UCLA",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "UConn",
+   "conference": "FBS Independents",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "UL Monroe",
+   "conference": "Sun Belt",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "UNLV",
+   "conference": "Mountain West",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "USC",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "UTEP",
+   "conference": "Conference USA",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "UTSA",
+   "conference": "American Athletic",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Utah",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Utah State",
+   "conference": "Mountain West",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Vanderbilt",
+   "conference": "SEC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Virginia",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Virginia Tech",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Wake Forest",
+   "conference": "ACC",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Washington",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Washington State",
+   "conference": "Pac-12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "West Virginia",
+   "conference": "Big 12",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Western Kentucky",
+   "conference": "Conference USA",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Western Michigan",
+   "conference": "Mid-American",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Wisconsin",
+   "conference": "Big Ten",
+   "score": 100.0
+  },
+  {
+   "rank": 1,
+   "team": "Wyoming",
+   "conference": "Mountain West",
+   "score": 100.0
+  }
+ ],
+ "games_added_this_week": []
+}

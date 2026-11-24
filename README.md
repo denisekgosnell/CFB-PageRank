@@ -9,14 +9,14 @@ Everything needed to look into that question is here, in the order the work was 
 1. `datasets/` holds every regular-season game for 2023, 2024, 2025, and 2026 (year to date), plus the weekly AP Top 25, Coaches Poll, and CFP committee rankings. Every game was checked against three sources.
 2. `graph_model/` turns the games into a graph with one sentence as its schema: `Team loses_to Team`. The date, the week, and the score sit on each edge.
 3. `pagerank/` computes PageRank on that graph, written from scratch, one week at a time, unweighted and weighted by margin of victory.
-4. `analysis/` lines each weekly PageRank up with the poll released the same week and measures the distance between them. It also holds the PageRank top 25 for the 2026 season as of the data cutoff.
+4. `analysis/` lines each weekly PageRank up with the poll released the same week and measures the distance between them, with a scorecard that says, poll by poll, how often PageRank got it right. It also holds the PageRank top 25 for the 2026 season as of the data cutoff, checked against each poll.
 5. `visualization/` has one page per season with a slider: drag it across the weeks and watch the ranking move.
 
 Each directory has its own README that explains its piece the way we would at a whiteboard: start from the question, show the data, show the shape, walk through one example. Each one also has a verification record. Accuracy was the first requirement of this work, so every step either runs a test or writes down how it was checked.
 
 ## The Question, Precisely
 
-A team that loses a game points to the team that beat it. Run PageRank on that graph and credit flows from losers to winners, and from winners to the teams that beat them. Snapshot the graph after each week of the season and you get a weekly ranking with no vote in it. The comparison tables in `analysis/` put that ranking beside the human polls, week by week, for four seasons. The tables are measurements. The conclusions are left to the reader.
+A team that loses a game points to the team that beat it. Every team starts the preseason with the same 100 points and is tied for first. Run PageRank on that graph and credit flows from losers to winners, and from winners to the teams that beat them. Snapshot the graph after each week of the season and you get a weekly ranking with no vote in it. The comparison tables in `analysis/` put that ranking beside the human polls, week by week, for four seasons. The tables are measurements. The conclusions are left to the reader.
 
 ## Viewing It Online
 

@@ -11,12 +11,14 @@
 # limitations under the License.
 """Write the PageRank top 25 for the season in progress, as of the data cutoff.
 
-This is the PageRank-only ranking for the current season, placed beside the
-most recent human polls in the dataset for reference. The PageRank columns
-are computed from games alone.
+This is the PageRank-only ranking for the current season, checked against
+each human poll in the dataset: for every team in the PageRank top 25, the
+table says where the AP Poll, the Coaches Poll, and the CFP committee put
+that team and whether the rank is an exact match. The PageRank columns are
+computed from games alone.
 
 What it reads
-    datasets/<season>/season_calendar.json, ap_poll.csv, cfp_rankings.csv
+    datasets/<season>/season_calendar.json, ap_poll.csv, coaches_poll.csv, cfp_rankings.csv
     pagerank/<season>/snapshots/<mode>_week_<last>.json
 
 What it writes
@@ -33,7 +35,8 @@ import json
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-COLUMNS = ["rank", "unweighted_team", "unweighted_score", "weighted_team", "weighted_score", "ap_team", "cfp_team"]
+MODES = ["unweighted", "weighted"]
+POLLS = [("ap", "ap_poll.csv", "AP Poll"), ("coaches", "coaches_poll.csv", "Coaches Poll"), ("cfp", "cfp_rankings.csv", "CFP rankings")]
 
 
 def read_csv(path):
@@ -42,11 +45,18 @@ def read_csv(path):
 
 
 def latest_poll(rows):
-    """The rows of the most recent release in a poll file, sorted by rank. Empty if the file is empty."""
+    """The most recent release in a poll file: (date, {team: rank}). Empty if the file is empty."""
     if not rows:
-        return "", []
+        return "", {}
     release = max(row["poll_date"] for row in rows)
-    return release, sorted((row for row in rows if row["poll_date"] == release), key=lambda r: int(r["rank"]))
+    return release, {row["team"]: int(row["rank"]) for row in rows if row["poll_date"] == release}
+
+
+def columns_for(mode):
+    out = [f"{mode}_team", f"{mode}_score"]
+    for short, _, _ in POLLS:
+        out += [f"{mode}_{short}_rank", f"{mode}_{short}_match"]
+    return out
 
 
 def main():
@@ -61,43 +71,78 @@ def main():
 
     calendar = json.loads((data_dir / "season_calendar.json").read_text())
     last_week = max(int(path.stem.split("_")[-1]) for path in snapshot_dir.glob("unweighted_week_*.json"))
-    snapshots = {mode: json.loads((snapshot_dir / f"{mode}_week_{last_week}.json").read_text()) for mode in ("unweighted", "weighted")}
-    ap_date, ap_rows = latest_poll(read_csv(data_dir / "ap_poll.csv"))
-    cfp_date, cfp_rows = latest_poll(read_csv(data_dir / "cfp_rankings.csv"))
+    snapshots = {mode: json.loads((snapshot_dir / f"{mode}_week_{last_week}.json").read_text()) for mode in MODES}
+    polls = {short: latest_poll(read_csv(data_dir / file_name)) for short, file_name, _ in POLLS}
 
     rows = []
     for i in range(25):
-        un = snapshots["unweighted"]["rankings"][i]
-        we = snapshots["weighted"]["rankings"][i]
-        rows.append({
-            "rank": i + 1,
-            "unweighted_team": f"{un['rank']}. {un['team']}", "unweighted_score": f"{un['score']:.8f}",
-            "weighted_team": f"{we['rank']}. {we['team']}", "weighted_score": f"{we['score']:.8f}",
-            "ap_team": ap_rows[i]["team"] if i < len(ap_rows) else "",
-            "cfp_team": cfp_rows[i]["team"] if i < len(cfp_rows) else "",
-        })
+        row = {"rank": i + 1}
+        for mode in MODES:
+            team = snapshots[mode]["rankings"][i]
+            row[f"{mode}_team"] = team["team"]
+            row[f"{mode}_score"] = f"{team['score']:.2f}"
+            for short, _, _ in POLLS:
+                _, ranks = polls[short]
+                poll_rank = ranks.get(team["team"])
+                row[f"{mode}_{short}_rank"] = poll_rank if poll_rank is not None else ("unranked" if ranks else "")
+                row[f"{mode}_{short}_match"] = ("yes" if poll_rank == team["rank"] else "no") if ranks else ""
+        for short, _, _ in POLLS:
+            _, ranks = polls[short]
+            by_rank = {r: t for t, r in ranks.items()}
+            row[f"{short}_team"] = by_rank.get(i + 1, "")
+        rows.append(row)
+    columns = ["rank"] + [c for mode in MODES for c in columns_for(mode)] + [f"{short}_team" for short, _, _ in POLLS]
     with (out_dir / "prediction.csv").open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=COLUMNS, lineterminator="\n")
+        writer = csv.DictWriter(handle, fieldnames=columns, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
 
     games = snapshots["unweighted"]["games_in_snapshot"]
+    poll_notes = ", ".join(f"the {title} released {polls[short][0]}" for short, _, title in POLLS if polls[short][0])
+    missing = [title for short, _, title in POLLS if not polls[short][0]]
     lines = [f"# {season} PageRank top 25 as of the data cutoff", "",
              f"Data cutoff: the records were collected at {calendar['data_collected_at']} (UTC). "
              f"The last game in the dataset was played on {calendar['last_game_in_dataset']}, which is week {last_week}. "
              f"The snapshot holds {games} games. Rivalry week (week {calendar['rivalry_week']}) had not been played.", "",
-             "The two PageRank columns come from games alone: the unweighted graph, and the weighted graph with the margin capped at 28. "
-             "Ranks are competition ranks, so tied teams share a number. Scores add up to 1 across every vertex in the graph.", "",
-             f"For reference, the two right-hand columns show the most recent human rankings in the dataset: the AP poll released {ap_date} "
-             + (f"and the CFP committee rankings released {cfp_date}." if cfp_date else "and no CFP committee rankings, because none had been released.") + " "
-             "No CFP committee ranking released after the data cutoff is included.", "",
-             "| rank | PageRank, unweighted | score | PageRank, weighted | score | AP poll " + ap_date + " | CFP rankings " + cfp_date + " |",
-             "| --- | --- | --- | --- | --- | --- | --- |"]
+             "The PageRank columns come from games alone: the unweighted graph, and the weighted graph with the margin capped at 28. "
+             "Every team started the preseason with 100 credit points, and the pool stays at 100 points per vertex, so a score of 100 is average. "
+             "Ranks are competition ranks, so tied teams share a number.", "",
+             f"Each PageRank top 25 is checked against the most recent human rankings in the dataset: {poll_notes}. "
+             "A match is an exact match of rank. A team the poll did not rank is marked unranked."
+             + (f" No {' or '.join(missing)} had been released." if missing else "")
+             + " No ranking released after the data cutoff is included.", ""]
+    for mode in MODES:
+        lines += [f"## PageRank, {mode}", "",
+                  "| rank | team | score | AP rank | AP match | Coaches rank | Coaches match | CFP rank | CFP match |",
+                  "| --- | --- | --- | --- | --- | --- | --- | --- | --- |"]
+        for row in rows:
+            cells = [row["rank"], row[f"{mode}_team"], row[f"{mode}_score"]]
+            for short, _, _ in POLLS:
+                cells += [row[f"{mode}_{short}_rank"], row[f"{mode}_{short}_match"]]
+            lines.append("| " + " | ".join(str(c) for c in cells) + " |")
+        lines.append("")
+    lines += ["## How many did PageRank get right", "",
+              "| poll | release | unweighted: exact rank matches | unweighted: teams in the poll's top 25 | weighted: exact rank matches | weighted: teams in the poll's top 25 |",
+              "| --- | --- | --- | --- | --- | --- |"]
+    for short, _, title in POLLS:
+        release, ranks = polls[short]
+        if not ranks:
+            lines.append(f"| {title} | not released | | | | |")
+            continue
+        cells = [title, release]
+        for mode in MODES:
+            cells.append(sum(1 for row in rows if row[f"{mode}_{short}_match"] == "yes"))
+            cells.append(sum(1 for row in rows if row[f"{mode}_{short}_rank"] not in ("unranked", "")))
+        lines.append("| " + " | ".join(str(c) for c in cells) + " |")
+    lines += ["", "## The human rankings, for reference", "",
+              "| rank | " + " | ".join(f"{title} {polls[short][0] or '(none)'}" for short, _, title in POLLS) + " |",
+              "| --- | --- | --- | --- |"]
     for row in rows:
-        lines.append("| " + " | ".join(str(row[c]) for c in COLUMNS) + " |")
+        lines.append("| " + " | ".join([str(row["rank"])] + [row[f"{short}_team"] for short, _, _ in POLLS]) + " |")
     lines.append("")
     (out_dir / "prediction.md").write_text("\n".join(lines))
-    print(f"season {season}: wrote the top 25 as of week {last_week} ({games} games); AP {ap_date}, CFP {cfp_date or 'none'}")
+    print(f"season {season}: wrote the top 25 as of week {last_week} ({games} games) checked against "
+          + ", ".join(f"{short} {polls[short][0] or 'none'}" for short, _, _ in POLLS))
 
 
 if __name__ == "__main__":

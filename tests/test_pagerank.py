@@ -56,13 +56,16 @@ def read_csv(path):
 def test_toy_graph_matches_the_hand_computed_answer():
     """Four teams. A lost to B. B lost to C. C lost to A. D is undefeated and never played.
 
-    With damping d and four vertices, the fixed point has to satisfy
-        score(A) = (1-d)/4 + d*dangling/4 + d*score(C)
+    Work in shares of the pool first. With damping d and four vertices, the
+    fixed point has to satisfy
+        share(A) = (1-d)/4 + d*dangling/4 + d*share(C)
     and the same for B and C around the cycle, while D only receives the
     equal share and its own dangling share. By symmetry A, B, and C share
     one value s, D has value t, and 3s + t = 1. Solving with d = 0.85:
         t = (1-d)/4 + d*t/4            =>  t = 0.15 / (4 - 0.85) = 0.047619...
         s = (1 - t) / 3                 =>  s = 0.317460...
+    The pool is 100 points per vertex, 400 in all, so the scores are 400t
+    and 400s.
     """
     vertices = ["A", "B", "C", "D"]
     edges = [("A", "B", 1.0), ("B", "C", 1.0), ("C", "A", 1.0)]
@@ -70,10 +73,18 @@ def test_toy_graph_matches_the_hand_computed_answer():
     assert converged
     t = 0.15 / (4 - 0.85)
     s = (1 - t) / 3
-    assert abs(scores["D"] - t) < 1e-9
+    assert abs(scores["D"] - 400 * t) < 1e-7
     for team in "ABC":
-        assert abs(scores[team] - s) < 1e-9
-    assert abs(sum(scores.values()) - 1.0) < 1e-12
+        assert abs(scores[team] - 400 * s) < 1e-7
+    assert abs(sum(scores.values()) - 400.0) < 1e-9
+
+
+def test_with_no_games_every_team_keeps_the_start_value_and_ties_for_first():
+    vertices = ["A", "B", "C"]
+    scores, iterations, converged = pr.pagerank(vertices, [])
+    assert converged
+    assert all(score == 100.0 for score in scores.values())
+    assert [(r, v) for r, v, _ in pr.rank(scores, vertices)] == [(1, "A"), (1, "B"), (1, "C")]
 
 
 def test_weights_split_the_outgoing_credit_in_proportion():
@@ -91,7 +102,7 @@ def test_weights_split_the_outgoing_credit_in_proportion():
 
 
 def test_rank_shares_a_rank_on_ties_and_skips_the_next():
-    scores = {"A": 0.4, "B": 0.3, "C": 0.3, "D": 0.1 - 5e-13, "E": 0.1}
+    scores = {"A": 400.0, "B": 300.0, "C": 300.0, "D": 100.0 - 5e-10, "E": 100.0}
     ranked = pr.rank(scores, ["A", "B", "C", "D", "E"])
     assert [(r, v) for r, v, _ in ranked] == [(1, "A"), (2, "B"), (2, "C"), (4, "D"), (4, "E")]
 
@@ -120,7 +131,8 @@ def test_every_weekly_snapshot_matches_networkx(season, mode):
     edges = read_csv(graph_dir / "edges.csv")
     snapshot_dir = REPO / "pagerank" / str(season) / "snapshots"
     checked = 0
-    for path in sorted(snapshot_dir.glob(f"{mode}_week_*.json")):
+    pool = 100.0 * len(vertices)
+    for path in sorted(snapshot_dir.glob(f"{mode}_*.json")):
         snap = json.loads(path.read_text())
         week, cap = snap["week"], snap["cap"]
         through = [e for e in edges if int(e["week"]) <= week]
@@ -130,14 +142,18 @@ def test_every_weekly_snapshot_matches_networkx(season, mode):
             weighted.append((e["source"], e["target"], weight))
         ours, _, converged = pr.pagerank(vertices, weighted)
         assert converged
+        # networkx works in shares of 1, so divide our points by the pool.
         theirs = networkx_scores(vertices, weighted)
         for vertex in vertices:
-            assert abs(ours[vertex] - theirs[vertex]) < 1e-8, (season, mode, week, vertex)
+            assert abs(ours[vertex] / pool - theirs[vertex]) < 1e-8, (season, mode, week, vertex)
         # The stored snapshot is what we just recomputed.
         stored = {r["team"]: r["score"] for r in snap["rankings"]}
         for team, score in stored.items():
-            assert abs(ours[team] - score) < 1e-9, (season, mode, week, team)
+            assert abs(ours[team] - score) < 1e-8, (season, mode, week, team)
         assert snap["games_in_snapshot"] == len(through)
+        if week == -1:
+            assert snap["label"] == "preseason" and len(through) == 0
+            assert all(r["score"] == 100.0 and r["rank"] == 1 for r in snap["rankings"])
         checked += 1
     assert checked > 0
 
@@ -153,14 +169,15 @@ def test_result_table_matches_the_snapshots(season, mode):
     rows = {r["team"]: r for r in read_csv(season_dir / f"{mode}_results.csv")}
     fbs = {v["team"] for v in read_csv(REPO / "graph_model" / str(season) / "vertices.csv") if v["division"] == "FBS"}
     assert set(rows) == fbs
-    for path in sorted((season_dir / "snapshots").glob(f"{mode}_week_*.json")):
+    assert all(int(row["preseason_rank"]) == 1 and float(row["preseason_score"]) == 100.0 for row in rows.values())
+    for path in sorted((season_dir / "snapshots").glob(f"{mode}_*.json")):
         snap = json.loads(path.read_text())
-        week = snap["week"]
+        label = snap["label"]
         ranked = {r["team"]: r for r in snap["rankings"]}
         assert set(ranked) == fbs
         for team, record in ranked.items():
-            assert int(rows[team][f"week_{week}_rank"]) == record["rank"]
-            assert abs(float(rows[team][f"week_{week}_score"]) - record["score"]) < 1e-8
+            assert int(rows[team][f"{label}_rank"]) == record["rank"]
+            assert abs(float(rows[team][f"{label}_score"]) - record["score"]) < 1e-6
         # Ranks are competition ranks: sorted by score, ties share, next rank skips.
         expected = pr.rank({t: r["score"] for t, r in ranked.items()}, list(fbs))
         assert [(rk, t) for rk, t, _ in expected] == [(r["rank"], r["team"]) for r in snap["rankings"]]

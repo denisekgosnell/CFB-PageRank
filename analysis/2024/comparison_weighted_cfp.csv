@@ -1,6 +1,6 @@
-poll_date,poll_week,snapshot_week,games_in_snapshot,top25_overlap,top10_overlap,top5_overlap,number_one_match,spearman_top25,kendall_top25,mean_abs_rank_diff_top25,max_pagerank_rank_of_ap_top25
-2024-11-05,10,10,626,17,4,1,1,0.5646,0.3800,11.52,58
-2024-11-12,11,11,676,18,4,1,0,0.4315,0.3000,11.48,55
-2024-11-19,12,12,731,16,4,1,0,0.6308,0.4400,12.36,65
-2024-11-26,13,13,796,15,4,1,0,0.4746,0.3267,12.40,51
-2024-12-03,14,14,863,15,5,2,0,0.5623,0.4200,14.40,69
+poll_date,poll_week,snapshot_week,games_in_snapshot,top25_overlap,top10_overlap,top5_overlap,number_one_match,exact_rank_matches,spearman_top25,kendall_top25,mean_abs_rank_diff_top25,max_pagerank_rank_of_ap_top25
+2024-11-05,10,10,626,17,4,1,1,1,0.5646,0.3800,11.52,58
+2024-11-12,11,11,676,18,4,1,0,1,0.4315,0.3000,11.48,55
+2024-11-19,12,12,731,16,4,1,0,0,0.6308,0.4400,12.36,65
+2024-11-26,13,13,796,15,4,1,0,0,0.4746,0.3267,12.40,51
+2024-12-03,14,14,863,15,5,2,0,0,0.5623,0.4200,14.40,69

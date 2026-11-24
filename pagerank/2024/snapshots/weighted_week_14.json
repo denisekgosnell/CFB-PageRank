@@ -3,815 +3,817 @@
  "mode": "weighted",
  "cap": 28,
  "week": 14,
+ "label": "week_14",
  "games_in_snapshot": 863,
  "iterations": 70,
  "converged": true,
  "damping": 0.85,
  "tolerance": 1e-10,
+ "start_value": 100.0,
  "rankings": [
   {
    "rank": 1,
    "team": "Ole Miss",
    "conference": "SEC",
-   "score": 0.041381900528
+   "score": 951.7837121459
   },
   {
    "rank": 2,
    "team": "Georgia",
    "conference": "SEC",
-   "score": 0.038358825354
+   "score": 882.2529831307
   },
   {
    "rank": 3,
    "team": "Florida",
    "conference": "SEC",
-   "score": 0.025786786454
+   "score": 593.0960884383
   },
   {
    "rank": 4,
    "team": "Oregon",
    "conference": "Big Ten",
-   "score": 0.025356464848
+   "score": 583.1986915027
   },
   {
    "rank": 5,
    "team": "Kansas",
    "conference": "Big 12",
-   "score": 0.025252704664
+   "score": 580.8122072703
   },
   {
    "rank": 6,
    "team": "Alabama",
    "conference": "SEC",
-   "score": 0.023250081397
+   "score": 534.7518721303
   },
   {
    "rank": 7,
    "team": "Texas",
    "conference": "SEC",
-   "score": 0.022686554352
+   "score": 521.7907500924
   },
   {
    "rank": 8,
    "team": "BYU",
    "conference": "Big 12",
-   "score": 0.022094113917
+   "score": 508.1646200967
   },
   {
    "rank": 9,
    "team": "Notre Dame",
    "conference": "FBS Independents",
-   "score": 0.021645641916
+   "score": 497.8497640656
   },
   {
    "rank": 10,
    "team": "Ohio State",
    "conference": "Big Ten",
-   "score": 0.021447629714
+   "score": 493.2954834122
   },
   {
    "rank": 11,
    "team": "Northern Illinois",
    "conference": "Mid-American",
-   "score": 0.020864281208
+   "score": 479.8784677763
   },
   {
    "rank": 12,
    "team": "LSU",
    "conference": "SEC",
-   "score": 0.017329846552
+   "score": 398.5864707075
   },
   {
    "rank": 13,
    "team": "Oklahoma",
    "conference": "SEC",
-   "score": 0.017281624992
+   "score": 397.4773748225
   },
   {
    "rank": 14,
    "team": "Baylor",
    "conference": "Big 12",
-   "score": 0.017255156841
+   "score": 396.8686073415
   },
   {
    "rank": 15,
    "team": "Michigan",
    "conference": "Big Ten",
-   "score": 0.016512834688
+   "score": 379.7951978242
   },
   {
    "rank": 16,
    "team": "Arizona State",
    "conference": "Big 12",
-   "score": 0.016413276404
+   "score": 377.505357293
   },
   {
    "rank": 17,
    "team": "South Carolina",
    "conference": "SEC",
-   "score": 0.015865910416
+   "score": 364.9159395611
   },
   {
    "rank": 18,
    "team": "SMU",
    "conference": "ACC",
-   "score": 0.015255860124
+   "score": 350.8847828552
   },
   {
    "rank": 19,
    "team": "Miami",
    "conference": "ACC",
-   "score": 0.014823303864
+   "score": 340.9359888719
   },
   {
    "rank": 20,
    "team": "Iowa State",
    "conference": "Big 12",
-   "score": 0.013842504122
+   "score": 318.3775947978
   },
   {
    "rank": 21,
    "team": "Syracuse",
    "conference": "ACC",
-   "score": 0.013378246497
+   "score": 307.6996694227
   },
   {
    "rank": 22,
    "team": "Tennessee",
    "conference": "SEC",
-   "score": 0.013184783115
+   "score": 303.2500116517
   },
   {
    "rank": 23,
    "team": "Louisville",
    "conference": "ACC",
-   "score": 0.013032937698
+   "score": 299.7575670608
   },
   {
    "rank": 24,
    "team": "Kentucky",
    "conference": "SEC",
-   "score": 0.011938827652
+   "score": 274.5930359949
   },
   {
    "rank": 25,
    "team": "Cincinnati",
    "conference": "Big 12",
-   "score": 0.011807458188
+   "score": 271.5715383223
   },
   {
    "rank": 26,
    "team": "Colorado",
    "conference": "Big 12",
-   "score": 0.011571959161
+   "score": 266.155060695
   },
   {
    "rank": 27,
    "team": "Texas A&M",
    "conference": "SEC",
-   "score": 0.011446992751
+   "score": 263.280833267
   },
   {
    "rank": 28,
    "team": "Texas Tech",
    "conference": "Big 12",
-   "score": 0.011060121502
+   "score": 254.3827945399
   },
   {
    "rank": 29,
    "team": "Pittsburgh",
    "conference": "ACC",
-   "score": 0.011059934086
+   "score": 254.378483973
   },
   {
    "rank": 30,
    "team": "Miami (OH)",
    "conference": "Mid-American",
-   "score": 0.010290003176
+   "score": 236.6700730548
   },
   {
    "rank": 31,
    "team": "Georgia Tech",
    "conference": "ACC",
-   "score": 0.009980050229
+   "score": 229.5411552633
   },
   {
    "rank": 32,
    "team": "Boise State",
    "conference": "Mountain West",
-   "score": 0.009636109873
+   "score": 221.6305270721
   },
   {
    "rank": 33,
    "team": "Kansas State",
    "conference": "Big 12",
-   "score": 0.00957866135
+   "score": 220.3092110435
   },
   {
    "rank": 34,
    "team": "Virginia Tech",
    "conference": "ACC",
-   "score": 0.00835593571
+   "score": 192.1865213245
   },
   {
    "rank": 35,
    "team": "Clemson",
    "conference": "ACC",
-   "score": 0.008094305214
+   "score": 186.1690199256
   },
   {
    "rank": 36,
    "team": "Illinois",
    "conference": "Big Ten",
-   "score": 0.008053959696
+   "score": 185.2410730021
   },
   {
    "rank": 37,
    "team": "Indiana",
    "conference": "Big Ten",
-   "score": 0.008050333975
+   "score": 185.1576814264
   },
   {
    "rank": 38,
    "team": "TCU",
    "conference": "Big 12",
-   "score": 0.007879195896
+   "score": 181.2215056096
   },
   {
    "rank": 39,
    "team": "Toledo",
    "conference": "Mid-American",
-   "score": 0.007366755581
+   "score": 169.4353783666
   },
   {
    "rank": 40,
    "team": "Penn State",
    "conference": "Big Ten",
-   "score": 0.007193161724
+   "score": 165.4427196485
   },
   {
    "rank": 41,
    "team": "Tulane",
    "conference": "American Athletic",
-   "score": 0.007052669558
+   "score": 162.2113998364
   },
   {
    "rank": 42,
    "team": "Nebraska",
    "conference": "Big Ten",
-   "score": 0.006962509082
+   "score": 160.1377088751
   },
   {
    "rank": 43,
    "team": "Vanderbilt",
    "conference": "SEC",
-   "score": 0.006703434703
+   "score": 154.1789981703
   },
   {
    "rank": 44,
    "team": "Iowa",
    "conference": "Big Ten",
-   "score": 0.006691403842
+   "score": 153.9022883727
   },
   {
    "rank": 45,
    "team": "NC State",
    "conference": "ACC",
-   "score": 0.006526368996
+   "score": 150.1064869173
   },
   {
    "rank": 46,
    "team": "Ohio",
    "conference": "Mid-American",
-   "score": 0.006008763218
+   "score": 138.2015540051
   },
   {
    "rank": 47,
    "team": "Washington State",
    "conference": "Pac-12",
-   "score": 0.005617126705
+   "score": 129.1939142223
   },
   {
    "rank": 48,
    "team": "Utah",
    "conference": "Big 12",
-   "score": 0.005587288281
+   "score": 128.5076304678
   },
   {
    "rank": 49,
    "team": "Arkansas",
    "conference": "SEC",
-   "score": 0.005513934122
+   "score": 126.8204848109
   },
   {
    "rank": 50,
    "team": "Buffalo",
    "conference": "Mid-American",
-   "score": 0.005439524348
+   "score": 125.1090600036
   },
   {
    "rank": 51,
    "team": "Navy",
    "conference": "American Athletic",
-   "score": 0.005432972268
+   "score": 124.9583621595
   },
   {
    "rank": 52,
    "team": "Boston College",
    "conference": "ACC",
-   "score": 0.005422902436
+   "score": 124.7267560329
   },
   {
    "rank": 53,
    "team": "USC",
    "conference": "Big Ten",
-   "score": 0.005354606369
+   "score": 123.155946484
   },
   {
    "rank": 54,
    "team": "Missouri",
    "conference": "SEC",
-   "score": 0.00524351988
+   "score": 120.6009572391
   },
   {
    "rank": 55,
    "team": "Washington",
    "conference": "Big Ten",
-   "score": 0.004946125518
+   "score": 113.7608869242
   },
   {
    "rank": 56,
    "team": "UNLV",
    "conference": "Mountain West",
-   "score": 0.004837137705
+   "score": 111.2541672197
   },
   {
    "rank": 57,
    "team": "Minnesota",
    "conference": "Big Ten",
-   "score": 0.004766207981
+   "score": 109.6227835604
   },
   {
    "rank": 58,
    "team": "Memphis",
    "conference": "American Athletic",
-   "score": 0.004575294184
+   "score": 105.2317662426
   },
   {
    "rank": 59,
    "team": "West Virginia",
    "conference": "Big 12",
-   "score": 0.004516369577
+   "score": 103.8765002695
   },
   {
    "rank": 60,
    "team": "Georgia Southern",
    "conference": "Sun Belt",
-   "score": 0.004455002282
+   "score": 102.4650524907
   },
   {
    "rank": 61,
    "team": "James Madison",
    "conference": "Sun Belt",
-   "score": 0.004346925386
+   "score": 99.9792838766
   },
   {
    "rank": 62,
    "team": "Rutgers",
    "conference": "Big Ten",
-   "score": 0.004267326758
+   "score": 98.1485154256
   },
   {
    "rank": 63,
    "team": "Houston",
    "conference": "Big 12",
-   "score": 0.004123034891
+   "score": 94.8298025036
   },
   {
    "rank": 64,
    "team": "Coastal Carolina",
    "conference": "Sun Belt",
-   "score": 0.004009353498
+   "score": 92.2151304487
   },
   {
    "rank": 65,
    "team": "Bowling Green",
    "conference": "Mid-American",
-   "score": 0.003981648605
+   "score": 91.5779179083
   },
   {
    "rank": 66,
    "team": "Texas State",
    "conference": "Sun Belt",
-   "score": 0.003947708813
+   "score": 90.7973027089
   },
   {
    "rank": 67,
    "team": "Louisiana",
    "conference": "Sun Belt",
-   "score": 0.003916001707
+   "score": 90.0680392643
   },
   {
    "rank": 68,
    "team": "Old Dominion",
    "conference": "Sun Belt",
-   "score": 0.003825647772
+   "score": 87.989898763
   },
   {
    "rank": 69,
    "team": "Army",
    "conference": "American Athletic",
-   "score": 0.003727261417
+   "score": 85.7270125857
   },
   {
    "rank": 70,
    "team": "Auburn",
    "conference": "SEC",
-   "score": 0.00367083993
+   "score": 84.4293184009
   },
   {
    "rank": 71,
    "team": "Maryland",
    "conference": "Big Ten",
-   "score": 0.003645145685
+   "score": 83.8383507596
   },
   {
    "rank": 72,
    "team": "App State",
    "conference": "Sun Belt",
-   "score": 0.003639036759
+   "score": 83.6978454505
   },
   {
    "rank": 73,
    "team": "Wisconsin",
    "conference": "Big Ten",
-   "score": 0.003634053934
+   "score": 83.5832404898
   },
   {
    "rank": 74,
    "team": "Virginia",
    "conference": "ACC",
-   "score": 0.003600297102
+   "score": 82.8068333415
   },
   {
    "rank": 75,
    "team": "Jacksonville State",
    "conference": "Conference USA",
-   "score": 0.003583605494
+   "score": 82.4229263732
   },
   {
    "rank": 76,
    "team": "Duke",
    "conference": "ACC",
-   "score": 0.00348444742
+   "score": 80.1422906602
   },
   {
    "rank": 77,
    "team": "UTSA",
    "conference": "American Athletic",
-   "score": 0.003459689544
+   "score": 79.5728595083
   },
   {
    "rank": 78,
    "team": "Stanford",
    "conference": "ACC",
-   "score": 0.003407435861
+   "score": 78.3710248098
   },
   {
    "rank": 79,
    "team": "Marshall",
    "conference": "Sun Belt",
-   "score": 0.003380517776
+   "score": 77.7519088392
   },
   {
    "rank": 80,
    "team": "Arizona",
    "conference": "Big 12",
-   "score": 0.003349309782
+   "score": 77.0341249935
   },
   {
    "rank": 81,
    "team": "South Alabama",
    "conference": "Sun Belt",
-   "score": 0.003264264852
+   "score": 75.0780915883
   },
   {
    "rank": 82,
    "team": "UConn",
    "conference": "FBS Independents",
-   "score": 0.003223496579
+   "score": 74.1404213069
   },
   {
    "rank": 83,
    "team": "Michigan State",
    "conference": "Big Ten",
-   "score": 0.003100898936
+   "score": 71.3206755205
   },
   {
    "rank": 84,
    "team": "UCF",
    "conference": "Big 12",
-   "score": 0.003078025681
+   "score": 70.7945906556
   },
   {
    "rank": 85,
    "team": "Liberty",
    "conference": "Conference USA",
-   "score": 0.002925211473
+   "score": 67.2798638692
   },
   {
    "rank": 86,
    "team": "East Carolina",
    "conference": "American Athletic",
-   "score": 0.002837957379
+   "score": 65.2730197154
   },
   {
    "rank": 87,
    "team": "Western Kentucky",
    "conference": "Conference USA",
-   "score": 0.002817201014
+   "score": 64.7956233113
   },
   {
    "rank": 88,
    "team": "Northwestern",
    "conference": "Big Ten",
-   "score": 0.002799949013
+   "score": 64.398827293
   },
   {
    "rank": 89,
    "team": "North Carolina",
    "conference": "ACC",
-   "score": 0.002788769918
+   "score": 64.1417081038
   },
   {
    "rank": 90,
    "team": "California",
    "conference": "ACC",
-   "score": 0.00258201788
+   "score": 59.3864112416
   },
   {
    "rank": 91,
    "team": "Ball State",
    "conference": "Mid-American",
-   "score": 0.002578086475
+   "score": 59.2959889166
   },
   {
    "rank": 92,
    "team": "Rice",
    "conference": "American Athletic",
-   "score": 0.002482719997
+   "score": 57.1025599406
   },
   {
    "rank": 93,
    "team": "North Texas",
    "conference": "American Athletic",
-   "score": 0.002472162542
+   "score": 56.8597384729
   },
   {
    "rank": 94,
    "team": "Oregon State",
    "conference": "Pac-12",
-   "score": 0.002445842425
+   "score": 56.2543757675
   },
   {
    "rank": 95,
    "team": "Sam Houston",
    "conference": "Conference USA",
-   "score": 0.002357717249
+   "score": 54.2274967282
   },
   {
    "rank": 96,
    "team": "Fresno State",
    "conference": "Mountain West",
-   "score": 0.002288928395
+   "score": 52.6453530828
   },
   {
    "rank": 97,
    "team": "UCLA",
    "conference": "Big Ten",
-   "score": 0.002269892058
+   "score": 52.207517335
   },
   {
    "rank": 98,
    "team": "Colorado State",
    "conference": "Mountain West",
-   "score": 0.002261539009
+   "score": 52.0153972004
   },
   {
    "rank": 99,
    "team": "Akron",
    "conference": "Mid-American",
-   "score": 0.002243224627
+   "score": 51.594166424
   },
   {
    "rank": 100,
    "team": "Georgia State",
    "conference": "Sun Belt",
-   "score": 0.002219328379
+   "score": 51.0445527202
   },
   {
    "rank": 101,
    "team": "Hawai'i",
    "conference": "Mountain West",
-   "score": 0.002095615502
+   "score": 48.1991565504
   },
   {
    "rank": 102,
    "team": "Utah State",
    "conference": "Mountain West",
-   "score": 0.002091090721
+   "score": 48.0950865717
   },
   {
    "rank": 103,
    "team": "Troy",
    "conference": "Sun Belt",
-   "score": 0.002002094014
+   "score": 46.0481623261
   },
   {
    "rank": 104,
    "team": "Oklahoma State",
    "conference": "Big 12",
-   "score": 0.002002058333
+   "score": 46.0473416681
   },
   {
    "rank": 105,
    "team": "UL Monroe",
    "conference": "Sun Belt",
-   "score": 0.001973920015
+   "score": 45.4001603509
   },
   {
    "rank": 106,
    "team": "Wake Forest",
    "conference": "ACC",
-   "score": 0.001939883152
+   "score": 44.6173125041
   },
   {
    "rank": 107,
    "team": "Charlotte",
    "conference": "American Athletic",
-   "score": 0.001919859477
+   "score": 44.15676798
   },
   {
    "rank": 108,
    "team": "South Florida",
    "conference": "American Athletic",
-   "score": 0.001908160656
+   "score": 43.8876950783
   },
   {
    "rank": 109,
    "team": "Air Force",
    "conference": "Mountain West",
-   "score": 0.001798163673
+   "score": 41.3577644893
   },
   {
    "rank": 110,
    "team": "Arkansas State",
    "conference": "Sun Belt",
-   "score": 0.001798161731
+   "score": 41.3577198103
   },
   {
    "rank": 111,
    "team": "Western Michigan",
    "conference": "Mid-American",
-   "score": 0.001795171907
+   "score": 41.2889538678
   },
   {
    "rank": 112,
    "team": "San Jos\u00e9 State",
    "conference": "Mountain West",
-   "score": 0.001732503989
+   "score": 39.8475917512
   },
   {
    "rank": 113,
    "team": "Eastern Michigan",
    "conference": "Mid-American",
-   "score": 0.001721604672
+   "score": 39.5969074637
   },
   {
    "rank": 114,
    "team": "UAB",
    "conference": "American Athletic",
-   "score": 0.001662105651
+   "score": 38.2284299746
   },
   {
    "rank": 115,
    "team": "New Mexico",
    "conference": "Mountain West",
-   "score": 0.001652290425
+   "score": 38.0026797841
   },
   {
    "rank": 116,
    "team": "Florida State",
    "conference": "ACC",
-   "score": 0.001634792946
+   "score": 37.600237763
   },
   {
    "rank": 117,
    "team": "Florida Atlantic",
    "conference": "American Athletic",
-   "score": 0.001530813349
+   "score": 35.2087070284
   },
   {
    "rank": 118,
    "team": "New Mexico State",
    "conference": "Conference USA",
-   "score": 0.001520655129
+   "score": 34.9750679685
   },
   {
    "rank": 119,
    "team": "Nevada",
    "conference": "Mountain West",
-   "score": 0.001507179834
+   "score": 34.6651361845
   },
   {
    "rank": 120,
    "team": "Louisiana Tech",
    "conference": "Conference USA",
-   "score": 0.001473963754
+   "score": 33.901166331
   },
   {
    "rank": 121,
    "team": "San Diego State",
    "conference": "Mountain West",
-   "score": 0.001468777423
+   "score": 33.7818807253
   },
   {
    "rank": 122,
    "team": "Central Michigan",
    "conference": "Mid-American",
-   "score": 0.001409042227
+   "score": 32.4079712292
   },
   {
    "rank": 123,
    "team": "Purdue",
    "conference": "Big Ten",
-   "score": 0.001390935702
+   "score": 31.9915211457
   },
   {
    "rank": 124,
    "team": "Florida International",
    "conference": "Conference USA",
-   "score": 0.001383077652
+   "score": 31.8107859997
   },
   {
    "rank": 125,
    "team": "Kennesaw State",
    "conference": "Conference USA",
-   "score": 0.001266431557
+   "score": 29.1279258157
   },
   {
    "rank": 126,
    "team": "Mississippi State",
    "conference": "SEC",
-   "score": 0.001223351241
+   "score": 28.1370785458
   },
   {
    "rank": 127,
    "team": "Tulsa",
    "conference": "American Athletic",
-   "score": 0.00117707658
+   "score": 27.07276134
   },
   {
    "rank": 128,
    "team": "Massachusetts",
    "conference": "FBS Independents",
-   "score": 0.00115128124
+   "score": 26.4794685158
   },
   {
    "rank": 129,
    "team": "Wyoming",
    "conference": "Mountain West",
-   "score": 0.001140202948
+   "score": 26.2246678043
   },
   {
    "rank": 130,
    "team": "Southern Miss",
    "conference": "Sun Belt",
-   "score": 0.00105330929
+   "score": 24.2261136671
   },
   {
    "rank": 131,
    "team": "Temple",
    "conference": "American Athletic",
-   "score": 0.001042818878
+   "score": 23.9848341946
   },
   {
    "rank": 132,
    "team": "UTEP",
    "conference": "Conference USA",
-   "score": 0.001016162073
+   "score": 23.371727683
   },
   {
    "rank": 133,
    "team": "Middle Tennessee",
    "conference": "Conference USA",
-   "score": 0.000980444933
+   "score": 22.5502334657
   },
   {
    "rank": 134,
    "team": "Kent State",
    "conference": "Mid-American",
-   "score": 0.000751857136
+   "score": 17.2927141326
   }
  ],
  "games_added_this_week": [

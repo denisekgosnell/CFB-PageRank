@@ -6,7 +6,7 @@ The code here is licensed under Apache 2.0 and the result tables under CC BY 4.0
 
 ## What PageRank Does With Our Graph
 
-Picture a fixed pool of credit spread evenly across every team before the season starts. Each round, every team passes the credit it holds out along its outgoing edges. In our graph an outgoing edge is a loss, so a team passes its credit to the teams that beat it. A team splits its credit across its losses in proportion to the edge weights. Then every team's new total is damped: 85 percent of what arrived, plus an equal share of the remaining 15 percent for everyone, so no team ever drops to zero. Repeat until the numbers stop moving. The pool is the same size at the end as at the start, so the scores add up to 1.
+Picture a fixed pool of credit spread evenly across every team before the season starts: 100 points each, and every team tied for first. Each round, every team passes the credit it holds out along its outgoing edges. In our graph an outgoing edge is a loss, so a team passes its credit to the teams that beat it. A team splits its credit across its losses in proportion to the edge weights. Then every team's new total is damped: 85 percent of what arrived, plus an equal share of the remaining 15 percent for everyone, so no team ever drops to zero. Repeat until the numbers stop moving. The pool is the same size at the end as at the start, 100 points per vertex, so a score of 100 means exactly average and the scores always add up to 100 times the number of vertices.
 
 Two things fall out of this that are worth seeing before you read the tables.
 
@@ -18,10 +18,12 @@ Second, a team with no loss has no outgoing edge. In graph terms it is a danglin
 
 | setting | value | where it lives |
 | --- | --- | --- |
+| start value | 100 points per vertex, before the first round | `pagerank.py` |
 | damping factor | 0.85 | `run_pagerank.py` |
-| convergence | stop when the total absolute change in one round is below 1e-10 | `run_pagerank.py` |
+| convergence | stop when the total absolute change in one round is below 1e-10 of the whole pool | `run_pagerank.py` |
 | iteration limit | 1000 rounds | `run_pagerank.py` |
 | dangling vertices | their credit is spread evenly across every vertex | `pagerank.py` |
+| ties | scores within a billionth of a point share a rank | `pagerank.py` |
 | vertices | every team in `vertices.csv`, FCS opponents included | `run_pagerank.py` |
 | ranked teams | FBS teams only | `run_pagerank.py` |
 
@@ -43,9 +45,9 @@ Let's walk through one team. In 2023, Oklahoma State lost three games: to South 
 
 ## Week by Week
 
-`run_pagerank.py` builds one snapshot per week. For week w it keeps every edge with `week` less than or equal to w, runs PageRank on the whole vertex set, and ranks the FBS teams. Week 0 is the handful of late-August games, so the first snapshot has a few edges and a lot of ties. The last snapshot is rivalry week, or, for the season in progress, the last week in the data.
+`run_pagerank.py` builds one snapshot per week, and one before the season. The preseason snapshot has no edges at all: every team holds 100 points and every team is tied for first, which is the starting line for everything that follows. Then, for week w, the script keeps every edge with `week` less than or equal to w, runs PageRank on the whole vertex set, and ranks the FBS teams. Week 0 is the handful of late-August games, so that snapshot has a few edges and still a lot of ties. The last snapshot is rivalry week, or, for the season in progress, the last week in the data.
 
-Ranks are competition ranks. Teams whose scores are equal to within 1e-12 share a rank, and the next distinct score takes the rank it would have had without the tie, so a sequence can read 1, 2, 2, 4. Expect ties in the first week or two.
+Ranks are competition ranks. Teams whose scores are equal to within a billionth of a point share a rank, and the next distinct score takes the rank it would have had without the tie, so a sequence can read 1, 2, 2, 4. In the preseason every team is rank 1. Expect ties in the first week or two as well.
 
 ## The Files
 
@@ -53,14 +55,14 @@ Ranks are competition ranks. Teams whose scores are equal to within 1e-12 share 
 | --- | --- |
 | `pagerank.py` | The algorithm and the ranking rule. Two functions, no file reading, nothing beyond the standard library. |
 | `run_pagerank.py` | Reads a season's graph, runs the weekly snapshots, writes the tables. |
-| `<season>/unweighted_results.csv` | One row per FBS team: `team`, `conference`, then `week_<w>_rank` and `week_<w>_score` for every week. Rows are sorted by the final week's rank. Scores have eight decimal places. |
+| `<season>/unweighted_results.csv` | One row per FBS team: `team`, `conference`, then `preseason_rank` and `preseason_score`, then `week_<w>_rank` and `week_<w>_score` for every week. Rows are sorted by the final week's rank. Scores are points with six decimal places. |
 | `<season>/weighted_results.csv` | The same, for the weighted graph. |
 | `<season>/unweighted_results.md`, `<season>/weighted_results.md` | The same tables rendered for reading on GitHub, with the season, mode, data cutoff, game count, and convergence settings above the table. |
-| `<season>/snapshots/<mode>_week_<w>.json` | The full ranking for one week, the games added that week, and the round count. The visualizations read these. |
+| `<season>/snapshots/<mode>_preseason.json`, `<season>/snapshots/<mode>_week_<w>.json` | The full ranking for one snapshot, the games added that week, and the round count. The preseason file is stored as week -1. The visualizations read these. |
 
 ## How We Know It Is Right
 
-`tests/test_pagerank.py` checks the implementation three ways. A four-vertex graph with an answer worked out by hand in the test itself. Every weekly snapshot of every season, in both modes, against `networkx.pagerank` with the same damping, to within 1e-8 per vertex. And the result tables against the snapshots they came from, including the tie rule. networkx is a test dependency only; nothing a reader runs imports it.
+`tests/test_pagerank.py` checks the implementation three ways. A four-vertex graph with an answer worked out by hand in the test itself, plus a graph with no edges to confirm that every vertex keeps its 100 points and ties for first. Every snapshot of every season, in both modes, against `networkx.pagerank` with the same damping, to within 1e-8 per vertex after dividing our points by the pool. And the result tables against the snapshots they came from, including the tie rule. networkx is a test dependency only; nothing a reader runs imports it.
 
 ## Rebuilding
 

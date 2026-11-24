@@ -59,12 +59,15 @@ def page_data(season):
     conferences = sorted({v["conference"] for v in vertices if v["division"] == "FBS"})
     colors = {conference: PALETTE[i % len(PALETTE)] for i, conference in enumerate(conferences)}
 
+    # Week -1 is the preseason snapshot: no games, every team at 100 points.
     snapshots = {"unweighted": {}, "weighted": {}}
-    weeks = sorted({int(path.stem.split("_")[-1]) for path in snapshot_dir.glob("unweighted_week_*.json")})
+    weeks = set()
     for mode in snapshots:
-        for week in weeks:
-            snap = json.loads((snapshot_dir / f"{mode}_week_{week}.json").read_text())
-            snapshots[mode][str(week)] = {r["team"]: [r["rank"], round(r["score"], 8)] for r in snap["rankings"]}
+        for path in snapshot_dir.glob(f"{mode}_*.json"):
+            snap = json.loads(path.read_text())
+            weeks.add(snap["week"])
+            snapshots[mode][str(snap["week"])] = {r["team"]: [r["rank"], round(r["score"], 2)] for r in snap["rankings"]}
+    weeks = sorted(weeks)
 
     return {
         "season": season,
@@ -91,7 +94,8 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
     html = TEMPLATE.read_text(encoding="utf-8").replace("__SEASON__", str(args.season)).replace("__DATA__", json.dumps(data, separators=(",", ":")))
     (out_dir / "index.html").write_text(html, encoding="utf-8")
-    print(f"season {args.season}: wrote {out_dir / 'index.html'} with {len(data['vertices'])} vertices, {len(data['edges'])} edges, weeks {data['weeks'][0]}..{data['weeks'][-1]}")
+    print(f"season {args.season}: wrote {out_dir / 'index.html'} with {len(data['vertices'])} vertices, {len(data['edges'])} edges, "
+          f"preseason plus weeks {data['weeks'][1]}..{data['weeks'][-1]}")
 
 
 if __name__ == "__main__":
