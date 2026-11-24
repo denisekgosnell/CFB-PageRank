@@ -1,0 +1,93 @@
+{
+  "season": 2024,
+  "labor_day": "2024-09-02",
+  "week_1_starts": "2024-08-27",
+  "thanksgiving": "2024-11-28",
+  "rivalry_saturday": "2024-11-30",
+  "rivalry_week": 14,
+  "poll_cutoff": "2024-12-03",
+  "weeks": {
+    "0": {
+      "first_game": "2024-08-24",
+      "last_game": "2024-08-24",
+      "games": 4
+    },
+    "1": {
+      "first_game": "2024-08-29",
+      "last_game": "2024-09-02",
+      "games": 96
+    },
+    "2": {
+      "first_game": "2024-09-06",
+      "last_game": "2024-09-07",
+      "games": 78
+    },
+    "3": {
+      "first_game": "2024-09-12",
+      "last_game": "2024-09-14",
+      "games": 63
+    },
+    "4": {
+      "first_game": "2024-09-19",
+      "last_game": "2024-09-21",
+      "games": 64
+    },
+    "5": {
+      "first_game": "2024-09-26",
+      "last_game": "2024-09-28",
+      "games": 55
+    },
+    "6": {
+      "first_game": "2024-10-03",
+      "last_game": "2024-10-05",
+      "games": 49
+    },
+    "7": {
+      "first_game": "2024-10-08",
+      "last_game": "2024-10-12",
+      "games": 52
+    },
+    "8": {
+      "first_game": "2024-10-15",
+      "last_game": "2024-10-19",
+      "games": 59
+    },
+    "9": {
+      "first_game": "2024-10-22",
+      "last_game": "2024-10-26",
+      "games": 57
+    },
+    "10": {
+      "first_game": "2024-10-29",
+      "last_game": "2024-11-02",
+      "games": 49
+    },
+    "11": {
+      "first_game": "2024-11-05",
+      "last_game": "2024-11-09",
+      "games": 50
+    },
+    "12": {
+      "first_game": "2024-11-12",
+      "last_game": "2024-11-16",
+      "games": 55
+    },
+    "13": {
+      "first_game": "2024-11-19",
+      "last_game": "2024-11-23",
+      "games": 65
+    },
+    "14": {
+      "first_game": "2024-11-26",
+      "last_game": "2024-11-30",
+      "games": 67
+    }
+  },
+  "last_game_in_dataset": "2024-11-30",
+  "season_complete_through_rivalry_week": true,
+  "data_collected_at": "2026-11-24T19:32:41Z",
+  "poll_notes": [
+    "AP Top 25 released 2024-09-29 lists 26 teams"
+  ],
+  "resolutions_applied": 20
+}

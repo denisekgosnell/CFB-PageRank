@@ -1,0 +1,864 @@
+game_id,season,week,game_date,home_team,away_team,home_score,away_score,winner,loser,margin,neutral_site,conference_game,overtime,source
+401635525,2024,0,2024-08-24,Georgia Tech,Florida State,24,21,Georgia Tech,Florida State,3,true,true,false,cfbd
+401643696,2024,0,2024-08-24,Nevada,SMU,24,29,SMU,Nevada,5,false,false,false,cfbd
+401643697,2024,0,2024-08-24,New Mexico,Montana State,31,35,Montana State,New Mexico,4,false,false,false,cfbd
+401643858,2024,0,2024-08-24,Hawai'i,Delaware State,35,14,Hawai'i,Delaware State,21,false,false,false,cfbd
+401628320,2024,1,2024-08-29,Arkansas,Arkansas-Pine Bluff,70,0,Arkansas,Arkansas-Pine Bluff,70,true,false,false,cfbd
+401628327,2024,1,2024-08-29,Missouri,Murray State,51,0,Missouri,Murray State,51,false,false,false,cfbd
+401628448,2024,1,2024-08-29,Minnesota,North Carolina,17,19,North Carolina,Minnesota,2,false,false,false,cfbd
+401628458,2024,1,2024-08-29,Rutgers,Howard,44,7,Rutgers,Howard,37,false,false,false,cfbd
+401628581,2024,1,2024-08-29,Wake Forest,North Carolina A&T,45,13,Wake Forest,North Carolina A&T,32,false,false,false,cfbd
+401628582,2024,1,2024-08-29,UCF,New Hampshire,57,3,UCF,New Hampshire,54,false,false,false,cfbd
+401634206,2024,1,2024-08-29,Colorado,North Dakota State,31,26,Colorado,North Dakota State,5,false,false,false,cfbd
+401634299,2024,1,2024-08-29,NC State,Western Carolina,38,21,NC State,Western Carolina,17,false,false,false,cfbd
+401636387,2024,1,2024-08-29,UL Monroe,Jackson State,30,14,UL Monroe,Jackson State,16,false,false,false,cfbd
+401636606,2024,1,2024-08-29,Kansas,Lindenwood,48,3,Kansas,Lindenwood,45,false,false,false,cfbd
+401636607,2024,1,2024-08-29,Utah,Southern Utah,49,0,Utah,Southern Utah,49,false,false,false,cfbd
+401640998,2024,1,2024-08-29,Jacksonville State,Coastal Carolina,27,55,Coastal Carolina,Jacksonville State,28,false,false,false,cfbd
+401643698,2024,1,2024-08-29,San José State,Sacramento State,42,24,San José State,Sacramento State,18,false,false,false,cfbd
+401644727,2024,1,2024-08-29,Buffalo,Lafayette,30,13,Buffalo,Lafayette,17,false,false,false,cfbd
+401644728,2024,1,2024-08-29,Toledo,Duquesne,49,10,Toledo,Duquesne,39,false,false,false,cfbd
+401644729,2024,1,2024-08-29,Bowling Green,Fordham,41,17,Bowling Green,Fordham,24,false,false,false,cfbd
+401644730,2024,1,2024-08-29,Central Michigan,Central Connecticut,66,10,Central Michigan,Central Connecticut,56,false,false,false,cfbd
+401645316,2024,1,2024-08-29,UAB,Alcorn State,41,3,UAB,Alcorn State,38,false,false,false,cfbd
+401645317,2024,1,2024-08-29,Tulane,SE Louisiana,52,0,Tulane,SE Louisiana,52,false,false,false,cfbd
+401645318,2024,1,2024-08-29,Tulsa,Northwestern State,62,28,Tulsa,Northwestern State,34,false,false,false,cfbd
+401654845,2024,1,2024-08-29,Illinois,Eastern Illinois,45,0,Illinois,Eastern Illinois,45,false,false,false,cfbd
+401628328,2024,1,2024-08-30,Oklahoma,Temple,51,3,Oklahoma,Temple,48,false,false,false,cfbd
+401628453,2024,1,2024-08-30,Michigan State,Florida Atlantic,16,10,Michigan State,Florida Atlantic,6,false,false,false,cfbd
+401628461,2024,1,2024-08-30,Wisconsin,Western Michigan,28,14,Wisconsin,Western Michigan,14,false,false,false,cfbd
+401628584,2024,1,2024-08-30,Duke,Elon,26,3,Duke,Elon,23,false,false,false,cfbd
+401634300,2024,1,2024-08-30,Stanford,TCU,27,34,TCU,Stanford,7,false,false,false,cfbd
+401645319,2024,1,2024-08-30,Army,Lehigh,42,7,Army,Lehigh,35,false,false,false,cfbd
+401628319,2024,1,2024-08-31,Alabama,Western Kentucky,63,0,Alabama,Western Kentucky,63,false,false,false,cfbd
+401628321,2024,1,2024-08-31,Auburn,Alabama A&M,73,3,Auburn,Alabama A&M,70,false,false,false,cfbd
+401628322,2024,1,2024-08-31,Florida,Miami,17,41,Miami,Florida,24,false,false,false,cfbd
+401628323,2024,1,2024-08-31,Georgia,Clemson,34,3,Georgia,Clemson,31,true,false,false,cfbd
+401628324,2024,1,2024-08-31,Kentucky,Southern Miss,31,0,Kentucky,Southern Miss,31,false,false,false,cfbd
+401628325,2024,1,2024-08-31,Ole Miss,Furman,76,0,Ole Miss,Furman,76,false,false,false,cfbd
+401628326,2024,1,2024-08-31,Mississippi State,Eastern Kentucky,56,7,Mississippi State,Eastern Kentucky,49,false,false,false,cfbd
+401628329,2024,1,2024-08-31,South Carolina,Old Dominion,23,19,South Carolina,Old Dominion,4,false,false,false,cfbd
+401628330,2024,1,2024-08-31,Tennessee,Chattanooga,69,3,Tennessee,Chattanooga,66,false,false,false,cfbd
+401628331,2024,1,2024-08-31,Texas,Colorado State,52,0,Texas,Colorado State,52,false,false,false,cfbd
+401628332,2024,1,2024-08-31,Texas A&M,Notre Dame,13,23,Notre Dame,Texas A&M,10,false,false,false,cfbd
+401628333,2024,1,2024-08-31,Vanderbilt,Virginia Tech,34,27,Vanderbilt,Virginia Tech,7,false,false,true,cfbd
+401628449,2024,1,2024-08-31,Indiana,Florida International,31,7,Indiana,Florida International,24,false,false,false,cfbd
+401628450,2024,1,2024-08-31,Iowa,Illinois State,40,0,Iowa,Illinois State,40,false,false,false,cfbd
+401628451,2024,1,2024-08-31,Maryland,UConn,50,7,Maryland,UConn,43,false,false,false,cfbd
+401628452,2024,1,2024-08-31,Michigan,Fresno State,30,10,Michigan,Fresno State,20,false,false,false,cfbd
+401628454,2024,1,2024-08-31,Nebraska,UTEP,40,7,Nebraska,UTEP,33,false,false,false,cfbd
+401628455,2024,1,2024-08-31,Ohio State,Akron,52,6,Ohio State,Akron,46,false,false,false,cfbd
+401628456,2024,1,2024-08-31,Oregon,Idaho,24,14,Oregon,Idaho,10,false,false,false,cfbd
+401628457,2024,1,2024-08-31,West Virginia,Penn State,12,34,Penn State,West Virginia,22,false,false,false,cfbd
+401628459,2024,1,2024-08-31,Hawai'i,UCLA,13,16,UCLA,Hawai'i,3,false,false,false,cfbd
+401628460,2024,1,2024-08-31,Washington,Weber State,35,3,Washington,Weber State,32,false,false,false,cfbd
+401628586,2024,1,2024-08-31,Liberty,Campbell,41,24,Liberty,Campbell,17,false,false,false,cfbd
+401628589,2024,1,2024-08-31,Virginia,Richmond,34,13,Virginia,Richmond,21,false,false,false,cfbd
+401628590,2024,1,2024-08-31,Marshall,Stony Brook,45,3,Marshall,Stony Brook,42,false,false,false,cfbd
+401628591,2024,1,2024-08-31,Cincinnati,Towson,38,20,Cincinnati,Towson,18,false,false,false,cfbd
+401629039,2024,1,2024-08-31,Massachusetts,Eastern Michigan,14,28,Eastern Michigan,Massachusetts,14,false,false,false,cfbd
+401632062,2024,1,2024-08-31,Louisville,Austin Peay,62,0,Louisville,Austin Peay,62,false,false,false,cfbd
+401632064,2024,1,2024-08-31,Arkansas State,Central Arkansas,34,31,Arkansas State,Central Arkansas,3,false,false,false,cfbd
+401634133,2024,1,2024-08-31,App State,East Tennessee State,38,10,App State,East Tennessee State,28,false,false,false,cfbd
+401634169,2024,1,2024-08-31,Purdue,Indiana State,49,0,Purdue,Indiana State,49,false,false,false,cfbd
+401634197,2024,1,2024-08-31,Iowa State,North Dakota,21,3,Iowa State,North Dakota,18,false,false,false,cfbd
+401634212,2024,1,2024-08-31,Oklahoma State,South Dakota State,44,20,Oklahoma State,South Dakota State,24,false,false,false,cfbd
+401634240,2024,1,2024-08-31,BYU,Southern Illinois,41,13,BYU,Southern Illinois,28,false,false,false,cfbd
+401634301,2024,1,2024-08-31,California,UC Davis,31,13,California,UC Davis,18,false,false,false,cfbd
+401634302,2024,1,2024-08-31,Georgia Tech,Georgia State,35,12,Georgia Tech,Georgia State,23,false,false,false,cfbd
+401634303,2024,1,2024-08-31,SMU,Houston Christian,59,7,SMU,Houston Christian,52,false,false,false,cfbd
+401634304,2024,1,2024-08-31,Syracuse,Ohio,38,22,Syracuse,Ohio,16,false,false,false,cfbd
+401634305,2024,1,2024-08-31,Pittsburgh,Kent State,55,24,Pittsburgh,Kent State,31,false,false,false,cfbd
+401636363,2024,1,2024-08-31,South Florida,Bethune-Cookman,48,3,South Florida,Bethune-Cookman,45,false,false,false,cfbd
+401636380,2024,1,2024-08-31,Louisiana,Grambling,40,10,Louisiana,Grambling,30,false,false,false,cfbd
+401636608,2024,1,2024-08-31,Arizona,New Mexico,61,39,Arizona,New Mexico,22,false,false,false,cfbd
+401636609,2024,1,2024-08-31,Arizona State,Wyoming,48,7,Arizona State,Wyoming,41,false,false,false,cfbd
+401636610,2024,1,2024-08-31,Baylor,Tarleton State,45,3,Baylor,Tarleton State,42,false,false,false,cfbd
+401636611,2024,1,2024-08-31,Houston,UNLV,7,27,UNLV,Houston,20,false,false,false,cfbd
+401636612,2024,1,2024-08-31,Kansas State,UT Martin,41,6,Kansas State,UT Martin,35,false,false,false,cfbd
+401636613,2024,1,2024-08-31,Texas Tech,Abilene Christian,52,51,Texas Tech,Abilene Christian,1,false,false,true,cfbd
+401637159,2024,1,2024-08-31,Washington State,Portland State,70,30,Washington State,Portland State,40,false,false,false,cfbd
+401641007,2024,1,2024-08-31,Louisiana Tech,Nicholls,25,17,Louisiana Tech,Nicholls,8,false,false,false,cfbd
+401641015,2024,1,2024-08-31,UTSA,Kennesaw State,28,16,UTSA,Kennesaw State,12,false,false,false,cfbd
+401641023,2024,1,2024-08-31,Middle Tennessee,Tennessee Tech,32,25,Middle Tennessee,Tennessee Tech,7,false,false,false,cfbd
+401641032,2024,1,2024-08-31,New Mexico State,Southeast Missouri State,23,16,New Mexico State,Southeast Missouri State,7,false,false,false,cfbd
+401641039,2024,1,2024-08-31,Rice,Sam Houston,14,34,Sam Houston,Rice,20,false,false,false,cfbd
+401643699,2024,1,2024-08-31,Air Force,Merrimack,21,6,Air Force,Merrimack,15,false,false,false,cfbd
+401643700,2024,1,2024-08-31,Georgia Southern,Boise State,45,56,Boise State,Georgia Southern,11,false,false,false,cfbd
+401643701,2024,1,2024-08-31,Troy,Nevada,26,28,Nevada,Troy,2,false,false,false,cfbd
+401643702,2024,1,2024-08-31,San Diego State,East Texas A&M,45,14,San Diego State,East Texas A&M,31,false,false,false,cfbd
+401643703,2024,1,2024-08-31,Utah State,Robert Morris,36,14,Utah State,Robert Morris,22,false,false,false,cfbd
+401643704,2024,1,2024-08-31,Oregon State,Idaho State,38,15,Oregon State,Idaho State,23,false,false,false,cfbd
+401643774,2024,1,2024-08-31,Charlotte,James Madison,7,30,James Madison,Charlotte,23,false,false,false,cfbd
+401643775,2024,1,2024-08-31,South Alabama,North Texas,38,52,North Texas,South Alabama,14,false,false,false,cfbd
+401643776,2024,1,2024-08-31,Texas State,Lamar,34,27,Texas State,Lamar,7,false,false,false,cfbd
+401644683,2024,1,2024-08-31,Northwestern,Miami (OH),13,6,Northwestern,Miami (OH),7,false,false,false,cfbd
+401644731,2024,1,2024-08-31,Northern Illinois,Western Illinois,54,15,Northern Illinois,Western Illinois,39,false,false,false,cfbd
+401645320,2024,1,2024-08-31,East Carolina,Norfolk State,42,3,East Carolina,Norfolk State,39,false,false,false,cfbd
+401645321,2024,1,2024-08-31,Memphis,North Alabama,40,0,Memphis,North Alabama,40,false,false,false,cfbd
+401645322,2024,1,2024-08-31,Navy,Bucknell,49,21,Navy,Bucknell,28,false,false,false,cfbd
+401628334,2024,1,2024-09-01,LSU,USC,20,27,USC,LSU,7,true,false,false,cfbd
+401634306,2024,1,2024-09-02,Florida State,Boston College,13,28,Boston College,Florida State,15,false,true,false,cfbd
+401628463,2024,2,2024-09-06,Indiana,Western Illinois,77,3,Indiana,Western Illinois,74,false,false,false,cfbd
+401634765,2024,2,2024-09-06,SMU,BYU,15,18,BYU,SMU,3,false,false,false,cfbd
+401635533,2024,2,2024-09-06,Northwestern,Duke,20,26,Duke,Northwestern,6,false,false,true,cfbd
+401628335,2024,2,2024-09-07,Alabama,South Florida,42,16,Alabama,South Florida,26,false,false,false,cfbd
+401628336,2024,2,2024-09-07,Oklahoma State,Arkansas,39,31,Oklahoma State,Arkansas,8,false,false,true,cfbd
+401628337,2024,2,2024-09-07,Auburn,California,14,21,California,Auburn,7,false,false,false,cfbd
+401628338,2024,2,2024-09-07,Florida,Samford,45,7,Florida,Samford,38,false,false,false,cfbd
+401628339,2024,2,2024-09-07,Georgia,Tennessee Tech,48,3,Georgia,Tennessee Tech,45,false,false,false,cfbd
+401628340,2024,2,2024-09-07,Kentucky,South Carolina,6,31,South Carolina,Kentucky,25,false,true,false,cfbd
+401628341,2024,2,2024-09-07,LSU,Nicholls,44,21,LSU,Nicholls,23,false,false,false,cfbd
+401628342,2024,2,2024-09-07,Ole Miss,Middle Tennessee,52,3,Ole Miss,Middle Tennessee,49,false,false,false,cfbd
+401628343,2024,2,2024-09-07,Arizona State,Mississippi State,30,23,Arizona State,Mississippi State,7,false,false,false,cfbd
+401628344,2024,2,2024-09-07,Missouri,Buffalo,38,0,Missouri,Buffalo,38,false,false,false,cfbd
+401628345,2024,2,2024-09-07,Oklahoma,Houston,16,12,Oklahoma,Houston,4,false,false,false,cfbd
+401628346,2024,2,2024-09-07,NC State,Tennessee,10,51,Tennessee,NC State,41,true,false,false,cfbd
+401628347,2024,2,2024-09-07,Michigan,Texas,12,31,Texas,Michigan,19,false,false,false,cfbd
+401628348,2024,2,2024-09-07,Texas A&M,McNeese,52,10,Texas A&M,McNeese,42,false,false,false,cfbd
+401628349,2024,2,2024-09-07,Vanderbilt,Alcorn State,55,0,Vanderbilt,Alcorn State,55,false,false,false,cfbd
+401628462,2024,2,2024-09-07,Illinois,Kansas,23,17,Illinois,Kansas,6,false,false,false,cfbd
+401628464,2024,2,2024-09-07,Iowa,Iowa State,19,20,Iowa State,Iowa,1,false,false,false,cfbd
+401628465,2024,2,2024-09-07,Maryland,Michigan State,24,27,Michigan State,Maryland,3,false,true,false,cfbd
+401628466,2024,2,2024-09-07,Minnesota,Rhode Island,48,0,Minnesota,Rhode Island,48,false,false,false,cfbd
+401628467,2024,2,2024-09-07,Nebraska,Colorado,28,10,Nebraska,Colorado,18,false,false,false,cfbd
+401628468,2024,2,2024-09-07,Ohio State,Western Michigan,56,0,Ohio State,Western Michigan,56,false,false,false,cfbd
+401628469,2024,2,2024-09-07,Oregon,Boise State,37,34,Oregon,Boise State,3,false,false,false,cfbd
+401628470,2024,2,2024-09-07,Penn State,Bowling Green,34,27,Penn State,Bowling Green,7,false,false,false,cfbd
+401628471,2024,2,2024-09-07,Rutgers,Akron,49,17,Rutgers,Akron,32,false,false,false,cfbd
+401628472,2024,2,2024-09-07,USC,Utah State,48,0,USC,Utah State,48,false,false,false,cfbd
+401628473,2024,2,2024-09-07,Washington,Eastern Michigan,30,9,Washington,Eastern Michigan,21,false,false,false,cfbd
+401628474,2024,2,2024-09-07,Wisconsin,South Dakota,27,13,Wisconsin,South Dakota,14,false,false,false,cfbd
+401628593,2024,2,2024-09-07,West Virginia,UAlbany,49,14,West Virginia,UAlbany,35,false,false,false,cfbd
+401628603,2024,2,2024-09-07,Coastal Carolina,William & Mary,40,21,Coastal Carolina,William & Mary,19,false,false,false,cfbd
+401628977,2024,2,2024-09-07,Notre Dame,Northern Illinois,14,16,Northern Illinois,Notre Dame,2,false,false,false,cfbd
+401629040,2024,2,2024-09-07,Toledo,Massachusetts,38,23,Toledo,Massachusetts,15,false,false,false,cfbd
+401632068,2024,2,2024-09-07,Western Kentucky,Eastern Kentucky,31,0,Western Kentucky,Eastern Kentucky,31,false,false,false,cfbd
+401632071,2024,2,2024-09-07,UNLV,Utah Tech,72,14,UNLV,Utah Tech,58,false,false,false,cfbd
+401632072,2024,2,2024-09-07,UTEP,Southern Utah,24,27,Southern Utah,UTEP,3,false,false,true,cfbd
+401632459,2024,2,2024-09-07,Georgia State,Chattanooga,24,21,Georgia State,Chattanooga,3,false,false,false,cfbd
+401634181,2024,2,2024-09-07,Ball State,Missouri State,42,34,Ball State,Missouri State,8,false,false,false,cfbd
+401635531,2024,2,2024-09-07,Boston College,Duquesne,56,0,Boston College,Duquesne,56,false,false,false,cfbd
+401635532,2024,2,2024-09-07,Clemson,App State,66,20,Clemson,App State,46,false,false,false,cfbd
+401635534,2024,2,2024-09-07,Syracuse,Georgia Tech,31,28,Syracuse,Georgia Tech,3,false,true,false,cfbd
+401635535,2024,2,2024-09-07,Louisville,Jacksonville State,49,14,Louisville,Jacksonville State,35,false,false,false,cfbd
+401635536,2024,2,2024-09-07,Miami,Florida A&M,56,9,Miami,Florida A&M,47,false,false,false,cfbd
+401635537,2024,2,2024-09-07,North Carolina,Charlotte,38,20,North Carolina,Charlotte,18,false,false,false,cfbd
+401635538,2024,2,2024-09-07,Cincinnati,Pittsburgh,27,28,Pittsburgh,Cincinnati,1,false,false,false,cfbd
+401635539,2024,2,2024-09-07,Stanford,Cal Poly,41,7,Stanford,Cal Poly,34,false,false,false,cfbd
+401635540,2024,2,2024-09-07,Virginia Tech,Marshall,31,14,Virginia Tech,Marshall,17,false,false,false,cfbd
+401635639,2024,2,2024-09-07,Wake Forest,Virginia,30,31,Virginia,Wake Forest,1,false,true,false,cfbd
+401636614,2024,2,2024-09-07,Arizona,Northern Arizona,22,10,Arizona,Northern Arizona,12,false,false,false,cfbd
+401636615,2024,2,2024-09-07,TCU,Long Island University,45,0,TCU,Long Island University,45,false,false,false,cfbd
+401636616,2024,2,2024-09-07,Tulane,Kansas State,27,34,Kansas State,Tulane,7,false,false,false,cfbd
+401636617,2024,2,2024-09-07,UCF,Sam Houston,45,14,UCF,Sam Houston,31,false,false,false,cfbd
+401636618,2024,2,2024-09-07,Utah,Baylor,23,12,Utah,Baylor,11,false,false,false,cfbd
+401636859,2024,2,2024-09-07,Washington State,Texas Tech,37,16,Washington State,Texas Tech,21,false,false,false,cfbd
+401636999,2024,2,2024-09-07,UConn,Merrimack,63,17,UConn,Merrimack,46,false,false,false,cfbd
+401640979,2024,2,2024-09-07,Florida International,Central Michigan,52,16,Florida International,Central Michigan,36,false,false,false,cfbd
+401640989,2024,2,2024-09-07,New Mexico State,Liberty,24,30,Liberty,New Mexico State,6,false,true,false,cfbd
+401641016,2024,2,2024-09-07,Kennesaw State,Louisiana,10,34,Louisiana,Kennesaw State,24,false,false,false,cfbd
+401643705,2024,2,2024-09-07,Air Force,San José State,7,17,San José State,Air Force,10,false,true,false,cfbd
+401643706,2024,2,2024-09-07,Colorado State,Northern Colorado,38,17,Colorado State,Northern Colorado,21,false,false,false,cfbd
+401643707,2024,2,2024-09-07,Fresno State,Sacramento State,46,30,Fresno State,Sacramento State,16,false,false,false,cfbd
+401643708,2024,2,2024-09-07,Nevada,Georgia Southern,17,20,Georgia Southern,Nevada,3,false,false,false,cfbd
+401643709,2024,2,2024-09-07,San Diego State,Oregon State,0,21,Oregon State,San Diego State,21,false,false,false,cfbd
+401643710,2024,2,2024-09-07,Wyoming,Idaho,13,17,Idaho,Wyoming,4,false,false,false,cfbd
+401643777,2024,2,2024-09-07,James Madison,Gardner-Webb,13,6,James Madison,Gardner-Webb,7,false,false,false,cfbd
+401643778,2024,2,2024-09-07,Old Dominion,East Carolina,14,20,East Carolina,Old Dominion,6,false,false,false,cfbd
+401643779,2024,2,2024-09-07,Arkansas State,Tulsa,28,24,Arkansas State,Tulsa,4,false,false,false,cfbd
+401643780,2024,2,2024-09-07,UL Monroe,UAB,32,6,UL Monroe,UAB,26,false,false,false,cfbd
+401643781,2024,2,2024-09-07,Ohio,South Alabama,27,20,Ohio,South Alabama,7,false,false,false,cfbd
+401643782,2024,2,2024-09-07,Southern Miss,SE Louisiana,35,10,Southern Miss,SE Louisiana,25,false,false,false,cfbd
+401643783,2024,2,2024-09-07,Texas State,UTSA,49,10,Texas State,UTSA,39,false,false,false,cfbd
+401643784,2024,2,2024-09-07,Memphis,Troy,38,17,Memphis,Troy,21,false,false,false,cfbd
+401644732,2024,2,2024-09-07,Kent State,Saint Francis,17,23,Saint Francis,Kent State,6,false,false,false,cfbd
+401645323,2024,2,2024-09-07,Florida Atlantic,Army,7,24,Army,Florida Atlantic,17,false,true,false,cfbd
+401645324,2024,2,2024-09-07,Navy,Temple,38,11,Navy,Temple,27,false,true,false,cfbd
+401645325,2024,2,2024-09-07,North Texas,Stephen F. Austin,35,20,North Texas,Stephen F. Austin,15,false,false,false,cfbd
+401645326,2024,2,2024-09-07,Rice,Texas Southern,69,7,Rice,Texas Southern,62,false,false,false,cfbd
+401636867,2024,3,2024-09-12,Texas State,Arizona State,28,31,Arizona State,Texas State,3,false,false,false,cfbd
+401643788,2024,3,2024-09-12,South Alabama,Northwestern State,87,10,South Alabama,Northwestern State,77,false,false,false,cfbd
+401636863,2024,3,2024-09-13,Kansas,UNLV,20,23,UNLV,Kansas,3,false,false,false,cfbd
+401636864,2024,3,2024-09-13,Kansas State,Arizona,31,7,Kansas State,Arizona,24,false,false,false,cfbd
+401628350,2024,3,2024-09-14,Wisconsin,Alabama,10,42,Alabama,Wisconsin,32,false,false,false,cfbd
+401628351,2024,3,2024-09-14,Arkansas,UAB,37,27,Arkansas,UAB,10,false,false,false,cfbd
+401628352,2024,3,2024-09-14,Auburn,New Mexico,45,19,Auburn,New Mexico,26,false,false,false,cfbd
+401628353,2024,3,2024-09-14,Florida,Texas A&M,20,33,Texas A&M,Florida,13,false,true,false,cfbd
+401628354,2024,3,2024-09-14,Kentucky,Georgia,12,13,Georgia,Kentucky,1,false,true,false,cfbd
+401628355,2024,3,2024-09-14,Wake Forest,Ole Miss,6,40,Ole Miss,Wake Forest,34,false,false,false,cfbd
+401628356,2024,3,2024-09-14,Mississippi State,Toledo,17,41,Toledo,Mississippi State,24,false,false,false,cfbd
+401628357,2024,3,2024-09-14,Missouri,Boston College,27,21,Missouri,Boston College,6,false,false,false,cfbd
+401628358,2024,3,2024-09-14,Oklahoma,Tulane,34,19,Oklahoma,Tulane,15,false,false,false,cfbd
+401628359,2024,3,2024-09-14,South Carolina,LSU,33,36,LSU,South Carolina,3,false,true,false,cfbd
+401628360,2024,3,2024-09-14,Tennessee,Kent State,71,0,Tennessee,Kent State,71,false,false,false,cfbd
+401628361,2024,3,2024-09-14,Texas,UTSA,56,7,Texas,UTSA,49,false,false,false,cfbd
+401628362,2024,3,2024-09-14,Georgia State,Vanderbilt,36,32,Georgia State,Vanderbilt,4,false,false,false,cfbd
+401628475,2024,3,2024-09-14,Illinois,Central Michigan,30,9,Illinois,Central Michigan,21,false,false,false,cfbd
+401628476,2024,3,2024-09-14,UCLA,Indiana,13,42,Indiana,UCLA,29,false,true,false,cfbd
+401628477,2024,3,2024-09-14,Iowa,Troy,38,21,Iowa,Troy,17,false,false,false,cfbd
+401628478,2024,3,2024-09-14,Virginia,Maryland,13,27,Maryland,Virginia,14,false,false,false,cfbd
+401628479,2024,3,2024-09-14,Michigan,Arkansas State,28,18,Michigan,Arkansas State,10,false,false,false,cfbd
+401628480,2024,3,2024-09-14,Michigan State,Prairie View A&M,40,0,Michigan State,Prairie View A&M,40,false,false,false,cfbd
+401628481,2024,3,2024-09-14,Minnesota,Nevada,27,0,Minnesota,Nevada,27,false,false,false,cfbd
+401628482,2024,3,2024-09-14,Nebraska,Northern Iowa,34,3,Nebraska,Northern Iowa,31,false,false,false,cfbd
+401628483,2024,3,2024-09-14,Oregon State,Oregon,14,49,Oregon,Oregon State,35,false,false,false,cfbd
+401628484,2024,3,2024-09-14,Washington,Washington State,19,24,Washington State,Washington,5,true,false,false,cfbd
+401628978,2024,3,2024-09-14,Purdue,Notre Dame,7,66,Notre Dame,Purdue,59,false,false,false,cfbd
+401629030,2024,3,2024-09-14,Duke,UConn,26,21,Duke,UConn,5,false,false,false,cfbd
+401629041,2024,3,2024-09-14,Buffalo,Massachusetts,34,3,Buffalo,Massachusetts,31,false,false,false,cfbd
+401635541,2024,3,2024-09-14,California,San Diego State,31,10,California,San Diego State,21,false,false,false,cfbd
+401635542,2024,3,2024-09-14,Florida State,Memphis,12,20,Memphis,Florida State,8,false,false,false,cfbd
+401635543,2024,3,2024-09-14,Georgia Tech,VMI,59,7,Georgia Tech,VMI,52,false,false,false,cfbd
+401635544,2024,3,2024-09-14,Miami,Ball State,62,0,Miami,Ball State,62,false,false,false,cfbd
+401635545,2024,3,2024-09-14,North Carolina,North Carolina Central,45,10,North Carolina,North Carolina Central,35,false,false,false,cfbd
+401635546,2024,3,2024-09-14,NC State,Louisiana Tech,30,20,NC State,Louisiana Tech,10,false,false,false,cfbd
+401635547,2024,3,2024-09-14,Pittsburgh,West Virginia,38,34,Pittsburgh,West Virginia,4,false,false,false,cfbd
+401635548,2024,3,2024-09-14,Old Dominion,Virginia Tech,17,37,Virginia Tech,Old Dominion,20,false,false,false,cfbd
+401636364,2024,3,2024-09-14,Western Michigan,Bethune-Cookman,59,31,Western Michigan,Bethune-Cookman,28,false,false,false,cfbd
+401636860,2024,3,2024-09-14,Baylor,Air Force,31,3,Baylor,Air Force,28,false,false,false,cfbd
+401636861,2024,3,2024-09-14,Colorado State,Colorado,9,28,Colorado,Colorado State,19,false,false,false,cfbd
+401636862,2024,3,2024-09-14,Houston,Rice,33,7,Houston,Rice,26,false,false,false,cfbd
+401636865,2024,3,2024-09-14,Miami (OH),Cincinnati,16,27,Cincinnati,Miami (OH),11,false,false,false,cfbd
+401636866,2024,3,2024-09-14,TCU,UCF,34,35,UCF,TCU,1,false,true,false,cfbd
+401636868,2024,3,2024-09-14,Texas Tech,North Texas,66,21,Texas Tech,North Texas,45,false,false,false,cfbd
+401636869,2024,3,2024-09-14,Tulsa,Oklahoma State,10,45,Oklahoma State,Tulsa,35,false,false,false,cfbd
+401636870,2024,3,2024-09-14,Utah State,Utah,21,38,Utah,Utah State,17,false,false,false,cfbd
+401636871,2024,3,2024-09-14,Wyoming,BYU,14,34,BYU,Wyoming,20,false,false,false,cfbd
+401640980,2024,3,2024-09-14,Florida Atlantic,Florida International,38,20,Florida Atlantic,Florida International,18,false,false,false,cfbd
+401640990,2024,3,2024-09-14,Liberty,UTEP,28,10,Liberty,UTEP,18,false,true,false,cfbd
+401640999,2024,3,2024-09-14,Eastern Michigan,Jacksonville State,37,34,Eastern Michigan,Jacksonville State,3,false,false,true,cfbd
+401641017,2024,3,2024-09-14,San José State,Kennesaw State,31,10,San José State,Kennesaw State,21,false,false,false,cfbd
+401641024,2024,3,2024-09-14,Middle Tennessee,Western Kentucky,21,49,Western Kentucky,Middle Tennessee,28,false,true,false,cfbd
+401641033,2024,3,2024-09-14,Fresno State,New Mexico State,48,0,Fresno State,New Mexico State,48,false,false,false,cfbd
+401641040,2024,3,2024-09-14,Sam Houston,Hawai'i,31,13,Sam Houston,Hawai'i,18,false,false,false,cfbd
+401643785,2024,3,2024-09-14,East Carolina,App State,19,21,App State,East Carolina,2,false,false,false,cfbd
+401643786,2024,3,2024-09-14,Temple,Coastal Carolina,20,28,Coastal Carolina,Temple,8,false,false,false,cfbd
+401643787,2024,3,2024-09-14,Georgia Southern,South Carolina State,42,14,Georgia Southern,South Carolina State,28,false,false,false,cfbd
+401643789,2024,3,2024-09-14,Southern Miss,South Florida,24,49,South Florida,Southern Miss,25,false,false,false,cfbd
+401644733,2024,3,2024-09-14,Akron,Colgate,31,20,Akron,Colgate,11,false,false,false,cfbd
+401644734,2024,3,2024-09-14,Ohio,Morgan State,21,6,Ohio,Morgan State,15,false,false,false,cfbd
+401645327,2024,3,2024-09-14,Charlotte,Gardner-Webb,27,26,Charlotte,Gardner-Webb,1,false,false,false,cfbd
+401655632,2024,3,2024-09-14,Northwestern,Eastern Illinois,31,7,Northwestern,Eastern Illinois,24,false,false,false,cfbd
+401643790,2024,4,2024-09-19,App State,South Alabama,14,48,South Alabama,App State,34,false,true,false,cfbd
+401628485,2024,4,2024-09-20,Nebraska,Illinois,24,31,Illinois,Nebraska,7,false,true,true,cfbd
+401634766,2024,4,2024-09-20,Syracuse,Stanford,24,26,Stanford,Syracuse,2,false,true,false,cfbd
+401643714,2024,4,2024-09-20,Washington State,San José State,54,52,Washington State,San José State,2,false,false,true,cfbd
+401628363,2024,4,2024-09-21,Auburn,Arkansas,14,24,Arkansas,Auburn,10,false,true,false,cfbd
+401628364,2024,4,2024-09-21,Kentucky,Ohio,41,6,Kentucky,Ohio,35,false,false,false,cfbd
+401628365,2024,4,2024-09-21,LSU,UCLA,34,17,LSU,UCLA,17,false,false,false,cfbd
+401628366,2024,4,2024-09-21,Ole Miss,Georgia Southern,52,13,Ole Miss,Georgia Southern,39,false,false,false,cfbd
+401628367,2024,4,2024-09-21,Mississippi State,Florida,28,45,Florida,Mississippi State,17,false,true,false,cfbd
+401628368,2024,4,2024-09-21,Missouri,Vanderbilt,30,27,Missouri,Vanderbilt,3,false,true,true,cfbd
+401628369,2024,4,2024-09-21,Oklahoma,Tennessee,15,25,Tennessee,Oklahoma,10,false,true,false,cfbd
+401628370,2024,4,2024-09-21,South Carolina,Akron,50,7,South Carolina,Akron,43,false,false,false,cfbd
+401628371,2024,4,2024-09-21,Texas,UL Monroe,51,3,Texas,UL Monroe,48,false,false,false,cfbd
+401628372,2024,4,2024-09-21,Texas A&M,Bowling Green,26,20,Texas A&M,Bowling Green,6,false,false,false,cfbd
+401628486,2024,4,2024-09-21,Indiana,Charlotte,52,14,Indiana,Charlotte,38,false,false,false,cfbd
+401628487,2024,4,2024-09-21,Minnesota,Iowa,14,31,Iowa,Minnesota,17,false,true,false,cfbd
+401628488,2024,4,2024-09-21,Maryland,Villanova,38,20,Maryland,Villanova,18,false,false,false,cfbd
+401628489,2024,4,2024-09-21,Michigan,USC,27,24,Michigan,USC,3,false,true,false,cfbd
+401628490,2024,4,2024-09-21,Boston College,Michigan State,23,19,Boston College,Michigan State,4,false,false,false,cfbd
+401628491,2024,4,2024-09-21,Washington,Northwestern,24,5,Washington,Northwestern,19,false,true,false,cfbd
+401628492,2024,4,2024-09-21,Ohio State,Marshall,49,14,Ohio State,Marshall,35,false,false,false,cfbd
+401628493,2024,4,2024-09-21,Penn State,Kent State,56,0,Penn State,Kent State,56,false,false,false,cfbd
+401628494,2024,4,2024-09-21,Virginia Tech,Rutgers,23,26,Rutgers,Virginia Tech,3,false,false,false,cfbd
+401628625,2024,4,2024-09-21,Florida International,Monmouth,42,45,Monmouth,Florida International,3,false,false,false,cfbd
+401628979,2024,4,2024-09-21,Notre Dame,Miami (OH),28,3,Notre Dame,Miami (OH),25,false,false,false,cfbd
+401629031,2024,4,2024-09-21,UConn,Florida Atlantic,48,14,UConn,Florida Atlantic,34,false,false,false,cfbd
+401629042,2024,4,2024-09-21,Massachusetts,Central Connecticut,35,31,Massachusetts,Central Connecticut,4,false,false,false,cfbd
+401634247,2024,4,2024-09-21,Pittsburgh,Youngstown State,73,17,Pittsburgh,Youngstown State,56,false,false,false,cfbd
+401635551,2024,4,2024-09-21,Florida State,California,14,9,Florida State,California,5,false,true,false,cfbd
+401635552,2024,4,2024-09-21,Clemson,NC State,59,35,Clemson,NC State,24,false,true,false,cfbd
+401635553,2024,4,2024-09-21,Middle Tennessee,Duke,17,45,Duke,Middle Tennessee,28,false,false,false,cfbd
+401635554,2024,4,2024-09-21,Louisville,Georgia Tech,31,19,Louisville,Georgia Tech,12,false,true,false,cfbd
+401635555,2024,4,2024-09-21,South Florida,Miami,15,50,Miami,South Florida,35,false,false,false,cfbd
+401635556,2024,4,2024-09-21,North Carolina,James Madison,50,70,James Madison,North Carolina,20,false,false,false,cfbd
+401635557,2024,4,2024-09-21,SMU,TCU,66,42,SMU,TCU,24,false,false,false,cfbd
+401635558,2024,4,2024-09-21,Coastal Carolina,Virginia,24,43,Virginia,Coastal Carolina,19,false,false,false,cfbd
+401636374,2024,4,2024-09-21,Troy,Florida A&M,34,12,Troy,Florida A&M,22,false,false,false,cfbd
+401636872,2024,4,2024-09-21,BYU,Kansas State,38,9,BYU,Kansas State,29,false,true,false,cfbd
+401636873,2024,4,2024-09-21,Cincinnati,Houston,34,0,Cincinnati,Houston,34,false,true,false,cfbd
+401636874,2024,4,2024-09-21,Colorado,Baylor,38,31,Colorado,Baylor,7,false,true,true,cfbd
+401636875,2024,4,2024-09-21,Iowa State,Arkansas State,52,7,Iowa State,Arkansas State,45,false,false,false,cfbd
+401636876,2024,4,2024-09-21,Oklahoma State,Utah,19,22,Utah,Oklahoma State,3,false,true,false,cfbd
+401636877,2024,4,2024-09-21,Texas Tech,Arizona State,30,22,Texas Tech,Arizona State,8,false,true,false,cfbd
+401636879,2024,4,2024-09-21,West Virginia,Kansas,32,28,West Virginia,Kansas,4,false,true,false,cfbd
+401637162,2024,4,2024-09-21,Boise State,Portland State,56,14,Boise State,Portland State,42,false,false,false,cfbd
+401640991,2024,4,2024-09-21,Liberty,East Carolina,35,24,Liberty,East Carolina,11,false,false,false,cfbd
+401641000,2024,4,2024-09-21,Jacksonville State,Southern Miss,44,7,Jacksonville State,Southern Miss,37,false,false,false,cfbd
+401641008,2024,4,2024-09-21,Louisiana Tech,Tulsa,20,23,Tulsa,Louisiana Tech,3,false,false,true,cfbd
+401641028,2024,4,2024-09-21,Colorado State,UTEP,27,17,Colorado State,UTEP,10,false,false,false,cfbd
+401641034,2024,4,2024-09-21,Sam Houston,New Mexico State,31,11,Sam Houston,New Mexico State,20,false,true,false,cfbd
+401641037,2024,4,2024-09-21,Western Kentucky,Toledo,26,21,Western Kentucky,Toledo,5,false,false,false,cfbd
+401643711,2024,4,2024-09-21,New Mexico,Fresno State,21,38,Fresno State,New Mexico,17,false,true,false,cfbd
+401643712,2024,4,2024-09-21,Hawai'i,Northern Iowa,36,7,Hawai'i,Northern Iowa,29,false,false,false,cfbd
+401643713,2024,4,2024-09-21,Nevada,Eastern Washington,49,16,Nevada,Eastern Washington,33,false,false,false,cfbd
+401643715,2024,4,2024-09-21,Temple,Utah State,45,29,Temple,Utah State,16,false,false,false,cfbd
+401643716,2024,4,2024-09-21,North Texas,Wyoming,44,17,North Texas,Wyoming,27,false,false,false,cfbd
+401643717,2024,4,2024-09-21,Oregon State,Purdue,38,21,Oregon State,Purdue,17,false,false,false,cfbd
+401643791,2024,4,2024-09-21,Louisiana,Tulane,33,41,Tulane,Louisiana,8,false,false,false,cfbd
+401644735,2024,4,2024-09-21,Central Michigan,Ball State,37,34,Central Michigan,Ball State,3,false,true,false,cfbd
+401644736,2024,4,2024-09-21,Northern Illinois,Buffalo,20,23,Buffalo,Northern Illinois,3,false,true,true,cfbd
+401644737,2024,4,2024-09-21,Eastern Michigan,Saint Francis,36,0,Eastern Michigan,Saint Francis,36,false,false,false,cfbd
+401645328,2024,4,2024-09-21,Army,Rice,37,14,Army,Rice,23,false,true,false,cfbd
+401645329,2024,4,2024-09-21,Navy,Memphis,56,44,Navy,Memphis,12,false,true,false,cfbd
+401645330,2024,4,2024-09-21,UTSA,Houston Christian,45,7,UTSA,Houston Christian,38,false,false,false,cfbd
+401645331,2024,5,2024-09-26,Temple,Army,14,42,Army,Temple,28,false,true,false,cfbd
+401628501,2024,5,2024-09-27,Rutgers,Washington,21,18,Rutgers,Washington,3,false,true,false,cfbd
+401634767,2024,5,2024-09-27,Miami,Virginia Tech,38,34,Miami,Virginia Tech,4,false,true,false,cfbd
+401628373,2024,5,2024-09-28,Texas A&M,Arkansas,21,17,Texas A&M,Arkansas,4,true,true,false,cfbd
+401628374,2024,5,2024-09-28,Alabama,Georgia,41,34,Alabama,Georgia,7,false,true,false,cfbd
+401628375,2024,5,2024-09-28,Auburn,Oklahoma,21,27,Oklahoma,Auburn,6,false,true,false,cfbd
+401628376,2024,5,2024-09-28,LSU,South Alabama,42,10,LSU,South Alabama,32,false,false,false,cfbd
+401628377,2024,5,2024-09-28,Ole Miss,Kentucky,17,20,Kentucky,Ole Miss,3,false,true,false,cfbd
+401628378,2024,5,2024-09-28,Texas,Mississippi State,35,13,Texas,Mississippi State,22,false,true,false,cfbd
+401628495,2024,5,2024-09-28,Penn State,Illinois,21,7,Penn State,Illinois,14,false,true,false,cfbd
+401628496,2024,5,2024-09-28,Indiana,Maryland,42,28,Indiana,Maryland,14,false,true,false,cfbd
+401628497,2024,5,2024-09-28,Michigan,Minnesota,27,24,Michigan,Minnesota,3,false,true,false,cfbd
+401628498,2024,5,2024-09-28,Michigan State,Ohio State,7,38,Ohio State,Michigan State,31,false,true,false,cfbd
+401628499,2024,5,2024-09-28,Purdue,Nebraska,10,28,Nebraska,Purdue,18,false,true,false,cfbd
+401628500,2024,5,2024-09-28,UCLA,Oregon,13,34,Oregon,UCLA,21,false,true,false,cfbd
+401628502,2024,5,2024-09-28,USC,Wisconsin,38,21,USC,Wisconsin,17,false,true,false,cfbd
+401628980,2024,5,2024-09-28,Notre Dame,Louisville,31,24,Notre Dame,Louisville,7,false,false,false,cfbd
+401629032,2024,5,2024-09-28,UConn,Buffalo,47,3,UConn,Buffalo,44,false,false,false,cfbd
+401629043,2024,5,2024-09-28,Miami (OH),Massachusetts,23,20,Miami (OH),Massachusetts,3,false,false,true,cfbd
+401635560,2024,5,2024-09-28,Boston College,Western Kentucky,21,20,Boston College,Western Kentucky,1,false,false,false,cfbd
+401635561,2024,5,2024-09-28,Clemson,Stanford,40,14,Clemson,Stanford,26,false,true,false,cfbd
+401635562,2024,5,2024-09-28,Duke,North Carolina,21,20,Duke,North Carolina,1,false,true,false,cfbd
+401635563,2024,5,2024-09-28,SMU,Florida State,42,16,SMU,Florida State,26,false,true,false,cfbd
+401635564,2024,5,2024-09-28,NC State,Northern Illinois,24,17,NC State,Northern Illinois,7,false,false,false,cfbd
+401635565,2024,5,2024-09-28,Syracuse,Holy Cross,42,14,Syracuse,Holy Cross,28,false,false,false,cfbd
+401635659,2024,5,2024-09-28,Wake Forest,Louisiana,38,41,Louisiana,Wake Forest,3,false,false,false,cfbd
+401636880,2024,5,2024-09-28,Baylor,BYU,28,34,BYU,Baylor,6,false,true,false,cfbd
+401636881,2024,5,2024-09-28,Houston,Iowa State,0,20,Iowa State,Houston,20,false,true,false,cfbd
+401636882,2024,5,2024-09-28,Kansas,TCU,27,38,TCU,Kansas,11,false,true,false,cfbd
+401636883,2024,5,2024-09-28,Kansas State,Oklahoma State,42,20,Kansas State,Oklahoma State,22,false,true,false,cfbd
+401636884,2024,5,2024-09-28,Texas Tech,Cincinnati,44,41,Texas Tech,Cincinnati,3,false,true,false,cfbd
+401636885,2024,5,2024-09-28,UCF,Colorado,21,48,Colorado,UCF,27,false,true,false,cfbd
+401636886,2024,5,2024-09-28,Utah,Arizona,10,23,Arizona,Utah,13,false,true,false,cfbd
+401640981,2024,5,2024-09-28,Florida International,Louisiana Tech,17,10,Florida International,Louisiana Tech,7,false,true,false,cfbd
+401641018,2024,5,2024-09-28,Kennesaw State,UT Martin,13,24,UT Martin,Kennesaw State,11,false,false,false,cfbd
+401641025,2024,5,2024-09-28,Memphis,Middle Tennessee,24,7,Memphis,Middle Tennessee,17,false,false,false,cfbd
+401641035,2024,5,2024-09-28,New Mexico State,New Mexico,40,50,New Mexico,New Mexico State,10,false,false,false,cfbd
+401641041,2024,5,2024-09-28,Sam Houston,Texas State,40,39,Sam Houston,Texas State,1,true,false,false,cfbd
+401643718,2024,5,2024-09-28,Wyoming,Air Force,31,19,Wyoming,Air Force,12,false,true,false,cfbd
+401643719,2024,5,2024-09-28,Boise State,Washington State,45,24,Boise State,Washington State,21,false,false,false,cfbd
+401643720,2024,5,2024-09-28,UNLV,Fresno State,59,14,UNLV,Fresno State,45,false,true,false,cfbd
+401643721,2024,5,2024-09-28,Central Michigan,San Diego State,22,21,Central Michigan,San Diego State,1,false,false,false,cfbd
+401643792,2024,5,2024-09-28,Georgia State,Georgia Southern,21,38,Georgia Southern,Georgia State,17,false,true,false,cfbd
+401643793,2024,5,2024-09-28,James Madison,Ball State,63,7,James Madison,Ball State,56,false,false,false,cfbd
+401643794,2024,5,2024-09-28,Marshall,Western Michigan,27,20,Marshall,Western Michigan,7,false,false,false,cfbd
+401643795,2024,5,2024-09-28,Bowling Green,Old Dominion,27,30,Old Dominion,Bowling Green,3,false,false,false,cfbd
+401643796,2024,5,2024-09-28,Troy,UL Monroe,9,13,UL Monroe,Troy,4,false,true,false,cfbd
+401644738,2024,5,2024-09-28,Ohio,Akron,30,10,Ohio,Akron,20,false,true,false,cfbd
+401644739,2024,5,2024-09-28,Kent State,Eastern Michigan,33,52,Eastern Michigan,Kent State,19,false,true,false,cfbd
+401645332,2024,5,2024-09-28,UAB,Navy,18,41,Navy,UAB,23,false,true,false,cfbd
+401645333,2024,5,2024-09-28,Rice,Charlotte,20,21,Charlotte,Rice,1,false,true,false,cfbd
+401645334,2024,5,2024-09-28,East Carolina,UTSA,30,20,East Carolina,UTSA,10,false,true,false,cfbd
+401645335,2024,5,2024-09-28,Florida Atlantic,Wagner,41,10,Florida Atlantic,Wagner,31,false,false,false,cfbd
+401645336,2024,5,2024-09-28,North Texas,Tulsa,52,20,North Texas,Tulsa,32,false,true,false,cfbd
+401645337,2024,5,2024-09-28,Tulane,South Florida,45,10,Tulane,South Florida,35,false,true,false,cfbd
+401641029,2024,6,2024-10-03,UTEP,Sam Houston,21,41,Sam Houston,UTEP,20,false,true,false,cfbd
+401643797,2024,6,2024-10-03,Troy,Texas State,17,38,Texas State,Troy,21,false,true,false,cfbd
+401628506,2024,6,2024-10-04,Oregon,Michigan State,31,10,Oregon,Michigan State,21,false,true,false,cfbd
+401634779,2024,6,2024-10-04,UNLV,Syracuse,41,44,Syracuse,UNLV,3,false,false,true,cfbd
+401636891,2024,6,2024-10-04,TCU,Houston,19,30,Houston,TCU,11,false,true,false,cfbd
+401641001,2024,6,2024-10-04,Kennesaw State,Jacksonville State,24,63,Jacksonville State,Kennesaw State,39,false,true,false,cfbd
+401628379,2024,6,2024-10-05,Arkansas,Tennessee,19,14,Arkansas,Tennessee,5,false,true,false,cfbd
+401628380,2024,6,2024-10-05,Florida,UCF,24,13,Florida,UCF,11,false,false,false,cfbd
+401628381,2024,6,2024-10-05,Georgia,Auburn,31,13,Georgia,Auburn,18,false,true,false,cfbd
+401628382,2024,6,2024-10-05,South Carolina,Ole Miss,3,27,Ole Miss,South Carolina,24,false,true,false,cfbd
+401628383,2024,6,2024-10-05,Texas A&M,Missouri,41,10,Texas A&M,Missouri,31,false,true,false,cfbd
+401628384,2024,6,2024-10-05,Vanderbilt,Alabama,40,35,Vanderbilt,Alabama,5,false,true,false,cfbd
+401628503,2024,6,2024-10-05,Northwestern,Indiana,24,41,Indiana,Northwestern,17,false,true,false,cfbd
+401628504,2024,6,2024-10-05,Ohio State,Iowa,35,7,Ohio State,Iowa,28,false,true,false,cfbd
+401628505,2024,6,2024-10-05,Washington,Michigan,27,17,Washington,Michigan,10,false,true,false,cfbd
+401628507,2024,6,2024-10-05,Minnesota,USC,24,17,Minnesota,USC,7,false,true,false,cfbd
+401628508,2024,6,2024-10-05,Nebraska,Rutgers,14,7,Nebraska,Rutgers,7,false,true,false,cfbd
+401628509,2024,6,2024-10-05,Wisconsin,Purdue,52,6,Wisconsin,Purdue,46,false,true,false,cfbd
+401628510,2024,6,2024-10-05,Penn State,UCLA,27,11,Penn State,UCLA,16,false,true,false,cfbd
+401629033,2024,6,2024-10-05,UConn,Temple,29,20,UConn,Temple,9,false,false,false,cfbd
+401629044,2024,6,2024-10-05,Northern Illinois,Massachusetts,34,20,Northern Illinois,Massachusetts,14,false,false,false,cfbd
+401635567,2024,6,2024-10-05,Virginia,Boston College,24,14,Virginia,Boston College,10,false,true,false,cfbd
+401635568,2024,6,2024-10-05,California,Miami,38,39,Miami,California,1,false,true,false,cfbd
+401635569,2024,6,2024-10-05,Florida State,Clemson,13,29,Clemson,Florida State,16,false,true,false,cfbd
+401635570,2024,6,2024-10-05,Georgia Tech,Duke,24,14,Georgia Tech,Duke,10,false,true,false,cfbd
+401635571,2024,6,2024-10-05,Louisville,SMU,27,34,SMU,Louisville,7,false,true,false,cfbd
+401635572,2024,6,2024-10-05,North Carolina,Pittsburgh,24,34,Pittsburgh,North Carolina,10,false,true,false,cfbd
+401635573,2024,6,2024-10-05,Stanford,Virginia Tech,7,31,Virginia Tech,Stanford,24,false,true,false,cfbd
+401635638,2024,6,2024-10-05,NC State,Wake Forest,30,34,Wake Forest,NC State,4,false,true,false,cfbd
+401636887,2024,6,2024-10-05,Arizona,Texas Tech,22,28,Texas Tech,Arizona,6,false,true,false,cfbd
+401636888,2024,6,2024-10-05,Arizona State,Kansas,35,31,Arizona State,Kansas,4,false,true,false,cfbd
+401636889,2024,6,2024-10-05,Iowa State,Baylor,43,21,Iowa State,Baylor,22,false,true,false,cfbd
+401636890,2024,6,2024-10-05,Oklahoma State,West Virginia,14,38,West Virginia,Oklahoma State,24,false,true,false,cfbd
+401643722,2024,6,2024-10-05,Air Force,Navy,7,34,Navy,Air Force,27,false,false,false,cfbd
+401643723,2024,6,2024-10-05,Boise State,Utah State,62,30,Boise State,Utah State,32,false,true,false,cfbd
+401643724,2024,6,2024-10-05,Oregon State,Colorado State,39,31,Oregon State,Colorado State,8,false,false,true,cfbd
+401643725,2024,6,2024-10-05,San Diego State,Hawai'i,27,24,San Diego State,Hawai'i,3,false,true,false,cfbd
+401643726,2024,6,2024-10-05,San José State,Nevada,35,31,San José State,Nevada,4,false,true,false,cfbd
+401643798,2024,6,2024-10-05,Coastal Carolina,Old Dominion,45,37,Coastal Carolina,Old Dominion,8,false,true,false,cfbd
+401643799,2024,6,2024-10-05,Marshall,App State,52,37,Marshall,App State,15,false,true,false,cfbd
+401643800,2024,6,2024-10-05,Arkansas State,South Alabama,18,16,Arkansas State,South Alabama,2,false,true,false,cfbd
+401643801,2024,6,2024-10-05,UL Monroe,James Madison,21,19,UL Monroe,James Madison,2,false,true,false,cfbd
+401643802,2024,6,2024-10-05,Southern Miss,Louisiana,13,23,Louisiana,Southern Miss,10,false,true,false,cfbd
+401644684,2024,6,2024-10-05,Toledo,Miami (OH),30,20,Toledo,Miami (OH),10,false,true,false,cfbd
+401644740,2024,6,2024-10-05,Akron,Bowling Green,20,27,Bowling Green,Akron,7,false,true,false,cfbd
+401644741,2024,6,2024-10-05,Ball State,Western Michigan,42,45,Western Michigan,Ball State,3,false,true,false,cfbd
+401645338,2024,6,2024-10-05,UAB,Tulane,20,71,Tulane,UAB,51,false,true,false,cfbd
+401645339,2024,6,2024-10-05,Tulsa,Army,7,49,Army,Tulsa,42,false,true,false,cfbd
+401645340,2024,6,2024-10-05,Charlotte,East Carolina,55,24,Charlotte,East Carolina,31,false,true,false,cfbd
+401640982,2024,7,2024-10-08,Liberty,Florida International,31,24,Liberty,Florida International,7,false,true,true,cfbd
+401641002,2024,7,2024-10-09,Jacksonville State,New Mexico State,54,13,Jacksonville State,New Mexico State,41,false,true,false,cfbd
+401641009,2024,7,2024-10-10,Louisiana Tech,Middle Tennessee,48,21,Louisiana Tech,Middle Tennessee,27,false,true,false,cfbd
+401641030,2024,7,2024-10-10,Western Kentucky,UTEP,44,17,Western Kentucky,UTEP,27,false,true,false,cfbd
+401643803,2024,7,2024-10-10,James Madison,Coastal Carolina,39,7,James Madison,Coastal Carolina,32,false,true,false,cfbd
+401628513,2024,7,2024-10-11,Maryland,Northwestern,10,37,Northwestern,Maryland,27,false,true,false,cfbd
+401636892,2024,7,2024-10-11,Arizona State,Utah,27,19,Arizona State,Utah,8,false,true,false,cfbd
+401643733,2024,7,2024-10-11,Utah State,UNLV,34,50,UNLV,Utah State,16,false,true,false,cfbd
+401628385,2024,7,2024-10-12,Alabama,South Carolina,27,25,Alabama,South Carolina,2,false,true,false,cfbd
+401628386,2024,7,2024-10-12,Georgia,Mississippi State,41,31,Georgia,Mississippi State,10,false,true,false,cfbd
+401628387,2024,7,2024-10-12,Kentucky,Vanderbilt,13,20,Vanderbilt,Kentucky,7,false,true,false,cfbd
+401628388,2024,7,2024-10-12,LSU,Ole Miss,29,26,LSU,Ole Miss,3,false,true,true,cfbd
+401628389,2024,7,2024-10-12,Massachusetts,Missouri,3,45,Missouri,Massachusetts,42,false,false,false,cfbd
+401628390,2024,7,2024-10-12,Oklahoma,Texas,3,34,Texas,Oklahoma,31,true,true,false,cfbd
+401628391,2024,7,2024-10-12,Tennessee,Florida,23,17,Tennessee,Florida,6,false,true,true,cfbd
+401628511,2024,7,2024-10-12,Illinois,Purdue,50,49,Illinois,Purdue,1,false,true,true,cfbd
+401628512,2024,7,2024-10-12,Iowa,Washington,40,16,Iowa,Washington,24,false,true,false,cfbd
+401628514,2024,7,2024-10-12,UCLA,Minnesota,17,21,Minnesota,UCLA,4,false,true,false,cfbd
+401628515,2024,7,2024-10-12,Oregon,Ohio State,32,31,Oregon,Ohio State,1,false,true,false,cfbd
+401628516,2024,7,2024-10-12,USC,Penn State,30,33,Penn State,USC,3,false,true,true,cfbd
+401628517,2024,7,2024-10-12,Rutgers,Wisconsin,7,42,Wisconsin,Rutgers,35,false,true,false,cfbd
+401628981,2024,7,2024-10-12,Notre Dame,Stanford,49,7,Notre Dame,Stanford,42,false,false,false,cfbd
+401635574,2024,7,2024-10-12,NC State,Syracuse,17,24,Syracuse,NC State,7,false,true,false,cfbd
+401635575,2024,7,2024-10-12,Pittsburgh,California,17,15,Pittsburgh,California,2,false,true,false,cfbd
+401635576,2024,7,2024-10-12,Wake Forest,Clemson,14,49,Clemson,Wake Forest,35,false,true,false,cfbd
+401635577,2024,7,2024-10-12,North Carolina,Georgia Tech,34,41,Georgia Tech,North Carolina,7,false,true,false,cfbd
+401635578,2024,7,2024-10-12,Virginia,Louisville,20,24,Louisville,Virginia,4,false,true,false,cfbd
+401636893,2024,7,2024-10-12,BYU,Arizona,41,19,BYU,Arizona,22,false,true,false,cfbd
+401636894,2024,7,2024-10-12,Colorado,Kansas State,28,31,Kansas State,Colorado,3,false,true,false,cfbd
+401636895,2024,7,2024-10-12,UCF,Cincinnati,13,19,Cincinnati,UCF,6,false,true,false,cfbd
+401636896,2024,7,2024-10-12,West Virginia,Iowa State,16,28,Iowa State,West Virginia,12,false,true,false,cfbd
+401643727,2024,7,2024-10-12,New Mexico,Air Force,52,37,New Mexico,Air Force,15,false,true,false,cfbd
+401643728,2024,7,2024-10-12,Hawai'i,Boise State,7,28,Boise State,Hawai'i,21,false,true,false,cfbd
+401643729,2024,7,2024-10-12,Colorado State,San José State,31,24,Colorado State,San José State,7,false,true,false,cfbd
+401643730,2024,7,2024-10-12,Fresno State,Washington State,17,25,Washington State,Fresno State,8,false,false,false,cfbd
+401643731,2024,7,2024-10-12,Nevada,Oregon State,42,37,Nevada,Oregon State,5,false,false,false,cfbd
+401643732,2024,7,2024-10-12,Wyoming,San Diego State,24,27,San Diego State,Wyoming,3,false,true,false,cfbd
+401643804,2024,7,2024-10-12,Georgia Southern,Marshall,24,23,Georgia Southern,Marshall,1,false,true,false,cfbd
+401643805,2024,7,2024-10-12,Georgia State,Old Dominion,14,21,Old Dominion,Georgia State,7,false,true,false,cfbd
+401643806,2024,7,2024-10-12,Louisiana,App State,34,24,Louisiana,App State,10,false,true,false,cfbd
+401643807,2024,7,2024-10-12,UL Monroe,Southern Miss,38,21,UL Monroe,Southern Miss,17,false,true,false,cfbd
+401643808,2024,7,2024-10-12,Texas State,Arkansas State,41,9,Texas State,Arkansas State,32,false,true,false,cfbd
+401644685,2024,7,2024-10-12,Eastern Michigan,Miami (OH),14,38,Miami (OH),Eastern Michigan,24,false,true,false,cfbd
+401644742,2024,7,2024-10-12,Western Michigan,Akron,34,24,Western Michigan,Akron,10,false,true,false,cfbd
+401644743,2024,7,2024-10-12,Kent State,Ball State,35,37,Ball State,Kent State,2,false,true,false,cfbd
+401644744,2024,7,2024-10-12,Bowling Green,Northern Illinois,7,17,Northern Illinois,Bowling Green,10,false,true,false,cfbd
+401644745,2024,7,2024-10-12,Buffalo,Toledo,30,15,Buffalo,Toledo,15,false,true,false,cfbd
+401644746,2024,7,2024-10-12,Central Michigan,Ohio,25,27,Ohio,Central Michigan,2,false,true,false,cfbd
+401645341,2024,7,2024-10-12,South Florida,Memphis,3,21,Memphis,South Florida,18,false,true,false,cfbd
+401645342,2024,7,2024-10-12,Army,UAB,44,10,Army,UAB,34,false,true,false,cfbd
+401645343,2024,7,2024-10-12,Florida Atlantic,North Texas,37,41,North Texas,Florida Atlantic,4,false,true,false,cfbd
+401645344,2024,7,2024-10-12,Rice,UTSA,29,27,Rice,UTSA,2,false,true,false,cfbd
+401641010,2024,8,2024-10-15,New Mexico State,Louisiana Tech,33,30,New Mexico State,Louisiana Tech,3,false,true,true,cfbd
+401641019,2024,8,2024-10-15,Middle Tennessee,Kennesaw State,14,5,Middle Tennessee,Kennesaw State,9,false,true,false,cfbd
+401643809,2024,8,2024-10-15,South Alabama,Troy,25,9,South Alabama,Troy,16,false,true,false,cfbd
+401640983,2024,8,2024-10-16,UTEP,Florida International,30,21,UTEP,Florida International,9,false,true,false,cfbd
+401641038,2024,8,2024-10-16,Sam Houston,Western Kentucky,14,31,Western Kentucky,Sam Houston,17,false,true,false,cfbd
+401634768,2024,8,2024-10-17,Virginia Tech,Boston College,42,21,Virginia Tech,Boston College,21,false,true,false,cfbd
+401643810,2024,8,2024-10-17,Marshall,Georgia State,35,20,Marshall,Georgia State,15,false,true,false,cfbd
+401628523,2024,8,2024-10-18,Purdue,Oregon,0,35,Oregon,Purdue,35,false,true,false,cfbd
+401634769,2024,8,2024-10-18,Duke,Florida State,23,16,Duke,Florida State,7,false,true,false,cfbd
+401636898,2024,8,2024-10-18,BYU,Oklahoma State,38,35,BYU,Oklahoma State,3,false,true,false,cfbd
+401643735,2024,8,2024-10-18,Nevada,Fresno State,21,24,Fresno State,Nevada,3,false,true,false,cfbd
+401628392,2024,8,2024-10-19,Arkansas,LSU,10,34,LSU,Arkansas,24,false,true,false,cfbd
+401628393,2024,8,2024-10-19,Florida,Kentucky,48,20,Florida,Kentucky,28,false,true,false,cfbd
+401628394,2024,8,2024-10-19,Mississippi State,Texas A&M,24,34,Texas A&M,Mississippi State,10,false,true,false,cfbd
+401628395,2024,8,2024-10-19,Missouri,Auburn,21,17,Missouri,Auburn,4,false,true,false,cfbd
+401628396,2024,8,2024-10-19,Oklahoma,South Carolina,9,35,South Carolina,Oklahoma,26,false,true,false,cfbd
+401628397,2024,8,2024-10-19,Tennessee,Alabama,24,17,Tennessee,Alabama,7,false,true,false,cfbd
+401628398,2024,8,2024-10-19,Texas,Georgia,15,30,Georgia,Texas,15,false,true,false,cfbd
+401628399,2024,8,2024-10-19,Vanderbilt,Ball State,24,14,Vanderbilt,Ball State,10,false,false,false,cfbd
+401628518,2024,8,2024-10-19,Illinois,Michigan,21,7,Illinois,Michigan,14,false,true,false,cfbd
+401628519,2024,8,2024-10-19,Indiana,Nebraska,56,7,Indiana,Nebraska,49,false,true,false,cfbd
+401628520,2024,8,2024-10-19,Michigan State,Iowa,32,20,Michigan State,Iowa,12,false,true,false,cfbd
+401628521,2024,8,2024-10-19,Maryland,USC,29,28,Maryland,USC,1,false,true,false,cfbd
+401628522,2024,8,2024-10-19,Northwestern,Wisconsin,3,23,Wisconsin,Northwestern,20,false,true,false,cfbd
+401628524,2024,8,2024-10-19,Rutgers,UCLA,32,35,UCLA,Rutgers,3,false,true,false,cfbd
+401628982,2024,8,2024-10-19,Georgia Tech,Notre Dame,13,31,Notre Dame,Georgia Tech,18,true,false,false,cfbd
+401629034,2024,8,2024-10-19,UConn,Wake Forest,20,23,Wake Forest,UConn,3,false,false,false,cfbd
+401635587,2024,8,2024-10-19,California,NC State,23,24,NC State,California,1,false,true,false,cfbd
+401635588,2024,8,2024-10-19,Clemson,Virginia,48,31,Clemson,Virginia,17,false,true,false,cfbd
+401635589,2024,8,2024-10-19,Louisville,Miami,45,52,Miami,Louisville,7,false,true,false,cfbd
+401635590,2024,8,2024-10-19,Stanford,SMU,10,40,SMU,Stanford,30,false,true,false,cfbd
+401636897,2024,8,2024-10-19,Arizona,Colorado,7,34,Colorado,Arizona,27,false,true,false,cfbd
+401636899,2024,8,2024-10-19,Cincinnati,Arizona State,24,14,Cincinnati,Arizona State,10,false,true,false,cfbd
+401636900,2024,8,2024-10-19,Iowa State,UCF,38,35,Iowa State,UCF,3,false,true,false,cfbd
+401636901,2024,8,2024-10-19,Kansas,Houston,42,14,Kansas,Houston,28,false,true,false,cfbd
+401636902,2024,8,2024-10-19,Texas Tech,Baylor,35,59,Baylor,Texas Tech,24,false,true,false,cfbd
+401636903,2024,8,2024-10-19,Utah,TCU,7,13,TCU,Utah,6,false,true,false,cfbd
+401636904,2024,8,2024-10-19,West Virginia,Kansas State,18,45,Kansas State,West Virginia,27,false,true,false,cfbd
+401643734,2024,8,2024-10-19,Air Force,Colorado State,13,21,Colorado State,Air Force,8,false,true,false,cfbd
+401643736,2024,8,2024-10-19,Washington State,Hawai'i,42,10,Washington State,Hawai'i,32,false,false,false,cfbd
+401643737,2024,8,2024-10-19,Utah State,New Mexico,45,50,New Mexico,Utah State,5,false,true,false,cfbd
+401643738,2024,8,2024-10-19,San José State,Wyoming,24,14,San José State,Wyoming,10,false,true,false,cfbd
+401643739,2024,8,2024-10-19,Oregon State,UNLV,25,33,UNLV,Oregon State,8,false,false,false,cfbd
+401643811,2024,8,2024-10-19,Coastal Carolina,Louisiana,24,34,Louisiana,Coastal Carolina,10,false,true,false,cfbd
+401643812,2024,8,2024-10-19,Georgia Southern,James Madison,28,14,Georgia Southern,James Madison,14,false,true,false,cfbd
+401643813,2024,8,2024-10-19,Old Dominion,Texas State,24,14,Old Dominion,Texas State,10,false,true,false,cfbd
+401643814,2024,8,2024-10-19,Southern Miss,Arkansas State,28,44,Arkansas State,Southern Miss,16,false,true,false,cfbd
+401644686,2024,8,2024-10-19,Miami (OH),Ohio,30,20,Miami (OH),Ohio,10,false,true,false,cfbd
+401644748,2024,8,2024-10-19,Bowling Green,Kent State,27,6,Bowling Green,Kent State,21,false,true,false,cfbd
+401644749,2024,8,2024-10-19,Buffalo,Western Michigan,41,48,Western Michigan,Buffalo,7,false,true,false,cfbd
+401644750,2024,8,2024-10-19,Eastern Michigan,Central Michigan,38,34,Eastern Michigan,Central Michigan,4,false,true,false,cfbd
+401644751,2024,8,2024-10-19,Northern Illinois,Toledo,6,13,Toledo,Northern Illinois,7,false,true,false,cfbd
+401645345,2024,8,2024-10-19,South Florida,UAB,35,25,South Florida,UAB,10,false,true,false,cfbd
+401645346,2024,8,2024-10-19,Army,East Carolina,45,28,Army,East Carolina,17,false,true,false,cfbd
+401645347,2024,8,2024-10-19,Navy,Charlotte,51,17,Navy,Charlotte,34,false,true,false,cfbd
+401645348,2024,8,2024-10-19,UTSA,Florida Atlantic,38,24,UTSA,Florida Atlantic,14,false,true,false,cfbd
+401645349,2024,8,2024-10-19,Memphis,North Texas,52,44,Memphis,North Texas,8,false,true,false,cfbd
+401645350,2024,8,2024-10-19,Tulane,Rice,24,10,Tulane,Rice,14,false,true,false,cfbd
+401645351,2024,8,2024-10-19,Temple,Tulsa,20,10,Temple,Tulsa,10,false,true,false,cfbd
+401640984,2024,9,2024-10-22,Florida International,Sam Houston,7,10,Sam Houston,Florida International,3,false,true,false,cfbd
+401641011,2024,9,2024-10-22,Louisiana Tech,UTEP,14,10,Louisiana Tech,UTEP,4,false,true,false,cfbd
+401640993,2024,9,2024-10-23,Kennesaw State,Liberty,27,24,Kennesaw State,Liberty,3,false,true,false,cfbd
+401641003,2024,9,2024-10-23,Jacksonville State,Middle Tennessee,42,20,Jacksonville State,Middle Tennessee,22,false,true,false,cfbd
+401634770,2024,9,2024-10-24,Pittsburgh,Syracuse,41,13,Pittsburgh,Syracuse,28,false,true,false,cfbd
+401643815,2024,9,2024-10-24,Old Dominion,Georgia Southern,47,19,Old Dominion,Georgia Southern,28,false,true,false,cfbd
+401628532,2024,9,2024-10-25,USC,Rutgers,42,20,USC,Rutgers,22,false,true,false,cfbd
+401634771,2024,9,2024-10-25,Boston College,Louisville,27,31,Louisville,Boston College,4,false,true,false,cfbd
+401643740,2024,9,2024-10-25,UNLV,Boise State,24,29,Boise State,UNLV,5,false,true,false,cfbd
+401628400,2024,9,2024-10-26,Alabama,Missouri,34,0,Alabama,Missouri,34,false,true,false,cfbd
+401628401,2024,9,2024-10-26,Kentucky,Auburn,10,24,Auburn,Kentucky,14,false,true,false,cfbd
+401628402,2024,9,2024-10-26,Ole Miss,Oklahoma,26,14,Ole Miss,Oklahoma,12,false,true,false,cfbd
+401628403,2024,9,2024-10-26,Mississippi State,Arkansas,25,58,Arkansas,Mississippi State,33,false,true,false,cfbd
+401628404,2024,9,2024-10-26,Texas A&M,LSU,38,23,Texas A&M,LSU,15,false,true,false,cfbd
+401628405,2024,9,2024-10-26,Vanderbilt,Texas,24,27,Texas,Vanderbilt,3,false,true,false,cfbd
+401628525,2024,9,2024-10-26,Oregon,Illinois,38,9,Oregon,Illinois,29,false,true,false,cfbd
+401628526,2024,9,2024-10-26,Indiana,Washington,31,17,Indiana,Washington,14,false,true,false,cfbd
+401628527,2024,9,2024-10-26,Iowa,Northwestern,40,14,Iowa,Northwestern,26,false,true,false,cfbd
+401628528,2024,9,2024-10-26,Minnesota,Maryland,48,23,Minnesota,Maryland,25,false,true,false,cfbd
+401628529,2024,9,2024-10-26,Michigan,Michigan State,24,17,Michigan,Michigan State,7,false,true,false,cfbd
+401628530,2024,9,2024-10-26,Ohio State,Nebraska,21,17,Ohio State,Nebraska,4,false,true,false,cfbd
+401628531,2024,9,2024-10-26,Wisconsin,Penn State,13,28,Penn State,Wisconsin,15,false,true,false,cfbd
+401628983,2024,9,2024-10-26,Navy,Notre Dame,14,51,Notre Dame,Navy,37,true,false,false,cfbd
+401629035,2024,9,2024-10-26,UConn,Rice,17,10,UConn,Rice,7,false,false,false,cfbd
+401635594,2024,9,2024-10-26,California,Oregon State,44,7,California,Oregon State,37,false,false,false,cfbd
+401635595,2024,9,2024-10-26,Duke,SMU,27,28,SMU,Duke,1,false,true,true,cfbd
+401635596,2024,9,2024-10-26,Miami,Florida State,36,14,Miami,Florida State,22,false,true,false,cfbd
+401635597,2024,9,2024-10-26,Virginia Tech,Georgia Tech,21,6,Virginia Tech,Georgia Tech,15,false,true,false,cfbd
+401635598,2024,9,2024-10-26,Virginia,North Carolina,14,41,North Carolina,Virginia,27,false,true,false,cfbd
+401635599,2024,9,2024-10-26,Stanford,Wake Forest,24,27,Wake Forest,Stanford,3,false,true,false,cfbd
+401636905,2024,9,2024-10-26,Arizona,West Virginia,26,31,West Virginia,Arizona,5,false,true,false,cfbd
+401636906,2024,9,2024-10-26,Baylor,Oklahoma State,38,28,Baylor,Oklahoma State,10,false,true,false,cfbd
+401636907,2024,9,2024-10-26,Colorado,Cincinnati,34,23,Colorado,Cincinnati,11,false,true,false,cfbd
+401636908,2024,9,2024-10-26,Houston,Utah,17,14,Houston,Utah,3,false,true,false,cfbd
+401636909,2024,9,2024-10-26,Kansas State,Kansas,29,27,Kansas State,Kansas,2,false,true,false,cfbd
+401636910,2024,9,2024-10-26,TCU,Texas Tech,35,34,TCU,Texas Tech,1,false,true,false,cfbd
+401636911,2024,9,2024-10-26,UCF,BYU,24,37,BYU,UCF,13,false,true,false,cfbd
+401643741,2024,9,2024-10-26,Colorado State,New Mexico,17,6,Colorado State,New Mexico,11,false,true,false,cfbd
+401643742,2024,9,2024-10-26,Fresno State,San José State,33,10,Fresno State,San José State,23,false,true,false,cfbd
+401643743,2024,9,2024-10-26,Hawai'i,Nevada,34,13,Hawai'i,Nevada,21,false,true,false,cfbd
+401643744,2024,9,2024-10-26,San Diego State,Washington State,26,29,Washington State,San Diego State,3,false,false,false,cfbd
+401643745,2024,9,2024-10-26,Wyoming,Utah State,25,27,Utah State,Wyoming,2,false,true,false,cfbd
+401643816,2024,9,2024-10-26,App State,Georgia State,33,26,App State,Georgia State,7,false,true,false,cfbd
+401643817,2024,9,2024-10-26,James Madison,Southern Miss,32,15,James Madison,Southern Miss,17,false,true,false,cfbd
+401643818,2024,9,2024-10-26,Arkansas State,Troy,34,31,Arkansas State,Troy,3,false,true,false,cfbd
+401643819,2024,9,2024-10-26,South Alabama,UL Monroe,46,17,South Alabama,UL Monroe,29,false,true,false,cfbd
+401644687,2024,9,2024-10-26,Miami (OH),Central Michigan,46,7,Miami (OH),Central Michigan,39,false,true,false,cfbd
+401644752,2024,9,2024-10-26,Akron,Eastern Michigan,25,21,Akron,Eastern Michigan,4,false,true,false,cfbd
+401644753,2024,9,2024-10-26,Ball State,Northern Illinois,25,23,Ball State,Northern Illinois,2,false,true,false,cfbd
+401644754,2024,9,2024-10-26,Toledo,Bowling Green,26,41,Bowling Green,Toledo,15,false,true,false,cfbd
+401644755,2024,9,2024-10-26,Ohio,Buffalo,47,16,Ohio,Buffalo,31,false,true,false,cfbd
+401644756,2024,9,2024-10-26,Western Michigan,Kent State,52,21,Western Michigan,Kent State,31,false,true,false,cfbd
+401645308,2024,9,2024-10-26,Massachusetts,Wagner,35,7,Massachusetts,Wagner,28,false,false,false,cfbd
+401645352,2024,9,2024-10-26,East Carolina,Temple,56,34,East Carolina,Temple,22,false,true,false,cfbd
+401645353,2024,9,2024-10-26,Memphis,Charlotte,33,28,Memphis,Charlotte,5,false,true,false,cfbd
+401645354,2024,9,2024-10-26,North Texas,Tulane,37,45,Tulane,North Texas,8,false,true,false,cfbd
+401645355,2024,9,2024-10-26,Tulsa,UTSA,46,45,Tulsa,UTSA,1,false,true,false,cfbd
+401640985,2024,10,2024-10-29,Florida International,New Mexico State,34,13,Florida International,New Mexico State,21,false,true,false,cfbd
+401641012,2024,10,2024-10-29,Sam Houston,Louisiana Tech,9,3,Sam Houston,Louisiana Tech,6,false,true,false,cfbd
+401643820,2024,10,2024-10-29,Texas State,Louisiana,17,23,Louisiana,Texas State,6,false,true,false,cfbd
+401640994,2024,10,2024-10-30,Liberty,Jacksonville State,21,31,Jacksonville State,Liberty,10,false,true,false,cfbd
+401641020,2024,10,2024-10-30,Western Kentucky,Kennesaw State,31,14,Western Kentucky,Kennesaw State,17,false,true,false,cfbd
+401645356,2024,10,2024-10-31,Charlotte,Tulane,3,34,Tulane,Charlotte,31,false,true,false,cfbd
+401629036,2024,10,2024-11-01,UConn,Georgia State,34,27,UConn,Georgia State,7,false,false,false,cfbd
+401643747,2024,10,2024-11-01,Boise State,San Diego State,56,24,Boise State,San Diego State,32,false,true,false,cfbd
+401645357,2024,10,2024-11-01,Florida Atlantic,South Florida,21,44,South Florida,Florida Atlantic,23,false,true,false,cfbd
+401628406,2024,10,2024-11-02,Arkansas,Ole Miss,31,63,Ole Miss,Arkansas,32,false,true,false,cfbd
+401628407,2024,10,2024-11-02,Auburn,Vanderbilt,7,17,Vanderbilt,Auburn,10,false,true,false,cfbd
+401628408,2024,10,2024-11-02,Georgia,Florida,34,20,Georgia,Florida,14,true,true,false,cfbd
+401628409,2024,10,2024-11-02,Mississippi State,Massachusetts,45,20,Mississippi State,Massachusetts,25,false,false,false,cfbd
+401628410,2024,10,2024-11-02,Oklahoma,Maine,59,14,Oklahoma,Maine,45,false,false,false,cfbd
+401628411,2024,10,2024-11-02,South Carolina,Texas A&M,44,20,South Carolina,Texas A&M,24,false,true,false,cfbd
+401628412,2024,10,2024-11-02,Tennessee,Kentucky,28,18,Tennessee,Kentucky,10,false,true,false,cfbd
+401628533,2024,10,2024-11-02,Illinois,Minnesota,17,25,Minnesota,Illinois,8,false,true,false,cfbd
+401628534,2024,10,2024-11-02,Michigan State,Indiana,10,47,Indiana,Michigan State,37,false,true,false,cfbd
+401628535,2024,10,2024-11-02,Iowa,Wisconsin,42,10,Iowa,Wisconsin,32,false,true,false,cfbd
+401628536,2024,10,2024-11-02,Michigan,Oregon,17,38,Oregon,Michigan,21,false,true,false,cfbd
+401628537,2024,10,2024-11-02,Nebraska,UCLA,20,27,UCLA,Nebraska,7,false,true,false,cfbd
+401628538,2024,10,2024-11-02,Purdue,Northwestern,20,26,Northwestern,Purdue,6,false,true,true,cfbd
+401628539,2024,10,2024-11-02,Penn State,Ohio State,13,20,Ohio State,Penn State,7,false,true,false,cfbd
+401628540,2024,10,2024-11-02,Washington,USC,26,21,Washington,USC,5,false,true,false,cfbd
+401635516,2024,10,2024-11-02,NC State,Stanford,59,28,NC State,Stanford,31,false,true,false,cfbd
+401635600,2024,10,2024-11-02,Clemson,Louisville,21,33,Louisville,Clemson,12,false,true,false,cfbd
+401635601,2024,10,2024-11-02,Miami,Duke,53,31,Miami,Duke,22,false,true,false,cfbd
+401635602,2024,10,2024-11-02,Florida State,North Carolina,11,35,North Carolina,Florida State,24,false,true,false,cfbd
+401635604,2024,10,2024-11-02,Syracuse,Virginia Tech,38,31,Syracuse,Virginia Tech,7,false,true,true,cfbd
+401635627,2024,10,2024-11-02,SMU,Pittsburgh,48,25,SMU,Pittsburgh,23,false,true,false,cfbd
+401636912,2024,10,2024-11-02,Baylor,TCU,37,34,Baylor,TCU,3,false,true,false,cfbd
+401636913,2024,10,2024-11-02,Houston,Kansas State,24,19,Houston,Kansas State,5,false,true,false,cfbd
+401636914,2024,10,2024-11-02,Iowa State,Texas Tech,22,23,Texas Tech,Iowa State,1,false,true,false,cfbd
+401636915,2024,10,2024-11-02,Oklahoma State,Arizona State,21,42,Arizona State,Oklahoma State,21,false,true,false,cfbd
+401636916,2024,10,2024-11-02,UCF,Arizona,56,12,UCF,Arizona,44,false,true,false,cfbd
+401641026,2024,10,2024-11-02,UTEP,Middle Tennessee,13,20,Middle Tennessee,UTEP,7,false,true,false,cfbd
+401643746,2024,10,2024-11-02,Army,Air Force,20,3,Army,Air Force,17,false,false,false,cfbd
+401643748,2024,10,2024-11-02,Nevada,Colorado State,21,38,Colorado State,Nevada,17,false,true,false,cfbd
+401643749,2024,10,2024-11-02,Fresno State,Hawai'i,20,21,Hawai'i,Fresno State,1,false,true,false,cfbd
+401643750,2024,10,2024-11-02,New Mexico,Wyoming,45,49,Wyoming,New Mexico,4,false,true,false,cfbd
+401643821,2024,10,2024-11-02,App State,Old Dominion,28,20,App State,Old Dominion,8,false,true,false,cfbd
+401643822,2024,10,2024-11-02,Marshall,UL Monroe,28,23,Marshall,UL Monroe,5,false,true,false,cfbd
+401643823,2024,10,2024-11-02,South Alabama,Georgia Southern,30,34,Georgia Southern,South Alabama,4,false,true,false,cfbd
+401643824,2024,10,2024-11-02,Troy,Coastal Carolina,38,24,Troy,Coastal Carolina,14,false,true,false,cfbd
+401644757,2024,10,2024-11-02,Akron,Buffalo,30,41,Buffalo,Akron,11,false,true,false,cfbd
+401644758,2024,10,2024-11-02,Eastern Michigan,Toledo,28,29,Toledo,Eastern Michigan,1,false,true,false,cfbd
+401645358,2024,10,2024-11-02,UAB,Tulsa,59,21,UAB,Tulsa,38,false,true,false,cfbd
+401645359,2024,10,2024-11-02,UTSA,Memphis,44,36,UTSA,Memphis,8,false,true,false,cfbd
+401645360,2024,10,2024-11-02,Rice,Navy,24,10,Rice,Navy,14,false,true,false,cfbd
+401644688,2024,11,2024-11-05,Ball State,Miami (OH),21,27,Miami (OH),Ball State,6,false,true,false,cfbd
+401644760,2024,11,2024-11-05,Central Michigan,Bowling Green,13,23,Bowling Green,Central Michigan,10,false,true,false,cfbd
+401644761,2024,11,2024-11-06,Kent State,Ohio,0,41,Ohio,Kent State,41,false,true,false,cfbd
+401644762,2024,11,2024-11-06,Western Michigan,Northern Illinois,28,42,Northern Illinois,Western Michigan,14,false,true,false,cfbd
+401643825,2024,11,2024-11-07,Coastal Carolina,App State,38,24,Coastal Carolina,App State,14,false,true,false,cfbd
+401645361,2024,11,2024-11-07,East Carolina,Florida Atlantic,49,14,East Carolina,Florida Atlantic,35,false,true,false,cfbd
+401628542,2024,11,2024-11-08,UCLA,Iowa,20,17,UCLA,Iowa,3,false,true,false,cfbd
+401634773,2024,11,2024-11-08,Wake Forest,California,36,46,California,Wake Forest,10,false,true,false,cfbd
+401643754,2024,11,2024-11-08,San Diego State,New Mexico,16,21,New Mexico,San Diego State,5,false,true,false,cfbd
+401645362,2024,11,2024-11-08,Memphis,Rice,27,20,Memphis,Rice,7,false,true,false,cfbd
+401628413,2024,11,2024-11-09,LSU,Alabama,13,42,Alabama,LSU,29,false,true,false,cfbd
+401628414,2024,11,2024-11-09,Ole Miss,Georgia,28,10,Ole Miss,Georgia,18,false,true,false,cfbd
+401628415,2024,11,2024-11-09,Missouri,Oklahoma,30,23,Missouri,Oklahoma,7,false,true,false,cfbd
+401628416,2024,11,2024-11-09,Tennessee,Mississippi State,33,14,Tennessee,Mississippi State,19,false,true,false,cfbd
+401628417,2024,11,2024-11-09,Texas,Florida,49,17,Texas,Florida,32,false,true,false,cfbd
+401628418,2024,11,2024-11-09,Vanderbilt,South Carolina,7,28,South Carolina,Vanderbilt,21,false,true,false,cfbd
+401628541,2024,11,2024-11-09,Indiana,Michigan,20,15,Indiana,Michigan,5,false,true,false,cfbd
+401628543,2024,11,2024-11-09,Oregon,Maryland,39,18,Oregon,Maryland,21,false,true,false,cfbd
+401628544,2024,11,2024-11-09,Rutgers,Minnesota,26,19,Rutgers,Minnesota,7,false,true,false,cfbd
+401628545,2024,11,2024-11-09,Ohio State,Purdue,45,0,Ohio State,Purdue,45,false,true,false,cfbd
+401628546,2024,11,2024-11-09,Penn State,Washington,35,6,Penn State,Washington,29,false,true,false,cfbd
+401628984,2024,11,2024-11-09,Notre Dame,Florida State,52,3,Notre Dame,Florida State,49,false,false,false,cfbd
+401629037,2024,11,2024-11-09,UAB,UConn,23,31,UConn,UAB,8,false,false,false,cfbd
+401629045,2024,11,2024-11-09,North Texas,Army,3,14,Army,North Texas,11,false,true,false,cfbd
+401635606,2024,11,2024-11-09,Boston College,Syracuse,37,31,Boston College,Syracuse,6,false,true,false,cfbd
+401635607,2024,11,2024-11-09,Virginia Tech,Clemson,14,24,Clemson,Virginia Tech,10,false,true,false,cfbd
+401635608,2024,11,2024-11-09,NC State,Duke,19,29,Duke,NC State,10,false,true,false,cfbd
+401635609,2024,11,2024-11-09,Georgia Tech,Miami,28,23,Georgia Tech,Miami,5,false,true,false,cfbd
+401635610,2024,11,2024-11-09,Pittsburgh,Virginia,19,24,Virginia,Pittsburgh,5,false,true,false,cfbd
+401636917,2024,11,2024-11-09,Arizona State,UCF,35,31,Arizona State,UCF,4,false,true,false,cfbd
+401636918,2024,11,2024-11-09,Cincinnati,West Virginia,24,31,West Virginia,Cincinnati,7,false,true,false,cfbd
+401636919,2024,11,2024-11-09,Kansas,Iowa State,45,36,Kansas,Iowa State,9,false,true,false,cfbd
+401636920,2024,11,2024-11-09,TCU,Oklahoma State,38,13,TCU,Oklahoma State,25,false,true,false,cfbd
+401636921,2024,11,2024-11-09,Texas Tech,Colorado,27,41,Colorado,Texas Tech,14,false,true,false,cfbd
+401636922,2024,11,2024-11-09,Utah,BYU,21,22,BYU,Utah,1,false,true,false,cfbd
+401640995,2024,11,2024-11-09,Middle Tennessee,Liberty,17,37,Liberty,Middle Tennessee,20,false,true,false,cfbd
+401641004,2024,11,2024-11-09,Louisiana Tech,Jacksonville State,37,44,Jacksonville State,Louisiana Tech,7,false,true,true,cfbd
+401641021,2024,11,2024-11-09,UTEP,Kennesaw State,43,35,UTEP,Kennesaw State,8,false,true,true,cfbd
+401641036,2024,11,2024-11-09,New Mexico State,Western Kentucky,28,41,Western Kentucky,New Mexico State,13,false,true,false,cfbd
+401643751,2024,11,2024-11-09,Air Force,Fresno State,36,28,Air Force,Fresno State,8,false,true,false,cfbd
+401643752,2024,11,2024-11-09,Boise State,Nevada,28,21,Boise State,Nevada,7,false,true,false,cfbd
+401643753,2024,11,2024-11-09,Hawai'i,UNLV,27,29,UNLV,Hawai'i,2,false,true,false,cfbd
+401643755,2024,11,2024-11-09,Oregon State,San José State,13,24,San José State,Oregon State,11,false,false,false,cfbd
+401643756,2024,11,2024-11-09,Washington State,Utah State,49,28,Washington State,Utah State,21,false,false,false,cfbd
+401643826,2024,11,2024-11-09,James Madison,Georgia State,38,7,James Madison,Georgia State,31,false,true,false,cfbd
+401643827,2024,11,2024-11-09,Louisiana,Arkansas State,55,19,Louisiana,Arkansas State,36,false,true,false,cfbd
+401643828,2024,11,2024-11-09,UL Monroe,Texas State,17,38,Texas State,UL Monroe,21,false,true,false,cfbd
+401643829,2024,11,2024-11-09,Southern Miss,Marshall,3,37,Marshall,Southern Miss,34,false,true,false,cfbd
+401645363,2024,11,2024-11-09,South Florida,Navy,7,28,Navy,South Florida,21,false,true,false,cfbd
+401645364,2024,11,2024-11-09,Tulane,Temple,52,6,Tulane,Temple,46,false,true,false,cfbd
+401644763,2024,12,2024-11-12,Buffalo,Ball State,51,48,Buffalo,Ball State,3,false,true,true,cfbd
+401644764,2024,12,2024-11-12,Bowling Green,Western Michigan,31,13,Bowling Green,Western Michigan,18,false,true,false,cfbd
+401644765,2024,12,2024-11-12,Toledo,Central Michigan,37,10,Toledo,Central Michigan,27,false,true,false,cfbd
+401644689,2024,12,2024-11-13,Miami (OH),Kent State,34,7,Miami (OH),Kent State,27,false,true,false,cfbd
+401644766,2024,12,2024-11-13,Northern Illinois,Akron,29,16,Northern Illinois,Akron,13,false,true,false,cfbd
+401644767,2024,12,2024-11-13,Ohio,Eastern Michigan,35,10,Ohio,Eastern Michigan,25,false,true,false,cfbd
+401645365,2024,12,2024-11-14,Tulsa,East Carolina,31,38,East Carolina,Tulsa,7,false,true,false,cfbd
+401628553,2024,12,2024-11-15,Washington,UCLA,31,19,Washington,UCLA,12,false,true,false,cfbd
+401636923,2024,12,2024-11-15,Arizona,Houston,27,3,Arizona,Houston,24,false,true,false,cfbd
+401643759,2024,12,2024-11-15,Colorado State,Wyoming,24,10,Colorado State,Wyoming,14,false,true,false,cfbd
+401645366,2024,12,2024-11-15,UTSA,North Texas,48,27,UTSA,North Texas,21,false,true,false,cfbd
+401628419,2024,12,2024-11-16,Arkansas,Texas,10,20,Texas,Arkansas,10,false,true,false,cfbd
+401628420,2024,12,2024-11-16,Florida,LSU,27,16,Florida,LSU,11,false,true,false,cfbd
+401628421,2024,12,2024-11-16,Georgia,Tennessee,31,17,Georgia,Tennessee,14,false,true,false,cfbd
+401628422,2024,12,2024-11-16,Kentucky,Murray State,48,6,Kentucky,Murray State,42,false,false,false,cfbd
+401628423,2024,12,2024-11-16,South Carolina,Missouri,34,30,South Carolina,Missouri,4,false,true,false,cfbd
+401628424,2024,12,2024-11-16,Texas A&M,New Mexico State,38,3,Texas A&M,New Mexico State,35,false,false,false,cfbd
+401628425,2024,12,2024-11-16,Alabama,Mercer,52,7,Alabama,Mercer,45,false,false,false,cfbd
+401628426,2024,12,2024-11-16,Auburn,UL Monroe,48,14,Auburn,UL Monroe,34,false,false,false,cfbd
+401628547,2024,12,2024-11-16,Illinois,Michigan State,38,16,Illinois,Michigan State,22,false,true,false,cfbd
+401628548,2024,12,2024-11-16,Maryland,Rutgers,17,31,Rutgers,Maryland,14,false,true,false,cfbd
+401628549,2024,12,2024-11-16,USC,Nebraska,28,20,USC,Nebraska,8,false,true,false,cfbd
+401628550,2024,12,2024-11-16,Northwestern,Ohio State,7,31,Ohio State,Northwestern,24,false,true,false,cfbd
+401628551,2024,12,2024-11-16,Wisconsin,Oregon,13,16,Oregon,Wisconsin,3,false,true,false,cfbd
+401628552,2024,12,2024-11-16,Purdue,Penn State,10,49,Penn State,Purdue,39,false,true,false,cfbd
+401628985,2024,12,2024-11-16,Notre Dame,Virginia,35,14,Notre Dame,Virginia,21,false,false,false,cfbd
+401629046,2024,12,2024-11-16,Massachusetts,Liberty,34,35,Liberty,Massachusetts,1,false,false,true,cfbd
+401635517,2024,12,2024-11-16,Stanford,Louisville,38,35,Stanford,Louisville,3,false,true,false,cfbd
+401635580,2024,12,2024-11-16,SMU,Boston College,38,28,SMU,Boston College,10,false,true,false,cfbd
+401635581,2024,12,2024-11-16,California,Syracuse,25,33,Syracuse,California,8,false,true,false,cfbd
+401635582,2024,12,2024-11-16,Pittsburgh,Clemson,20,24,Clemson,Pittsburgh,4,false,true,false,cfbd
+401635583,2024,12,2024-11-16,North Carolina,Wake Forest,31,24,North Carolina,Wake Forest,7,false,true,false,cfbd
+401636924,2024,12,2024-11-16,BYU,Kansas,13,17,Kansas,BYU,4,false,true,false,cfbd
+401636925,2024,12,2024-11-16,Colorado,Utah,49,24,Colorado,Utah,25,false,true,false,cfbd
+401636926,2024,12,2024-11-16,Iowa State,Cincinnati,34,17,Iowa State,Cincinnati,17,false,true,false,cfbd
+401636927,2024,12,2024-11-16,Kansas State,Arizona State,14,24,Arizona State,Kansas State,10,false,true,false,cfbd
+401636929,2024,12,2024-11-16,West Virginia,Baylor,35,49,Baylor,West Virginia,14,false,true,false,cfbd
+401640986,2024,12,2024-11-16,Jacksonville State,Florida International,34,31,Jacksonville State,Florida International,3,false,true,false,cfbd
+401641013,2024,12,2024-11-16,Western Kentucky,Louisiana Tech,7,12,Louisiana Tech,Western Kentucky,5,false,true,false,cfbd
+401641022,2024,12,2024-11-16,Kennesaw State,Sam Houston,17,23,Sam Houston,Kennesaw State,6,false,true,true,cfbd
+401643757,2024,12,2024-11-16,Air Force,Oregon State,28,0,Air Force,Oregon State,28,false,false,false,cfbd
+401643758,2024,12,2024-11-16,San José State,Boise State,21,42,Boise State,San José State,21,false,true,false,cfbd
+401643760,2024,12,2024-11-16,Utah State,Hawai'i,55,10,Utah State,Hawai'i,45,false,true,false,cfbd
+401643761,2024,12,2024-11-16,New Mexico,Washington State,38,35,New Mexico,Washington State,3,false,false,false,cfbd
+401643762,2024,12,2024-11-16,UNLV,San Diego State,41,20,UNLV,San Diego State,21,false,true,false,cfbd
+401643830,2024,12,2024-11-16,Georgia Southern,Troy,20,28,Troy,Georgia Southern,8,false,true,false,cfbd
+401643831,2024,12,2024-11-16,Georgia State,Arkansas State,20,27,Arkansas State,Georgia State,7,false,true,false,cfbd
+401643832,2024,12,2024-11-16,Marshall,Coastal Carolina,31,19,Marshall,Coastal Carolina,12,false,true,false,cfbd
+401643833,2024,12,2024-11-16,Old Dominion,James Madison,32,35,James Madison,Old Dominion,3,false,true,false,cfbd
+401643834,2024,12,2024-11-16,Louisiana,South Alabama,22,24,South Alabama,Louisiana,2,false,true,false,cfbd
+401643835,2024,12,2024-11-16,Texas State,Southern Miss,58,3,Texas State,Southern Miss,55,false,true,false,cfbd
+401645367,2024,12,2024-11-16,Memphis,UAB,53,18,Memphis,UAB,35,false,true,false,cfbd
+401645368,2024,12,2024-11-16,Charlotte,South Florida,24,59,South Florida,Charlotte,35,false,true,false,cfbd
+401645369,2024,12,2024-11-16,Temple,Florida Atlantic,18,15,Temple,Florida Atlantic,3,false,true,true,cfbd
+401645370,2024,12,2024-11-16,Navy,Tulane,0,35,Tulane,Navy,35,false,true,false,cfbd
+401644690,2024,13,2024-11-19,Miami (OH),Northern Illinois,20,9,Miami (OH),Northern Illinois,11,false,true,false,cfbd
+401644769,2024,13,2024-11-19,Kent State,Akron,17,38,Akron,Kent State,21,false,true,false,cfbd
+401644770,2024,13,2024-11-19,Central Michigan,Western Michigan,16,14,Central Michigan,Western Michigan,2,false,true,false,cfbd
+401644772,2024,13,2024-11-20,Eastern Michigan,Buffalo,20,37,Buffalo,Eastern Michigan,17,false,true,false,cfbd
+401644773,2024,13,2024-11-20,Toledo,Ohio,7,24,Ohio,Toledo,17,false,true,false,cfbd
+401634772,2024,13,2024-11-21,Georgia Tech,NC State,30,29,Georgia Tech,NC State,1,false,true,false,cfbd
+401628558,2024,13,2024-11-22,Michigan State,Purdue,24,17,Michigan State,Purdue,7,false,true,false,cfbd
+401643767,2024,13,2024-11-22,San José State,UNLV,16,27,UNLV,San José State,11,false,true,false,cfbd
+401645374,2024,13,2024-11-22,UTSA,Temple,51,27,UTSA,Temple,24,false,true,false,cfbd
+401628427,2024,13,2024-11-23,Arkansas,Louisiana Tech,35,14,Arkansas,Louisiana Tech,21,false,false,false,cfbd
+401628428,2024,13,2024-11-23,Auburn,Texas A&M,43,41,Auburn,Texas A&M,2,false,true,true,cfbd
+401628429,2024,13,2024-11-23,Florida,Ole Miss,24,17,Florida,Ole Miss,7,false,true,false,cfbd
+401628430,2024,13,2024-11-23,Georgia,Massachusetts,59,21,Georgia,Massachusetts,38,false,false,false,cfbd
+401628431,2024,13,2024-11-23,LSU,Vanderbilt,24,17,LSU,Vanderbilt,7,false,true,false,cfbd
+401628432,2024,13,2024-11-23,Mississippi State,Missouri,20,39,Missouri,Mississippi State,19,false,true,false,cfbd
+401628433,2024,13,2024-11-23,Oklahoma,Alabama,24,3,Oklahoma,Alabama,21,false,true,false,cfbd
+401628434,2024,13,2024-11-23,South Carolina,Wofford,56,12,South Carolina,Wofford,44,false,false,false,cfbd
+401628435,2024,13,2024-11-23,Tennessee,UTEP,56,0,Tennessee,UTEP,56,false,false,false,cfbd
+401628436,2024,13,2024-11-23,Texas,Kentucky,31,14,Texas,Kentucky,17,false,true,false,cfbd
+401628554,2024,13,2024-11-23,Rutgers,Illinois,31,38,Illinois,Rutgers,7,false,true,false,cfbd
+401628555,2024,13,2024-11-23,Ohio State,Indiana,38,15,Ohio State,Indiana,23,false,true,false,cfbd
+401628556,2024,13,2024-11-23,Maryland,Iowa,13,29,Iowa,Maryland,16,false,true,false,cfbd
+401628557,2024,13,2024-11-23,Michigan,Northwestern,50,6,Michigan,Northwestern,44,false,true,false,cfbd
+401628559,2024,13,2024-11-23,Minnesota,Penn State,25,26,Penn State,Minnesota,1,false,true,false,cfbd
+401628560,2024,13,2024-11-23,Nebraska,Wisconsin,44,25,Nebraska,Wisconsin,19,false,true,false,cfbd
+401628561,2024,13,2024-11-23,UCLA,USC,13,19,USC,UCLA,6,false,true,false,cfbd
+401628572,2024,13,2024-11-23,Oregon State,Washington State,41,38,Oregon State,Washington State,3,false,true,false,cfbd
+401635518,2024,13,2024-11-23,Syracuse,UConn,31,24,Syracuse,UConn,7,false,false,false,cfbd
+401635612,2024,13,2024-11-23,Boston College,North Carolina,41,21,Boston College,North Carolina,20,false,true,false,cfbd
+401635613,2024,13,2024-11-23,California,Stanford,24,21,California,Stanford,3,false,true,false,cfbd
+401635614,2024,13,2024-11-23,Clemson,The Citadel,51,14,Clemson,The Citadel,37,false,false,false,cfbd
+401635615,2024,13,2024-11-23,Duke,Virginia Tech,31,28,Duke,Virginia Tech,3,false,true,false,cfbd
+401635616,2024,13,2024-11-23,Florida State,Charleston Southern,41,7,Florida State,Charleston Southern,34,false,false,false,cfbd
+401635617,2024,13,2024-11-23,Louisville,Pittsburgh,37,9,Louisville,Pittsburgh,28,false,true,false,cfbd
+401635618,2024,13,2024-11-23,Miami,Wake Forest,42,14,Miami,Wake Forest,28,false,true,false,cfbd
+401635619,2024,13,2024-11-23,Virginia,SMU,7,33,SMU,Virginia,26,false,true,false,cfbd
+401636930,2024,13,2024-11-23,Arizona State,BYU,28,23,Arizona State,BYU,5,false,true,false,cfbd
+401636931,2024,13,2024-11-23,Houston,Baylor,10,20,Baylor,Houston,10,false,true,false,cfbd
+401636932,2024,13,2024-11-23,Kansas,Colorado,37,21,Kansas,Colorado,16,false,true,false,cfbd
+401636933,2024,13,2024-11-23,Kansas State,Cincinnati,41,15,Kansas State,Cincinnati,26,false,true,false,cfbd
+401636934,2024,13,2024-11-23,Oklahoma State,Texas Tech,48,56,Texas Tech,Oklahoma State,8,false,true,false,cfbd
+401636935,2024,13,2024-11-23,TCU,Arizona,49,28,TCU,Arizona,21,false,true,false,cfbd
+401636936,2024,13,2024-11-23,Utah,Iowa State,28,31,Iowa State,Utah,3,false,true,false,cfbd
+401636937,2024,13,2024-11-23,West Virginia,UCF,31,21,West Virginia,UCF,10,false,true,false,cfbd
+401640959,2024,13,2024-11-23,Notre Dame,Army,49,14,Notre Dame,Army,35,true,false,false,cfbd
+401640987,2024,13,2024-11-23,Kennesaw State,Florida International,27,26,Kennesaw State,Florida International,1,false,true,false,cfbd
+401640996,2024,13,2024-11-23,Liberty,Western Kentucky,38,21,Liberty,Western Kentucky,17,false,true,false,cfbd
+401641005,2024,13,2024-11-23,Jacksonville State,Sam Houston,21,11,Jacksonville State,Sam Houston,10,false,true,false,cfbd
+401641027,2024,13,2024-11-23,Middle Tennessee,New Mexico State,21,36,New Mexico State,Middle Tennessee,15,false,true,false,cfbd
+401643763,2024,13,2024-11-23,Nevada,Air Force,19,22,Air Force,Nevada,3,false,true,false,cfbd
+401643764,2024,13,2024-11-23,Wyoming,Boise State,13,17,Boise State,Wyoming,4,false,true,false,cfbd
+401643765,2024,13,2024-11-23,Fresno State,Colorado State,28,22,Fresno State,Colorado State,6,false,true,false,cfbd
+401643766,2024,13,2024-11-23,Utah State,San Diego State,41,20,Utah State,San Diego State,21,false,true,false,cfbd
+401643836,2024,13,2024-11-23,App State,James Madison,34,20,App State,James Madison,14,false,true,false,cfbd
+401643837,2024,13,2024-11-23,Coastal Carolina,Georgia Southern,6,26,Georgia Southern,Coastal Carolina,20,false,true,false,cfbd
+401643838,2024,13,2024-11-23,Old Dominion,Marshall,35,42,Marshall,Old Dominion,7,false,true,false,cfbd
+401643839,2024,13,2024-11-23,Arkansas State,UL Monroe,28,21,Arkansas State,UL Monroe,7,false,true,false,cfbd
+401643840,2024,13,2024-11-23,Louisiana,Troy,51,30,Louisiana,Troy,21,false,true,false,cfbd
+401643841,2024,13,2024-11-23,Southern Miss,South Alabama,14,35,South Alabama,Southern Miss,21,false,true,false,cfbd
+401643842,2024,13,2024-11-23,Texas State,Georgia State,44,52,Georgia State,Texas State,8,false,true,false,cfbd
+401644774,2024,13,2024-11-23,Ball State,Bowling Green,13,38,Bowling Green,Ball State,25,false,true,false,cfbd
+401645371,2024,13,2024-11-23,Florida Atlantic,Charlotte,27,39,Charlotte,Florida Atlantic,12,false,true,false,cfbd
+401645372,2024,13,2024-11-23,North Texas,East Carolina,28,40,East Carolina,North Texas,12,false,true,false,cfbd
+401645373,2024,13,2024-11-23,UAB,Rice,40,14,UAB,Rice,26,false,true,false,cfbd
+401645375,2024,13,2024-11-23,South Florida,Tulsa,63,30,South Florida,Tulsa,33,false,true,false,cfbd
+401644775,2024,14,2024-11-26,Akron,Toledo,21,14,Akron,Toledo,7,false,true,true,cfbd
+401644776,2024,14,2024-11-26,Buffalo,Kent State,43,7,Buffalo,Kent State,36,false,true,false,cfbd
+401645376,2024,14,2024-11-28,Tulane,Memphis,24,34,Memphis,Tulane,10,false,true,false,cfbd
+401628439,2024,14,2024-11-29,Georgia,Georgia Tech,44,42,Georgia,Georgia Tech,2,false,false,true,cfbd
+401628442,2024,14,2024-11-29,Ole Miss,Mississippi State,26,14,Ole Miss,Mississippi State,12,false,true,false,cfbd
+401628562,2024,14,2024-11-29,Iowa,Nebraska,13,10,Iowa,Nebraska,3,false,true,false,cfbd
+401628568,2024,14,2024-11-29,Wisconsin,Minnesota,7,24,Minnesota,Wisconsin,17,false,true,false,cfbd
+401635625,2024,14,2024-11-29,San José State,Stanford,34,31,San José State,Stanford,3,false,false,false,cfbd
+401636938,2024,14,2024-11-29,Colorado,Oklahoma State,52,0,Colorado,Oklahoma State,52,false,true,false,cfbd
+401636939,2024,14,2024-11-29,UCF,Utah,14,28,Utah,UCF,14,false,true,false,cfbd
+401640997,2024,14,2024-11-29,Sam Houston,Liberty,20,18,Sam Houston,Liberty,2,false,true,false,cfbd
+401643769,2024,14,2024-11-29,Boise State,Oregon State,34,18,Boise State,Oregon State,16,false,false,false,cfbd
+401643770,2024,14,2024-11-29,Colorado State,Utah State,42,37,Colorado State,Utah State,5,false,true,false,cfbd
+401643843,2024,14,2024-11-29,South Alabama,Texas State,38,45,Texas State,South Alabama,7,false,true,false,cfbd
+401644691,2024,14,2024-11-29,Bowling Green,Miami (OH),12,28,Miami (OH),Bowling Green,16,false,true,false,cfbd
+401644777,2024,14,2024-11-29,Ohio,Ball State,42,21,Ohio,Ball State,21,false,true,false,cfbd
+401645379,2024,14,2024-11-29,East Carolina,Navy,20,34,Navy,East Carolina,14,false,true,false,cfbd
+401628437,2024,14,2024-11-30,Alabama,Auburn,28,14,Alabama,Auburn,14,false,true,false,cfbd
+401628438,2024,14,2024-11-30,Florida State,Florida,11,31,Florida,Florida State,20,false,false,false,cfbd
+401628440,2024,14,2024-11-30,Kentucky,Louisville,14,41,Louisville,Kentucky,27,false,false,false,cfbd
+401628441,2024,14,2024-11-30,LSU,Oklahoma,37,17,LSU,Oklahoma,20,false,true,false,cfbd
+401628443,2024,14,2024-11-30,Missouri,Arkansas,28,21,Missouri,Arkansas,7,false,true,false,cfbd
+401628444,2024,14,2024-11-30,Clemson,South Carolina,14,17,South Carolina,Clemson,3,false,false,false,cfbd
+401628445,2024,14,2024-11-30,Texas A&M,Texas,7,17,Texas,Texas A&M,10,false,true,false,cfbd
+401628446,2024,14,2024-11-30,Vanderbilt,Tennessee,23,36,Tennessee,Vanderbilt,13,false,true,false,cfbd
+401628563,2024,14,2024-11-30,Northwestern,Illinois,28,38,Illinois,Northwestern,10,true,true,false,cfbd
+401628564,2024,14,2024-11-30,Indiana,Purdue,66,0,Indiana,Purdue,66,false,true,false,cfbd
+401628565,2024,14,2024-11-30,Penn State,Maryland,44,7,Penn State,Maryland,37,false,true,false,cfbd
+401628566,2024,14,2024-11-30,Ohio State,Michigan,10,13,Michigan,Ohio State,3,false,true,false,cfbd
+401628567,2024,14,2024-11-30,Michigan State,Rutgers,14,41,Rutgers,Michigan State,27,false,true,false,cfbd
+401628569,2024,14,2024-11-30,Oregon,Washington,49,21,Oregon,Washington,28,false,true,false,cfbd
+401628570,2024,14,2024-11-30,UCLA,Fresno State,20,13,UCLA,Fresno State,7,false,false,false,cfbd
+401628571,2024,14,2024-11-30,USC,Notre Dame,35,49,Notre Dame,USC,14,false,false,false,cfbd
+401629038,2024,14,2024-11-30,Massachusetts,UConn,42,47,UConn,Massachusetts,5,false,false,false,cfbd
+401635620,2024,14,2024-11-30,Boston College,Pittsburgh,34,23,Boston College,Pittsburgh,11,false,true,false,cfbd
+401635621,2024,14,2024-11-30,SMU,California,38,6,SMU,California,32,false,true,false,cfbd
+401635622,2024,14,2024-11-30,Wake Forest,Duke,17,23,Duke,Wake Forest,6,false,true,false,cfbd
+401635623,2024,14,2024-11-30,Syracuse,Miami,42,38,Syracuse,Miami,4,false,true,false,cfbd
+401635624,2024,14,2024-11-30,North Carolina,NC State,30,35,NC State,North Carolina,5,false,true,false,cfbd
+401635640,2024,14,2024-11-30,Virginia Tech,Virginia,37,17,Virginia Tech,Virginia,20,false,true,false,cfbd
+401636940,2024,14,2024-11-30,Arizona,Arizona State,7,49,Arizona State,Arizona,42,false,true,false,cfbd
+401636941,2024,14,2024-11-30,Baylor,Kansas,45,17,Baylor,Kansas,28,false,true,false,cfbd
+401636942,2024,14,2024-11-30,BYU,Houston,30,18,BYU,Houston,12,false,true,false,cfbd
+401636943,2024,14,2024-11-30,Cincinnati,TCU,13,20,TCU,Cincinnati,7,false,true,false,cfbd
+401636944,2024,14,2024-11-30,Iowa State,Kansas State,29,21,Iowa State,Kansas State,8,false,true,false,cfbd
+401636945,2024,14,2024-11-30,Texas Tech,West Virginia,52,15,Texas Tech,West Virginia,37,false,true,false,cfbd
+401640988,2024,14,2024-11-30,Florida International,Middle Tennessee,35,24,Florida International,Middle Tennessee,11,false,true,false,cfbd
+401641006,2024,14,2024-11-30,Western Kentucky,Jacksonville State,19,17,Western Kentucky,Jacksonville State,2,false,true,false,cfbd
+401641014,2024,14,2024-11-30,Louisiana Tech,Kennesaw State,33,0,Louisiana Tech,Kennesaw State,33,false,true,false,cfbd
+401641031,2024,14,2024-11-30,New Mexico State,UTEP,35,42,UTEP,New Mexico State,7,false,true,false,cfbd
+401643768,2024,14,2024-11-30,San Diego State,Air Force,20,31,Air Force,San Diego State,11,false,true,false,cfbd
+401643771,2024,14,2024-11-30,Hawai'i,New Mexico,38,30,Hawai'i,New Mexico,8,false,true,false,cfbd
+401643772,2024,14,2024-11-30,UNLV,Nevada,38,14,UNLV,Nevada,24,false,true,false,cfbd
+401643773,2024,14,2024-11-30,Washington State,Wyoming,14,15,Wyoming,Washington State,1,false,false,false,cfbd
+401643844,2024,14,2024-11-30,Georgia Southern,App State,29,20,Georgia Southern,App State,9,false,true,false,cfbd
+401643845,2024,14,2024-11-30,Georgia State,Coastal Carolina,27,48,Coastal Carolina,Georgia State,21,false,true,false,cfbd
+401643846,2024,14,2024-11-30,James Madison,Marshall,33,35,Marshall,James Madison,2,false,true,true,cfbd
+401643847,2024,14,2024-11-30,Arkansas State,Old Dominion,32,40,Old Dominion,Arkansas State,8,false,true,false,cfbd
+401643848,2024,14,2024-11-30,UL Monroe,Louisiana,23,37,Louisiana,UL Monroe,14,false,true,false,cfbd
+401643849,2024,14,2024-11-30,Troy,Southern Miss,52,20,Troy,Southern Miss,32,false,true,false,cfbd
+401644779,2024,14,2024-11-30,Northern Illinois,Central Michigan,24,16,Northern Illinois,Central Michigan,8,false,true,false,cfbd
+401644780,2024,14,2024-11-30,Western Michigan,Eastern Michigan,26,18,Western Michigan,Eastern Michigan,8,false,true,false,cfbd
+401645377,2024,14,2024-11-30,Charlotte,UAB,29,27,Charlotte,UAB,2,false,true,false,cfbd
+401645378,2024,14,2024-11-30,Army,UTSA,29,24,Army,UTSA,5,false,true,false,cfbd
+401645380,2024,14,2024-11-30,Tulsa,Florida Atlantic,16,63,Florida Atlantic,Tulsa,47,false,true,false,cfbd
+401645381,2024,14,2024-11-30,Temple,North Texas,17,24,North Texas,Temple,7,false,true,false,cfbd
+401645382,2024,14,2024-11-30,Rice,South Florida,35,28,Rice,South Florida,7,false,true,false,cfbd

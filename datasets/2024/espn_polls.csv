@@ -1,0 +1,952 @@
+poll,poll_date,rank,team_id,team,points,first_place_votes
+ap,2024-08-12,1,61,Georgia,1532,46
+ap,2024-08-12,2,194,Ohio State,1490,15
+ap,2024-08-12,3,2483,Oregon,1403,1
+ap,2024-08-12,4,251,Texas,1386,0
+ap,2024-08-12,5,333,Alabama,1260,0
+ap,2024-08-12,6,145,Ole Miss,1189,0
+ap,2024-08-12,7,87,Notre Dame,1122,0
+ap,2024-08-12,8,213,Penn State,1060,0
+ap,2024-08-12,9,130,Michigan,995,0
+ap,2024-08-12,10,52,Florida State,971,0
+ap,2024-08-12,11,142,Missouri,927,0
+ap,2024-08-12,12,254,Utah,887,0
+ap,2024-08-12,13,99,LSU,804,0
+ap,2024-08-12,14,228,Clemson,689,0
+ap,2024-08-12,15,2633,Tennessee,629,0
+ap,2024-08-12,16,201,Oklahoma,566,0
+ap,2024-08-12,17,197,Oklahoma State,538,0
+ap,2024-08-12,18,2306,Kansas State,526,0
+ap,2024-08-12,19,2390,Miami,492,0
+ap,2024-08-12,20,245,Texas A&M,292,0
+ap,2024-08-12,21,12,Arizona,237,0
+ap,2024-08-12,22,2305,Kansas,231,0
+ap,2024-08-12,23,30,USC,172,0
+ap,2024-08-12,24,152,NC State,171,0
+ap,2024-08-12,25,2294,Iowa,140,0
+ap,2024-09-03,1,61,Georgia,1545,57
+ap,2024-09-03,2,194,Ohio State,1478,5
+ap,2024-09-03,3,251,Texas,1418,0
+ap,2024-09-03,4,333,Alabama,1309,0
+ap,2024-09-03,5,87,Notre Dame,1240,0
+ap,2024-09-03,6,145,Ole Miss,1212,0
+ap,2024-09-03,7,2483,Oregon,1197,0
+ap,2024-09-03,8,213,Penn State,1146,0
+ap,2024-09-03,9,142,Missouri,968,0
+ap,2024-09-03,10,130,Michigan,935,0
+ap,2024-09-03,11,254,Utah,897,0
+ap,2024-09-03,12,2390,Miami,893,0
+ap,2024-09-03,13,30,USC,811,0
+ap,2024-09-03,14,2633,Tennessee,784,0
+ap,2024-09-03,15,201,Oklahoma,703,0
+ap,2024-09-03,16,197,Oklahoma State,610,0
+ap,2024-09-03,17,2306,Kansas State,607,0
+ap,2024-09-03,18,99,LSU,410,0
+ap,2024-09-03,19,2305,Kansas,349,0
+ap,2024-09-03,20,12,Arizona,339,0
+ap,2024-09-03,21,2294,Iowa,294,0
+ap,2024-09-03,22,97,Louisville,188,0
+ap,2024-09-03,23,59,Georgia Tech,161,0
+ap,2024-09-03,24,152,NC State,142,0
+ap,2024-09-03,25,228,Clemson,134,0
+ap,2024-09-08,1,61,Georgia,1566,54
+ap,2024-09-08,2,251,Texas,1492,4
+ap,2024-09-08,3,194,Ohio State,1476,5
+ap,2024-09-08,4,333,Alabama,1331,0
+ap,2024-09-08,5,145,Ole Miss,1323,0
+ap,2024-09-08,6,142,Missouri,1125,0
+ap,2024-09-08,7,2633,Tennessee,1107,0
+ap,2024-09-08,8,213,Penn State,1090,0
+ap,2024-09-08,9,2483,Oregon,1077,0
+ap,2024-09-08,10,2390,Miami,1073,0
+ap,2024-09-08,11,30,USC,1022,0
+ap,2024-09-08,12,254,Utah,1010,0
+ap,2024-09-08,13,197,Oklahoma State,734,0
+ap,2024-09-08,14,2306,Kansas State,702,0
+ap,2024-09-08,15,201,Oklahoma,672,0
+ap,2024-09-08,16,99,LSU,521,0
+ap,2024-09-08,17,130,Michigan,503,0
+ap,2024-09-08,18,87,Notre Dame,427,0
+ap,2024-09-08,19,97,Louisville,383,0
+ap,2024-09-08,20,12,Arizona,381,0
+ap,2024-09-08,21,66,Iowa State,309,0
+ap,2024-09-08,22,228,Clemson,292,0
+ap,2024-09-08,23,158,Nebraska,142,0
+ap,2024-09-08,24,103,Boston College,116,0
+ap,2024-09-08,25,2459,Northern Illinois,114,0
+ap,2024-09-15,1,251,Texas,1540,35
+ap,2024-09-15,2,61,Georgia,1518,23
+ap,2024-09-15,3,194,Ohio State,1461,5
+ap,2024-09-15,4,333,Alabama,1358,0
+ap,2024-09-15,5,145,Ole Miss,1316,0
+ap,2024-09-15,6,2633,Tennessee,1188,0
+ap,2024-09-15,7,142,Missouri,1127,0
+ap,2024-09-15,8,2390,Miami,1094,0
+ap,2024-09-15,9,2483,Oregon,1093,0
+ap,2024-09-15,10,213,Penn State,1050,0
+ap,2024-09-15,11,30,USC,1008,0
+ap,2024-09-15,12,254,Utah,912,0
+ap,2024-09-15,13,2306,Kansas State,836,0
+ap,2024-09-15,14,197,Oklahoma State,742,0
+ap,2024-09-15,15,201,Oklahoma,649,0
+ap,2024-09-15,16,99,LSU,537,0
+ap,2024-09-15,17,87,Notre Dame,477,0
+ap,2024-09-15,18,130,Michigan,447,0
+ap,2024-09-15,19,97,Louisville,418,0
+ap,2024-09-15,20,66,Iowa State,354,0
+ap,2024-09-15,21,228,Clemson,291,0
+ap,2024-09-15,22,158,Nebraska,266,0
+ap,2024-09-15,23,2459,Northern Illinois,151,0
+ap,2024-09-15,24,356,Illinois,137,0
+ap,2024-09-15,25,245,Texas A&M,82,0
+ap,2024-09-22,1,251,Texas,1527,44
+ap,2024-09-22,2,61,Georgia,1482,13
+ap,2024-09-22,3,194,Ohio State,1432,5
+ap,2024-09-22,4,333,Alabama,1328,0
+ap,2024-09-22,5,2633,Tennessee,1283,0
+ap,2024-09-22,6,145,Ole Miss,1269,0
+ap,2024-09-22,7,2390,Miami,1139,0
+ap,2024-09-22,8,2483,Oregon,1073,0
+ap,2024-09-22,9,213,Penn State,1051,0
+ap,2024-09-22,10,254,Utah,1037,0
+ap,2024-09-22,11,142,Missouri,1009,0
+ap,2024-09-22,12,130,Michigan,805,0
+ap,2024-09-22,13,30,USC,690,0
+ap,2024-09-22,14,99,LSU,637,0
+ap,2024-09-22,15,97,Louisville,553,0
+ap,2024-09-22,16,87,Notre Dame,546,0
+ap,2024-09-22,17,228,Clemson,540,0
+ap,2024-09-22,18,66,Iowa State,530,0
+ap,2024-09-22,19,356,Illinois,458,0
+ap,2024-09-22,20,197,Oklahoma State,388,0
+ap,2024-09-22,21,201,Oklahoma,375,0
+ap,2024-09-22,22,252,BYU,327,0
+ap,2024-09-22,23,2306,Kansas State,168,0
+ap,2024-09-22,24,245,Texas A&M,77,0
+ap,2024-09-22,25,68,Boise State,69,0
+ap,2024-09-29,1,333,Alabama,1549,40
+ap,2024-09-29,2,251,Texas,1525,19
+ap,2024-09-29,3,194,Ohio State,1445,4
+ap,2024-09-29,4,2633,Tennessee,1356,0
+ap,2024-09-29,5,61,Georgia,1329,0
+ap,2024-09-29,6,2483,Oregon,1216,0
+ap,2024-09-29,7,213,Penn State,1208,0
+ap,2024-09-29,8,2390,Miami,1170,0
+ap,2024-09-29,9,142,Missouri,1085,0
+ap,2024-09-29,10,130,Michigan,913,0
+ap,2024-09-29,11,30,USC,854,0
+ap,2024-09-29,12,145,Ole Miss,799,0
+ap,2024-09-29,13,99,LSU,757,0
+ap,2024-09-29,14,87,Notre Dame,748,0
+ap,2024-09-29,15,228,Clemson,694,0
+ap,2024-09-29,16,66,Iowa State,656,0
+ap,2024-09-29,17,252,BYU,549,0
+ap,2024-09-29,18,254,Utah,467,0
+ap,2024-09-29,19,201,Oklahoma,428,0
+ap,2024-09-29,20,2306,Kansas State,398,0
+ap,2024-09-29,21,68,Boise State,253,0
+ap,2024-09-29,22,97,Louisville,223,0
+ap,2024-09-29,23,84,Indiana,172,0
+ap,2024-09-29,24,356,Illinois,169,0
+ap,2024-09-29,25,245,Texas A&M,122,0
+ap,2024-09-29,25,2439,UNLV,122,0
+ap,2024-10-06,1,251,Texas,1516,52
+ap,2024-10-06,2,194,Ohio State,1473,9
+ap,2024-10-06,3,2483,Oregon,1348,0
+ap,2024-10-06,4,213,Penn State,1305,0
+ap,2024-10-06,5,61,Georgia,1299,0
+ap,2024-10-06,6,2390,Miami,1187,0
+ap,2024-10-06,7,333,Alabama,1182,0
+ap,2024-10-06,8,2633,Tennessee,1001,0
+ap,2024-10-06,9,145,Ole Miss,978,0
+ap,2024-10-06,10,228,Clemson,861,0
+ap,2024-10-06,11,66,Iowa State,853,0
+ap,2024-10-06,11,87,Notre Dame,853,0
+ap,2024-10-06,13,99,LSU,827,0
+ap,2024-10-06,14,252,BYU,753,0
+ap,2024-10-06,15,245,Texas A&M,702,0
+ap,2024-10-06,16,254,Utah,473,0
+ap,2024-10-06,17,68,Boise State,463,0
+ap,2024-10-06,18,84,Indiana,459,0
+ap,2024-10-06,18,201,Oklahoma,459,0
+ap,2024-10-06,18,2306,Kansas State,459,0
+ap,2024-10-06,21,142,Missouri,352,0
+ap,2024-10-06,22,221,Pittsburgh,196,0
+ap,2024-10-06,23,356,Illinois,182,0
+ap,2024-10-06,24,130,Michigan,170,0
+ap,2024-10-06,25,2567,SMU,165,0
+ap,2024-10-13,1,251,Texas,1544,56
+ap,2024-10-13,2,2483,Oregon,1493,6
+ap,2024-10-13,3,213,Penn State,1380,0
+ap,2024-10-13,4,194,Ohio State,1357,0
+ap,2024-10-13,5,61,Georgia,1300,0
+ap,2024-10-13,6,2390,Miami,1232,0
+ap,2024-10-13,7,333,Alabama,1127,0
+ap,2024-10-13,8,99,LSU,994,0
+ap,2024-10-13,9,66,Iowa State,982,0
+ap,2024-10-13,10,228,Clemson,980,0
+ap,2024-10-13,11,2633,Tennessee,959,0
+ap,2024-10-13,12,87,Notre Dame,914,0
+ap,2024-10-13,13,252,BYU,889,0
+ap,2024-10-13,14,245,Texas A&M,744,0
+ap,2024-10-13,15,68,Boise State,597,0
+ap,2024-10-13,16,84,Indiana,580,0
+ap,2024-10-13,17,2306,Kansas State,567,0
+ap,2024-10-13,18,145,Ole Miss,511,0
+ap,2024-10-13,19,142,Missouri,409,0
+ap,2024-10-13,20,221,Pittsburgh,397,0
+ap,2024-10-13,21,2567,SMU,260,0
+ap,2024-10-13,22,356,Illinois,249,0
+ap,2024-10-13,23,349,Army,137,0
+ap,2024-10-13,24,130,Michigan,133,0
+ap,2024-10-13,25,2426,Navy,84,0
+ap,2024-10-20,1,2483,Oregon,1523,59
+ap,2024-10-20,2,61,Georgia,1434,2
+ap,2024-10-20,3,213,Penn State,1375,0
+ap,2024-10-20,4,194,Ohio State,1353,0
+ap,2024-10-20,5,251,Texas,1257,0
+ap,2024-10-20,6,2390,Miami,1242,0
+ap,2024-10-20,7,2633,Tennessee,1075,0
+ap,2024-10-20,8,99,LSU,1049,0
+ap,2024-10-20,9,228,Clemson,984,0
+ap,2024-10-20,10,66,Iowa State,972,0
+ap,2024-10-20,11,252,BYU,910,0
+ap,2024-10-20,12,87,Notre Dame,891,0
+ap,2024-10-20,13,84,Indiana,830,0
+ap,2024-10-20,14,245,Texas A&M,748,0
+ap,2024-10-20,15,333,Alabama,643,0
+ap,2024-10-20,16,2306,Kansas State,576,0
+ap,2024-10-20,17,68,Boise State,573,0
+ap,2024-10-20,18,145,Ole Miss,408,0
+ap,2024-10-20,19,221,Pittsburgh,396,0
+ap,2024-10-20,20,356,Illinois,392,0
+ap,2024-10-20,21,142,Missouri,359,0
+ap,2024-10-20,22,2567,SMU,313,0
+ap,2024-10-20,23,349,Army,193,0
+ap,2024-10-20,24,2426,Navy,166,0
+ap,2024-10-20,25,238,Vanderbilt,92,0
+ap,2024-10-27,1,2483,Oregon,1549,61
+ap,2024-10-27,2,61,Georgia,1467,1
+ap,2024-10-27,3,213,Penn State,1417,0
+ap,2024-10-27,4,194,Ohio State,1324,0
+ap,2024-10-27,5,2390,Miami,1283,0
+ap,2024-10-27,6,251,Texas,1276,0
+ap,2024-10-27,7,2633,Tennessee,1081,0
+ap,2024-10-27,8,87,Notre Dame,1000,0
+ap,2024-10-27,9,252,BYU,995,0
+ap,2024-10-27,10,245,Texas A&M,972,0
+ap,2024-10-27,11,66,Iowa State,968,0
+ap,2024-10-27,11,228,Clemson,968,0
+ap,2024-10-27,13,84,Indiana,952,0
+ap,2024-10-27,14,333,Alabama,706,0
+ap,2024-10-27,15,68,Boise State,619,0
+ap,2024-10-27,16,99,LSU,577,0
+ap,2024-10-27,17,2306,Kansas State,571,0
+ap,2024-10-27,18,221,Pittsburgh,570,0
+ap,2024-10-27,19,145,Ole Miss,471,0
+ap,2024-10-27,20,2567,SMU,400,0
+ap,2024-10-27,21,349,Army,312,0
+ap,2024-10-27,22,265,Washington State,220,0
+ap,2024-10-27,23,38,Colorado,152,0
+ap,2024-10-27,24,356,Illinois,113,0
+ap,2024-10-27,25,142,Missouri,44,0
+ap,2024-11-03,1,2483,Oregon,1550,62
+ap,2024-11-03,2,61,Georgia,1449,0
+ap,2024-11-03,3,194,Ohio State,1442,0
+ap,2024-11-03,4,2390,Miami,1348,0
+ap,2024-11-03,5,251,Texas,1310,0
+ap,2024-11-03,6,213,Penn State,1158,0
+ap,2024-11-03,7,2633,Tennessee,1150,0
+ap,2024-11-03,8,84,Indiana,1123,0
+ap,2024-11-03,9,252,BYU,1084,0
+ap,2024-11-03,10,87,Notre Dame,1066,0
+ap,2024-11-03,11,333,Alabama,867,0
+ap,2024-11-03,12,68,Boise State,853,0
+ap,2024-11-03,13,2567,SMU,752,0
+ap,2024-11-03,14,99,LSU,707,0
+ap,2024-11-03,15,245,Texas A&M,662,0
+ap,2024-11-03,16,145,Ole Miss,653,0
+ap,2024-11-03,17,66,Iowa State,592,0
+ap,2024-11-03,18,349,Army,468,0
+ap,2024-11-03,19,228,Clemson,447,0
+ap,2024-11-03,20,265,Washington State,351,0
+ap,2024-11-03,21,38,Colorado,234,0
+ap,2024-11-03,22,2306,Kansas State,227,0
+ap,2024-11-03,23,221,Pittsburgh,203,0
+ap,2024-11-03,24,238,Vanderbilt,130,0
+ap,2024-11-03,25,97,Louisville,115,0
+ap,2024-11-10,1,2483,Oregon,1550,62
+ap,2024-11-10,2,194,Ohio State,1484,0
+ap,2024-11-10,3,251,Texas,1409,0
+ap,2024-11-10,4,213,Penn State,1274,0
+ap,2024-11-10,5,84,Indiana,1273,0
+ap,2024-11-10,6,2633,Tennessee,1270,0
+ap,2024-11-10,7,252,BYU,1161,0
+ap,2024-11-10,8,87,Notre Dame,1095,0
+ap,2024-11-10,9,333,Alabama,1036,0
+ap,2024-11-10,10,145,Ole Miss,966,0
+ap,2024-11-10,11,61,Georgia,964,0
+ap,2024-11-10,12,2390,Miami,907,0
+ap,2024-11-10,13,68,Boise State,839,0
+ap,2024-11-10,14,2567,SMU,788,0
+ap,2024-11-10,15,245,Texas A&M,674,0
+ap,2024-11-10,16,349,Army,533,0
+ap,2024-11-10,17,228,Clemson,524,0
+ap,2024-11-10,18,38,Colorado,463,0
+ap,2024-11-10,19,265,Washington State,456,0
+ap,2024-11-10,20,2306,Kansas State,333,0
+ap,2024-11-10,21,99,LSU,265,0
+ap,2024-11-10,22,97,Louisville,240,0
+ap,2024-11-10,23,2579,South Carolina,203,0
+ap,2024-11-10,24,142,Missouri,176,0
+ap,2024-11-10,25,2655,Tulane,98,0
+ap,2024-11-17,1,2483,Oregon,1550,62
+ap,2024-11-17,2,194,Ohio State,1485,0
+ap,2024-11-17,3,251,Texas,1413,0
+ap,2024-11-17,4,213,Penn State,1319,0
+ap,2024-11-17,5,84,Indiana,1310,0
+ap,2024-11-17,6,87,Notre Dame,1191,0
+ap,2024-11-17,7,333,Alabama,1130,0
+ap,2024-11-17,8,61,Georgia,1113,0
+ap,2024-11-17,9,145,Ole Miss,1083,0
+ap,2024-11-17,10,2633,Tennessee,953,0
+ap,2024-11-17,11,2390,Miami,945,0
+ap,2024-11-17,12,68,Boise State,880,0
+ap,2024-11-17,13,2567,SMU,810,0
+ap,2024-11-17,14,252,BYU,785,0
+ap,2024-11-17,15,245,Texas A&M,687,0
+ap,2024-11-17,16,38,Colorado,583,0
+ap,2024-11-17,17,228,Clemson,559,0
+ap,2024-11-17,18,349,Army,555,0
+ap,2024-11-17,19,2579,South Carolina,444,0
+ap,2024-11-17,20,2655,Tulane,323,0
+ap,2024-11-17,21,9,Arizona State,322,0
+ap,2024-11-17,22,66,Iowa State,256,0
+ap,2024-11-17,23,2439,UNLV,125,0
+ap,2024-11-17,24,356,Illinois,74,0
+ap,2024-11-17,25,265,Washington State,61,0
+ap,2024-11-24,1,2483,Oregon,1525,61
+ap,2024-11-24,2,194,Ohio State,1463,0
+ap,2024-11-24,3,251,Texas,1395,0
+ap,2024-11-24,4,213,Penn State,1301,0
+ap,2024-11-24,5,87,Notre Dame,1278,0
+ap,2024-11-24,6,61,Georgia,1242,0
+ap,2024-11-24,7,2633,Tennessee,1110,0
+ap,2024-11-24,8,2390,Miami,1096,0
+ap,2024-11-24,9,2567,SMU,1001,0
+ap,2024-11-24,10,84,Indiana,998,0
+ap,2024-11-24,11,68,Boise State,984,0
+ap,2024-11-24,12,228,Clemson,789,0
+ap,2024-11-24,13,333,Alabama,739,0
+ap,2024-11-24,14,9,Arizona State,727,0
+ap,2024-11-24,15,145,Ole Miss,661,0
+ap,2024-11-24,16,2579,South Carolina,639,0
+ap,2024-11-24,17,66,Iowa State,498,0
+ap,2024-11-24,18,2655,Tulane,446,0
+ap,2024-11-24,19,252,BYU,445,0
+ap,2024-11-24,20,245,Texas A&M,399,0
+ap,2024-11-24,21,2439,UNLV,231,0
+ap,2024-11-24,22,356,Illinois,188,0
+ap,2024-11-24,23,38,Colorado,161,0
+ap,2024-11-24,24,142,Missouri,142,0
+ap,2024-11-24,25,349,Army,133,0
+ap,2024-12-01,1,2483,Oregon,1550,62
+ap,2024-12-01,2,251,Texas,1484,0
+ap,2024-12-01,3,213,Penn State,1378,0
+ap,2024-12-01,4,87,Notre Dame,1373,0
+ap,2024-12-01,5,61,Georgia,1302,0
+ap,2024-12-01,6,2633,Tennessee,1200,0
+ap,2024-12-01,7,194,Ohio State,1174,0
+ap,2024-12-01,8,2567,SMU,1127,0
+ap,2024-12-01,9,84,Indiana,1059,0
+ap,2024-12-01,10,68,Boise State,1036,0
+ap,2024-12-01,11,333,Alabama,840,0
+ap,2024-12-01,12,9,Arizona State,832,0
+ap,2024-12-01,13,2579,South Carolina,789,0
+ap,2024-12-01,14,2390,Miami,756,0
+ap,2024-12-01,15,145,Ole Miss,717,0
+ap,2024-12-01,16,66,Iowa State,647,0
+ap,2024-12-01,17,252,BYU,548,0
+ap,2024-12-01,18,228,Clemson,502,0
+ap,2024-12-01,19,2439,UNLV,340,0
+ap,2024-12-01,20,38,Colorado,295,0
+ap,2024-12-01,21,356,Illinois,274,0
+ap,2024-12-01,22,142,Missouri,214,0
+ap,2024-12-01,23,183,Syracuse,206,0
+ap,2024-12-01,24,349,Army,182,0
+ap,2024-12-01,25,235,Memphis,121,0
+ap,2024-12-08,1,2483,Oregon,1550,62
+ap,2024-12-08,2,61,Georgia,1474,0
+ap,2024-12-08,3,87,Notre Dame,1398,0
+ap,2024-12-08,4,251,Texas,1356,0
+ap,2024-12-08,5,213,Penn State,1258,0
+ap,2024-12-08,6,194,Ohio State,1233,0
+ap,2024-12-08,7,2633,Tennessee,1224,0
+ap,2024-12-08,8,68,Boise State,1108,0
+ap,2024-12-08,9,84,Indiana,1052,0
+ap,2024-12-08,10,9,Arizona State,1001,0
+ap,2024-12-08,11,333,Alabama,838,0
+ap,2024-12-08,12,2567,SMU,837,0
+ap,2024-12-08,13,228,Clemson,827,0
+ap,2024-12-08,14,2579,South Carolina,770,0
+ap,2024-12-08,15,2390,Miami,697,0
+ap,2024-12-08,16,145,Ole Miss,680,0
+ap,2024-12-08,17,252,BYU,531,0
+ap,2024-12-08,18,66,Iowa State,401,0
+ap,2024-12-08,19,349,Army,363,0
+ap,2024-12-08,20,38,Colorado,329,0
+ap,2024-12-08,21,356,Illinois,317,0
+ap,2024-12-08,22,183,Syracuse,234,0
+ap,2024-12-08,23,142,Missouri,228,0
+ap,2024-12-08,24,2439,UNLV,144,0
+ap,2024-12-08,25,235,Memphis,132,0
+cfp,2024-11-05,1,2483,Oregon,0,0
+cfp,2024-11-05,2,194,Ohio State,0,0
+cfp,2024-11-05,3,61,Georgia,0,0
+cfp,2024-11-05,4,2390,Miami,0,0
+cfp,2024-11-05,5,251,Texas,0,0
+cfp,2024-11-05,6,213,Penn State,0,0
+cfp,2024-11-05,7,2633,Tennessee,0,0
+cfp,2024-11-05,8,84,Indiana,0,0
+cfp,2024-11-05,9,252,BYU,0,0
+cfp,2024-11-05,10,87,Notre Dame,0,0
+cfp,2024-11-05,11,333,Alabama,0,0
+cfp,2024-11-05,12,68,Boise State,0,0
+cfp,2024-11-05,13,2567,SMU,0,0
+cfp,2024-11-05,14,245,Texas A&M,0,0
+cfp,2024-11-05,15,99,LSU,0,0
+cfp,2024-11-05,16,145,Ole Miss,0,0
+cfp,2024-11-05,17,66,Iowa State,0,0
+cfp,2024-11-05,18,221,Pittsburgh,0,0
+cfp,2024-11-05,19,2306,Kansas State,0,0
+cfp,2024-11-05,20,38,Colorado,0,0
+cfp,2024-11-05,21,265,Washington State,0,0
+cfp,2024-11-05,22,97,Louisville,0,0
+cfp,2024-11-05,23,228,Clemson,0,0
+cfp,2024-11-05,24,142,Missouri,0,0
+cfp,2024-11-05,25,349,Army,0,0
+cfp,2024-11-12,1,2483,Oregon,0,0
+cfp,2024-11-12,2,194,Ohio State,0,0
+cfp,2024-11-12,3,251,Texas,0,0
+cfp,2024-11-12,4,213,Penn State,0,0
+cfp,2024-11-12,5,84,Indiana,0,0
+cfp,2024-11-12,6,252,BYU,0,0
+cfp,2024-11-12,7,2633,Tennessee,0,0
+cfp,2024-11-12,8,87,Notre Dame,0,0
+cfp,2024-11-12,9,2390,Miami,0,0
+cfp,2024-11-12,10,333,Alabama,0,0
+cfp,2024-11-12,11,145,Ole Miss,0,0
+cfp,2024-11-12,12,61,Georgia,0,0
+cfp,2024-11-12,13,68,Boise State,0,0
+cfp,2024-11-12,14,2567,SMU,0,0
+cfp,2024-11-12,15,245,Texas A&M,0,0
+cfp,2024-11-12,16,2306,Kansas State,0,0
+cfp,2024-11-12,17,38,Colorado,0,0
+cfp,2024-11-12,18,265,Washington State,0,0
+cfp,2024-11-12,19,97,Louisville,0,0
+cfp,2024-11-12,20,228,Clemson,0,0
+cfp,2024-11-12,21,2579,South Carolina,0,0
+cfp,2024-11-12,22,99,LSU,0,0
+cfp,2024-11-12,23,142,Missouri,0,0
+cfp,2024-11-12,24,349,Army,0,0
+cfp,2024-11-12,25,2655,Tulane,0,0
+cfp,2024-11-19,1,2483,Oregon,0,0
+cfp,2024-11-19,2,194,Ohio State,0,0
+cfp,2024-11-19,3,251,Texas,0,0
+cfp,2024-11-19,4,213,Penn State,0,0
+cfp,2024-11-19,5,84,Indiana,0,0
+cfp,2024-11-19,6,87,Notre Dame,0,0
+cfp,2024-11-19,7,333,Alabama,0,0
+cfp,2024-11-19,8,2390,Miami,0,0
+cfp,2024-11-19,9,145,Ole Miss,0,0
+cfp,2024-11-19,10,61,Georgia,0,0
+cfp,2024-11-19,11,2633,Tennessee,0,0
+cfp,2024-11-19,12,68,Boise State,0,0
+cfp,2024-11-19,13,2567,SMU,0,0
+cfp,2024-11-19,14,252,BYU,0,0
+cfp,2024-11-19,15,245,Texas A&M,0,0
+cfp,2024-11-19,16,38,Colorado,0,0
+cfp,2024-11-19,17,228,Clemson,0,0
+cfp,2024-11-19,18,2579,South Carolina,0,0
+cfp,2024-11-19,19,349,Army,0,0
+cfp,2024-11-19,20,2655,Tulane,0,0
+cfp,2024-11-19,21,9,Arizona State,0,0
+cfp,2024-11-19,22,66,Iowa State,0,0
+cfp,2024-11-19,23,142,Missouri,0,0
+cfp,2024-11-19,24,2439,UNLV,0,0
+cfp,2024-11-19,25,356,Illinois,0,0
+cfp,2024-11-26,1,2483,Oregon,0,0
+cfp,2024-11-26,2,194,Ohio State,0,0
+cfp,2024-11-26,3,251,Texas,0,0
+cfp,2024-11-26,4,213,Penn State,0,0
+cfp,2024-11-26,5,87,Notre Dame,0,0
+cfp,2024-11-26,6,2390,Miami,0,0
+cfp,2024-11-26,7,61,Georgia,0,0
+cfp,2024-11-26,8,2633,Tennessee,0,0
+cfp,2024-11-26,9,2567,SMU,0,0
+cfp,2024-11-26,10,84,Indiana,0,0
+cfp,2024-11-26,11,68,Boise State,0,0
+cfp,2024-11-26,12,228,Clemson,0,0
+cfp,2024-11-26,13,333,Alabama,0,0
+cfp,2024-11-26,14,145,Ole Miss,0,0
+cfp,2024-11-26,15,2579,South Carolina,0,0
+cfp,2024-11-26,16,9,Arizona State,0,0
+cfp,2024-11-26,17,2655,Tulane,0,0
+cfp,2024-11-26,18,66,Iowa State,0,0
+cfp,2024-11-26,19,252,BYU,0,0
+cfp,2024-11-26,20,245,Texas A&M,0,0
+cfp,2024-11-26,21,142,Missouri,0,0
+cfp,2024-11-26,22,2439,UNLV,0,0
+cfp,2024-11-26,23,356,Illinois,0,0
+cfp,2024-11-26,24,2306,Kansas State,0,0
+cfp,2024-11-26,25,38,Colorado,0,0
+cfp,2024-12-03,1,2483,Oregon,0,0
+cfp,2024-12-03,2,251,Texas,0,0
+cfp,2024-12-03,3,213,Penn State,0,0
+cfp,2024-12-03,4,87,Notre Dame,0,0
+cfp,2024-12-03,5,61,Georgia,0,0
+cfp,2024-12-03,6,194,Ohio State,0,0
+cfp,2024-12-03,7,2633,Tennessee,0,0
+cfp,2024-12-03,8,2567,SMU,0,0
+cfp,2024-12-03,9,84,Indiana,0,0
+cfp,2024-12-03,10,68,Boise State,0,0
+cfp,2024-12-03,11,333,Alabama,0,0
+cfp,2024-12-03,12,2390,Miami,0,0
+cfp,2024-12-03,13,145,Ole Miss,0,0
+cfp,2024-12-03,14,2579,South Carolina,0,0
+cfp,2024-12-03,15,9,Arizona State,0,0
+cfp,2024-12-03,16,66,Iowa State,0,0
+cfp,2024-12-03,17,228,Clemson,0,0
+cfp,2024-12-03,18,252,BYU,0,0
+cfp,2024-12-03,19,142,Missouri,0,0
+cfp,2024-12-03,20,2439,UNLV,0,0
+cfp,2024-12-03,21,356,Illinois,0,0
+cfp,2024-12-03,22,183,Syracuse,0,0
+cfp,2024-12-03,23,38,Colorado,0,0
+cfp,2024-12-03,24,349,Army,0,0
+cfp,2024-12-03,25,235,Memphis,0,0
+cfp,2024-12-08,1,2483,Oregon,0,0
+cfp,2024-12-08,2,61,Georgia,0,0
+cfp,2024-12-08,3,251,Texas,0,0
+cfp,2024-12-08,4,213,Penn State,0,0
+cfp,2024-12-08,5,87,Notre Dame,0,0
+cfp,2024-12-08,6,194,Ohio State,0,0
+cfp,2024-12-08,7,2633,Tennessee,0,0
+cfp,2024-12-08,8,84,Indiana,0,0
+cfp,2024-12-08,9,68,Boise State,0,0
+cfp,2024-12-08,10,2567,SMU,0,0
+cfp,2024-12-08,11,333,Alabama,0,0
+cfp,2024-12-08,12,9,Arizona State,0,0
+cfp,2024-12-08,13,2390,Miami,0,0
+cfp,2024-12-08,14,145,Ole Miss,0,0
+cfp,2024-12-08,15,2579,South Carolina,0,0
+cfp,2024-12-08,16,228,Clemson,0,0
+cfp,2024-12-08,17,252,BYU,0,0
+cfp,2024-12-08,18,66,Iowa State,0,0
+cfp,2024-12-08,19,142,Missouri,0,0
+cfp,2024-12-08,20,356,Illinois,0,0
+cfp,2024-12-08,21,183,Syracuse,0,0
+cfp,2024-12-08,22,349,Army,0,0
+cfp,2024-12-08,23,38,Colorado,0,0
+cfp,2024-12-08,24,2439,UNLV,0,0
+cfp,2024-12-08,25,235,Memphis,0,0
+coaches,2024-08-05,1,61,Georgia,1364,46
+coaches,2024-08-05,2,194,Ohio State,1302,7
+coaches,2024-08-05,3,2483,Oregon,1228,0
+coaches,2024-08-05,4,251,Texas,1223,1
+coaches,2024-08-05,5,333,Alabama,1077,0
+coaches,2024-08-05,6,145,Ole Miss,1019,0
+coaches,2024-08-05,7,87,Notre Dame,969,0
+coaches,2024-08-05,8,130,Michigan,944,1
+coaches,2024-08-05,9,213,Penn State,889,0
+coaches,2024-08-05,10,52,Florida State,867,0
+coaches,2024-08-05,11,142,Missouri,808,0
+coaches,2024-08-05,12,99,LSU,742,0
+coaches,2024-08-05,13,254,Utah,665,0
+coaches,2024-08-05,14,228,Clemson,657,0
+coaches,2024-08-05,15,2633,Tennessee,621,0
+coaches,2024-08-05,16,201,Oklahoma,609,0
+coaches,2024-08-05,17,2306,Kansas State,416,0
+coaches,2024-08-05,18,197,Oklahoma State,359,0
+coaches,2024-08-05,19,2390,Miami,292,0
+coaches,2024-08-05,20,245,Texas A&M,273,0
+coaches,2024-08-05,21,12,Arizona,230,0
+coaches,2024-08-05,22,152,NC State,216,0
+coaches,2024-08-05,23,30,USC,199,0
+coaches,2024-08-05,24,2305,Kansas,186,0
+coaches,2024-08-05,25,2294,Iowa,148,0
+coaches,2024-09-03,1,61,Georgia,1371,51
+coaches,2024-09-03,2,194,Ohio State,1316,3
+coaches,2024-09-03,3,251,Texas,1245,1
+coaches,2024-09-03,4,333,Alabama,1172,0
+coaches,2024-09-03,5,145,Ole Miss,1081,0
+coaches,2024-09-03,6,2483,Oregon,1080,0
+coaches,2024-09-03,7,87,Notre Dame,1079,0
+coaches,2024-09-03,8,213,Penn State,987,0
+coaches,2024-09-03,9,130,Michigan,919,0
+coaches,2024-09-03,10,142,Missouri,848,0
+coaches,2024-09-03,11,254,Utah,779,0
+coaches,2024-09-03,12,2633,Tennessee,753,0
+coaches,2024-09-03,13,201,Oklahoma,705,0
+coaches,2024-09-03,14,30,USC,655,0
+coaches,2024-09-03,15,2390,Miami,650,0
+coaches,2024-09-03,16,2306,Kansas State,537,0
+coaches,2024-09-03,17,197,Oklahoma State,499,0
+coaches,2024-09-03,18,12,Arizona,348,0
+coaches,2024-09-03,19,99,LSU,341,0
+coaches,2024-09-03,20,2305,Kansas,295,0
+coaches,2024-09-03,21,2294,Iowa,260,0
+coaches,2024-09-03,22,228,Clemson,223,0
+coaches,2024-09-03,23,152,NC State,154,0
+coaches,2024-09-03,24,97,Louisville,101,0
+coaches,2024-09-03,25,264,Washington,95,0
+coaches,2024-09-08,1,61,Georgia,1346,50
+coaches,2024-09-08,2,194,Ohio State,1281,3
+coaches,2024-09-08,3,251,Texas,1259,1
+coaches,2024-09-08,4,333,Alabama,1157,0
+coaches,2024-09-08,5,145,Ole Miss,1136,0
+coaches,2024-09-08,6,2483,Oregon,987,0
+coaches,2024-09-08,7,213,Penn State,956,0
+coaches,2024-09-08,8,142,Missouri,955,0
+coaches,2024-09-08,9,2633,Tennessee,930,0
+coaches,2024-09-08,10,254,Utah,871,0
+coaches,2024-09-08,11,30,USC,803,0
+coaches,2024-09-08,12,2390,Miami,798,0
+coaches,2024-09-08,13,201,Oklahoma,700,0
+coaches,2024-09-08,14,197,Oklahoma State,588,0
+coaches,2024-09-08,15,2306,Kansas State,578,0
+coaches,2024-09-08,16,130,Michigan,501,0
+coaches,2024-09-08,17,99,LSU,410,0
+coaches,2024-09-08,18,12,Arizona,399,0
+coaches,2024-09-08,19,87,Notre Dame,388,0
+coaches,2024-09-08,20,228,Clemson,326,0
+coaches,2024-09-08,21,97,Louisville,288,0
+coaches,2024-09-08,22,264,Washington,176,0
+coaches,2024-09-08,23,66,Iowa State,157,0
+coaches,2024-09-08,24,158,Nebraska,91,0
+coaches,2024-09-08,25,235,Memphis,85,0
+coaches,2024-09-15,1,61,Georgia,1358,42
+coaches,2024-09-15,2,251,Texas,1301,10
+coaches,2024-09-15,3,194,Ohio State,1293,3
+coaches,2024-09-15,4,333,Alabama,1193,0
+coaches,2024-09-15,5,145,Ole Miss,1153,0
+coaches,2024-09-15,6,2483,Oregon,1019,0
+coaches,2024-09-15,7,2633,Tennessee,1009,0
+coaches,2024-09-15,8,142,Missouri,968,0
+coaches,2024-09-15,8,213,Penn State,968,0
+coaches,2024-09-15,10,254,Utah,834,0
+coaches,2024-09-15,11,2390,Miami,831,0
+coaches,2024-09-15,12,30,USC,808,0
+coaches,2024-09-15,13,201,Oklahoma,697,0
+coaches,2024-09-15,14,2306,Kansas State,662,0
+coaches,2024-09-15,15,197,Oklahoma State,642,0
+coaches,2024-09-15,16,99,LSU,466,0
+coaches,2024-09-15,17,130,Michigan,439,0
+coaches,2024-09-15,18,87,Notre Dame,404,0
+coaches,2024-09-15,19,228,Clemson,340,0
+coaches,2024-09-15,20,97,Louisville,333,0
+coaches,2024-09-15,21,66,Iowa State,235,0
+coaches,2024-09-15,22,158,Nebraska,204,0
+coaches,2024-09-15,23,235,Memphis,176,0
+coaches,2024-09-15,24,245,Texas A&M,85,0
+coaches,2024-09-15,25,2439,UNLV,78,0
+coaches,2024-09-22,1,61,Georgia,1350,35
+coaches,2024-09-22,2,251,Texas,1324,18
+coaches,2024-09-22,3,194,Ohio State,1279,2
+coaches,2024-09-22,4,333,Alabama,1185,0
+coaches,2024-09-22,5,145,Ole Miss,1145,0
+coaches,2024-09-22,6,2633,Tennessee,1094,0
+coaches,2024-09-22,7,2483,Oregon,1016,0
+coaches,2024-09-22,8,213,Penn State,967,0
+coaches,2024-09-22,9,2390,Miami,912,0
+coaches,2024-09-22,10,254,Utah,904,0
+coaches,2024-09-22,11,142,Missouri,887,0
+coaches,2024-09-22,12,130,Michigan,692,0
+coaches,2024-09-22,13,99,LSU,632,0
+coaches,2024-09-22,14,87,Notre Dame,553,0
+coaches,2024-09-22,15,228,Clemson,542,0
+coaches,2024-09-22,16,30,USC,520,0
+coaches,2024-09-22,17,97,Louisville,509,0
+coaches,2024-09-22,18,201,Oklahoma,404,0
+coaches,2024-09-22,19,66,Iowa State,386,0
+coaches,2024-09-22,20,197,Oklahoma State,326,0
+coaches,2024-09-22,21,356,Illinois,307,0
+coaches,2024-09-22,22,252,BYU,167,0
+coaches,2024-09-22,23,2439,UNLV,124,0
+coaches,2024-09-22,24,245,Texas A&M,119,0
+coaches,2024-09-22,25,2306,Kansas State,116,0
+coaches,2024-09-29,1,251,Texas,1339,29
+coaches,2024-09-29,2,333,Alabama,1330,19
+coaches,2024-09-29,3,194,Ohio State,1281,7
+coaches,2024-09-29,4,2633,Tennessee,1163,0
+coaches,2024-09-29,5,61,Georgia,1153,0
+coaches,2024-09-29,6,2483,Oregon,1090,0
+coaches,2024-09-29,7,213,Penn State,1062,0
+coaches,2024-09-29,8,2390,Miami,981,0
+coaches,2024-09-29,9,142,Missouri,948,0
+coaches,2024-09-29,10,130,Michigan,792,0
+coaches,2024-09-29,11,145,Ole Miss,743,0
+coaches,2024-09-29,12,99,LSU,725,0
+coaches,2024-09-29,13,87,Notre Dame,702,0
+coaches,2024-09-29,14,228,Clemson,671,0
+coaches,2024-09-29,15,30,USC,660,0
+coaches,2024-09-29,16,66,Iowa State,500,0
+coaches,2024-09-29,17,201,Oklahoma,470,0
+coaches,2024-09-29,18,254,Utah,408,0
+coaches,2024-09-29,19,252,BYU,375,0
+coaches,2024-09-29,20,2306,Kansas State,242,0
+coaches,2024-09-29,21,245,Texas A&M,198,0
+coaches,2024-09-29,22,97,Louisville,197,0
+coaches,2024-09-29,23,2439,UNLV,180,0
+coaches,2024-09-29,24,84,Indiana,143,0
+coaches,2024-09-29,25,356,Illinois,122,0
+coaches,2024-10-06,1,251,Texas,1364,44
+coaches,2024-10-06,2,194,Ohio State,1330,11
+coaches,2024-10-06,3,2483,Oregon,1215,0
+coaches,2024-10-06,4,61,Georgia,1174,0
+coaches,2024-10-06,5,213,Penn State,1163,0
+coaches,2024-10-06,6,2390,Miami,1085,0
+coaches,2024-10-06,7,333,Alabama,1035,0
+coaches,2024-10-06,8,145,Ole Miss,935,0
+coaches,2024-10-06,9,2633,Tennessee,856,0
+coaches,2024-10-06,10,99,LSU,839,0
+coaches,2024-10-06,11,228,Clemson,818,0
+coaches,2024-10-06,12,87,Notre Dame,807,0
+coaches,2024-10-06,13,66,Iowa State,695,0
+coaches,2024-10-06,14,245,Texas A&M,564,0
+coaches,2024-10-06,15,252,BYU,549,0
+coaches,2024-10-06,16,201,Oklahoma,541,0
+coaches,2024-10-06,17,254,Utah,479,0
+coaches,2024-10-06,18,142,Missouri,473,0
+coaches,2024-10-06,19,2306,Kansas State,360,0
+coaches,2024-10-06,20,84,Indiana,358,0
+coaches,2024-10-06,21,130,Michigan,224,0
+coaches,2024-10-06,22,68,Boise State,213,0
+coaches,2024-10-06,23,356,Illinois,179,0
+coaches,2024-10-06,24,221,Pittsburgh,170,0
+coaches,2024-10-06,25,2567,SMU,123,0
+coaches,2024-10-13,1,251,Texas,1373,53
+coaches,2024-10-13,2,2483,Oregon,1322,2
+coaches,2024-10-13,3,213,Penn State,1220,0
+coaches,2024-10-13,4,61,Georgia,1189,0
+coaches,2024-10-13,5,194,Ohio State,1141,0
+coaches,2024-10-13,6,2390,Miami,1105,0
+coaches,2024-10-13,7,333,Alabama,1010,0
+coaches,2024-10-13,8,99,LSU,914,0
+coaches,2024-10-13,9,228,Clemson,904,0
+coaches,2024-10-13,10,2633,Tennessee,891,0
+coaches,2024-10-13,11,87,Notre Dame,838,0
+coaches,2024-10-13,12,66,Iowa State,823,0
+coaches,2024-10-13,13,252,BYU,686,0
+coaches,2024-10-13,14,245,Texas A&M,636,0
+coaches,2024-10-13,15,145,Ole Miss,524,0
+coaches,2024-10-13,16,142,Missouri,521,0
+coaches,2024-10-13,17,2306,Kansas State,472,0
+coaches,2024-10-13,18,84,Indiana,462,0
+coaches,2024-10-13,19,68,Boise State,373,0
+coaches,2024-10-13,20,221,Pittsburgh,340,0
+coaches,2024-10-13,21,356,Illinois,231,0
+coaches,2024-10-13,22,130,Michigan,223,0
+coaches,2024-10-13,23,2567,SMU,183,0
+coaches,2024-10-13,24,349,Army,104,0
+coaches,2024-10-13,25,158,Nebraska,90,0
+coaches,2024-10-20,1,2483,Oregon,1323,51
+coaches,2024-10-20,2,61,Georgia,1238,2
+coaches,2024-10-20,3,213,Penn State,1197,0
+coaches,2024-10-20,4,194,Ohio State,1107,0
+coaches,2024-10-20,5,2390,Miami,1087,0
+coaches,2024-10-20,6,251,Texas,1082,0
+coaches,2024-10-20,7,99,LSU,946,0
+coaches,2024-10-20,8,2633,Tennessee,916,0
+coaches,2024-10-20,9,228,Clemson,907,0
+coaches,2024-10-20,10,66,Iowa State,829,0
+coaches,2024-10-20,11,87,Notre Dame,809,0
+coaches,2024-10-20,12,252,BYU,740,0
+coaches,2024-10-20,13,84,Indiana,651,0
+coaches,2024-10-20,14,245,Texas A&M,641,0
+coaches,2024-10-20,15,333,Alabama,554,0
+coaches,2024-10-20,16,2306,Kansas State,488,0
+coaches,2024-10-20,17,142,Missouri,486,0
+coaches,2024-10-20,18,145,Ole Miss,444,0
+coaches,2024-10-20,19,68,Boise State,379,0
+coaches,2024-10-20,20,221,Pittsburgh,359,0
+coaches,2024-10-20,21,356,Illinois,347,0
+coaches,2024-10-20,22,2567,SMU,249,0
+coaches,2024-10-20,23,349,Army,185,0
+coaches,2024-10-20,24,2426,Navy,115,0
+coaches,2024-10-20,25,238,Vanderbilt,37,0
+coaches,2024-10-27,1,2483,Oregon,1349,53
+coaches,2024-10-27,2,61,Georgia,1270,1
+coaches,2024-10-27,3,213,Penn State,1239,0
+coaches,2024-10-27,4,194,Ohio State,1160,0
+coaches,2024-10-27,5,2390,Miami,1136,0
+coaches,2024-10-27,6,251,Texas,1096,0
+coaches,2024-10-27,7,2633,Tennessee,987,0
+coaches,2024-10-27,8,228,Clemson,942,0
+coaches,2024-10-27,9,87,Notre Dame,853,0
+coaches,2024-10-27,10,66,Iowa State,846,0
+coaches,2024-10-27,11,245,Texas A&M,806,0
+coaches,2024-10-27,12,252,BYU,786,0
+coaches,2024-10-27,13,84,Indiana,741,0
+coaches,2024-10-27,14,333,Alabama,619,0
+coaches,2024-10-27,15,2306,Kansas State,533,0
+coaches,2024-10-27,16,99,LSU,530,0
+coaches,2024-10-27,17,221,Pittsburgh,495,0
+coaches,2024-10-27,18,145,Ole Miss,475,0
+coaches,2024-10-27,19,68,Boise State,459,0
+coaches,2024-10-27,20,2567,SMU,346,0
+coaches,2024-10-27,21,349,Army,278,0
+coaches,2024-10-27,22,265,Washington State,160,0
+coaches,2024-10-27,23,142,Missouri,114,0
+coaches,2024-10-27,24,356,Illinois,89,0
+coaches,2024-10-27,25,235,Memphis,76,0
+coaches,2024-11-03,1,2483,Oregon,1349,53
+coaches,2024-11-03,2,61,Georgia,1267,1
+coaches,2024-11-03,3,194,Ohio State,1245,0
+coaches,2024-11-03,4,2390,Miami,1194,0
+coaches,2024-11-03,5,251,Texas,1138,0
+coaches,2024-11-03,6,2633,Tennessee,1039,0
+coaches,2024-11-03,7,213,Penn State,982,0
+coaches,2024-11-03,8,87,Notre Dame,961,0
+coaches,2024-11-03,9,252,BYU,918,0
+coaches,2024-11-03,10,84,Indiana,916,0
+coaches,2024-11-03,11,333,Alabama,772,0
+coaches,2024-11-03,12,145,Ole Miss,657,0
+coaches,2024-11-03,13,99,LSU,653,0
+coaches,2024-11-03,14,68,Boise State,615,0
+coaches,2024-11-03,15,2567,SMU,603,0
+coaches,2024-11-03,16,245,Texas A&M,518,0
+coaches,2024-11-03,17,228,Clemson,513,0
+coaches,2024-11-03,18,66,Iowa State,511,0
+coaches,2024-11-03,19,349,Army,404,0
+coaches,2024-11-03,20,265,Washington State,284,0
+coaches,2024-11-03,21,2306,Kansas State,201,0
+coaches,2024-11-03,22,142,Missouri,192,0
+coaches,2024-11-03,23,221,Pittsburgh,178,0
+coaches,2024-11-03,24,38,Colorado,124,0
+coaches,2024-11-03,25,238,Vanderbilt,85,0
+coaches,2024-11-10,1,2483,Oregon,1375,55
+coaches,2024-11-10,2,194,Ohio State,1314,0
+coaches,2024-11-10,3,251,Texas,1262,0
+coaches,2024-11-10,4,2633,Tennessee,1138,0
+coaches,2024-11-10,5,213,Penn State,1113,0
+coaches,2024-11-10,6,84,Indiana,1057,0
+coaches,2024-11-10,7,87,Notre Dame,1038,0
+coaches,2024-11-10,8,252,BYU,994,0
+coaches,2024-11-10,9,333,Alabama,899,0
+coaches,2024-11-10,10,61,Georgia,887,0
+coaches,2024-11-10,11,145,Ole Miss,877,0
+coaches,2024-11-10,12,2390,Miami,820,0
+coaches,2024-11-10,13,68,Boise State,691,0
+coaches,2024-11-10,13,2567,SMU,691,0
+coaches,2024-11-10,15,245,Texas A&M,597,0
+coaches,2024-11-10,16,228,Clemson,536,0
+coaches,2024-11-10,17,349,Army,466,0
+coaches,2024-11-10,18,265,Washington State,385,0
+coaches,2024-11-10,19,2306,Kansas State,332,0
+coaches,2024-11-10,20,38,Colorado,329,0
+coaches,2024-11-10,21,142,Missouri,277,0
+coaches,2024-11-10,22,99,LSU,257,0
+coaches,2024-11-10,23,2579,South Carolina,118,0
+coaches,2024-11-10,24,97,Louisville,109,0
+coaches,2024-11-10,25,66,Iowa State,92,0
+coaches,2024-11-17,1,2483,Oregon,1375,55
+coaches,2024-11-17,2,194,Ohio State,1316,0
+coaches,2024-11-17,3,251,Texas,1263,0
+coaches,2024-11-17,4,213,Penn State,1158,0
+coaches,2024-11-17,5,84,Indiana,1109,0
+coaches,2024-11-17,6,87,Notre Dame,1096,0
+coaches,2024-11-17,7,333,Alabama,996,0
+coaches,2024-11-17,8,61,Georgia,993,0
+coaches,2024-11-17,9,145,Ole Miss,984,0
+coaches,2024-11-17,10,2390,Miami,847,0
+coaches,2024-11-17,11,2633,Tennessee,823,0
+coaches,2024-11-17,12,2567,SMU,744,0
+coaches,2024-11-17,13,68,Boise State,714,0
+coaches,2024-11-17,14,245,Texas A&M,646,0
+coaches,2024-11-17,15,252,BYU,633,0
+coaches,2024-11-17,16,228,Clemson,569,0
+coaches,2024-11-17,17,349,Army,509,0
+coaches,2024-11-17,18,38,Colorado,464,0
+coaches,2024-11-17,19,2579,South Carolina,379,0
+coaches,2024-11-17,20,2655,Tulane,280,0
+coaches,2024-11-17,21,66,Iowa State,268,0
+coaches,2024-11-17,22,9,Arizona State,251,0
+coaches,2024-11-17,23,2439,UNLV,93,0
+coaches,2024-11-17,24,235,Memphis,77,0
+coaches,2024-11-17,25,2306,Kansas State,67,0
+coaches,2024-11-24,1,2483,Oregon,1375,55
+coaches,2024-11-24,2,194,Ohio State,1318,0
+coaches,2024-11-24,3,251,Texas,1267,0
+coaches,2024-11-24,4,213,Penn State,1175,0
+coaches,2024-11-24,5,87,Notre Dame,1150,0
+coaches,2024-11-24,6,61,Georgia,1103,0
+coaches,2024-11-24,7,2390,Miami,1023,0
+coaches,2024-11-24,8,2633,Tennessee,972,0
+coaches,2024-11-24,9,2567,SMU,917,0
+coaches,2024-11-24,10,84,Indiana,867,0
+coaches,2024-11-24,11,68,Boise State,838,0
+coaches,2024-11-24,12,228,Clemson,780,0
+coaches,2024-11-24,13,333,Alabama,621,0
+coaches,2024-11-24,14,2579,South Carolina,596,0
+coaches,2024-11-24,15,9,Arizona State,592,0
+coaches,2024-11-24,16,145,Ole Miss,569,0
+coaches,2024-11-24,17,66,Iowa State,473,0
+coaches,2024-11-24,18,2655,Tulane,434,0
+coaches,2024-11-24,19,245,Texas A&M,357,0
+coaches,2024-11-24,20,252,BYU,329,0
+coaches,2024-11-24,21,2439,UNLV,205,0
+coaches,2024-11-24,22,349,Army,165,0
+coaches,2024-11-24,23,235,Memphis,151,0
+coaches,2024-11-24,24,142,Missouri,148,0
+coaches,2024-11-24,25,356,Illinois,132,0
+coaches,2024-12-01,1,2483,Oregon,1325,53
+coaches,2024-12-01,2,251,Texas,1272,0
+coaches,2024-12-01,3,213,Penn State,1192,0
+coaches,2024-12-01,4,87,Notre Dame,1165,0
+coaches,2024-12-01,5,61,Georgia,1104,0
+coaches,2024-12-01,6,2633,Tennessee,1025,0
+coaches,2024-12-01,7,2567,SMU,977,0
+coaches,2024-12-01,8,194,Ohio State,976,0
+coaches,2024-12-01,9,84,Indiana,895,0
+coaches,2024-12-01,10,68,Boise State,840,0
+coaches,2024-12-01,11,333,Alabama,733,0
+coaches,2024-12-01,12,2579,South Carolina,700,0
+coaches,2024-12-01,13,9,Arizona State,665,0
+coaches,2024-12-01,14,2390,Miami,646,0
+coaches,2024-12-01,15,145,Ole Miss,638,0
+coaches,2024-12-01,16,66,Iowa State,565,0
+coaches,2024-12-01,17,228,Clemson,457,0
+coaches,2024-12-01,18,252,BYU,419,0
+coaches,2024-12-01,19,2439,UNLV,255,0
+coaches,2024-12-01,20,142,Missouri,229,0
+coaches,2024-12-01,21,356,Illinois,225,0
+coaches,2024-12-01,22,38,Colorado,215,0
+coaches,2024-12-01,23,349,Army,196,0
+coaches,2024-12-01,24,235,Memphis,187,0
+coaches,2024-12-01,25,183,Syracuse,108,0
+coaches,2024-12-08,1,2483,Oregon,1350,54
+coaches,2024-12-08,2,61,Georgia,1281,0
+coaches,2024-12-08,3,87,Notre Dame,1214,0
+coaches,2024-12-08,4,251,Texas,1178,0
+coaches,2024-12-08,5,213,Penn State,1080,0
+coaches,2024-12-08,6,2633,Tennessee,1069,0
+coaches,2024-12-08,7,194,Ohio State,1037,0
+coaches,2024-12-08,8,68,Boise State,929,0
+coaches,2024-12-08,9,84,Indiana,925,0
+coaches,2024-12-08,10,9,Arizona State,856,0
+coaches,2024-12-08,11,333,Alabama,749,0
+coaches,2024-12-08,12,2567,SMU,741,0
+coaches,2024-12-08,13,228,Clemson,707,0
+coaches,2024-12-08,14,2579,South Carolina,668,0
+coaches,2024-12-08,15,145,Ole Miss,631,0
+coaches,2024-12-08,16,2390,Miami,611,0
+coaches,2024-12-08,17,252,BYU,423,0
+coaches,2024-12-08,18,349,Army,361,0
+coaches,2024-12-08,19,66,Iowa State,355,0
+coaches,2024-12-08,20,142,Missouri,282,0
+coaches,2024-12-08,21,356,Illinois,275,0
+coaches,2024-12-08,22,38,Colorado,228,0
+coaches,2024-12-08,23,235,Memphis,166,0
+coaches,2024-12-08,24,2439,UNLV,140,0
+coaches,2024-12-08,25,183,Syracuse,129,0

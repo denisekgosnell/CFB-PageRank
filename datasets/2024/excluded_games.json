@@ -1,0 +1,101 @@
+[
+  {
+    "game_id": "401640992",
+    "game_date": "2024-09-28",
+    "week": 5,
+    "home_team": "App State",
+    "away_team": "Liberty",
+    "notes": null,
+    "reason": "not played: no final score in the source"
+  },
+  {
+    "game_id": "401673466",
+    "game_date": "2024-12-06",
+    "week": 15,
+    "home_team": "Jacksonville State",
+    "away_team": "Western Kentucky",
+    "notes": "Conference USA Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401673462",
+    "game_date": "2024-12-06",
+    "week": 15,
+    "home_team": "Army",
+    "away_team": "Tulane",
+    "notes": "American Athletic Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401673468",
+    "game_date": "2024-12-06",
+    "week": 15,
+    "home_team": "Boise State",
+    "away_team": "UNLV",
+    "notes": "Mountain West Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401673465",
+    "game_date": "2024-12-07",
+    "week": 15,
+    "home_team": "Arizona State",
+    "away_team": "Iowa State",
+    "notes": "Dr Pepper Big 12 Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401673467",
+    "game_date": "2024-12-07",
+    "week": 15,
+    "home_team": "Miami (OH)",
+    "away_team": "Ohio",
+    "notes": "MAC Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401673469",
+    "game_date": "2024-12-07",
+    "week": 15,
+    "home_team": "Texas",
+    "away_team": "Georgia",
+    "notes": "SEC Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401673470",
+    "game_date": "2024-12-07",
+    "week": 15,
+    "home_team": "Louisiana",
+    "away_team": "Marshall",
+    "notes": "Sun Belt Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401673463",
+    "game_date": "2024-12-07",
+    "week": 15,
+    "home_team": "SMU",
+    "away_team": "Clemson",
+    "notes": "ACC Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401673464",
+    "game_date": "2024-12-07",
+    "week": 15,
+    "home_team": "Oregon",
+    "away_team": "Penn State",
+    "notes": "Big Ten Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401645383",
+    "game_date": "2024-12-14",
+    "week": 16,
+    "home_team": "Army",
+    "away_team": "Navy",
+    "notes": null,
+    "reason": "after rivalry week"
+  }
+]

@@ -1,0 +1,231 @@
+team,team_id,conference,division,season
+Abilene Christian,2000,UAC,FCS,2024
+Air Force,2005,Mountain West,FBS,2024
+Akron,2006,Mid-American,FBS,2024
+Alabama,333,SEC,FBS,2024
+Alabama A&M,2010,SWAC,FCS,2024
+Alcorn State,2016,SWAC,FCS,2024
+App State,2026,Sun Belt,FBS,2024
+Arizona,12,Big 12,FBS,2024
+Arizona State,9,Big 12,FBS,2024
+Arkansas,8,SEC,FBS,2024
+Arkansas State,2032,Sun Belt,FBS,2024
+Arkansas-Pine Bluff,2029,SWAC,FCS,2024
+Army,349,American Athletic,FBS,2024
+Auburn,2,SEC,FBS,2024
+Austin Peay,2046,UAC,FCS,2024
+BYU,252,Big 12,FBS,2024
+Ball State,2050,Mid-American,FBS,2024
+Baylor,239,Big 12,FBS,2024
+Bethune-Cookman,2065,SWAC,FCS,2024
+Boise State,68,Mountain West,FBS,2024
+Boston College,103,ACC,FBS,2024
+Bowling Green,189,Mid-American,FBS,2024
+Bucknell,2083,Patriot,FCS,2024
+Buffalo,2084,Mid-American,FBS,2024
+Cal Poly,13,Big Sky,FCS,2024
+California,25,ACC,FBS,2024
+Campbell,2097,Coastal Athletic,FCS,2024
+Central Arkansas,2110,UAC,FCS,2024
+Central Connecticut,2115,NEC,FCS,2024
+Central Michigan,2117,Mid-American,FBS,2024
+Charleston Southern,2127,Big South-OVC,FCS,2024
+Charlotte,2429,American Athletic,FBS,2024
+Chattanooga,236,Southern,FCS,2024
+Cincinnati,2132,Big 12,FBS,2024
+Clemson,228,ACC,FBS,2024
+Coastal Carolina,324,Sun Belt,FBS,2024
+Colgate,2142,Patriot,FCS,2024
+Colorado,38,Big 12,FBS,2024
+Colorado State,36,Mountain West,FBS,2024
+Delaware State,2169,MEAC,FCS,2024
+Duke,150,ACC,FBS,2024
+Duquesne,2184,NEC,FCS,2024
+East Carolina,151,American Athletic,FBS,2024
+East Tennessee State,2193,Southern,FCS,2024
+East Texas A&M,2837,Southland,FCS,2024
+Eastern Illinois,2197,Big South-OVC,FCS,2024
+Eastern Kentucky,2198,UAC,FCS,2024
+Eastern Michigan,2199,Mid-American,FBS,2024
+Eastern Washington,331,Big Sky,FCS,2024
+Elon,2210,Coastal Athletic,FCS,2024
+Florida,57,SEC,FBS,2024
+Florida A&M,50,SWAC,FCS,2024
+Florida Atlantic,2226,American Athletic,FBS,2024
+Florida International,2229,Conference USA,FBS,2024
+Florida State,52,ACC,FBS,2024
+Fordham,2230,Patriot,FCS,2024
+Fresno State,278,Mountain West,FBS,2024
+Furman,231,Southern,FCS,2024
+Gardner-Webb,2241,Big South-OVC,FCS,2024
+Georgia,61,SEC,FBS,2024
+Georgia Southern,290,Sun Belt,FBS,2024
+Georgia State,2247,Sun Belt,FBS,2024
+Georgia Tech,59,ACC,FBS,2024
+Grambling,2755,SWAC,FCS,2024
+Hawai'i,62,Mountain West,FBS,2024
+Holy Cross,107,Patriot,FCS,2024
+Houston,248,Big 12,FBS,2024
+Houston Christian,2277,Southland,FCS,2024
+Howard,47,MEAC,FCS,2024
+Idaho,70,Big Sky,FCS,2024
+Idaho State,304,Big Sky,FCS,2024
+Illinois,356,Big Ten,FBS,2024
+Illinois State,2287,MVFC,FCS,2024
+Indiana,84,Big Ten,FBS,2024
+Indiana State,282,MVFC,FCS,2024
+Iowa,2294,Big Ten,FBS,2024
+Iowa State,66,Big 12,FBS,2024
+Jackson State,2296,SWAC,FCS,2024
+Jacksonville State,55,Conference USA,FBS,2024
+James Madison,256,Sun Belt,FBS,2024
+Kansas,2305,Big 12,FBS,2024
+Kansas State,2306,Big 12,FBS,2024
+Kennesaw State,338,Conference USA,FBS,2024
+Kent State,2309,Mid-American,FBS,2024
+Kentucky,96,SEC,FBS,2024
+LSU,99,SEC,FBS,2024
+Lafayette,322,Patriot,FCS,2024
+Lamar,2320,Southland,FCS,2024
+Lehigh,2329,Patriot,FCS,2024
+Liberty,2335,Conference USA,FBS,2024
+Lindenwood,2815,Big South-OVC,FCS,2024
+Long Island University,2341,NEC,FCS,2024
+Louisiana,309,Sun Belt,FBS,2024
+Louisiana Tech,2348,Conference USA,FBS,2024
+Louisville,97,ACC,FBS,2024
+Maine,311,Coastal Athletic,FCS,2024
+Marshall,276,Sun Belt,FBS,2024
+Maryland,120,Big Ten,FBS,2024
+Massachusetts,113,FBS Independents,FBS,2024
+McNeese,2377,Southland,FCS,2024
+Memphis,235,American Athletic,FBS,2024
+Mercer,2382,Southern,FCS,2024
+Merrimack,2771,FCS Independents,FCS,2024
+Miami,2390,ACC,FBS,2024
+Miami (OH),193,Mid-American,FBS,2024
+Michigan,130,Big Ten,FBS,2024
+Michigan State,127,Big Ten,FBS,2024
+Middle Tennessee,2393,Conference USA,FBS,2024
+Minnesota,135,Big Ten,FBS,2024
+Mississippi State,344,SEC,FBS,2024
+Missouri,142,SEC,FBS,2024
+Missouri State,2623,MVFC,FCS,2024
+Monmouth,2405,Coastal Athletic,FCS,2024
+Montana State,147,Big Sky,FCS,2024
+Morgan State,2415,MEAC,FCS,2024
+Murray State,93,MVFC,FCS,2024
+NC State,152,ACC,FBS,2024
+Navy,2426,American Athletic,FBS,2024
+Nebraska,158,Big Ten,FBS,2024
+Nevada,2440,Mountain West,FBS,2024
+New Hampshire,160,Coastal Athletic,FCS,2024
+New Mexico,167,Mountain West,FBS,2024
+New Mexico State,166,Conference USA,FBS,2024
+Nicholls,2447,Southland,FCS,2024
+Norfolk State,2450,MEAC,FCS,2024
+North Alabama,2453,UAC,FCS,2024
+North Carolina,153,ACC,FBS,2024
+North Carolina A&T,2448,Coastal Athletic,FCS,2024
+North Carolina Central,2428,MEAC,FCS,2024
+North Dakota,155,MVFC,FCS,2024
+North Dakota State,2449,MVFC,FCS,2024
+North Texas,249,American Athletic,FBS,2024
+Northern Arizona,2464,Big Sky,FCS,2024
+Northern Colorado,2458,Big Sky,FCS,2024
+Northern Illinois,2459,Mid-American,FBS,2024
+Northern Iowa,2460,MVFC,FCS,2024
+Northwestern,77,Big Ten,FBS,2024
+Northwestern State,2466,Southland,FCS,2024
+Notre Dame,87,FBS Independents,FBS,2024
+Ohio,195,Mid-American,FBS,2024
+Ohio State,194,Big Ten,FBS,2024
+Oklahoma,201,SEC,FBS,2024
+Oklahoma State,197,Big 12,FBS,2024
+Old Dominion,295,Sun Belt,FBS,2024
+Ole Miss,145,SEC,FBS,2024
+Oregon,2483,Big Ten,FBS,2024
+Oregon State,204,Pac-12,FBS,2024
+Penn State,213,Big Ten,FBS,2024
+Pittsburgh,221,ACC,FBS,2024
+Portland State,2502,Big Sky,FCS,2024
+Prairie View A&M,2504,SWAC,FCS,2024
+Purdue,2509,Big Ten,FBS,2024
+Rhode Island,227,Coastal Athletic,FCS,2024
+Rice,242,American Athletic,FBS,2024
+Richmond,257,Coastal Athletic,FCS,2024
+Robert Morris,2523,NEC,FCS,2024
+Rutgers,164,Big Ten,FBS,2024
+SE Louisiana,2545,Southland,FCS,2024
+SMU,2567,ACC,FBS,2024
+Sacramento State,16,Big Sky,FCS,2024
+Saint Francis,2598,NEC,FCS,2024
+Sam Houston,2534,Conference USA,FBS,2024
+Samford,2535,Southern,FCS,2024
+San Diego State,21,Mountain West,FBS,2024
+San José State,23,Mountain West,FBS,2024
+South Alabama,6,Sun Belt,FBS,2024
+South Carolina,2579,SEC,FBS,2024
+South Carolina State,2569,MEAC,FCS,2024
+South Dakota,233,MVFC,FCS,2024
+South Dakota State,2571,MVFC,FCS,2024
+South Florida,58,American Athletic,FBS,2024
+Southeast Missouri State,2546,Big South-OVC,FCS,2024
+Southern Illinois,79,MVFC,FCS,2024
+Southern Miss,2572,Sun Belt,FBS,2024
+Southern Utah,253,UAC,FCS,2024
+Stanford,24,ACC,FBS,2024
+Stephen F. Austin,2617,Southland,FCS,2024
+Stony Brook,2619,Coastal Athletic,FCS,2024
+Syracuse,183,ACC,FBS,2024
+TCU,2628,Big 12,FBS,2024
+Tarleton State,2627,UAC,FCS,2024
+Temple,218,American Athletic,FBS,2024
+Tennessee,2633,SEC,FBS,2024
+Tennessee Tech,2635,Big South-OVC,FCS,2024
+Texas,251,SEC,FBS,2024
+Texas A&M,245,SEC,FBS,2024
+Texas Southern,2640,SWAC,FCS,2024
+Texas State,326,Sun Belt,FBS,2024
+Texas Tech,2641,Big 12,FBS,2024
+The Citadel,2643,Southern,FCS,2024
+Toledo,2649,Mid-American,FBS,2024
+Towson,119,Coastal Athletic,FCS,2024
+Troy,2653,Sun Belt,FBS,2024
+Tulane,2655,American Athletic,FBS,2024
+Tulsa,202,American Athletic,FBS,2024
+UAB,5,American Athletic,FBS,2024
+UAlbany,399,Coastal Athletic,FCS,2024
+UC Davis,302,Big Sky,FCS,2024
+UCF,2116,Big 12,FBS,2024
+UCLA,26,Big Ten,FBS,2024
+UConn,41,FBS Independents,FBS,2024
+UL Monroe,2433,Sun Belt,FBS,2024
+UNLV,2439,Mountain West,FBS,2024
+USC,30,Big Ten,FBS,2024
+UT Martin,2630,Big South-OVC,FCS,2024
+UTEP,2638,Conference USA,FBS,2024
+UTSA,2636,American Athletic,FBS,2024
+Utah,254,Big 12,FBS,2024
+Utah State,328,Mountain West,FBS,2024
+Utah Tech,3101,UAC,FCS,2024
+VMI,2678,Southern,FCS,2024
+Vanderbilt,238,SEC,FBS,2024
+Villanova,222,Coastal Athletic,FCS,2024
+Virginia,258,ACC,FBS,2024
+Virginia Tech,259,ACC,FBS,2024
+Wagner,2681,NEC,FCS,2024
+Wake Forest,154,ACC,FBS,2024
+Washington,264,Big Ten,FBS,2024
+Washington State,265,Pac-12,FBS,2024
+Weber State,2692,Big Sky,FCS,2024
+West Virginia,277,Big 12,FBS,2024
+Western Carolina,2717,Southern,FCS,2024
+Western Illinois,2710,Big South-OVC,FCS,2024
+Western Kentucky,98,Conference USA,FBS,2024
+Western Michigan,2711,Mid-American,FBS,2024
+William & Mary,2729,Coastal Athletic,FCS,2024
+Wisconsin,275,Big Ten,FBS,2024
+Wofford,2747,Southern,FCS,2024
+Wyoming,2751,Mountain West,FBS,2024
+Youngstown State,2754,MVFC,FCS,2024
