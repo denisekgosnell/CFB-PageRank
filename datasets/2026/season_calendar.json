@@ -1,0 +1,83 @@
+{
+  "season": 2026,
+  "labor_day": "2026-09-07",
+  "week_1_starts": "2026-09-01",
+  "thanksgiving": "2026-11-26",
+  "rivalry_saturday": "2026-11-28",
+  "rivalry_week": 13,
+  "poll_cutoff": "2026-12-01",
+  "weeks": {
+    "0": {
+      "first_game": "2026-08-29",
+      "last_game": "2026-08-29",
+      "games": 8
+    },
+    "1": {
+      "first_game": "2026-09-03",
+      "last_game": "2026-09-07",
+      "games": 91
+    },
+    "2": {
+      "first_game": "2026-09-10",
+      "last_game": "2026-09-12",
+      "games": 86
+    },
+    "3": {
+      "first_game": "2026-09-17",
+      "last_game": "2026-09-19",
+      "games": 75
+    },
+    "4": {
+      "first_game": "2026-09-24",
+      "last_game": "2026-09-26",
+      "games": 71
+    },
+    "5": {
+      "first_game": "2026-10-01",
+      "last_game": "2026-10-03",
+      "games": 59
+    },
+    "6": {
+      "first_game": "2026-10-06",
+      "last_game": "2026-10-10",
+      "games": 58
+    },
+    "7": {
+      "first_game": "2026-10-13",
+      "last_game": "2026-10-17",
+      "games": 62
+    },
+    "8": {
+      "first_game": "2026-10-20",
+      "last_game": "2026-10-24",
+      "games": 56
+    },
+    "9": {
+      "first_game": "2026-10-27",
+      "last_game": "2026-10-31",
+      "games": 56
+    },
+    "10": {
+      "first_game": "2026-11-03",
+      "last_game": "2026-11-07",
+      "games": 63
+    },
+    "11": {
+      "first_game": "2026-11-10",
+      "last_game": "2026-11-15",
+      "games": 67
+    },
+    "12": {
+      "first_game": "2026-11-17",
+      "last_game": "2026-11-21",
+      "games": 70
+    }
+  },
+  "last_game_in_dataset": "2026-11-21",
+  "season_complete_through_rivalry_week": false,
+  "data_collected_at": "2026-11-24T19:35:09Z",
+  "poll_notes": [
+    "Coaches Poll released 2026-09-08 lists 26 teams"
+  ],
+  "resolutions_applied": 0
+}

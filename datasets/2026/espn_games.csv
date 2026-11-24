@@ -1,0 +1,904 @@
+game_id,espn_week,game_date,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,neutral_site,conference_game,overtime,completed,status
+401856766,1,2026-08-29,2628,TCU,153,North Carolina,10,15,true,false,false,true,STATUS_FINAL
+401858201,1,2026-08-29,24,Stanford,62,Hawai'i,37,27,false,false,false,true,STATUS_FINAL
+401858202,1,2026-08-29,258,Virginia,152,NC State,34,8,false,true,false,true,STATUS_FINAL
+401862693,1,2026-08-29,2439,UNLV,235,Memphis,21,27,false,false,false,true,STATUS_FINAL
+401864494,1,2026-08-29,30,USC,23,San José State,42,26,false,false,false,true,STATUS_FINAL
+401864570,1,2026-08-29,52,Florida State,166,New Mexico State,34,17,false,false,false,true,STATUS_FINAL
+401864577,1,2026-08-29,2449,North Dakota State,55,Jacksonville State,33,7,false,false,false,true,STATUS_FINAL
+401866408,1,2026-08-29,2199,Eastern Michigan,16,Sacramento State,28,17,false,true,false,true,STATUS_FINAL
+401856663,1,2026-09-03,142,Missouri,2029,Arkansas-Pine Bluff,54,14,false,false,false,true,STATUS_FINAL
+401856767,1,2026-09-03,2116,UCF,2065,Bethune-Cookman,73,6,false,false,false,true,STATUS_FINAL
+401856768,1,2026-09-03,254,Utah,70,Idaho,66,14,false,false,false,true,STATUS_FINAL
+401856776,1,2026-09-03,59,Georgia Tech,38,Colorado,13,14,false,false,false,true,STATUS_FINAL
+401858204,1,2026-09-03,154,Wake Forest,2006,Akron,38,16,false,false,false,true,STATUS_FINAL
+401858422,1,2026-09-03,135,Minnesota,2197,Eastern Illinois,59,7,false,false,false,true,STATUS_FINAL
+401858423,1,2026-09-03,164,Rutgers,113,Massachusetts,21,37,false,false,false,true,STATUS_FINAL
+401858424,1,2026-09-03,356,Illinois,5,UAB,42,23,false,false,false,true,STATUS_FINAL
+401864424,1,2026-09-03,48,Delaware,2771,Merrimack,42,7,false,false,false,true,STATUS_FINAL
+401864425,1,2026-09-03,338,Kennesaw State,2698,West Georgia,47,0,false,false,false,true,STATUS_FINAL
+401866409,1,2026-09-03,2084,Buffalo,399,UAlbany,21,17,false,false,false,true,STATUS_FINAL
+401856664,1,2026-09-04,201,Oklahoma,2638,UTEP,51,0,false,false,false,true,STATUS_FINAL
+401856769,1,2026-09-04,2305,Kansas,2341,Long Island University,51,6,false,false,false,true,STATUS_FINAL
+401858206,1,2026-09-04,24,Stanford,2390,Miami,6,45,false,true,false,true,STATUS_FINAL
+401858429,1,2026-09-04,127,Michigan State,2649,Toledo,30,20,false,false,false,true,STATUS_FINAL
+401858435,1,2026-09-04,2509,Purdue,282,Indiana State,44,19,false,false,false,true,STATUS_FINAL
+401858436,1,2026-09-04,30,USC,278,Fresno State,39,0,false,false,false,true,STATUS_FINAL
+401864495,1,2026-09-04,2199,Eastern Michigan,23,San José State,21,27,false,false,false,true,STATUS_FINAL
+401866623,1,2026-09-04,2247,Georgia State,2448,North Carolina A&T,59,10,false,false,false,true,STATUS_FINAL
+401856634,1,2026-09-05,333,Alabama,151,East Carolina,48,10,false,false,false,true,STATUS_FINAL
+401856635,1,2026-09-05,8,Arkansas,2453,North Alabama,31,14,false,false,false,true,STATUS_FINAL
+401856636,1,2026-09-05,2,Auburn,239,Baylor,17,16,true,false,false,true,STATUS_FINAL
+401856637,1,2026-09-05,57,Florida,2226,Florida Atlantic,66,21,false,false,false,true,STATUS_FINAL
+401856658,1,2026-09-05,61,Georgia,2634,Tennessee State,63,3,false,false,false,true,STATUS_FINAL
+401856659,1,2026-09-05,96,Kentucky,2754,Youngstown State,45,13,false,false,false,true,STATUS_FINAL
+401856660,1,2026-09-05,99,LSU,228,Clemson,51,10,false,false,false,true,STATUS_FINAL
+401856662,1,2026-09-05,344,Mississippi State,2433,UL Monroe,62,13,false,false,false,true,STATUS_FINAL
+401856665,1,2026-09-05,2579,South Carolina,2309,Kent State,57,0,false,false,false,true,STATUS_FINAL
+401856666,1,2026-09-05,2633,Tennessee,231,Furman,56,9,false,false,false,true,STATUS_FINAL
+401856667,1,2026-09-05,251,Texas,326,Texas State,59,7,false,false,false,true,STATUS_FINAL
+401856668,1,2026-09-05,245,Texas A&M,2623,Missouri State,50,0,false,false,false,true,STATUS_FINAL
+401856669,1,2026-09-05,238,Vanderbilt,2046,Austin Peay,28,9,false,false,false,true,STATUS_FINAL
+401856770,1,2026-09-05,2641,Texas Tech,2000,Abilene Christian,33,10,false,false,false,true,STATUS_FINAL
+401856771,1,2026-09-05,2306,Kansas State,2447,Nicholls,71,3,false,false,false,true,STATUS_FINAL
+401856772,1,2026-09-05,202,Tulsa,197,Oklahoma State,24,10,false,false,false,true,STATUS_FINAL
+401856773,1,2026-09-05,12,Arizona,2464,Northern Arizona,35,7,false,false,false,true,STATUS_FINAL
+401856774,1,2026-09-05,9,Arizona State,2415,Morgan State,70,7,false,false,false,true,STATUS_FINAL
+401856775,1,2026-09-05,252,BYU,3101,Utah Tech,63,7,false,false,false,true,STATUS_FINAL
+401856777,1,2026-09-05,2132,Cincinnati,103,Boston College,34,15,false,false,false,true,STATUS_FINAL
+401856778,1,2026-09-05,248,Houston,204,Oregon State,33,20,false,false,false,true,STATUS_FINAL
+401856779,1,2026-09-05,66,Iowa State,2546,Southeast Missouri State,38,10,false,false,false,true,STATUS_FINAL
+401856780,1,2026-09-05,277,West Virginia,324,Coastal Carolina,31,24,false,false,false,true,STATUS_FINAL
+401858207,1,2026-09-05,221,Pittsburgh,193,Miami (OH),59,14,false,false,false,true,STATUS_FINAL
+401858208,1,2026-09-05,183,Syracuse,160,New Hampshire,66,3,false,false,false,true,STATUS_FINAL
+401858209,1,2026-09-05,150,Duke,2655,Tulane,17,3,false,false,false,true,STATUS_FINAL
+401858210,1,2026-09-05,25,California,26,UCLA,24,45,false,false,false,true,STATUS_FINAL
+401858211,1,2026-09-05,259,Virginia Tech,2678,VMI,73,3,false,false,false,true,STATUS_FINAL
+401858425,1,2026-09-05,84,Indiana,249,North Texas,52,16,false,false,false,true,STATUS_FINAL
+401858426,1,2026-09-05,2294,Iowa,2459,Northern Illinois,40,0,false,false,false,true,STATUS_FINAL
+401858427,1,2026-09-05,120,Maryland,2261,Hampton,62,0,false,false,false,true,STATUS_FINAL
+401858428,1,2026-09-05,130,Michigan,2711,Western Michigan,13,12,false,false,false,true,STATUS_FINAL
+401858430,1,2026-09-05,158,Nebraska,195,Ohio,49,21,false,false,false,true,STATUS_FINAL
+401858431,1,2026-09-05,77,Northwestern,2571,South Dakota State,34,18,false,false,false,true,STATUS_FINAL
+401858432,1,2026-09-05,194,Ohio State,2050,Ball State,56,3,false,false,false,true,STATUS_FINAL
+401858433,1,2026-09-05,2483,Oregon,68,Boise State,34,27,false,false,false,true,STATUS_FINAL
+401858434,1,2026-09-05,213,Penn State,276,Marshall,45,0,false,false,false,true,STATUS_FINAL
+401860878,1,2026-09-05,36,Colorado State,2751,Wyoming,35,13,false,false,false,true,STATUS_FINAL
+401860879,1,2026-09-05,21,San Diego State,2502,Portland State,53,20,false,false,false,true,STATUS_FINAL
+401860880,1,2026-09-05,328,Utah State,304,Idaho State,17,29,false,false,false,true,STATUS_FINAL
+401861962,1,2026-09-05,41,UConn,322,Lafayette,56,7,false,false,false,true,STATUS_FINAL
+401862694,1,2026-09-05,2429,Charlotte,2643,The Citadel,41,43,false,false,true,true,STATUS_FINAL
+401862695,1,2026-09-05,235,Memphis,2032,Arkansas State,42,24,false,false,false,true,STATUS_FINAL
+401862696,1,2026-09-05,2426,Navy,119,Towson,42,15,false,false,false,true,STATUS_FINAL
+401862697,1,2026-09-05,242,Rice,2277,Houston Christian,31,3,false,false,false,true,STATUS_FINAL
+401862698,1,2026-09-05,218,Temple,227,Rhode Island,38,14,false,false,false,true,STATUS_FINAL
+401862699,1,2026-09-05,58,South Florida,2229,Florida International,19,9,false,false,false,true,STATUS_FINAL
+401862700,1,2026-09-05,2636,UTSA,292,UT Rio Grande Valley,45,16,false,false,false,true,STATUS_FINAL
+401862701,1,2026-09-05,349,Army,2803,Bryant,59,3,false,false,false,true,STATUS_FINAL
+401864432,1,2026-09-05,2440,Nevada,98,Western Kentucky,49,14,false,false,false,true,STATUS_FINAL
+401864496,1,2026-09-05,2005,Air Force,2184,Duquesne,34,0,false,false,false,true,STATUS_FINAL
+401864497,1,2026-09-05,62,Hawai'i,2439,UNLV,6,21,false,true,false,true,STATUS_FINAL
+401864498,1,2026-09-05,167,New Mexico,2117,Central Michigan,38,7,false,false,false,true,STATUS_FINAL
+401864499,1,2026-09-05,2449,North Dakota State,2230,Fordham,38,0,false,false,false,true,STATUS_FINAL
+401866410,1,2026-09-05,189,Bowling Green,2627,Tarleton State,13,20,false,false,false,true,STATUS_FINAL
+401866411,1,2026-09-05,16,Sacramento State,2400,Mississippi Valley State,52,0,false,false,false,true,STATUS_FINAL
+401866627,1,2026-09-05,2026,App State,311,Maine,55,3,false,false,false,true,STATUS_FINAL
+401867866,1,2026-09-05,2393,Middle Tennessee,93,Murray State,38,14,false,false,false,true,STATUS_FINAL
+401867973,1,2026-09-05,295,Old Dominion,2450,Norfolk State,31,10,false,false,false,true,STATUS_FINAL
+401868140,1,2026-09-05,55,Jacksonville State,2198,Eastern Kentucky,49,7,false,false,false,true,STATUS_FINAL
+401868170,1,2026-09-05,290,Georgia Southern,2127,Charleston Southern,31,0,false,false,false,true,STATUS_FINAL
+401868316,1,2026-09-05,6,South Alabama,2545,SE Louisiana,39,14,false,false,false,true,STATUS_FINAL
+401868356,1,2026-09-05,2572,Southern Miss,2016,Alcorn State,49,3,false,false,false,true,STATUS_FINAL
+401869129,1,2026-09-05,2348,Louisiana Tech,2466,Northwestern State,80,6,false,false,false,true,STATUS_FINAL
+401869142,1,2026-09-05,309,Louisiana,2320,Lamar,38,7,false,false,false,true,STATUS_FINAL
+401869960,1,2026-09-05,256,James Madison,2335,Liberty,20,13,false,false,false,true,STATUS_FINAL
+401870763,1,2026-09-05,2653,Troy,2534,Sam Houston,24,21,false,false,false,true,STATUS_FINAL
+401870790,1,2026-09-05,166,New Mexico State,2385,Mercyhurst,51,14,false,false,false,true,STATUS_FINAL
+401856661,1,2026-09-06,145,Ole Miss,97,Louisville,41,38,true,false,false,true,STATUS_FINAL
+401858437,1,2026-09-06,264,Washington,265,Washington State,24,10,false,false,false,true,STATUS_FINAL
+401858438,1,2026-09-06,87,Notre Dame,275,Wisconsin,41,13,true,false,false,true,STATUS_FINAL
+401858212,1,2026-09-07,52,Florida State,2567,SMU,24,27,false,true,false,true,STATUS_FINAL
+401858213,2,2026-09-10,2390,Miami,50,Florida A&M,77,7,false,false,false,true,STATUS_FINAL
+401856678,2,2026-09-11,2305,Kansas,142,Missouri,21,38,false,false,false,true,STATUS_FINAL
+401858214,2,2026-09-11,103,Boston College,164,Rutgers,28,21,false,false,false,true,STATUS_FINAL
+401858215,2,2026-09-11,97,Louisville,222,Villanova,59,13,false,false,false,true,STATUS_FINAL
+401858220,2,2026-09-11,258,Virginia,2450,Norfolk State,59,3,false,false,false,true,STATUS_FINAL
+401858222,2,2026-09-11,152,NC State,257,Richmond,73,0,false,false,false,true,STATUS_FINAL
+401856670,2,2026-09-12,254,Utah,8,Arkansas,43,10,false,false,false,true,STATUS_FINAL
+401856671,2,2026-09-12,2,Auburn,2572,Southern Miss,43,8,false,false,false,true,STATUS_FINAL
+401856672,2,2026-09-12,57,Florida,2097,Campbell,52,3,false,false,false,true,STATUS_FINAL
+401856673,2,2026-09-12,61,Georgia,98,Western Kentucky,70,20,false,false,false,true,STATUS_FINAL
+401856674,2,2026-09-12,96,Kentucky,333,Alabama,17,45,false,true,false,true,STATUS_FINAL
+401856676,2,2026-09-12,145,Ole Miss,2429,Charlotte,41,9,false,false,false,true,STATUS_FINAL
+401856677,2,2026-09-12,135,Minnesota,344,Mississippi State,13,38,false,false,false,true,STATUS_FINAL
+401856679,2,2026-09-12,130,Michigan,201,Oklahoma,17,10,false,false,false,true,STATUS_FINAL
+401856680,2,2026-09-12,2579,South Carolina,119,Towson,45,9,false,false,false,true,STATUS_FINAL
+401856681,2,2026-09-12,59,Georgia Tech,2633,Tennessee,24,45,false,false,false,true,STATUS_FINAL
+401856682,2,2026-09-12,251,Texas,194,Ohio State,24,23,false,false,false,true,STATUS_FINAL
+401856683,2,2026-09-12,245,Texas A&M,9,Arizona State,48,20,false,false,false,true,STATUS_FINAL
+401856684,2,2026-09-12,238,Vanderbilt,48,Delaware,35,26,false,false,false,true,STATUS_FINAL
+401856781,2,2026-09-12,2306,Kansas State,265,Washington State,34,7,false,false,false,true,STATUS_FINAL
+401856782,2,2026-09-12,197,Oklahoma State,2483,Oregon,39,31,false,false,false,true,STATUS_FINAL
+401856783,2,2026-09-12,204,Oregon State,2641,Texas Tech,24,35,false,false,false,true,STATUS_FINAL
+401856784,2,2026-09-12,239,Baylor,2504,Prairie View A&M,44,3,false,false,false,true,STATUS_FINAL
+401856785,2,2026-09-12,38,Colorado,2692,Weber State,52,21,false,false,false,true,STATUS_FINAL
+401856786,2,2026-09-12,2132,Cincinnati,2717,Western Carolina,62,10,false,false,false,true,STATUS_FINAL
+401856787,2,2026-09-12,248,Houston,2582,Southern,77,6,false,false,false,true,STATUS_FINAL
+401856788,2,2026-09-12,2294,Iowa,66,Iowa State,16,13,false,false,false,true,STATUS_FINAL
+401856789,2,2026-09-12,2628,TCU,2755,Grambling,63,7,false,false,false,true,STATUS_FINAL
+401856790,2,2026-09-12,221,Pittsburgh,2116,UCF,12,7,false,false,false,true,STATUS_FINAL
+401856791,2,2026-09-12,277,West Virginia,2630,UT Martin,52,7,false,false,false,true,STATUS_FINAL
+401856810,2,2026-09-12,252,BYU,12,Arizona,28,17,false,true,false,true,STATUS_FINAL
+401858216,2,2026-09-12,183,Syracuse,25,California,18,21,false,true,false,true,STATUS_FINAL
+401858217,2,2026-09-12,356,Illinois,150,Duke,27,31,false,false,false,true,STATUS_FINAL
+401858218,2,2026-09-12,153,North Carolina,2193,East Tennessee State,35,3,false,false,false,true,STATUS_FINAL
+401858219,2,2026-09-12,228,Clemson,290,Georgia Southern,22,7,false,false,false,true,STATUS_FINAL
+401858221,2,2026-09-12,259,Virginia Tech,295,Old Dominion,44,21,false,false,false,true,STATUS_FINAL
+401858223,2,2026-09-12,2567,SMU,302,UC Davis,56,10,false,false,false,true,STATUS_FINAL
+401858224,2,2026-09-12,2509,Purdue,154,Wake Forest,36,38,false,false,true,true,STATUS_FINAL
+401858439,2,2026-09-12,84,Indiana,47,Howard,55,0,false,false,false,true,STATUS_FINAL
+401858440,2,2026-09-12,127,Michigan State,2199,Eastern Michigan,35,7,false,false,false,true,STATUS_FINAL
+401858441,2,2026-09-12,158,Nebraska,189,Bowling Green,56,7,false,false,false,true,STATUS_FINAL
+401858442,2,2026-09-12,218,Temple,213,Penn State,9,27,false,false,false,true,STATUS_FINAL
+401858443,2,2026-09-12,26,UCLA,21,San Diego State,28,10,false,false,false,true,STATUS_FINAL
+401858444,2,2026-09-12,41,UConn,120,Maryland,14,38,false,false,false,true,STATUS_FINAL
+401858445,2,2026-09-12,30,USC,309,Louisiana,49,30,false,false,false,true,STATUS_FINAL
+401858446,2,2026-09-12,264,Washington,328,Utah State,16,14,false,false,false,true,STATUS_FINAL
+401858447,2,2026-09-12,275,Wisconsin,2710,Western Illinois,36,9,false,false,false,true,STATUS_FINAL
+401859184,2,2026-09-12,87,Notre Dame,242,Rice,52,0,false,false,false,true,STATUS_FINAL
+401860881,2,2026-09-12,68,Boise State,235,Memphis,38,20,false,false,false,true,STATUS_FINAL
+401860882,2,2026-09-12,36,Colorado State,253,Southern Utah,58,24,false,false,false,true,STATUS_FINAL
+401860883,2,2026-09-12,278,Fresno State,16,Sacramento State,49,3,false,false,false,true,STATUS_FINAL
+401860884,2,2026-09-12,326,Texas State,2636,UTSA,26,31,false,false,false,true,STATUS_FINAL
+401862702,2,2026-09-12,349,Army,58,South Florida,24,28,false,true,false,true,STATUS_FINAL
+401862703,2,2026-09-12,2226,Florida Atlantic,2426,Navy,38,30,false,true,false,true,STATUS_FINAL
+401862705,2,2026-09-12,249,North Texas,2439,UNLV,44,6,false,false,false,true,STATUS_FINAL
+401862707,2,2026-09-12,2534,Sam Houston,202,Tulsa,17,23,false,false,false,true,STATUS_FINAL
+401862708,2,2026-09-12,5,UAB,2433,UL Monroe,26,20,false,false,false,true,STATUS_FINAL
+401864500,2,2026-09-12,2440,Nevada,147,Montana State,7,20,false,false,false,true,STATUS_FINAL
+401864502,2,2026-09-12,2005,Air Force,2449,North Dakota State,32,38,false,true,false,true,STATUS_FINAL
+401864503,2,2026-09-12,2459,Northern Illinois,2287,Illinois State,24,28,false,false,false,true,STATUS_FINAL
+401864504,2,2026-09-12,23,San José State,13,Cal Poly,30,20,false,false,false,true,STATUS_FINAL
+401864505,2,2026-09-12,2638,UTEP,2640,Texas Southern,51,10,false,false,false,true,STATUS_FINAL
+401864506,2,2026-09-12,2751,Wyoming,2458,Northern Colorado,21,13,false,false,false,true,STATUS_FINAL
+401864571,2,2026-09-12,151,East Carolina,2026,App State,24,27,false,false,false,true,STATUS_FINAL
+401864575,2,2026-09-12,2655,Tulane,6,South Alabama,28,24,false,false,false,true,STATUS_FINAL
+401864578,2,2026-09-12,62,Hawai'i,166,New Mexico State,29,19,false,false,false,true,STATUS_FINAL
+401865252,2,2026-09-12,167,New Mexico,2385,Mercyhurst,70,7,false,false,false,true,STATUS_FINAL
+401866412,2,2026-09-12,2006,Akron,2523,Robert Morris,45,10,false,false,false,true,STATUS_FINAL
+401866413,2,2026-09-12,2050,Ball State,2619,Stony Brook,41,17,false,false,false,true,STATUS_FINAL
+401866414,2,2026-09-12,2229,Florida International,2084,Buffalo,33,20,false,false,false,true,STATUS_FINAL
+401866415,2,2026-09-12,2117,Central Michigan,2142,Colgate,13,10,false,false,false,true,STATUS_FINAL
+401866416,2,2026-09-12,2309,Kent State,2747,Wofford,36,15,false,false,false,true,STATUS_FINAL
+401866417,2,2026-09-12,193,Miami (OH),107,Holy Cross,45,7,false,false,false,true,STATUS_FINAL
+401866418,2,2026-09-12,195,Ohio,55,Jacksonville State,29,27,false,false,true,true,STATUS_FINAL
+401866419,2,2026-09-12,2649,Toledo,2115,Central Connecticut,63,10,false,false,false,true,STATUS_FINAL
+401866420,2,2026-09-12,113,Massachusetts,2529,Sacred Heart,37,10,false,false,false,true,STATUS_FINAL
+401866421,2,2026-09-12,2711,Western Michigan,2405,Monmouth,49,14,false,false,false,true,STATUS_FINAL
+401867796,2,2026-09-12,99,LSU,2348,Louisiana Tech,45,14,false,false,false,true,STATUS_FINAL
+401867929,2,2026-09-12,256,James Madison,2681,Wagner,87,3,false,false,false,true,STATUS_FINAL
+401868008,2,2026-09-12,324,Coastal Carolina,2230,Fordham,45,7,false,false,false,true,STATUS_FINAL
+401868187,2,2026-09-12,2335,Liberty,2241,Gardner-Webb,24,23,false,false,false,true,STATUS_FINAL
+401868241,2,2026-09-12,2032,Arkansas State,2698,West Georgia,52,7,false,false,false,true,STATUS_FINAL
+401868326,2,2026-09-12,2653,Troy,2011,Alabama State,34,17,false,false,false,true,STATUS_FINAL
+401869955,2,2026-09-12,338,Kennesaw State,2247,Georgia State,17,31,false,false,false,true,STATUS_FINAL
+401871045,2,2026-09-12,276,Marshall,2393,Middle Tennessee,28,26,false,false,false,true,STATUS_FINAL
+401871046,2,2026-09-12,2623,Missouri State,2815,Lindenwood,48,14,false,false,false,true,STATUS_FINAL
+401858225,3,2026-09-17,221,Pittsburgh,183,Syracuse,27,13,false,true,false,true,STATUS_FINAL
+401856811,3,2026-09-18,2641,Texas Tech,248,Houston,28,26,false,true,false,true,STATUS_FINAL
+401858226,3,2026-09-18,154,Wake Forest,2390,Miami,20,33,false,true,false,true,STATUS_FINAL
+401858455,3,2026-09-18,2483,Oregon,2502,Portland State,84,0,false,false,false,true,STATUS_FINAL
+401856685,3,2026-09-19,333,Alabama,52,Florida State,50,36,false,false,false,true,STATUS_FINAL
+401856686,3,2026-09-19,8,Arkansas,61,Georgia,17,45,false,true,false,true,STATUS_FINAL
+401856687,3,2026-09-19,2,Auburn,57,Florida,39,44,false,true,false,true,STATUS_FINAL
+401856688,3,2026-09-19,145,Ole Miss,99,LSU,32,24,false,true,false,true,STATUS_FINAL
+401856689,3,2026-09-19,142,Missouri,2653,Troy,27,17,false,false,false,true,STATUS_FINAL
+401856690,3,2026-09-19,201,Oklahoma,167,New Mexico,14,6,false,false,false,true,STATUS_FINAL
+401856691,3,2026-09-19,2579,South Carolina,344,Mississippi State,34,41,false,true,false,true,STATUS_FINAL
+401856692,3,2026-09-19,2633,Tennessee,338,Kennesaw State,42,9,false,false,false,true,STATUS_FINAL
+401856693,3,2026-09-19,251,Texas,2636,UTSA,30,6,false,false,false,true,STATUS_FINAL
+401856694,3,2026-09-19,245,Texas A&M,96,Kentucky,21,31,false,true,false,true,STATUS_FINAL
+401856695,3,2026-09-19,238,Vanderbilt,152,NC State,35,31,false,false,false,true,STATUS_FINAL
+401856792,3,2026-09-19,2306,Kansas State,2655,Tulane,31,20,false,false,false,true,STATUS_FINAL
+401856793,3,2026-09-19,12,Arizona,2459,Northern Illinois,42,17,false,false,false,true,STATUS_FINAL
+401856795,3,2026-09-19,36,Colorado State,252,BYU,23,41,false,false,false,true,STATUS_FINAL
+401856796,3,2026-09-19,77,Northwestern,38,Colorado,41,7,false,false,false,true,STATUS_FINAL
+401856797,3,2026-09-19,2132,Cincinnati,193,Miami (OH),35,31,false,false,false,true,STATUS_FINAL
+401856798,3,2026-09-19,66,Iowa State,189,Bowling Green,55,7,false,false,false,true,STATUS_FINAL
+401856799,3,2026-09-19,2628,TCU,2032,Arkansas State,31,7,false,false,false,true,STATUS_FINAL
+401856800,3,2026-09-19,2116,UCF,2247,Georgia State,44,30,false,false,false,true,STATUS_FINAL
+401856801,3,2026-09-19,254,Utah,328,Utah State,33,0,false,false,false,true,STATUS_FINAL
+401856802,3,2026-09-19,258,Virginia,277,West Virginia,27,38,true,false,false,true,STATUS_FINAL
+401856803,3,2026-09-19,197,Oklahoma State,93,Murray State,59,0,false,false,false,true,STATUS_FINAL
+401856812,3,2026-09-19,2305,Kansas,9,Arizona State,17,24,true,true,false,true,STATUS_FINAL
+401858227,3,2026-09-19,103,Boston College,311,Maine,22,16,false,false,false,true,STATUS_FINAL
+401858228,3,2026-09-19,59,Georgia Tech,2382,Mercer,44,11,false,false,false,true,STATUS_FINAL
+401858229,3,2026-09-19,228,Clemson,153,North Carolina,28,20,false,true,false,true,STATUS_FINAL
+401858230,3,2026-09-19,97,Louisville,2567,SMU,41,31,false,true,false,true,STATUS_FINAL
+401858231,3,2026-09-19,150,Duke,24,Stanford,35,7,false,true,false,true,STATUS_FINAL
+401858232,3,2026-09-19,120,Maryland,259,Virginia Tech,26,35,false,false,false,true,STATUS_FINAL
+401858233,3,2026-09-19,25,California,2681,Wagner,49,7,false,false,false,true,STATUS_FINAL
+401858448,3,2026-09-19,356,Illinois,79,Southern Illinois,48,10,false,false,false,true,STATUS_FINAL
+401858449,3,2026-09-19,84,Indiana,98,Western Kentucky,38,0,false,false,false,true,STATUS_FINAL
+401858450,3,2026-09-19,130,Michigan,2638,UTEP,52,17,false,false,false,true,STATUS_FINAL
+401858451,3,2026-09-19,135,Minnesota,2006,Akron,41,7,false,false,false,true,STATUS_FINAL
+401858452,3,2026-09-19,158,Nebraska,155,North Dakota,34,7,false,false,false,true,STATUS_FINAL
+401858453,3,2026-09-19,87,Notre Dame,127,Michigan State,27,10,false,false,false,true,STATUS_FINAL
+401858454,3,2026-09-19,194,Ohio State,2309,Kent State,59,3,false,false,false,true,STATUS_FINAL
+401858456,3,2026-09-19,213,Penn State,2084,Buffalo,55,13,false,false,false,true,STATUS_FINAL
+401858457,3,2026-09-19,164,Rutgers,30,USC,35,42,false,true,false,true,STATUS_FINAL
+401858458,3,2026-09-19,26,UCLA,2509,Purdue,52,38,false,true,false,true,STATUS_FINAL
+401858459,3,2026-09-19,264,Washington,331,Eastern Washington,48,16,false,false,false,true,STATUS_FINAL
+401858460,3,2026-09-19,275,Wisconsin,2199,Eastern Michigan,54,10,false,false,false,true,STATUS_FINAL
+401858471,3,2026-09-19,2294,Iowa,2460,Northern Iowa,55,0,false,false,false,true,STATUS_FINAL
+401860885,3,2026-09-19,68,Boise State,233,South Dakota,38,24,false,false,false,true,STATUS_FINAL
+401860886,3,2026-09-19,204,Oregon State,149,Montana,52,17,false,false,false,true,STATUS_FINAL
+401860887,3,2026-09-19,21,San Diego State,256,James Madison,13,26,false,false,false,true,STATUS_FINAL
+401860888,3,2026-09-19,23,San José State,278,Fresno State,10,26,false,false,false,true,STATUS_FINAL
+401860889,3,2026-09-19,326,Texas State,249,North Texas,49,35,false,false,false,true,STATUS_FINAL
+401860890,3,2026-09-19,265,Washington State,2184,Duquesne,48,7,false,false,false,true,STATUS_FINAL
+401861963,3,2026-09-19,2572,Southern Miss,41,UConn,20,48,false,false,false,true,STATUS_FINAL
+401862710,3,2026-09-19,295,Old Dominion,151,East Carolina,17,20,false,false,false,true,STATUS_FINAL
+401862771,3,2026-09-19,2226,Florida Atlantic,2229,Florida International,16,10,false,false,false,true,STATUS_FINAL
+401862772,3,2026-09-19,235,Memphis,2630,UT Martin,45,21,false,false,false,true,STATUS_FINAL
+401862773,3,2026-09-19,242,Rice,2711,Western Michigan,21,28,false,false,false,true,STATUS_FINAL
+401862774,3,2026-09-19,2649,Toledo,218,Temple,49,48,false,false,true,true,STATUS_FINAL
+401862775,3,2026-09-19,202,Tulsa,2837,East Texas A&M,42,0,false,false,false,true,STATUS_FINAL
+401862776,3,2026-09-19,309,Louisiana,5,UAB,21,14,false,false,false,true,STATUS_FINAL
+401862777,3,2026-09-19,58,South Florida,2169,Delaware State,59,17,false,false,false,true,STATUS_FINAL
+401864443,3,2026-09-19,2393,Middle Tennessee,2440,Nevada,27,20,false,false,false,true,STATUS_FINAL
+401864507,3,2026-09-19,16,Sacramento State,2449,North Dakota State,10,31,false,false,false,true,STATUS_FINAL
+401864508,3,2026-09-19,2117,Central Michigan,2751,Wyoming,24,10,false,false,false,true,STATUS_FINAL
+401864574,3,2026-09-19,2026,App State,2429,Charlotte,26,21,false,false,false,true,STATUS_FINAL
+401866422,3,2026-09-19,2335,Liberty,2050,Ball State,51,15,false,false,false,true,STATUS_FINAL
+401866423,3,2026-09-19,6,South Alabama,195,Ohio,41,36,false,false,false,true,STATUS_FINAL
+401866424,3,2026-09-19,113,Massachusetts,284,Stonehill,36,14,false,false,false,true,STATUS_FINAL
+401867804,3,2026-09-19,239,Baylor,2348,Louisiana Tech,36,19,false,false,false,true,STATUS_FINAL
+401868317,3,2026-09-19,2433,UL Monroe,2545,SE Louisiana,35,38,false,false,false,true,STATUS_FINAL
+401869940,3,2026-09-19,48,Delaware,324,Coastal Carolina,22,14,false,false,false,true,STATUS_FINAL
+401869948,3,2026-09-19,55,Jacksonville State,290,Georgia Southern,31,27,false,false,false,true,STATUS_FINAL
+401870764,3,2026-09-19,2534,Sam Houston,2447,Nicholls,59,0,false,false,false,true,STATUS_FINAL
+401871047,3,2026-09-19,2623,Missouri State,276,Marshall,24,30,false,false,false,true,STATUS_FINAL
+401869941,4,2026-09-24,324,Coastal Carolina,2335,Liberty,17,34,false,false,false,true,STATUS_FINAL
+401858234,4,2026-09-25,25,California,228,Clemson,10,24,false,true,false,true,STATUS_FINAL
+401858461,4,2026-09-25,84,Indiana,77,Northwestern,29,23,false,true,false,true,STATUS_FINAL
+401858468,4,2026-09-25,164,Rutgers,47,Howard,58,7,false,false,false,true,STATUS_FINAL
+401862778,4,2026-09-25,5,UAB,2426,Navy,24,20,false,true,false,true,STATUS_FINAL
+401862779,4,2026-09-25,218,Temple,349,Army,17,21,false,true,false,true,STATUS_FINAL
+401856696,4,2026-09-26,333,Alabama,2579,South Carolina,49,18,false,true,false,true,STATUS_FINAL
+401856697,4,2026-09-26,8,Arkansas,202,Tulsa,34,6,false,false,false,true,STATUS_FINAL
+401856698,4,2026-09-26,2,Auburn,238,Vanderbilt,21,15,false,true,false,true,STATUS_FINAL
+401856699,4,2026-09-26,57,Florida,145,Ole Miss,52,28,false,true,false,true,STATUS_FINAL
+401856700,4,2026-09-26,61,Georgia,201,Oklahoma,41,13,false,true,false,true,STATUS_FINAL
+401856702,4,2026-09-26,99,LSU,245,Texas A&M,35,6,false,true,false,true,STATUS_FINAL
+401856703,4,2026-09-26,344,Mississippi State,142,Missouri,31,24,false,true,false,true,STATUS_FINAL
+401856704,4,2026-09-26,2633,Tennessee,251,Texas,17,20,false,true,false,true,STATUS_FINAL
+401856804,4,2026-09-26,265,Washington State,12,Arizona,24,34,false,false,false,true,STATUS_FINAL
+401856805,4,2026-09-26,2641,Texas Tech,2534,Sam Houston,49,14,false,false,false,true,STATUS_FINAL
+401856806,4,2026-09-26,290,Georgia Southern,248,Houston,28,42,false,false,false,true,STATUS_FINAL
+401856813,4,2026-09-26,239,Baylor,38,Colorado,23,13,false,true,false,true,STATUS_FINAL
+401856814,4,2026-09-26,2132,Cincinnati,2306,Kansas State,31,26,false,true,false,true,STATUS_FINAL
+401856815,4,2026-09-26,2116,UCF,2628,TCU,21,13,false,true,false,true,STATUS_FINAL
+401856816,4,2026-09-26,66,Iowa State,254,Utah,17,31,false,true,false,true,STATUS_FINAL
+401856881,4,2026-09-26,277,West Virginia,197,Oklahoma State,24,41,false,true,false,true,STATUS_FINAL
+401858236,4,2026-09-26,221,Pittsburgh,2083,Bucknell,59,0,false,false,false,true,STATUS_FINAL
+401858237,4,2026-09-26,52,Florida State,2110,Central Arkansas,34,7,false,false,false,true,STATUS_FINAL
+401858238,4,2026-09-26,2390,Miami,2117,Central Michigan,52,3,false,false,false,true,STATUS_FINAL
+401858239,4,2026-09-26,258,Virginia,48,Delaware,42,3,false,false,false,true,STATUS_FINAL
+401858240,4,2026-09-26,24,Stanford,59,Georgia Tech,34,27,false,true,false,true,STATUS_FINAL
+401858241,4,2026-09-26,2567,SMU,2623,Missouri State,34,24,false,false,false,true,STATUS_FINAL
+401858242,4,2026-09-26,103,Boston College,259,Virginia Tech,14,21,false,true,false,true,STATUS_FINAL
+401858243,4,2026-09-26,97,Louisville,154,Wake Forest,27,30,false,true,false,true,STATUS_FINAL
+401858244,4,2026-09-26,150,Duke,2729,William & Mary,62,7,false,false,false,true,STATUS_FINAL
+401858462,4,2026-09-26,120,Maryland,26,UCLA,3,54,false,true,false,true,STATUS_FINAL
+401858463,4,2026-09-26,130,Michigan,2294,Iowa,19,20,false,true,false,true,STATUS_FINAL
+401858464,4,2026-09-26,127,Michigan State,158,Nebraska,13,31,false,true,false,true,STATUS_FINAL
+401858465,4,2026-09-26,194,Ohio State,356,Illinois,42,19,false,true,false,true,STATUS_FINAL
+401858466,4,2026-09-26,213,Penn State,275,Wisconsin,20,24,false,true,false,true,STATUS_FINAL
+401858467,4,2026-09-26,2509,Purdue,87,Notre Dame,10,49,false,false,false,true,STATUS_FINAL
+401858469,4,2026-09-26,30,USC,2483,Oregon,27,41,false,true,false,true,STATUS_FINAL
+401858470,4,2026-09-26,264,Washington,135,Minnesota,24,27,false,true,false,true,STATUS_FINAL
+401860891,4,2026-09-26,278,Fresno State,242,Rice,38,24,false,false,false,true,STATUS_FINAL
+401860892,4,2026-09-26,326,Texas State,2916,Incarnate Word,63,10,false,false,false,true,STATUS_FINAL
+401860893,4,2026-09-26,2649,Toledo,21,San Diego State,41,16,false,false,false,true,STATUS_FINAL
+401860894,4,2026-09-26,328,Utah State,2653,Troy,21,10,false,false,false,true,STATUS_FINAL
+401860895,4,2026-09-26,2638,UTEP,204,Oregon State,7,33,false,false,false,true,STATUS_FINAL
+401860896,4,2026-09-26,2636,UTSA,36,Colorado State,59,45,false,false,false,true,STATUS_FINAL
+401860897,4,2026-09-26,2711,Western Michigan,68,Boise State,7,32,false,false,false,true,STATUS_FINAL
+401861970,4,2026-09-26,193,Miami (OH),41,UConn,24,21,false,false,false,true,STATUS_FINAL
+401862780,4,2026-09-26,2429,Charlotte,309,Louisiana,7,34,false,false,false,true,STATUS_FINAL
+401862781,4,2026-09-26,151,East Carolina,2428,North Carolina Central,42,9,false,false,false,true,STATUS_FINAL
+401862782,4,2026-09-26,2433,UL Monroe,2226,Florida Atlantic,17,45,false,false,false,true,STATUS_FINAL
+401862783,4,2026-09-26,249,North Texas,2277,Houston Christian,63,14,false,false,false,true,STATUS_FINAL
+401862784,4,2026-09-26,2655,Tulane,2572,Southern Miss,24,21,false,false,false,true,STATUS_FINAL
+401862785,4,2026-09-26,189,Bowling Green,58,South Florida,6,14,false,false,false,true,STATUS_FINAL
+401864509,4,2026-09-26,2440,Nevada,2005,Air Force,33,36,false,true,true,true,STATUS_FINAL
+401864510,4,2026-09-26,2751,Wyoming,62,Hawai'i,27,10,false,true,false,true,STATUS_FINAL
+401864511,4,2026-09-26,2247,Georgia State,2459,Northern Illinois,35,14,false,false,false,true,STATUS_FINAL
+401864512,4,2026-09-26,2006,Akron,2439,UNLV,10,38,false,false,false,true,STATUS_FINAL
+401864572,4,2026-09-26,152,NC State,2026,App State,41,31,false,false,false,true,STATUS_FINAL
+401864576,4,2026-09-26,96,Kentucky,6,South Alabama,45,21,false,false,false,true,STATUS_FINAL
+401864579,4,2026-09-26,166,New Mexico State,167,New Mexico,18,42,false,false,false,true,STATUS_FINAL
+401866425,4,2026-09-26,2309,Kent State,2050,Ball State,26,13,false,true,false,true,STATUS_FINAL
+401866426,4,2026-09-26,2084,Buffalo,2523,Robert Morris,31,28,false,false,false,true,STATUS_FINAL
+401866427,4,2026-09-26,2199,Eastern Michigan,2815,Lindenwood,29,3,false,false,false,true,STATUS_FINAL
+401866428,4,2026-09-26,195,Ohio,284,Stonehill,35,7,false,false,false,true,STATUS_FINAL
+401866429,4,2026-09-26,16,Sacramento State,113,Massachusetts,6,35,false,true,false,true,STATUS_FINAL
+401867909,4,2026-09-26,2229,Florida International,2341,Long Island University,20,3,false,false,false,true,STATUS_FINAL
+401868188,4,2026-09-26,276,Marshall,2241,Gardner-Webb,36,35,false,false,false,true,STATUS_FINAL
+401869931,4,2026-09-26,2032,Arkansas State,338,Kennesaw State,17,14,false,false,false,true,STATUS_FINAL
+401869961,4,2026-09-26,295,Old Dominion,256,James Madison,20,46,false,true,false,true,STATUS_FINAL
+401870745,4,2026-09-26,98,Western Kentucky,2385,Mercyhurst,52,7,false,false,false,true,STATUS_FINAL
+401871048,4,2026-09-26,55,Jacksonville State,2393,Middle Tennessee,23,13,false,true,false,true,STATUS_FINAL
+401862786,5,2026-10-01,202,Tulsa,249,North Texas,44,45,false,true,true,true,STATUS_FINAL
+401871049,5,2026-10-01,166,New Mexico State,98,Western Kentucky,34,13,false,true,false,true,STATUS_FINAL
+401858245,5,2026-10-02,259,Virginia Tech,221,Pittsburgh,33,35,false,true,false,true,STATUS_FINAL
+401858476,5,2026-10-02,77,Northwestern,213,Penn State,34,13,false,true,false,true,STATUS_FINAL
+401871050,5,2026-10-02,48,Delaware,2335,Liberty,14,30,false,true,false,true,STATUS_FINAL
+401856705,5,2026-10-03,61,Georgia,238,Vanderbilt,38,14,false,true,false,true,STATUS_FINAL
+401856706,5,2026-10-03,99,LSU,2377,McNeese,63,14,false,false,false,true,STATUS_FINAL
+401856707,5,2026-10-03,344,Mississippi State,333,Alabama,23,56,false,true,false,true,STATUS_FINAL
+401856708,5,2026-10-03,142,Missouri,57,Florida,45,17,false,true,false,true,STATUS_FINAL
+401856709,5,2026-10-03,2579,South Carolina,96,Kentucky,34,35,false,true,true,true,STATUS_FINAL
+401856710,5,2026-10-03,2633,Tennessee,2,Auburn,24,14,false,true,false,true,STATUS_FINAL
+401856711,5,2026-10-03,245,Texas A&M,8,Arkansas,34,7,false,true,false,true,STATUS_FINAL
+401856807,5,2026-10-03,2305,Kansas,2393,Middle Tennessee,55,0,false,false,false,true,STATUS_FINAL
+401856817,5,2026-10-03,9,Arizona State,239,Baylor,19,55,false,true,false,true,STATUS_FINAL
+401856818,5,2026-10-03,2628,TCU,252,BYU,10,17,false,true,false,true,STATUS_FINAL
+401856819,5,2026-10-03,248,Houston,2116,UCF,27,17,false,true,false,true,STATUS_FINAL
+401856820,5,2026-10-03,12,Arizona,2132,Cincinnati,34,7,false,true,false,true,STATUS_FINAL
+401856821,5,2026-10-03,38,Colorado,2641,Texas Tech,7,29,false,true,false,true,STATUS_FINAL
+401856822,5,2026-10-03,66,Iowa State,277,West Virginia,45,42,false,true,false,true,STATUS_FINAL
+401858246,5,2026-10-03,2567,SMU,103,Boston College,25,16,false,true,false,true,STATUS_FINAL
+401858247,5,2026-10-03,2439,UNLV,25,California,39,31,false,false,false,true,STATUS_FINAL
+401858248,5,2026-10-03,152,NC State,97,Louisville,31,28,false,true,false,true,STATUS_FINAL
+401858249,5,2026-10-03,228,Clemson,2390,Miami,13,41,false,true,false,true,STATUS_FINAL
+401858250,5,2026-10-03,153,North Carolina,87,Notre Dame,26,37,false,false,false,true,STATUS_FINAL
+401858251,5,2026-10-03,154,Wake Forest,24,Stanford,57,3,false,true,false,true,STATUS_FINAL
+401858252,5,2026-10-03,41,UConn,183,Syracuse,41,42,false,false,true,true,STATUS_FINAL
+401858253,5,2026-10-03,52,Florida State,258,Virginia,38,7,false,true,false,true,STATUS_FINAL
+401858472,5,2026-10-03,356,Illinois,2509,Purdue,17,24,false,true,false,true,STATUS_FINAL
+401858473,5,2026-10-03,2294,Iowa,194,Ohio State,14,31,false,true,false,true,STATUS_FINAL
+401858474,5,2026-10-03,135,Minnesota,130,Michigan,20,14,false,true,false,true,STATUS_FINAL
+401858475,5,2026-10-03,158,Nebraska,120,Maryland,48,23,false,true,false,true,STATUS_FINAL
+401858477,5,2026-10-03,164,Rutgers,84,Indiana,15,47,false,true,false,true,STATUS_FINAL
+401858478,5,2026-10-03,30,USC,264,Washington,25,21,false,true,false,true,STATUS_FINAL
+401858479,5,2026-10-03,275,Wisconsin,127,Michigan State,31,3,false,true,false,true,STATUS_FINAL
+401860898,5,2026-10-03,68,Boise State,328,Utah State,37,18,false,true,false,true,STATUS_FINAL
+401860899,5,2026-10-03,36,Colorado State,204,Oregon State,26,56,false,true,false,true,STATUS_FINAL
+401860900,5,2026-10-03,21,San Diego State,326,Texas State,31,29,false,true,false,true,STATUS_FINAL
+401860921,5,2026-10-03,265,Washington State,278,Fresno State,6,26,false,true,false,true,STATUS_FINAL
+401862787,5,2026-10-03,2429,Charlotte,235,Memphis,8,59,false,true,false,true,STATUS_FINAL
+401862788,5,2026-10-03,242,Rice,2636,UTSA,14,16,false,true,false,true,STATUS_FINAL
+401862790,5,2026-10-03,2226,Florida Atlantic,2640,Texas Southern,66,10,false,false,false,true,STATUS_FINAL
+401862791,5,2026-10-03,2005,Air Force,2426,Navy,14,9,false,false,false,true,STATUS_FINAL
+401862792,5,2026-10-03,58,South Florida,218,Temple,13,17,false,true,false,true,STATUS_FINAL
+401862793,5,2026-10-03,5,UAB,2535,Samford,33,14,false,false,false,true,STATUS_FINAL
+401864513,5,2026-10-03,62,Hawai'i,23,San José State,16,20,false,true,false,true,STATUS_FINAL
+401864514,5,2026-10-03,167,New Mexico,2638,UTEP,61,7,false,true,false,true,STATUS_FINAL
+401864515,5,2026-10-03,2449,North Dakota State,2751,Wyoming,28,0,false,true,false,true,STATUS_FINAL
+401866430,5,2026-10-03,2117,Central Michigan,2006,Akron,41,17,false,true,false,true,STATUS_FINAL
+401866431,5,2026-10-03,2050,Ball State,2649,Toledo,24,39,false,true,false,true,STATUS_FINAL
+401866432,5,2026-10-03,2084,Buffalo,2711,Western Michigan,17,20,false,true,false,true,STATUS_FINAL
+401866433,5,2026-10-03,113,Massachusetts,2199,Eastern Michigan,14,38,false,true,false,true,STATUS_FINAL
+401866434,5,2026-10-03,2309,Kent State,195,Ohio,10,13,false,true,false,true,STATUS_FINAL
+401866477,5,2026-10-03,193,Miami (OH),189,Bowling Green,20,24,false,true,false,true,STATUS_FINAL
+401869842,5,2026-10-03,2348,Louisiana Tech,349,Army,31,29,false,false,false,true,STATUS_FINAL
+401869932,5,2026-10-03,309,Louisiana,2032,Arkansas State,23,20,false,true,false,true,STATUS_FINAL
+401869942,5,2026-10-03,324,Coastal Carolina,290,Georgia Southern,24,31,false,true,false,true,STATUS_FINAL
+401869956,5,2026-10-03,2247,Georgia State,295,Old Dominion,42,10,false,true,false,true,STATUS_FINAL
+401869962,5,2026-10-03,256,James Madison,276,Marshall,45,17,false,true,false,true,STATUS_FINAL
+401871089,5,2026-10-03,6,South Alabama,2433,UL Monroe,52,35,false,true,false,true,STATUS_FINAL
+401871090,6,2026-10-06,2653,Troy,2572,Southern Miss,55,34,false,true,false,true,STATUS_FINAL
+401871051,6,2026-10-07,338,Kennesaw State,55,Jacksonville State,26,27,false,true,false,true,STATUS_FINAL
+401871066,6,2026-10-07,2229,Florida International,166,New Mexico State,22,3,false,true,false,true,STATUS_FINAL
+401862794,6,2026-10-08,2636,UTSA,58,South Florida,31,24,false,true,false,true,STATUS_FINAL
+401869933,6,2026-10-08,2032,Arkansas State,6,South Alabama,49,56,false,true,false,true,STATUS_FINAL
+401870766,6,2026-10-08,2335,Liberty,2534,Sam Houston,35,3,false,true,false,true,STATUS_FINAL
+401871052,6,2026-10-08,98,Western Kentucky,2623,Missouri State,34,13,false,true,false,true,STATUS_FINAL
+401856826,6,2026-10-09,252,BYU,66,Iowa State,24,10,false,true,false,true,STATUS_FINAL
+401858254,6,2026-10-09,97,Louisville,52,Florida State,44,20,false,true,false,true,STATUS_FINAL
+401858487,6,2026-10-09,264,Washington,2294,Iowa,24,41,false,true,false,true,STATUS_FINAL
+401860922,6,2026-10-09,328,Utah State,265,Washington State,17,16,false,true,false,true,STATUS_FINAL
+401864519,6,2026-10-09,23,San José State,2751,Wyoming,13,16,false,true,true,true,STATUS_FINAL
+401856712,6,2026-10-10,333,Alabama,61,Georgia,17,20,false,true,false,true,STATUS_FINAL
+401856713,6,2026-10-10,8,Arkansas,2633,Tennessee,17,24,false,true,false,true,STATUS_FINAL
+401856714,6,2026-10-10,57,Florida,2579,South Carolina,19,38,false,true,false,true,STATUS_FINAL
+401856715,6,2026-10-10,96,Kentucky,99,LSU,35,34,false,true,true,true,STATUS_FINAL
+401856716,6,2026-10-10,142,Missouri,245,Texas A&M,27,6,false,true,false,true,STATUS_FINAL
+401856717,6,2026-10-10,201,Oklahoma,251,Texas,27,24,true,true,false,true,STATUS_FINAL
+401856718,6,2026-10-10,238,Vanderbilt,145,Ole Miss,17,52,false,true,false,true,STATUS_FINAL
+401856808,6,2026-10-10,9,Arizona State,62,Hawai'i,30,12,false,false,false,true,STATUS_FINAL
+401856823,6,2026-10-10,277,West Virginia,12,Arizona,31,52,false,true,false,true,STATUS_FINAL
+401856824,6,2026-10-10,197,Oklahoma State,2116,UCF,42,28,false,true,false,true,STATUS_FINAL
+401856825,6,2026-10-10,2306,Kansas State,248,Houston,16,35,false,true,false,true,STATUS_FINAL
+401856827,6,2026-10-10,254,Utah,2305,Kansas,41,24,false,true,false,true,STATUS_FINAL
+401858255,6,2026-10-10,59,Georgia Tech,150,Duke,28,25,false,true,false,true,STATUS_FINAL
+401858256,6,2026-10-10,221,Pittsburgh,153,North Carolina,17,21,false,true,false,true,STATUS_FINAL
+401858257,6,2026-10-10,87,Notre Dame,24,Stanford,58,7,false,false,false,true,STATUS_FINAL
+401858258,6,2026-10-10,258,Virginia,183,Syracuse,28,25,false,true,false,true,STATUS_FINAL
+401858259,6,2026-10-10,25,California,259,Virginia Tech,25,20,false,true,false,true,STATUS_FINAL
+401858260,6,2026-10-10,152,NC State,154,Wake Forest,14,38,false,true,false,true,STATUS_FINAL
+401858480,6,2026-10-10,127,Michigan State,356,Illinois,37,38,false,true,true,true,STATUS_FINAL
+401858481,6,2026-10-10,158,Nebraska,84,Indiana,17,20,false,true,false,true,STATUS_FINAL
+401858482,6,2026-10-10,77,Northwestern,2050,Ball State,45,14,false,false,false,true,STATUS_FINAL
+401858483,6,2026-10-10,194,Ohio State,120,Maryland,45,16,false,true,false,true,STATUS_FINAL
+401858484,6,2026-10-10,2483,Oregon,26,UCLA,15,17,false,true,false,true,STATUS_FINAL
+401858485,6,2026-10-10,213,Penn State,30,USC,23,31,false,true,false,true,STATUS_FINAL
+401858486,6,2026-10-10,2509,Purdue,135,Minnesota,41,13,false,true,false,true,STATUS_FINAL
+401860901,6,2026-10-10,278,Fresno State,68,Boise State,31,38,false,true,false,true,STATUS_FINAL
+401860902,6,2026-10-10,204,Oregon State,21,San Diego State,66,14,false,true,false,true,STATUS_FINAL
+401861964,6,2026-10-10,218,Temple,41,UConn,20,34,false,false,false,true,STATUS_FINAL
+401862795,6,2026-10-10,349,Army,2655,Tulane,20,17,false,true,false,true,STATUS_FINAL
+401862796,6,2026-10-10,249,North Texas,2429,Charlotte,50,10,false,true,false,true,STATUS_FINAL
+401862797,6,2026-10-10,151,East Carolina,242,Rice,28,12,false,true,false,true,STATUS_FINAL
+401862798,6,2026-10-10,235,Memphis,5,UAB,38,13,false,true,false,true,STATUS_FINAL
+401862799,6,2026-10-10,2426,Navy,202,Tulsa,34,26,false,true,false,true,STATUS_FINAL
+401864516,6,2026-10-10,2459,Northern Illinois,2005,Air Force,7,28,false,true,false,true,STATUS_FINAL
+401864517,6,2026-10-10,2638,UTEP,2440,Nevada,13,30,false,true,false,true,STATUS_FINAL
+401864518,6,2026-10-10,2439,UNLV,2449,North Dakota State,13,7,false,true,false,true,STATUS_FINAL
+401866435,6,2026-10-10,2006,Akron,2199,Eastern Michigan,23,25,false,true,false,true,STATUS_FINAL
+401866436,6,2026-10-10,189,Bowling Green,16,Sacramento State,38,10,false,true,false,true,STATUS_FINAL
+401866437,6,2026-10-10,2649,Toledo,2084,Buffalo,8,23,false,true,false,true,STATUS_FINAL
+401866438,6,2026-10-10,195,Ohio,2117,Central Michigan,31,14,false,true,false,true,STATUS_FINAL
+401866439,6,2026-10-10,2711,Western Michigan,2309,Kent State,38,7,false,true,false,true,STATUS_FINAL
+401866440,6,2026-10-10,113,Massachusetts,193,Miami (OH),19,20,false,true,false,true,STATUS_FINAL
+401869843,6,2026-10-10,2026,App State,295,Old Dominion,3,10,false,true,false,true,STATUS_FINAL
+401869943,6,2026-10-10,276,Marshall,324,Coastal Carolina,21,27,false,true,false,true,STATUS_FINAL
+401869949,6,2026-10-10,290,Georgia Southern,256,James Madison,24,27,false,true,false,true,STATUS_FINAL
+401869965,6,2026-10-10,2348,Louisiana Tech,309,Louisiana,32,31,false,true,false,true,STATUS_FINAL
+401871053,7,2026-10-13,55,Jacksonville State,2229,Florida International,27,24,false,true,false,true,STATUS_FINAL
+401871067,7,2026-10-13,2393,Middle Tennessee,48,Delaware,33,30,false,true,false,true,STATUS_FINAL
+401871054,7,2026-10-14,2623,Missouri State,338,Kennesaw State,24,21,false,true,false,true,STATUS_FINAL
+401871068,7,2026-10-14,2534,Sam Houston,98,Western Kentucky,3,16,false,true,false,true,STATUS_FINAL
+401860923,7,2026-10-15,326,Texas State,36,Colorado State,66,27,false,true,false,true,STATUS_FINAL
+401862800,7,2026-10-15,5,UAB,151,East Carolina,30,17,false,true,true,true,STATUS_FINAL
+401869950,7,2026-10-15,295,Old Dominion,290,Georgia Southern,15,23,false,true,false,true,STATUS_FINAL
+401858493,7,2026-10-16,2509,Purdue,264,Washington,26,38,false,true,false,true,STATUS_FINAL
+401862801,7,2026-10-16,2655,Tulane,235,Memphis,31,17,false,true,false,true,STATUS_FINAL
+401869844,7,2026-10-16,324,Coastal Carolina,2026,App State,32,35,false,true,false,true,STATUS_FINAL
+401856719,7,2026-10-17,61,Georgia,2,Auburn,24,27,false,true,false,true,STATUS_FINAL
+401856720,7,2026-10-17,99,LSU,344,Mississippi State,31,0,false,true,false,true,STATUS_FINAL
+401856721,7,2026-10-17,145,Ole Miss,142,Missouri,31,3,false,true,false,true,STATUS_FINAL
+401856722,7,2026-10-17,201,Oklahoma,96,Kentucky,13,21,false,true,false,true,STATUS_FINAL
+401856723,7,2026-10-17,2633,Tennessee,333,Alabama,26,10,false,true,false,true,STATUS_FINAL
+401856724,7,2026-10-17,251,Texas,57,Florida,24,27,false,true,false,true,STATUS_FINAL
+401856725,7,2026-10-17,245,Texas A&M,2643,The Citadel,41,0,false,false,false,true,STATUS_FINAL
+401856726,7,2026-10-17,238,Vanderbilt,8,Arkansas,21,31,false,true,false,true,STATUS_FINAL
+401856809,7,2026-10-17,252,BYU,87,Notre Dame,28,24,false,false,false,true,STATUS_FINAL
+401856828,7,2026-10-17,2641,Texas Tech,9,Arizona State,53,25,false,true,false,true,STATUS_FINAL
+401856829,7,2026-10-17,277,West Virginia,2132,Cincinnati,45,42,false,true,false,true,STATUS_FINAL
+401856830,7,2026-10-17,2306,Kansas State,2305,Kansas,35,24,false,true,false,true,STATUS_FINAL
+401856831,7,2026-10-17,248,Houston,197,Oklahoma State,35,32,false,true,false,true,STATUS_FINAL
+401856832,7,2026-10-17,239,Baylor,2628,TCU,6,17,false,true,false,true,STATUS_FINAL
+401856833,7,2026-10-17,38,Colorado,254,Utah,24,27,false,true,false,true,STATUS_FINAL
+401858261,7,2026-10-17,228,Clemson,2127,Charleston Southern,37,0,false,false,false,true,STATUS_FINAL
+401858262,7,2026-10-17,24,Stanford,2210,Elon,34,7,false,false,false,true,STATUS_FINAL
+401858263,7,2026-10-17,2390,Miami,52,Florida State,43,35,false,true,true,true,STATUS_FINAL
+401858264,7,2026-10-17,259,Virginia Tech,59,Georgia Tech,34,24,false,true,false,true,STATUS_FINAL
+401858265,7,2026-10-17,183,Syracuse,97,Louisville,26,34,false,true,false,true,STATUS_FINAL
+401858266,7,2026-10-17,150,Duke,153,North Carolina,20,24,false,true,false,true,STATUS_FINAL
+401858267,7,2026-10-17,103,Boston College,221,Pittsburgh,27,21,false,true,false,true,STATUS_FINAL
+401858268,7,2026-10-17,2567,SMU,258,Virginia,23,13,false,true,false,true,STATUS_FINAL
+401858269,7,2026-10-17,25,California,154,Wake Forest,7,41,false,true,false,true,STATUS_FINAL
+401858488,7,2026-10-17,84,Indiana,194,Ohio State,15,19,false,true,false,true,STATUS_FINAL
+401858489,7,2026-10-17,120,Maryland,164,Rutgers,30,37,false,true,false,true,STATUS_FINAL
+401858490,7,2026-10-17,130,Michigan,213,Penn State,21,18,false,true,false,true,STATUS_FINAL
+401858491,7,2026-10-17,127,Michigan State,77,Northwestern,21,24,false,true,false,true,STATUS_FINAL
+401858492,7,2026-10-17,2483,Oregon,158,Nebraska,17,14,false,true,false,true,STATUS_FINAL
+401858494,7,2026-10-17,26,UCLA,275,Wisconsin,17,7,false,true,false,true,STATUS_FINAL
+401860903,7,2026-10-17,204,Oregon State,265,Washington State,48,30,false,true,false,true,STATUS_FINAL
+401860904,7,2026-10-17,21,San Diego State,278,Fresno State,26,23,false,true,false,true,STATUS_FINAL
+401862802,7,2026-10-17,349,Army,2226,Florida Atlantic,56,24,false,true,false,true,STATUS_FINAL
+401862803,7,2026-10-17,218,Temple,2429,Charlotte,31,38,false,true,false,true,STATUS_FINAL
+401862804,7,2026-10-17,2636,UTSA,2426,Navy,38,34,false,true,false,true,STATUS_FINAL
+401862805,7,2026-10-17,242,Rice,202,Tulsa,17,38,false,true,false,true,STATUS_FINAL
+401862806,7,2026-10-17,58,South Florida,2309,Kent State,29,2,false,false,false,true,STATUS_FINAL
+401864520,7,2026-10-17,2449,North Dakota State,2440,Nevada,31,17,false,true,false,true,STATUS_FINAL
+401864521,7,2026-10-17,62,Hawai'i,167,New Mexico,10,21,false,true,false,true,STATUS_FINAL
+401864522,7,2026-10-17,2751,Wyoming,2459,Northern Illinois,41,23,false,true,false,true,STATUS_FINAL
+401864523,7,2026-10-17,2638,UTEP,23,San José State,11,24,false,true,false,true,STATUS_FINAL
+401864524,7,2026-10-17,2005,Air Force,2439,UNLV,41,31,false,true,false,true,STATUS_FINAL
+401866441,7,2026-10-17,189,Bowling Green,2050,Ball State,31,32,false,true,true,true,STATUS_FINAL
+401866442,7,2026-10-17,2084,Buffalo,113,Massachusetts,25,18,false,true,true,true,STATUS_FINAL
+401866443,7,2026-10-17,2117,Central Michigan,2711,Western Michigan,14,21,false,true,false,true,STATUS_FINAL
+401866444,7,2026-10-17,2199,Eastern Michigan,2649,Toledo,14,34,false,true,false,true,STATUS_FINAL
+401866445,7,2026-10-17,16,Sacramento State,195,Ohio,7,48,false,true,false,true,STATUS_FINAL
+401866478,7,2026-10-17,193,Miami (OH),2006,Akron,34,14,false,true,false,true,STATUS_FINAL
+401869934,7,2026-10-17,2572,Southern Miss,2032,Arkansas State,13,23,false,true,false,true,STATUS_FINAL
+401869957,7,2026-10-17,256,James Madison,2247,Georgia State,49,22,false,true,false,true,STATUS_FINAL
+401869966,7,2026-10-17,309,Louisiana,2653,Troy,33,6,false,true,false,true,STATUS_FINAL
+401871091,7,2026-10-17,2433,UL Monroe,2348,Louisiana Tech,0,24,false,true,false,true,STATUS_FINAL
+401871055,8,2026-10-20,2229,Florida International,2393,Middle Tennessee,23,26,false,true,false,true,STATUS_FINAL
+401871069,8,2026-10-20,48,Delaware,2623,Missouri State,61,38,false,true,false,true,STATUS_FINAL
+401871092,8,2026-10-20,276,Marshall,6,South Alabama,20,13,false,true,false,true,STATUS_FINAL
+401871070,8,2026-10-21,2534,Sam Houston,166,New Mexico State,24,30,false,true,false,true,STATUS_FINAL
+401862807,8,2026-10-22,235,Memphis,151,East Carolina,41,34,false,true,true,true,STATUS_FINAL
+401869845,8,2026-10-22,2026,App State,256,James Madison,34,31,false,true,true,true,STATUS_FINAL
+401871056,8,2026-10-22,338,Kennesaw State,2335,Liberty,6,34,false,true,false,true,STATUS_FINAL
+401858271,8,2026-10-23,258,Virginia,150,Duke,16,19,false,true,false,true,STATUS_FINAL
+401858272,8,2026-10-23,24,Stanford,152,NC State,31,28,false,true,false,true,STATUS_FINAL
+401861965,8,2026-10-23,41,UConn,113,Massachusetts,35,16,false,false,false,true,STATUS_FINAL
+401862808,8,2026-10-23,202,Tulsa,349,Army,35,38,false,true,false,true,STATUS_FINAL
+401864525,8,2026-10-23,2751,Wyoming,2005,Air Force,28,14,false,true,false,true,STATUS_FINAL
+401856727,8,2026-10-24,333,Alabama,245,Texas A&M,31,20,false,true,false,true,STATUS_FINAL
+401856728,8,2026-10-24,2,Auburn,99,LSU,17,38,false,true,false,true,STATUS_FINAL
+401856729,8,2026-10-24,96,Kentucky,238,Vanderbilt,34,17,false,true,false,true,STATUS_FINAL
+401856730,8,2026-10-24,344,Mississippi State,201,Oklahoma,15,23,false,true,false,true,STATUS_FINAL
+401856731,8,2026-10-24,2579,South Carolina,2633,Tennessee,27,24,false,true,false,true,STATUS_FINAL
+401856732,8,2026-10-24,251,Texas,145,Ole Miss,34,27,false,true,false,true,STATUS_FINAL
+401856834,8,2026-10-24,2305,Kansas,239,Baylor,25,24,false,true,false,true,STATUS_FINAL
+401856835,8,2026-10-24,2116,UCF,252,BYU,39,31,false,true,true,true,STATUS_FINAL
+401856836,8,2026-10-24,197,Oklahoma State,38,Colorado,57,24,false,true,false,true,STATUS_FINAL
+401856837,8,2026-10-24,254,Utah,248,Houston,21,13,false,true,false,true,STATUS_FINAL
+401856838,8,2026-10-24,12,Arizona,66,Iowa State,39,3,false,true,false,true,STATUS_FINAL
+401856839,8,2026-10-24,9,Arizona State,2306,Kansas State,28,17,false,true,false,true,STATUS_FINAL
+401856840,8,2026-10-24,2132,Cincinnati,2641,Texas Tech,37,24,false,true,false,true,STATUS_FINAL
+401856841,8,2026-10-24,2628,TCU,277,West Virginia,20,24,false,true,false,true,STATUS_FINAL
+401858270,8,2026-10-24,2567,SMU,25,California,59,20,false,true,false,true,STATUS_FINAL
+401858273,8,2026-10-24,59,Georgia Tech,103,Boston College,27,49,false,true,false,true,STATUS_FINAL
+401858274,8,2026-10-24,2390,Miami,221,Pittsburgh,52,23,false,true,false,true,STATUS_FINAL
+401858275,8,2026-10-24,153,North Carolina,183,Syracuse,30,31,false,true,true,true,STATUS_FINAL
+401858276,8,2026-10-24,228,Clemson,259,Virginia Tech,16,20,false,true,false,true,STATUS_FINAL
+401858495,8,2026-10-24,356,Illinois,2483,Oregon,21,10,false,true,false,true,STATUS_FINAL
+401858496,8,2026-10-24,130,Michigan,84,Indiana,6,13,false,true,true,true,STATUS_FINAL
+401858497,8,2026-10-24,135,Minnesota,2294,Iowa,13,10,false,true,false,true,STATUS_FINAL
+401858498,8,2026-10-24,77,Northwestern,164,Rutgers,42,14,false,true,false,true,STATUS_FINAL
+401858499,8,2026-10-24,26,UCLA,127,Michigan State,28,10,false,true,false,true,STATUS_FINAL
+401858500,8,2026-10-24,275,Wisconsin,30,USC,24,7,false,true,false,true,STATUS_FINAL
+401860905,8,2026-10-24,36,Colorado State,21,San Diego State,56,49,false,true,false,true,STATUS_FINAL
+401860906,8,2026-10-24,326,Texas State,328,Utah State,20,17,false,true,false,true,STATUS_FINAL
+401860907,8,2026-10-24,265,Washington State,68,Boise State,10,31,false,true,false,true,STATUS_FINAL
+401862809,8,2026-10-24,2226,Florida Atlantic,242,Rice,51,49,false,true,false,true,STATUS_FINAL
+401862810,8,2026-10-24,2426,Navy,249,North Texas,39,49,false,true,false,true,STATUS_FINAL
+401862811,8,2026-10-24,2655,Tulane,2636,UTSA,19,42,false,true,false,true,STATUS_FINAL
+401864526,8,2026-10-24,2459,Northern Illinois,62,Hawai'i,21,56,false,true,false,true,STATUS_FINAL
+401864527,8,2026-10-24,167,New Mexico,2449,North Dakota State,21,16,false,true,false,true,STATUS_FINAL
+401864528,8,2026-10-24,2440,Nevada,23,San José State,28,13,false,true,false,true,STATUS_FINAL
+401866446,8,2026-10-24,2309,Kent State,2006,Akron,35,20,false,true,false,true,STATUS_FINAL
+401866447,8,2026-10-24,2050,Ball State,16,Sacramento State,34,17,false,true,false,true,STATUS_FINAL
+401866448,8,2026-10-24,2084,Buffalo,189,Bowling Green,31,24,false,true,false,true,STATUS_FINAL
+401866449,8,2026-10-24,195,Ohio,2199,Eastern Michigan,24,20,false,true,false,true,STATUS_FINAL
+401866450,8,2026-10-24,2649,Toledo,2711,Western Michigan,45,38,false,true,false,true,STATUS_FINAL
+401866476,8,2026-10-24,2117,Central Michigan,193,Miami (OH),27,28,false,true,false,true,STATUS_FINAL
+401869935,8,2026-10-24,2032,Arkansas State,2247,Georgia State,38,32,false,true,false,true,STATUS_FINAL
+401869967,8,2026-10-24,2572,Southern Miss,309,Louisiana,35,31,false,true,false,true,STATUS_FINAL
+401871093,8,2026-10-24,2348,Louisiana Tech,295,Old Dominion,26,0,false,true,false,true,STATUS_FINAL
+401871094,8,2026-10-24,2653,Troy,2433,UL Monroe,14,21,false,true,false,true,STATUS_FINAL
+401871071,9,2026-10-27,98,Western Kentucky,48,Delaware,21,35,false,true,false,true,STATUS_FINAL
+401871072,9,2026-10-27,2623,Missouri State,2534,Sam Houston,24,3,false,true,false,true,STATUS_FINAL
+401871057,9,2026-10-28,166,New Mexico State,55,Jacksonville State,0,24,false,true,false,true,STATUS_FINAL
+401871058,9,2026-10-28,2393,Middle Tennessee,338,Kennesaw State,28,44,false,true,false,true,STATUS_FINAL
+401862812,9,2026-10-29,249,North Texas,2226,Florida Atlantic,48,41,false,true,false,true,STATUS_FINAL
+401869963,9,2026-10-29,256,James Madison,2653,Troy,21,24,false,true,true,true,STATUS_FINAL
+401856844,9,2026-10-30,2116,UCF,239,Baylor,9,41,false,true,false,true,STATUS_FINAL
+401862813,9,2026-10-30,2429,Charlotte,2655,Tulane,31,38,false,true,true,true,STATUS_FINAL
+401866451,9,2026-10-30,16,Sacramento State,2309,Kent State,31,10,false,true,false,true,STATUS_FINAL
+401856733,9,2026-10-31,8,Arkansas,142,Missouri,10,34,false,true,false,true,STATUS_FINAL
+401856734,9,2026-10-31,61,Georgia,57,Florida,27,8,true,true,false,true,STATUS_FINAL
+401856735,9,2026-10-31,145,Ole Miss,2,Auburn,45,15,false,true,false,true,STATUS_FINAL
+401856736,9,2026-10-31,201,Oklahoma,2579,South Carolina,25,42,false,true,false,true,STATUS_FINAL
+401856737,9,2026-10-31,251,Texas,344,Mississippi State,31,3,false,true,false,true,STATUS_FINAL
+401856842,9,2026-10-31,2641,Texas Tech,12,Arizona,34,26,false,true,false,true,STATUS_FINAL
+401856843,9,2026-10-31,252,BYU,9,Arizona State,27,20,false,true,false,true,STATUS_FINAL
+401856845,9,2026-10-31,2628,TCU,2305,Kansas,22,16,false,true,false,true,STATUS_FINAL
+401856846,9,2026-10-31,38,Colorado,2306,Kansas State,27,24,false,true,true,true,STATUS_FINAL
+401856847,9,2026-10-31,66,Iowa State,197,Oklahoma State,51,49,false,true,false,true,STATUS_FINAL
+401856848,9,2026-10-31,2132,Cincinnati,254,Utah,25,49,false,true,false,true,STATUS_FINAL
+401858277,9,2026-10-31,152,NC State,25,California,31,10,false,true,false,true,STATUS_FINAL
+401858278,9,2026-10-31,183,Syracuse,2567,SMU,30,27,false,true,false,true,STATUS_FINAL
+401858279,9,2026-10-31,150,Duke,103,Boston College,47,2,false,true,false,true,STATUS_FINAL
+401858280,9,2026-10-31,52,Florida State,228,Clemson,24,36,false,true,false,true,STATUS_FINAL
+401858281,9,2026-10-31,221,Pittsburgh,59,Georgia Tech,34,11,false,true,false,true,STATUS_FINAL
+401858282,9,2026-10-31,153,North Carolina,2390,Miami,35,38,false,true,false,true,STATUS_FINAL
+401858283,9,2026-10-31,97,Louisville,24,Stanford,52,24,false,true,false,true,STATUS_FINAL
+401858284,9,2026-10-31,154,Wake Forest,258,Virginia,51,7,false,true,false,true,STATUS_FINAL
+401858501,9,2026-10-31,84,Indiana,135,Minnesota,23,16,false,true,true,true,STATUS_FINAL
+401858502,9,2026-10-31,2294,Iowa,275,Wisconsin,30,0,false,true,false,true,STATUS_FINAL
+401858503,9,2026-10-31,120,Maryland,356,Illinois,17,20,false,true,false,true,STATUS_FINAL
+401858504,9,2026-10-31,158,Nebraska,264,Washington,10,17,false,true,false,true,STATUS_FINAL
+401858505,9,2026-10-31,2483,Oregon,77,Northwestern,34,26,false,true,false,true,STATUS_FINAL
+401858506,9,2026-10-31,213,Penn State,2509,Purdue,31,17,false,true,false,true,STATUS_FINAL
+401858507,9,2026-10-31,164,Rutgers,130,Michigan,21,28,false,true,false,true,STATUS_FINAL
+401858508,9,2026-10-31,26,UCLA,2440,Nevada,27,0,false,false,false,true,STATUS_FINAL
+401858509,9,2026-10-31,30,USC,194,Ohio State,30,18,false,true,false,true,STATUS_FINAL
+401859185,9,2026-10-31,2426,Navy,87,Notre Dame,13,35,true,false,false,true,STATUS_FINAL
+401860908,9,2026-10-31,68,Boise State,326,Texas State,46,45,false,true,false,true,STATUS_FINAL
+401860909,9,2026-10-31,21,San Diego State,265,Washington State,26,20,false,true,false,true,STATUS_FINAL
+401860910,9,2026-10-31,328,Utah State,36,Colorado State,31,14,false,true,false,true,STATUS_FINAL
+401860924,9,2026-10-31,278,Fresno State,204,Oregon State,38,22,false,true,false,true,STATUS_FINAL
+401861966,9,2026-10-31,2005,Air Force,41,UConn,35,26,false,false,false,true,STATUS_FINAL
+401862814,9,2026-10-31,235,Memphis,349,Army,49,22,false,true,false,true,STATUS_FINAL
+401862815,9,2026-10-31,151,East Carolina,218,Temple,17,9,false,true,false,true,STATUS_FINAL
+401862816,9,2026-10-31,58,South Florida,5,UAB,30,10,false,true,false,true,STATUS_FINAL
+401864529,9,2026-10-31,23,San José State,167,New Mexico,16,21,false,true,false,true,STATUS_FINAL
+401864530,9,2026-10-31,2439,UNLV,2459,Northern Illinois,31,24,false,true,false,true,STATUS_FINAL
+401864531,9,2026-10-31,2449,North Dakota State,2638,UTEP,31,7,false,true,false,true,STATUS_FINAL
+401866452,9,2026-10-31,2711,Western Michigan,189,Bowling Green,23,10,false,true,false,true,STATUS_FINAL
+401869846,9,2026-10-31,290,Georgia Southern,2026,App State,19,3,false,true,false,true,STATUS_FINAL
+401869944,9,2026-10-31,2247,Georgia State,324,Coastal Carolina,20,31,false,true,false,true,STATUS_FINAL
+401871059,9,2026-10-31,2335,Liberty,2229,Florida International,49,10,false,true,false,true,STATUS_FINAL
+401871095,9,2026-10-31,2433,UL Monroe,2572,Southern Miss,21,35,false,true,false,true,STATUS_FINAL
+401871096,9,2026-10-31,295,Old Dominion,276,Marshall,23,36,false,true,false,true,STATUS_FINAL
+401871097,9,2026-10-31,6,South Alabama,2348,Louisiana Tech,20,35,false,true,false,true,STATUS_FINAL
+401866453,10,2026-11-03,2006,Akron,195,Ohio,20,28,false,true,false,true,STATUS_FINAL
+401866454,10,2026-11-03,193,Miami (OH),2084,Buffalo,31,34,false,true,true,true,STATUS_FINAL
+401866455,10,2026-11-04,113,Massachusetts,2050,Ball State,31,30,false,true,true,true,STATUS_FINAL
+401866456,10,2026-11-04,2199,Eastern Michigan,2117,Central Michigan,7,35,true,true,false,true,STATUS_FINAL
+401866457,10,2026-11-04,16,Sacramento State,2649,Toledo,17,20,false,true,false,true,STATUS_FINAL
+401862817,10,2026-11-05,2226,Florida Atlantic,2636,UTSA,60,29,false,true,false,true,STATUS_FINAL
+401869964,10,2026-11-05,2572,Southern Miss,256,James Madison,23,54,false,true,false,true,STATUS_FINAL
+401856855,10,2026-11-06,12,Arizona,2628,TCU,29,28,false,true,false,true,STATUS_FINAL
+401858288,10,2026-11-06,2567,SMU,259,Virginia Tech,51,28,false,true,false,true,STATUS_FINAL
+401858510,10,2026-11-06,356,Illinois,158,Nebraska,24,13,false,true,false,true,STATUS_FINAL
+401862818,10,2026-11-06,151,East Carolina,58,South Florida,20,17,false,true,false,true,STATUS_FINAL
+401864533,10,2026-11-06,2440,Nevada,167,New Mexico,3,31,false,true,false,true,STATUS_FINAL
+401856738,10,2026-11-07,2,Auburn,8,Arkansas,26,23,false,true,false,true,STATUS_FINAL
+401856739,10,2026-11-07,57,Florida,201,Oklahoma,7,23,false,true,false,true,STATUS_FINAL
+401856740,10,2026-11-07,99,LSU,333,Alabama,13,31,false,true,false,true,STATUS_FINAL
+401856741,10,2026-11-07,145,Ole Miss,61,Georgia,7,42,false,true,false,true,STATUS_FINAL
+401856742,10,2026-11-07,344,Mississippi State,238,Vanderbilt,23,25,false,true,false,true,STATUS_FINAL
+401856743,10,2026-11-07,142,Missouri,251,Texas,20,34,false,true,false,true,STATUS_FINAL
+401856744,10,2026-11-07,2579,South Carolina,245,Texas A&M,17,9,false,true,false,true,STATUS_FINAL
+401856745,10,2026-11-07,2633,Tennessee,96,Kentucky,34,6,false,true,false,true,STATUS_FINAL
+401856849,10,2026-11-07,254,Utah,252,BYU,28,20,false,true,false,true,STATUS_FINAL
+401856850,10,2026-11-07,2305,Kansas,2116,UCF,32,33,false,true,false,true,STATUS_FINAL
+401856851,10,2026-11-07,248,Houston,2132,Cincinnati,31,24,false,true,false,true,STATUS_FINAL
+401856852,10,2026-11-07,9,Arizona State,38,Colorado,20,10,false,true,false,true,STATUS_FINAL
+401856853,10,2026-11-07,239,Baylor,66,Iowa State,42,31,false,true,false,true,STATUS_FINAL
+401856854,10,2026-11-07,2306,Kansas State,197,Oklahoma State,28,66,false,true,false,true,STATUS_FINAL
+401856856,10,2026-11-07,2641,Texas Tech,277,West Virginia,53,48,false,true,false,true,STATUS_FINAL
+401858285,10,2026-11-07,183,Syracuse,228,Clemson,13,18,false,true,false,true,STATUS_FINAL
+401858286,10,2026-11-07,152,NC State,150,Duke,3,41,false,true,false,true,STATUS_FINAL
+401858287,10,2026-11-07,59,Georgia Tech,97,Louisville,17,44,false,true,false,true,STATUS_FINAL
+401858289,10,2026-11-07,103,Boston College,52,Florida State,24,31,false,true,false,true,STATUS_FINAL
+401858290,10,2026-11-07,154,Wake Forest,2771,Merrimack,77,0,false,false,false,true,STATUS_FINAL
+401858291,10,2026-11-07,87,Notre Dame,2390,Miami,31,24,false,false,false,true,STATUS_FINAL
+401858292,10,2026-11-07,41,UConn,153,North Carolina,21,38,false,false,false,true,STATUS_FINAL
+401858511,10,2026-11-07,130,Michigan,127,Michigan State,6,15,false,true,false,true,STATUS_FINAL
+401858512,10,2026-11-07,135,Minnesota,26,UCLA,20,34,false,true,false,true,STATUS_FINAL
+401858513,10,2026-11-07,77,Northwestern,2294,Iowa,10,24,false,true,false,true,STATUS_FINAL
+401858514,10,2026-11-07,194,Ohio State,2483,Oregon,28,41,false,true,false,true,STATUS_FINAL
+401858515,10,2026-11-07,2509,Purdue,120,Maryland,29,34,false,true,false,true,STATUS_FINAL
+401858516,10,2026-11-07,264,Washington,213,Penn State,25,28,false,true,false,true,STATUS_FINAL
+401858517,10,2026-11-07,275,Wisconsin,164,Rutgers,31,10,false,true,false,true,STATUS_FINAL
+401860911,10,2026-11-07,36,Colorado State,68,Boise State,38,64,false,true,false,true,STATUS_FINAL
+401860912,10,2026-11-07,204,Oregon State,326,Texas State,21,42,false,true,false,true,STATUS_FINAL
+401860913,10,2026-11-07,328,Utah State,278,Fresno State,17,10,false,true,false,true,STATUS_FINAL
+401862819,10,2026-11-07,5,UAB,2429,Charlotte,23,12,false,true,false,true,STATUS_FINAL
+401862820,10,2026-11-07,2426,Navy,218,Temple,42,35,false,true,false,true,STATUS_FINAL
+401862821,10,2026-11-07,249,North Texas,242,Rice,52,23,false,true,false,true,STATUS_FINAL
+401862822,10,2026-11-07,2655,Tulane,202,Tulsa,10,60,false,true,false,true,STATUS_FINAL
+401862823,10,2026-11-07,349,Army,2005,Air Force,21,24,false,false,false,true,STATUS_FINAL
+401864532,10,2026-11-07,2638,UTEP,62,Hawai'i,14,17,false,true,false,true,STATUS_FINAL
+401864534,10,2026-11-07,23,San José State,2459,Northern Illinois,30,19,false,true,false,true,STATUS_FINAL
+401864535,10,2026-11-07,2439,UNLV,2751,Wyoming,35,41,false,true,false,true,STATUS_FINAL
+401869927,10,2026-11-07,2026,App State,2247,Georgia State,23,39,false,true,false,true,STATUS_FINAL
+401869936,10,2026-11-07,2032,Arkansas State,2433,UL Monroe,17,19,false,true,false,true,STATUS_FINAL
+401869945,10,2026-11-07,324,Coastal Carolina,295,Old Dominion,8,21,false,true,false,true,STATUS_FINAL
+401869951,10,2026-11-07,290,Georgia Southern,276,Marshall,49,13,false,true,false,true,STATUS_FINAL
+401869968,10,2026-11-07,309,Louisiana,6,South Alabama,28,26,false,true,false,true,STATUS_FINAL
+401870795,10,2026-11-07,166,New Mexico State,2335,Liberty,14,30,false,true,false,true,STATUS_FINAL
+401871073,10,2026-11-07,338,Kennesaw State,48,Delaware,42,40,false,true,false,true,STATUS_FINAL
+401871074,10,2026-11-07,2229,Florida International,2623,Missouri State,23,20,false,true,false,true,STATUS_FINAL
+401871075,10,2026-11-07,55,Jacksonville State,2534,Sam Houston,47,14,false,true,false,true,STATUS_FINAL
+401871076,10,2026-11-07,2393,Middle Tennessee,98,Western Kentucky,51,42,false,true,false,true,STATUS_FINAL
+401871098,10,2026-11-07,2653,Troy,2348,Louisiana Tech,17,41,false,true,false,true,STATUS_FINAL
+401866458,11,2026-11-10,2006,Akron,2711,Western Michigan,14,42,false,true,false,true,STATUS_FINAL
+401866459,11,2026-11-10,189,Bowling Green,2309,Kent State,33,28,false,true,false,true,STATUS_FINAL
+401866460,11,2026-11-10,193,Miami (OH),195,Ohio,34,17,false,true,false,true,STATUS_FINAL
+401866461,11,2026-11-11,2050,Ball State,2084,Buffalo,7,28,false,true,false,true,STATUS_FINAL
+401866462,11,2026-11-11,2117,Central Michigan,16,Sacramento State,28,7,false,true,false,true,STATUS_FINAL
+401866463,11,2026-11-11,2649,Toledo,113,Massachusetts,24,0,false,true,false,true,STATUS_FINAL
+401862824,11,2026-11-12,58,South Florida,235,Memphis,41,52,false,true,false,true,STATUS_FINAL
+401869969,11,2026-11-12,2433,UL Monroe,309,Louisiana,21,42,false,true,false,true,STATUS_FINAL
+401856860,11,2026-11-13,38,Colorado,248,Houston,42,32,false,true,false,true,STATUS_FINAL
+401858293,11,2026-11-13,221,Pittsburgh,52,Florida State,10,16,false,true,false,true,STATUS_FINAL
+401858526,11,2026-11-13,26,UCLA,356,Illinois,22,14,false,true,false,true,STATUS_FINAL
+401856857,11,2026-11-14,2116,UCF,9,Arizona State,13,26,false,true,false,true,STATUS_FINAL
+401856858,11,2026-11-14,252,BYU,239,Baylor,28,7,false,true,false,true,STATUS_FINAL
+401856859,11,2026-11-14,66,Iowa State,2132,Cincinnati,41,13,false,true,false,true,STATUS_FINAL
+401856861,11,2026-11-14,277,West Virginia,2305,Kansas,14,37,false,true,false,true,STATUS_FINAL
+401856862,11,2026-11-14,2628,TCU,2306,Kansas State,20,10,false,true,false,true,STATUS_FINAL
+401856863,11,2026-11-14,197,Oklahoma State,2641,Texas Tech,27,52,false,true,false,true,STATUS_FINAL
+401856864,11,2026-11-14,12,Arizona,254,Utah,39,40,false,true,false,true,STATUS_FINAL
+401856882,11,2026-11-14,8,Arkansas,2579,South Carolina,34,6,false,true,false,true,STATUS_FINAL
+401856883,11,2026-11-14,61,Georgia,142,Missouri,48,21,false,true,false,true,STATUS_FINAL
+401856884,11,2026-11-14,96,Kentucky,57,Florida,14,21,false,true,false,true,STATUS_FINAL
+401856885,11,2026-11-14,99,LSU,251,Texas,21,22,false,true,false,true,STATUS_FINAL
+401856886,11,2026-11-14,344,Mississippi State,2,Auburn,9,41,false,true,false,true,STATUS_FINAL
+401856888,11,2026-11-14,245,Texas A&M,2633,Tennessee,7,22,false,true,false,true,STATUS_FINAL
+401856889,11,2026-11-14,238,Vanderbilt,333,Alabama,6,21,false,true,false,true,STATUS_FINAL
+401858294,11,2026-11-14,87,Notre Dame,103,Boston College,41,7,false,false,false,true,STATUS_FINAL
+401858295,11,2026-11-14,258,Virginia,25,California,36,7,false,true,false,true,STATUS_FINAL
+401858296,11,2026-11-14,2390,Miami,150,Duke,36,25,false,true,false,true,STATUS_FINAL
+401858297,11,2026-11-14,228,Clemson,59,Georgia Tech,6,20,false,true,false,true,STATUS_FINAL
+401858298,11,2026-11-14,153,North Carolina,97,Louisville,14,16,false,true,false,true,STATUS_FINAL
+401858299,11,2026-11-14,259,Virginia Tech,24,Stanford,22,40,false,true,false,true,STATUS_FINAL
+401858300,11,2026-11-14,152,NC State,183,Syracuse,31,34,false,true,false,true,STATUS_FINAL
+401858301,11,2026-11-14,2567,SMU,154,Wake Forest,7,49,false,true,false,true,STATUS_FINAL
+401858518,11,2026-11-14,84,Indiana,30,USC,27,13,false,true,false,true,STATUS_FINAL
+401858519,11,2026-11-14,2294,Iowa,2509,Purdue,28,7,false,true,false,true,STATUS_FINAL
+401858520,11,2026-11-14,120,Maryland,275,Wisconsin,24,21,false,true,false,true,STATUS_FINAL
+401858521,11,2026-11-14,127,Michigan State,264,Washington,14,21,false,true,false,true,STATUS_FINAL
+401858522,11,2026-11-14,194,Ohio State,77,Northwestern,28,19,false,true,false,true,STATUS_FINAL
+401858523,11,2026-11-14,2483,Oregon,130,Michigan,31,7,false,true,false,true,STATUS_FINAL
+401858524,11,2026-11-14,213,Penn State,135,Minnesota,42,14,false,true,false,true,STATUS_FINAL
+401858525,11,2026-11-14,164,Rutgers,158,Nebraska,0,31,false,true,false,true,STATUS_FINAL
+401860914,11,2026-11-14,68,Boise State,204,Oregon State,46,41,false,true,false,true,STATUS_FINAL
+401860915,11,2026-11-14,21,San Diego State,328,Utah State,30,13,false,true,false,true,STATUS_FINAL
+401860916,11,2026-11-14,326,Texas State,278,Fresno State,37,35,false,true,false,true,STATUS_FINAL
+401860917,11,2026-11-14,265,Washington State,36,Colorado State,73,7,false,true,false,true,STATUS_FINAL
+401861967,11,2026-11-14,41,UConn,256,James Madison,46,22,false,false,false,true,STATUS_FINAL
+401862825,11,2026-11-14,2429,Charlotte,151,East Carolina,16,17,false,true,false,true,STATUS_FINAL
+401862826,11,2026-11-14,202,Tulsa,2226,Florida Atlantic,38,21,false,true,false,true,STATUS_FINAL
+401862827,11,2026-11-14,2636,UTSA,249,North Texas,35,16,false,true,false,true,STATUS_FINAL
+401862828,11,2026-11-14,242,Rice,2655,Tulane,17,20,false,true,false,true,STATUS_FINAL
+401862829,11,2026-11-14,218,Temple,5,UAB,10,36,false,true,false,true,STATUS_FINAL
+401864536,11,2026-11-14,2459,Northern Illinois,2440,Nevada,7,28,false,true,false,true,STATUS_FINAL
+401864537,11,2026-11-14,62,Hawai'i,2449,North Dakota State,13,21,false,true,false,true,STATUS_FINAL
+401864538,11,2026-11-14,2005,Air Force,23,San José State,24,3,false,true,false,true,STATUS_FINAL
+401864539,11,2026-11-14,167,New Mexico,2439,UNLV,17,21,false,true,false,true,STATUS_FINAL
+401864540,11,2026-11-14,2638,UTEP,2751,Wyoming,15,27,false,true,false,true,STATUS_FINAL
+401869928,11,2026-11-14,276,Marshall,2026,App State,16,20,false,true,false,true,STATUS_FINAL
+401869937,11,2026-11-14,324,Coastal Carolina,2032,Arkansas State,28,21,false,true,false,true,STATUS_FINAL
+401869952,11,2026-11-14,2247,Georgia State,290,Georgia Southern,17,34,false,true,false,true,STATUS_FINAL
+401870752,11,2026-11-14,98,Western Kentucky,55,Jacksonville State,34,24,false,true,false,true,STATUS_FINAL
+401870769,11,2026-11-14,2534,Sam Houston,338,Kennesaw State,7,26,false,true,false,true,STATUS_FINAL
+401870796,11,2026-11-14,2623,Missouri State,166,New Mexico State,27,21,false,true,true,true,STATUS_FINAL
+401871060,11,2026-11-14,48,Delaware,2229,Florida International,24,16,false,true,false,true,STATUS_FINAL
+401871061,11,2026-11-14,2335,Liberty,2393,Middle Tennessee,28,23,false,true,false,true,STATUS_FINAL
+401871099,11,2026-11-14,2348,Louisiana Tech,2572,Southern Miss,63,31,false,true,false,true,STATUS_FINAL
+401871100,11,2026-11-14,6,South Alabama,2653,Troy,27,14,false,true,false,true,STATUS_FINAL
+401856887,11,2026-11-15,201,Oklahoma,145,Ole Miss,24,17,false,true,false,true,STATUS_FINAL
+401866464,12,2026-11-17,195,Ohio,2050,Ball State,35,28,false,true,false,true,STATUS_FINAL
+401866465,12,2026-11-17,2711,Western Michigan,2199,Eastern Michigan,34,27,false,true,false,true,STATUS_FINAL
+401866466,12,2026-11-17,2309,Kent State,193,Miami (OH),3,20,false,true,false,true,STATUS_FINAL
+401866467,12,2026-11-18,113,Massachusetts,2006,Akron,33,34,false,true,false,true,STATUS_FINAL
+401866469,12,2026-11-18,2084,Buffalo,2117,Central Michigan,40,21,false,true,false,true,STATUS_FINAL
+401862830,12,2026-11-19,218,Temple,242,Rice,27,31,false,true,false,true,STATUS_FINAL
+401856869,12,2026-11-20,2116,UCF,66,Iowa State,48,17,false,true,false,true,STATUS_FINAL
+401858303,12,2026-11-20,150,Duke,228,Clemson,10,20,false,true,false,true,STATUS_FINAL
+401858529,12,2026-11-20,127,Michigan State,2483,Oregon,7,45,false,true,false,true,STATUS_FINAL
+401864542,12,2026-11-20,2751,Wyoming,167,New Mexico,17,24,false,true,false,true,STATUS_FINAL
+401864545,12,2026-11-20,2005,Air Force,2638,UTEP,52,3,false,true,false,true,STATUS_FINAL
+401866468,12,2026-11-20,2649,Toledo,189,Bowling Green,19,0,false,true,false,true,STATUS_FINAL
+401856746,12,2026-11-21,333,Alabama,236,Chattanooga,47,0,false,false,false,true,STATUS_FINAL
+401856747,12,2026-11-21,2,Auburn,2535,Samford,59,17,false,false,false,true,STATUS_FINAL
+401856748,12,2026-11-21,57,Florida,238,Vanderbilt,34,27,false,true,false,true,STATUS_FINAL
+401856749,12,2026-11-21,145,Ole Miss,2747,Wofford,59,17,false,false,false,true,STATUS_FINAL
+401856750,12,2026-11-21,344,Mississippi State,2635,Tennessee Tech,34,16,false,false,false,true,STATUS_FINAL
+401856751,12,2026-11-21,142,Missouri,96,Kentucky,28,14,false,true,false,true,STATUS_FINAL
+401856752,12,2026-11-21,201,Oklahoma,245,Texas A&M,28,7,false,true,false,true,STATUS_FINAL
+401856753,12,2026-11-21,2579,South Carolina,61,Georgia,6,34,false,true,false,true,STATUS_FINAL
+401856754,12,2026-11-21,2633,Tennessee,99,LSU,27,13,false,true,false,true,STATUS_FINAL
+401856755,12,2026-11-21,251,Texas,8,Arkansas,45,3,false,true,false,true,STATUS_FINAL
+401856865,12,2026-11-21,2306,Kansas State,12,Arizona,28,35,false,true,true,true,STATUS_FINAL
+401856866,12,2026-11-21,2305,Kansas,252,BYU,29,31,false,true,true,true,STATUS_FINAL
+401856867,12,2026-11-21,2132,Cincinnati,38,Colorado,35,28,false,true,false,true,STATUS_FINAL
+401856868,12,2026-11-21,277,West Virginia,248,Houston,31,34,false,true,false,true,STATUS_FINAL
+401856870,12,2026-11-21,9,Arizona State,197,Oklahoma State,27,30,false,true,true,true,STATUS_FINAL
+401856871,12,2026-11-21,239,Baylor,2641,Texas Tech,10,20,false,true,false,true,STATUS_FINAL
+401856872,12,2026-11-21,2628,TCU,254,Utah,17,38,false,true,false,true,STATUS_FINAL
+401858302,12,2026-11-21,2390,Miami,259,Virginia Tech,28,20,false,true,false,true,STATUS_FINAL
+401858304,12,2026-11-21,52,Florida State,152,NC State,10,28,false,true,false,true,STATUS_FINAL
+401858305,12,2026-11-21,258,Virginia,153,North Carolina,41,24,false,true,false,true,STATUS_FINAL
+401858306,12,2026-11-21,97,Louisville,221,Pittsburgh,42,10,false,true,false,true,STATUS_FINAL
+401858307,12,2026-11-21,87,Notre Dame,2567,SMU,24,3,false,false,false,true,STATUS_FINAL
+401858308,12,2026-11-21,25,California,24,Stanford,28,44,false,true,false,true,STATUS_FINAL
+401858309,12,2026-11-21,103,Boston College,183,Syracuse,27,15,false,true,false,true,STATUS_FINAL
+401858310,12,2026-11-21,59,Georgia Tech,154,Wake Forest,29,50,false,true,false,true,STATUS_FINAL
+401858527,12,2026-11-21,356,Illinois,2294,Iowa,17,34,false,true,false,true,STATUS_FINAL
+401858528,12,2026-11-21,130,Michigan,26,UCLA,18,16,false,true,true,true,STATUS_FINAL
+401858530,12,2026-11-21,135,Minnesota,77,Northwestern,20,17,false,true,false,true,STATUS_FINAL
+401858531,12,2026-11-21,158,Nebraska,194,Ohio State,31,28,false,true,false,true,STATUS_FINAL
+401858532,12,2026-11-21,213,Penn State,164,Rutgers,24,25,false,true,false,true,STATUS_FINAL
+401858533,12,2026-11-21,2509,Purdue,275,Wisconsin,10,42,false,true,false,true,STATUS_FINAL
+401858534,12,2026-11-21,30,USC,120,Maryland,35,21,false,true,false,true,STATUS_FINAL
+401858535,12,2026-11-21,264,Washington,84,Indiana,27,24,false,true,true,true,STATUS_FINAL
+401860918,12,2026-11-21,278,Fresno State,36,Colorado State,49,42,false,true,false,true,STATUS_FINAL
+401860919,12,2026-11-21,204,Oregon State,328,Utah State,31,24,false,true,false,true,STATUS_FINAL
+401860920,12,2026-11-21,326,Texas State,265,Washington State,42,14,false,true,false,true,STATUS_FINAL
+401860925,12,2026-11-21,68,Boise State,21,San Diego State,20,22,false,true,false,true,STATUS_FINAL
+401861968,12,2026-11-21,41,UConn,295,Old Dominion,29,21,false,false,false,true,STATUS_FINAL
+401862831,12,2026-11-21,349,Army,151,East Carolina,6,10,false,true,false,true,STATUS_FINAL
+401862832,12,2026-11-21,202,Tulsa,2429,Charlotte,42,14,false,true,false,true,STATUS_FINAL
+401862833,12,2026-11-21,2226,Florida Atlantic,58,South Florida,35,14,false,true,false,true,STATUS_FINAL
+401862834,12,2026-11-21,2426,Navy,235,Memphis,38,34,false,true,false,true,STATUS_FINAL
+401862835,12,2026-11-21,2655,Tulane,249,North Texas,28,24,false,true,false,true,STATUS_FINAL
+401862836,12,2026-11-21,5,UAB,2636,UTSA,17,19,false,true,false,true,STATUS_FINAL
+401864541,12,2026-11-21,2440,Nevada,62,Hawai'i,16,8,false,true,false,true,STATUS_FINAL
+401864543,12,2026-11-21,2449,North Dakota State,2459,Northern Illinois,31,25,false,true,false,true,STATUS_FINAL
+401864544,12,2026-11-21,23,San José State,2439,UNLV,22,24,false,true,false,true,STATUS_FINAL
+401869929,12,2026-11-21,2026,App State,2433,UL Monroe,17,16,false,true,true,true,STATUS_FINAL
+401869938,12,2026-11-21,2348,Louisiana Tech,2032,Arkansas State,48,3,false,true,false,true,STATUS_FINAL
+401869946,12,2026-11-21,309,Louisiana,324,Coastal Carolina,38,24,false,true,false,true,STATUS_FINAL
+401869953,12,2026-11-21,2653,Troy,290,Georgia Southern,7,45,false,true,false,true,STATUS_FINAL
+401869958,12,2026-11-21,276,Marshall,2247,Georgia State,28,27,false,true,false,true,STATUS_FINAL
+401871077,12,2026-11-21,166,New Mexico State,48,Delaware,30,42,false,true,false,true,STATUS_FINAL
+401871078,12,2026-11-21,338,Kennesaw State,2229,Florida International,35,24,false,true,false,true,STATUS_FINAL
+401871079,12,2026-11-21,55,Jacksonville State,2623,Missouri State,25,20,false,true,false,true,STATUS_FINAL
+401871080,12,2026-11-21,2335,Liberty,98,Western Kentucky,45,14,false,true,false,true,STATUS_FINAL
+401871081,12,2026-11-21,2534,Sam Houston,2393,Middle Tennessee,28,31,false,true,false,true,STATUS_FINAL
+401871101,12,2026-11-21,2572,Southern Miss,6,South Alabama,35,40,false,true,false,true,STATUS_FINAL
+401866470,13,2026-11-24,2199,Eastern Michigan,2309,Kent State,0,0,false,true,false,false,STATUS_SCHEDULED
+401866471,13,2026-11-24,2711,Western Michigan,193,Miami (OH),0,0,false,true,false,false,STATUS_SCHEDULED
+401856879,13,2026-11-26,2641,Texas Tech,2628,TCU,0,0,false,true,false,false,STATUS_SCHEDULED
+401856756,13,2026-11-27,245,Texas A&M,251,Texas,0,0,false,true,false,false,STATUS_SCHEDULED
+401856759,13,2026-11-27,52,Florida State,57,Florida,0,0,false,false,false,false,STATUS_SCHEDULED
+401856762,13,2026-11-27,145,Ole Miss,344,Mississippi State,0,0,false,true,false,false,STATUS_SCHEDULED
+401856880,13,2026-11-27,254,Utah,277,West Virginia,0,0,false,true,false,false,STATUS_SCHEDULED
+401858536,13,2026-11-27,2294,Iowa,158,Nebraska,0,0,false,true,false,false,STATUS_SCHEDULED
+401858544,13,2026-11-27,275,Wisconsin,135,Minnesota,0,0,false,true,false,false,STATUS_SCHEDULED
+401862838,13,2026-11-27,235,Memphis,218,Temple,0,0,false,true,false,false,STATUS_SCHEDULED
+401862840,13,2026-11-27,2636,UTSA,202,Tulsa,0,0,false,true,false,false,STATUS_SCHEDULED
+401864546,13,2026-11-27,167,New Mexico,2005,Air Force,0,0,false,true,false,false,STATUS_SCHEDULED
+401864549,13,2026-11-27,23,San José State,2449,North Dakota State,0,0,false,false,false,false,STATUS_SCHEDULED
+401866472,13,2026-11-27,2006,Akron,2084,Buffalo,0,0,false,true,false,false,STATUS_SCHEDULED
+401866473,13,2026-11-27,195,Ohio,2649,Toledo,0,0,false,true,false,false,STATUS_SCHEDULED
+401869930,13,2026-11-27,6,South Alabama,2026,App State,0,0,false,true,false,false,STATUS_SCHEDULED
+401856757,13,2026-11-28,333,Alabama,2,Auburn,0,0,false,true,false,false,STATUS_SCHEDULED
+401856758,13,2026-11-28,8,Arkansas,99,LSU,0,0,false,true,false,false,STATUS_SCHEDULED
+401856760,13,2026-11-28,61,Georgia,59,Georgia Tech,0,0,false,false,false,false,STATUS_SCHEDULED
+401856761,13,2026-11-28,96,Kentucky,97,Louisville,0,0,false,false,false,false,STATUS_SCHEDULED
+401856763,13,2026-11-28,142,Missouri,201,Oklahoma,0,0,false,true,false,false,STATUS_SCHEDULED
+401856764,13,2026-11-28,228,Clemson,2579,South Carolina,0,0,false,false,false,false,STATUS_SCHEDULED
+401856765,13,2026-11-28,238,Vanderbilt,2633,Tennessee,0,0,false,true,false,false,STATUS_SCHEDULED
+401856873,13,2026-11-28,12,Arizona,9,Arizona State,0,0,false,true,false,false,STATUS_SCHEDULED
+401856874,13,2026-11-28,248,Houston,239,Baylor,0,0,false,true,false,false,STATUS_SCHEDULED
+401856875,13,2026-11-28,38,Colorado,2116,UCF,0,0,false,true,false,false,STATUS_SCHEDULED
+401856876,13,2026-11-28,252,BYU,2132,Cincinnati,0,0,false,true,false,false,STATUS_SCHEDULED
+401856877,13,2026-11-28,197,Oklahoma State,2305,Kansas,0,0,false,true,false,false,STATUS_SCHEDULED
+401856878,13,2026-11-28,66,Iowa State,2306,Kansas State,0,0,false,true,false,false,STATUS_SCHEDULED
+401858311,13,2026-11-28,2390,Miami,103,Boston College,0,0,false,true,false,false,STATUS_SCHEDULED
+401858312,13,2026-11-28,154,Wake Forest,150,Duke,0,0,false,true,false,false,STATUS_SCHEDULED
+401858313,13,2026-11-28,153,North Carolina,152,NC State,0,0,false,true,false,false,STATUS_SCHEDULED
+401858314,13,2026-11-28,183,Syracuse,87,Notre Dame,0,0,false,false,false,false,STATUS_SCHEDULED
+401858315,13,2026-11-28,25,California,221,Pittsburgh,0,0,false,true,false,false,STATUS_SCHEDULED
+401858316,13,2026-11-28,24,Stanford,2567,SMU,0,0,false,true,false,false,STATUS_SCHEDULED
+401858317,13,2026-11-28,259,Virginia Tech,258,Virginia,0,0,false,true,false,false,STATUS_SCHEDULED
+401858537,13,2026-11-28,77,Northwestern,356,Illinois,0,0,false,true,false,false,STATUS_SCHEDULED
+401858538,13,2026-11-28,84,Indiana,2509,Purdue,0,0,false,true,false,false,STATUS_SCHEDULED
+401858539,13,2026-11-28,120,Maryland,213,Penn State,0,0,false,true,false,false,STATUS_SCHEDULED
+401858540,13,2026-11-28,194,Ohio State,130,Michigan,0,0,false,true,false,false,STATUS_SCHEDULED
+401858541,13,2026-11-28,2483,Oregon,264,Washington,0,0,false,true,false,false,STATUS_SCHEDULED
+401858542,13,2026-11-28,164,Rutgers,127,Michigan State,0,0,false,true,false,false,STATUS_SCHEDULED
+401858543,13,2026-11-28,26,UCLA,30,USC,0,0,false,true,false,false,STATUS_SCHEDULED
+401860926,13,2026-11-28,36,Colorado State,68,Boise State,0,0,false,false,false,false,STATUS_SCHEDULED
+401860927,13,2026-11-28,278,Fresno State,204,Oregon State,0,0,false,false,false,false,STATUS_SCHEDULED
+401860928,13,2026-11-28,328,Utah State,326,Texas State,0,0,false,false,false,false,STATUS_SCHEDULED
+401860929,13,2026-11-28,265,Washington State,21,San Diego State,0,0,false,false,false,false,STATUS_SCHEDULED
+401861969,13,2026-11-28,2751,Wyoming,41,UConn,0,0,false,false,false,false,STATUS_SCHEDULED
+401862837,13,2026-11-28,151,East Carolina,2226,Florida Atlantic,0,0,false,true,false,false,STATUS_SCHEDULED
+401862839,13,2026-11-28,58,South Florida,2655,Tulane,0,0,false,true,false,false,STATUS_SCHEDULED
+401862841,13,2026-11-28,242,Rice,349,Army,0,0,false,true,false,false,STATUS_SCHEDULED
+401862842,13,2026-11-28,2429,Charlotte,2426,Navy,0,0,false,true,false,false,STATUS_SCHEDULED
+401862843,13,2026-11-28,249,North Texas,5,UAB,0,0,false,true,false,false,STATUS_SCHEDULED
+401864547,13,2026-11-28,62,Hawai'i,16,Sacramento State,0,0,false,false,false,false,STATUS_SCHEDULED
+401864548,13,2026-11-28,2439,UNLV,2440,Nevada,0,0,false,true,false,false,STATUS_SCHEDULED
+401864550,13,2026-11-28,2459,Northern Illinois,2638,UTEP,0,0,false,true,false,false,STATUS_SCHEDULED
+401866474,13,2026-11-28,2050,Ball State,2117,Central Michigan,0,0,false,true,false,false,STATUS_SCHEDULED
+401866475,13,2026-11-28,189,Bowling Green,113,Massachusetts,0,0,false,true,false,false,STATUS_SCHEDULED
+401869939,13,2026-11-28,2032,Arkansas State,2653,Troy,0,0,false,true,false,false,STATUS_SCHEDULED
+401869947,13,2026-11-28,256,James Madison,324,Coastal Carolina,0,0,false,true,false,false,STATUS_SCHEDULED
+401869954,13,2026-11-28,290,Georgia Southern,2348,Louisiana Tech,0,0,false,true,false,false,STATUS_SCHEDULED
+401869959,13,2026-11-28,2247,Georgia State,309,Louisiana,0,0,false,true,false,false,STATUS_SCHEDULED
+401870804,13,2026-11-28,98,Western Kentucky,338,Kennesaw State,0,0,false,true,false,false,STATUS_SCHEDULED
+401871062,13,2026-11-28,48,Delaware,55,Jacksonville State,0,0,false,true,false,false,STATUS_SCHEDULED
+401871063,13,2026-11-28,2623,Missouri State,2335,Liberty,0,0,false,true,false,false,STATUS_SCHEDULED
+401871082,13,2026-11-28,2229,Florida International,2534,Sam Houston,0,0,false,true,false,false,STATUS_SCHEDULED
+401871083,13,2026-11-28,2393,Middle Tennessee,166,New Mexico State,0,0,false,true,false,false,STATUS_SCHEDULED
+401871102,13,2026-11-28,2433,UL Monroe,276,Marshall,0,0,false,true,false,false,STATUS_SCHEDULED
+401871103,13,2026-11-28,295,Old Dominion,2572,Southern Miss,0,0,false,true,false,false,STATUS_SCHEDULED
+401869533,14,2026-12-04,-1,TBD,-2,TBD,0,0,true,false,false,false,STATUS_SCHEDULED
+401869535,14,2026-12-04,2335,Liberty,55,Jacksonville State,0,0,false,false,false,false,STATUS_SCHEDULED
+401869542,14,2026-12-04,68,Boise State,21,San Diego State,0,0,false,false,false,false,STATUS_SCHEDULED
+401869546,14,2026-12-04,-1,TBD,-2,TBD,0,0,false,false,false,false,STATUS_SCHEDULED
+401874049,14,2026-12-04,-1,TBD,-2,TBD,0,0,false,false,false,false,STATUS_SCHEDULED
+401858318,14,2026-12-05,2390,Miami,154,Wake Forest,0,0,true,false,false,false,STATUS_SCHEDULED
+401869532,14,2026-12-05,-1,TBD,-2,TBD,0,0,false,false,false,false,STATUS_SCHEDULED
+401869534,14,2026-12-05,-1,TBD,-2,TBD,0,0,true,false,false,false,STATUS_SCHEDULED
+401869536,14,2026-12-05,-1,TBD,-2,TBD,0,0,true,false,false,false,STATUS_SCHEDULED
+401869545,14,2026-12-05,61,Georgia,-2,TBD,0,0,true,false,false,false,STATUS_SCHEDULED
+401862844,15,2026-12-12,349,Army,2426,Navy,0,0,true,true,false,false,STATUS_SCHEDULED
+401874421,1,2026-12-12,-1,TBD,-2,TBD,0,0,true,false,false,false,STATUS_SCHEDULED

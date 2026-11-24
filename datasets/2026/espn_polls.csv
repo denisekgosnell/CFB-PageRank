@@ -1,0 +1,727 @@
+poll,poll_date,rank,team_id,team,points,first_place_votes
+ap,2026-08-17,1,194,Ohio State,1672,40
+ap,2026-08-17,2,2483,Oregon,1597,14
+ap,2026-08-17,3,61,Georgia,1513,0
+ap,2026-08-17,4,87,Notre Dame,1510,6
+ap,2026-08-17,5,251,Texas,1483,0
+ap,2026-08-17,6,84,Indiana,1440,8
+ap,2026-08-17,7,2390,Miami,1379,1
+ap,2026-08-17,8,245,Texas A&M,1131,0
+ap,2026-08-17,9,145,Ole Miss,1102,0
+ap,2026-08-17,10,201,Oklahoma,1047,0
+ap,2026-08-17,11,99,LSU,988,0
+ap,2026-08-17,12,2641,Texas Tech,983,0
+ap,2026-08-17,13,333,Alabama,904,0
+ap,2026-08-17,14,30,USC,839,0
+ap,2026-08-17,14,252,BYU,839,0
+ap,2026-08-17,16,130,Michigan,718,0
+ap,2026-08-17,17,264,Washington,501,0
+ap,2026-08-17,18,213,Penn State,482,0
+ap,2026-08-17,19,2567,SMU,434,0
+ap,2026-08-17,20,2633,Tennessee,394,0
+ap,2026-08-17,21,254,Utah,304,0
+ap,2026-08-17,22,2294,Iowa,260,0
+ap,2026-08-17,23,248,Houston,252,0
+ap,2026-08-17,24,97,Louisville,194,0
+ap,2026-08-17,25,142,Missouri,117,0
+ap,2026-09-08,1,194,Ohio State,1684,46
+ap,2026-09-08,2,61,Georgia,1532,0
+ap,2026-09-08,3,87,Notre Dame,1512,4
+ap,2026-09-08,4,251,Texas,1462,2
+ap,2026-09-08,5,84,Indiana,1428,8
+ap,2026-09-08,6,2483,Oregon,1422,3
+ap,2026-09-08,7,2390,Miami,1405,1
+ap,2026-09-08,8,99,LSU,1315,5
+ap,2026-09-08,9,145,Ole Miss,1154,0
+ap,2026-09-08,10,245,Texas A&M,1079,0
+ap,2026-09-08,11,201,Oklahoma,1039,0
+ap,2026-09-08,12,333,Alabama,910,0
+ap,2026-09-08,13,2641,Texas Tech,900,0
+ap,2026-09-08,14,30,USC,861,0
+ap,2026-09-08,15,252,BYU,840,0
+ap,2026-09-08,16,213,Penn State,621,0
+ap,2026-09-08,17,2567,SMU,501,0
+ap,2026-09-08,18,2633,Tennessee,491,0
+ap,2026-09-08,19,264,Washington,489,0
+ap,2026-09-08,20,254,Utah,381,0
+ap,2026-09-08,21,2294,Iowa,369,0
+ap,2026-09-08,22,248,Houston,214,0
+ap,2026-09-08,23,142,Missouri,182,0
+ap,2026-09-08,24,97,Louisville,163,0
+ap,2026-09-08,25,258,Virginia,89,0
+ap,2026-09-13,1,251,Texas,1678,56
+ap,2026-09-13,2,61,Georgia,1551,3
+ap,2026-09-13,3,87,Notre Dame,1531,1
+ap,2026-09-13,4,84,Indiana,1466,3
+ap,2026-09-13,5,2390,Miami,1452,4
+ap,2026-09-13,6,194,Ohio State,1407,0
+ap,2026-09-13,7,99,LSU,1334,1
+ap,2026-09-13,8,145,Ole Miss,1216,0
+ap,2026-09-13,9,245,Texas A&M,1165,0
+ap,2026-09-13,10,333,Alabama,1068,0
+ap,2026-09-13,11,252,BYU,966,0
+ap,2026-09-13,12,30,USC,944,0
+ap,2026-09-13,13,2641,Texas Tech,910,0
+ap,2026-09-13,14,213,Penn State,692,0
+ap,2026-09-13,15,2633,Tennessee,676,0
+ap,2026-09-13,16,2567,SMU,636,0
+ap,2026-09-13,17,254,Utah,558,0
+ap,2026-09-13,18,2294,Iowa,391,0
+ap,2026-09-13,19,130,Michigan,382,0
+ap,2026-09-13,20,142,Missouri,344,0
+ap,2026-09-13,21,2483,Oregon,324,0
+ap,2026-09-13,22,248,Houston,292,0
+ap,2026-09-13,23,97,Louisville,244,0
+ap,2026-09-13,24,201,Oklahoma,222,0
+ap,2026-09-13,25,258,Virginia,182,0
+ap,2026-09-20,1,251,Texas,1706,58
+ap,2026-09-20,2,61,Georgia,1580,3
+ap,2026-09-20,3,87,Notre Dame,1517,0
+ap,2026-09-20,4,145,Ole Miss,1488,3
+ap,2026-09-20,5,84,Indiana,1467,4
+ap,2026-09-20,6,2390,Miami,1445,1
+ap,2026-09-20,7,194,Ohio State,1415,0
+ap,2026-09-20,8,333,Alabama,1182,0
+ap,2026-09-20,9,252,BYU,1090,0
+ap,2026-09-20,10,99,LSU,1078,0
+ap,2026-09-20,11,2641,Texas Tech,1067,0
+ap,2026-09-20,12,30,USC,907,0
+ap,2026-09-20,13,213,Penn State,850,0
+ap,2026-09-20,14,2633,Tennessee,826,0
+ap,2026-09-20,15,254,Utah,752,0
+ap,2026-09-20,16,97,Louisville,692,0
+ap,2026-09-20,17,2294,Iowa,561,0
+ap,2026-09-20,18,130,Michigan,432,0
+ap,2026-09-20,19,142,Missouri,369,0
+ap,2026-09-20,20,2483,Oregon,364,0
+ap,2026-09-20,21,57,Florida,269,0
+ap,2026-09-20,22,2567,SMU,212,0
+ap,2026-09-20,23,245,Texas A&M,202,0
+ap,2026-09-20,24,344,Mississippi State,179,0
+ap,2026-09-20,25,248,Houston,127,0
+ap,2026-09-27,1,251,Texas,1737,62
+ap,2026-09-27,2,61,Georgia,1646,6
+ap,2026-09-27,3,87,Notre Dame,1581,0
+ap,2026-09-27,4,2390,Miami,1501,1
+ap,2026-09-27,5,194,Ohio State,1465,0
+ap,2026-09-27,6,84,Indiana,1408,1
+ap,2026-09-27,7,333,Alabama,1305,0
+ap,2026-09-27,8,57,Florida,1272,0
+ap,2026-09-27,9,145,Ole Miss,1089,0
+ap,2026-09-27,10,252,BYU,1078,0
+ap,2026-09-27,11,99,LSU,1073,0
+ap,2026-09-27,12,2641,Texas Tech,1053,0
+ap,2026-09-27,13,254,Utah,903,0
+ap,2026-09-27,14,2294,Iowa,856,0
+ap,2026-09-27,15,2483,Oregon,725,0
+ap,2026-09-27,16,344,Mississippi State,715,0
+ap,2026-09-27,17,2633,Tennessee,663,0
+ap,2026-09-27,18,30,USC,410,0
+ap,2026-09-27,19,197,Oklahoma State,345,0
+ap,2026-09-27,20,248,Houston,278,0
+ap,2026-09-27,21,2567,SMU,246,0
+ap,2026-09-27,22,68,Boise State,221,0
+ap,2026-09-27,23,26,UCLA,218,0
+ap,2026-09-27,24,96,Kentucky,150,0
+ap,2026-09-27,25,142,Missouri,118,0
+ap,2026-10-04,1,251,Texas,1737,61
+ap,2026-10-04,2,61,Georgia,1647,6
+ap,2026-10-04,3,87,Notre Dame,1532,0
+ap,2026-10-04,4,2390,Miami,1524,2
+ap,2026-10-04,5,194,Ohio State,1490,0
+ap,2026-10-04,6,333,Alabama,1460,0
+ap,2026-10-04,7,84,Indiana,1380,1
+ap,2026-10-04,8,252,BYU,1144,0
+ap,2026-10-04,9,145,Ole Miss,1095,0
+ap,2026-10-04,10,99,LSU,1087,0
+ap,2026-10-04,11,2641,Texas Tech,1062,0
+ap,2026-10-04,12,254,Utah,996,0
+ap,2026-10-04,13,2483,Oregon,831,0
+ap,2026-10-04,14,142,Missouri,755,0
+ap,2026-10-04,15,2633,Tennessee,746,0
+ap,2026-10-04,16,57,Florida,691,0
+ap,2026-10-04,17,344,Mississippi State,487,0
+ap,2026-10-04,18,197,Oklahoma State,477,0
+ap,2026-10-04,19,30,USC,439,0
+ap,2026-10-04,20,2294,Iowa,367,0
+ap,2026-10-04,21,26,UCLA,287,0
+ap,2026-10-04,22,248,Houston,279,0
+ap,2026-10-04,23,68,Boise State,271,0
+ap,2026-10-04,24,2567,SMU,167,0
+ap,2026-10-04,25,221,Pittsburgh,162,0
+ap,2026-10-11,1,61,Georgia,1745,66
+ap,2026-10-11,2,87,Notre Dame,1630,1
+ap,2026-10-11,3,2390,Miami,1594,2
+ap,2026-10-11,4,194,Ohio State,1508,0
+ap,2026-10-11,5,84,Indiana,1461,1
+ap,2026-10-11,6,333,Alabama,1372,0
+ap,2026-10-11,7,251,Texas,1371,0
+ap,2026-10-11,8,252,BYU,1237,0
+ap,2026-10-11,9,145,Ole Miss,1135,0
+ap,2026-10-11,10,2641,Texas Tech,1132,0
+ap,2026-10-11,11,254,Utah,1073,0
+ap,2026-10-11,12,26,UCLA,951,0
+ap,2026-10-11,13,142,Missouri,882,0
+ap,2026-10-11,14,2633,Tennessee,706,0
+ap,2026-10-11,15,96,Kentucky,655,0
+ap,2026-10-11,16,344,Mississippi State,650,0
+ap,2026-10-11,17,2294,Iowa,621,0
+ap,2026-10-11,18,197,Oklahoma State,604,0
+ap,2026-10-11,19,30,USC,505,0
+ap,2026-10-11,20,248,Houston,380,0
+ap,2026-10-11,21,154,Wake Forest,326,0
+ap,2026-10-11,22,99,LSU,274,0
+ap,2026-10-11,23,68,Boise State,268,0
+ap,2026-10-11,24,2567,SMU,142,0
+ap,2026-10-11,25,77,Northwestern,112,0
+ap,2026-10-18,1,2390,Miami,1697,40
+ap,2026-10-18,2,252,BYU,1675,20
+ap,2026-10-18,3,194,Ohio State,1649,9
+ap,2026-10-18,4,87,Notre Dame,1395,0
+ap,2026-10-18,5,61,Georgia,1382,0
+ap,2026-10-18,6,84,Indiana,1370,0
+ap,2026-10-18,7,145,Ole Miss,1360,0
+ap,2026-10-18,8,2641,Texas Tech,1336,1
+ap,2026-10-18,9,26,UCLA,1159,0
+ap,2026-10-18,10,254,Utah,1153,0
+ap,2026-10-18,11,2633,Tennessee,1151,0
+ap,2026-10-18,12,96,Kentucky,932,0
+ap,2026-10-18,13,333,Alabama,870,0
+ap,2026-10-18,14,248,Houston,785,0
+ap,2026-10-18,15,2294,Iowa,747,0
+ap,2026-10-18,16,30,USC,592,0
+ap,2026-10-18,17,154,Wake Forest,574,0
+ap,2026-10-18,18,99,LSU,529,0
+ap,2026-10-18,19,251,Texas,440,0
+ap,2026-10-18,20,57,Florida,355,0
+ap,2026-10-18,21,68,Boise State,295,0
+ap,2026-10-18,22,142,Missouri,290,0
+ap,2026-10-18,23,2567,SMU,265,0
+ap,2026-10-18,24,77,Northwestern,254,0
+ap,2026-10-18,25,12,Arizona,136,0
+ap,2026-10-25,1,2390,Miami,1735,59
+ap,2026-10-25,2,194,Ohio State,1681,10
+ap,2026-10-25,3,61,Georgia,1511,0
+ap,2026-10-25,4,84,Indiana,1459,0
+ap,2026-10-25,5,87,Notre Dame,1458,0
+ap,2026-10-25,6,254,Utah,1413,1
+ap,2026-10-25,7,26,UCLA,1398,0
+ap,2026-10-25,8,252,BYU,1325,0
+ap,2026-10-25,9,96,Kentucky,1185,0
+ap,2026-10-25,10,333,Alabama,1063,0
+ap,2026-10-25,11,251,Texas,966,0
+ap,2026-10-25,12,145,Ole Miss,871,0
+ap,2026-10-25,13,2641,Texas Tech,861,0
+ap,2026-10-25,14,154,Wake Forest,822,0
+ap,2026-10-25,15,99,LSU,813,0
+ap,2026-10-25,16,2633,Tennessee,662,0
+ap,2026-10-25,17,57,Florida,556,0
+ap,2026-10-25,18,248,Houston,491,0
+ap,2026-10-25,19,2567,SMU,440,0
+ap,2026-10-25,20,68,Boise State,422,0
+ap,2026-10-25,20,77,Northwestern,422,0
+ap,2026-10-25,22,12,Arizona,400,0
+ap,2026-10-25,23,142,Missouri,329,0
+ap,2026-10-25,24,197,Oklahoma State,180,0
+ap,2026-10-25,25,275,Wisconsin,125,0
+ap,2026-11-01,1,2390,Miami,1740,62
+ap,2026-11-01,2,61,Georgia,1648,7
+ap,2026-11-01,3,254,Utah,1540,1
+ap,2026-11-01,4,87,Notre Dame,1476,0
+ap,2026-11-01,5,26,UCLA,1473,0
+ap,2026-11-01,6,84,Indiana,1446,0
+ap,2026-11-01,7,252,BYU,1358,0
+ap,2026-11-01,8,96,Kentucky,1253,0
+ap,2026-11-01,9,333,Alabama,1107,0
+ap,2026-11-01,10,251,Texas,1057,0
+ap,2026-11-01,11,194,Ohio State,1049,0
+ap,2026-11-01,12,145,Ole Miss,953,0
+ap,2026-11-01,13,2641,Texas Tech,931,0
+ap,2026-11-01,14,154,Wake Forest,898,0
+ap,2026-11-01,15,99,LSU,814,0
+ap,2026-11-01,16,2633,Tennessee,719,0
+ap,2026-11-01,17,248,Houston,590,0
+ap,2026-11-01,18,30,USC,539,0
+ap,2026-11-01,19,142,Missouri,475,0
+ap,2026-11-01,20,68,Boise State,451,0
+ap,2026-11-01,21,2294,Iowa,401,0
+ap,2026-11-01,22,167,New Mexico,179,0
+ap,2026-11-01,23,2579,South Carolina,163,0
+ap,2026-11-01,24,12,Arizona,154,0
+ap,2026-11-01,25,57,Florida,94,0
+ap,2026-11-08,1,61,Georgia,1729,53
+ap,2026-11-08,2,254,Utah,1675,12
+ap,2026-11-08,3,87,Notre Dame,1597,5
+ap,2026-11-08,4,26,UCLA,1542,0
+ap,2026-11-08,5,2390,Miami,1430,0
+ap,2026-11-08,6,84,Indiana,1376,0
+ap,2026-11-08,7,333,Alabama,1334,0
+ap,2026-11-08,8,251,Texas,1253,0
+ap,2026-11-08,9,2633,Tennessee,1177,0
+ap,2026-11-08,10,2641,Texas Tech,1082,0
+ap,2026-11-08,11,154,Wake Forest,1067,0
+ap,2026-11-08,12,252,BYU,1041,0
+ap,2026-11-08,13,96,Kentucky,897,0
+ap,2026-11-08,14,248,Houston,803,0
+ap,2026-11-08,15,30,USC,679,0
+ap,2026-11-08,16,2294,Iowa,659,0
+ap,2026-11-08,17,68,Boise State,563,0
+ap,2026-11-08,18,2483,Oregon,517,0
+ap,2026-11-08,19,145,Ole Miss,415,0
+ap,2026-11-08,20,2579,South Carolina,399,0
+ap,2026-11-08,21,194,Ohio State,349,0
+ap,2026-11-08,22,12,Arizona,324,0
+ap,2026-11-08,23,167,New Mexico,301,0
+ap,2026-11-08,24,99,LSU,277,0
+ap,2026-11-08,25,2567,SMU,118,0
+ap,2026-11-16,1,61,Georgia,1734,58
+ap,2026-11-16,2,254,Utah,1677,10
+ap,2026-11-16,3,87,Notre Dame,1584,2
+ap,2026-11-16,4,26,UCLA,1552,0
+ap,2026-11-16,5,2390,Miami,1426,0
+ap,2026-11-16,6,84,Indiana,1384,0
+ap,2026-11-16,7,333,Alabama,1297,0
+ap,2026-11-16,8,251,Texas,1290,0
+ap,2026-11-16,9,2633,Tennessee,1179,0
+ap,2026-11-16,10,154,Wake Forest,1134,0
+ap,2026-11-16,11,2641,Texas Tech,1081,0
+ap,2026-11-16,12,252,BYU,1038,0
+ap,2026-11-16,13,2294,Iowa,861,0
+ap,2026-11-16,14,2483,Oregon,820,0
+ap,2026-11-16,15,68,Boise State,767,0
+ap,2026-11-16,16,194,Ohio State,661,0
+ap,2026-11-16,17,96,Kentucky,599,0
+ap,2026-11-16,18,30,USC,546,0
+ap,2026-11-16,19,12,Arizona,404,0
+ap,2026-11-16,20,248,Houston,365,0
+ap,2026-11-16,21,97,Louisville,357,0
+ap,2026-11-16,22,2335,Liberty,183,0
+ap,2026-11-16,23,57,Florida,173,0
+ap,2026-11-16,24,235,Memphis,138,0
+ap,2026-11-16,25,145,Ole Miss,103,0
+ap,2026-11-22,1,61,Georgia,1711,56
+ap,2026-11-22,2,254,Utah,1662,12
+ap,2026-11-22,3,87,Notre Dame,1591,1
+ap,2026-11-22,4,2390,Miami,1491,0
+ap,2026-11-22,5,251,Texas,1392,0
+ap,2026-11-22,6,333,Alabama,1352,0
+ap,2026-11-22,7,2633,Tennessee,1317,0
+ap,2026-11-22,8,154,Wake Forest,1264,0
+ap,2026-11-22,9,2641,Texas Tech,1166,0
+ap,2026-11-22,10,26,UCLA,1156,0
+ap,2026-11-22,11,252,BYU,1030,0
+ap,2026-11-22,12,84,Indiana,958,0
+ap,2026-11-22,13,2294,Iowa,912,0
+ap,2026-11-22,14,2483,Oregon,865,0
+ap,2026-11-22,15,30,USC,699,0
+ap,2026-11-22,16,12,Arizona,665,0
+ap,2026-11-22,17,248,Houston,570,0
+ap,2026-11-22,18,97,Louisville,565,0
+ap,2026-11-22,19,201,Oklahoma,341,0
+ap,2026-11-22,20,57,Florida,310,0
+ap,2026-11-22,21,2335,Liberty,294,0
+ap,2026-11-22,22,68,Boise State,207,0
+ap,2026-11-22,23,145,Ole Miss,200,0
+ap,2026-11-22,24,142,Missouri,125,0
+ap,2026-11-22,25,194,Ohio State,112,0
+cfp,2026-11-03,1,2390,Miami,0,0
+cfp,2026-11-03,2,61,Georgia,0,0
+cfp,2026-11-03,3,254,Utah,0,0
+cfp,2026-11-03,4,84,Indiana,0,0
+cfp,2026-11-03,5,333,Alabama,0,0
+cfp,2026-11-03,6,96,Kentucky,0,0
+cfp,2026-11-03,7,251,Texas,0,0
+cfp,2026-11-03,8,26,UCLA,0,0
+cfp,2026-11-03,9,252,BYU,0,0
+cfp,2026-11-03,10,145,Ole Miss,0,0
+cfp,2026-11-03,11,87,Notre Dame,0,0
+cfp,2026-11-03,12,194,Ohio State,0,0
+cfp,2026-11-03,13,2633,Tennessee,0,0
+cfp,2026-11-03,14,99,LSU,0,0
+cfp,2026-11-03,15,2641,Texas Tech,0,0
+cfp,2026-11-03,16,154,Wake Forest,0,0
+cfp,2026-11-03,17,248,Houston,0,0
+cfp,2026-11-03,18,142,Missouri,0,0
+cfp,2026-11-03,19,2294,Iowa,0,0
+cfp,2026-11-03,20,30,USC,0,0
+cfp,2026-11-03,21,2579,South Carolina,0,0
+cfp,2026-11-03,22,12,Arizona,0,0
+cfp,2026-11-03,23,2483,Oregon,0,0
+cfp,2026-11-03,24,57,Florida,0,0
+cfp,2026-11-03,25,68,Boise State,0,0
+cfp,2026-11-10,1,61,Georgia,0,0
+cfp,2026-11-10,2,254,Utah,0,0
+cfp,2026-11-10,3,333,Alabama,0,0
+cfp,2026-11-10,4,26,UCLA,0,0
+cfp,2026-11-10,5,87,Notre Dame,0,0
+cfp,2026-11-10,6,251,Texas,0,0
+cfp,2026-11-10,7,2390,Miami,0,0
+cfp,2026-11-10,8,2633,Tennessee,0,0
+cfp,2026-11-10,9,84,Indiana,0,0
+cfp,2026-11-10,10,252,BYU,0,0
+cfp,2026-11-10,11,96,Kentucky,0,0
+cfp,2026-11-10,12,2641,Texas Tech,0,0
+cfp,2026-11-10,13,154,Wake Forest,0,0
+cfp,2026-11-10,14,248,Houston,0,0
+cfp,2026-11-10,15,2294,Iowa,0,0
+cfp,2026-11-10,16,2483,Oregon,0,0
+cfp,2026-11-10,17,2579,South Carolina,0,0
+cfp,2026-11-10,18,30,USC,0,0
+cfp,2026-11-10,19,145,Ole Miss,0,0
+cfp,2026-11-10,20,194,Ohio State,0,0
+cfp,2026-11-10,21,99,LSU,0,0
+cfp,2026-11-10,22,142,Missouri,0,0
+cfp,2026-11-10,23,12,Arizona,0,0
+cfp,2026-11-10,24,68,Boise State,0,0
+cfp,2026-11-10,25,197,Oklahoma State,0,0
+cfp,2026-11-17,1,61,Georgia,0,0
+cfp,2026-11-17,2,254,Utah,0,0
+cfp,2026-11-17,3,333,Alabama,0,0
+cfp,2026-11-17,4,26,UCLA,0,0
+cfp,2026-11-17,5,251,Texas,0,0
+cfp,2026-11-17,6,87,Notre Dame,0,0
+cfp,2026-11-17,7,2390,Miami,0,0
+cfp,2026-11-17,8,84,Indiana,0,0
+cfp,2026-11-17,9,2633,Tennessee,0,0
+cfp,2026-11-17,10,252,BYU,0,0
+cfp,2026-11-17,11,154,Wake Forest,0,0
+cfp,2026-11-17,12,2641,Texas Tech,0,0
+cfp,2026-11-17,13,2483,Oregon,0,0
+cfp,2026-11-17,14,194,Ohio State,0,0
+cfp,2026-11-17,15,2294,Iowa,0,0
+cfp,2026-11-17,16,96,Kentucky,0,0
+cfp,2026-11-17,17,68,Boise State,0,0
+cfp,2026-11-17,18,30,USC,0,0
+cfp,2026-11-17,19,12,Arizona,0,0
+cfp,2026-11-17,20,248,Houston,0,0
+cfp,2026-11-17,21,2579,South Carolina,0,0
+cfp,2026-11-17,22,201,Oklahoma,0,0
+cfp,2026-11-17,23,97,Louisville,0,0
+cfp,2026-11-17,24,57,Florida,0,0
+cfp,2026-11-17,25,145,Ole Miss,0,0
+coaches,2026-08-04,1,194,Ohio State,1741,38
+coaches,2026-08-04,2,2483,Oregon,1637,6
+coaches,2026-08-04,3,61,Georgia,1591,7
+coaches,2026-08-04,4,251,Texas,1544,2
+coaches,2026-08-04,5,87,Notre Dame,1524,5
+coaches,2026-08-04,6,84,Indiana,1522,14
+coaches,2026-08-04,7,2390,Miami,1409,0
+coaches,2026-08-04,8,245,Texas A&M,1174,0
+coaches,2026-08-04,9,201,Oklahoma,1104,0
+coaches,2026-08-04,10,145,Ole Miss,1096,0
+coaches,2026-08-04,11,333,Alabama,1050,0
+coaches,2026-08-04,12,2641,Texas Tech,1034,0
+coaches,2026-08-04,13,99,LSU,951,0
+coaches,2026-08-04,14,30,USC,838,0
+coaches,2026-08-04,15,252,BYU,781,0
+coaches,2026-08-04,16,130,Michigan,719,0
+coaches,2026-08-04,17,213,Penn State,463,0
+coaches,2026-08-04,18,2633,Tennessee,428,0
+coaches,2026-08-04,19,264,Washington,406,0
+coaches,2026-08-04,20,2567,SMU,378,0
+coaches,2026-08-04,21,254,Utah,313,0
+coaches,2026-08-04,22,2294,Iowa,291,0
+coaches,2026-08-04,23,228,Clemson,235,0
+coaches,2026-08-04,24,248,Houston,194,0
+coaches,2026-08-04,25,142,Missouri,158,0
+coaches,2026-09-08,1,194,Ohio State,1801,50
+coaches,2026-09-08,2,61,Georgia,1672,7
+coaches,2026-09-08,3,251,Texas,1600,1
+coaches,2026-09-08,4,87,Notre Dame,1558,4
+coaches,2026-09-08,5,84,Indiana,1537,11
+coaches,2026-09-08,6,2483,Oregon,1524,1
+coaches,2026-09-08,7,2390,Miami,1477,0
+coaches,2026-09-08,8,99,LSU,1279,0
+coaches,2026-09-08,9,245,Texas A&M,1204,0
+coaches,2026-09-08,10,201,Oklahoma,1184,0
+coaches,2026-09-08,11,145,Ole Miss,1141,0
+coaches,2026-09-08,12,333,Alabama,1059,0
+coaches,2026-09-08,13,2641,Texas Tech,955,0
+coaches,2026-09-08,14,30,USC,919,0
+coaches,2026-09-08,15,252,BYU,838,0
+coaches,2026-09-08,16,213,Penn State,612,0
+coaches,2026-09-08,17,2567,SMU,517,0
+coaches,2026-09-08,18,2633,Tennessee,513,0
+coaches,2026-09-08,19,264,Washington,432,0
+coaches,2026-09-08,20,254,Utah,415,0
+coaches,2026-09-08,21,2294,Iowa,411,0
+coaches,2026-09-08,22,248,Houston,236,0
+coaches,2026-09-08,23,142,Missouri,231,0
+coaches,2026-09-08,24,130,Michigan,164,0
+coaches,2026-09-08,25,57,Florida,157,0
+coaches,2026-09-08,25,258,Virginia,157,0
+coaches,2026-09-13,1,251,Texas,1804,42
+coaches,2026-09-13,2,61,Georgia,1732,15
+coaches,2026-09-13,3,87,Notre Dame,1639,4
+coaches,2026-09-13,4,84,Indiana,1611,10
+coaches,2026-09-13,5,2390,Miami,1549,2
+coaches,2026-09-13,6,194,Ohio State,1480,0
+coaches,2026-09-13,7,99,LSU,1405,1
+coaches,2026-09-13,8,245,Texas A&M,1311,0
+coaches,2026-09-13,9,145,Ole Miss,1228,0
+coaches,2026-09-13,10,333,Alabama,1206,0
+coaches,2026-09-13,11,30,USC,1023,0
+coaches,2026-09-13,12,2641,Texas Tech,977,0
+coaches,2026-09-13,13,252,BYU,975,0
+coaches,2026-09-13,14,2633,Tennessee,679,0
+coaches,2026-09-13,15,213,Penn State,676,0
+coaches,2026-09-13,16,2567,SMU,605,0
+coaches,2026-09-13,17,254,Utah,590,0
+coaches,2026-09-13,18,2483,Oregon,564,0
+coaches,2026-09-13,19,130,Michigan,426,0
+coaches,2026-09-13,20,2294,Iowa,423,0
+coaches,2026-09-13,21,201,Oklahoma,395,0
+coaches,2026-09-13,22,142,Missouri,340,0
+coaches,2026-09-13,23,248,Houston,290,0
+coaches,2026-09-13,24,264,Washington,268,0
+coaches,2026-09-13,25,258,Virginia,249,0
+coaches,2026-09-20,1,251,Texas,1807,46
+coaches,2026-09-20,2,61,Georgia,1742,16
+coaches,2026-09-20,3,87,Notre Dame,1636,2
+coaches,2026-09-20,4,84,Indiana,1613,9
+coaches,2026-09-20,5,2390,Miami,1552,1
+coaches,2026-09-20,6,145,Ole Miss,1501,0
+coaches,2026-09-20,7,194,Ohio State,1473,0
+coaches,2026-09-20,8,333,Alabama,1309,0
+coaches,2026-09-20,9,252,BYU,1089,0
+coaches,2026-09-20,10,2641,Texas Tech,1079,0
+coaches,2026-09-20,11,99,LSU,1067,0
+coaches,2026-09-20,12,30,USC,1057,0
+coaches,2026-09-20,13,2633,Tennessee,833,0
+coaches,2026-09-20,14,213,Penn State,814,0
+coaches,2026-09-20,15,254,Utah,743,0
+coaches,2026-09-20,16,2483,Oregon,594,0
+coaches,2026-09-20,17,2294,Iowa,580,0
+coaches,2026-09-20,18,130,Michigan,545,0
+coaches,2026-09-20,19,97,Louisville,519,0
+coaches,2026-09-20,20,245,Texas A&M,447,0
+coaches,2026-09-20,21,142,Missouri,382,0
+coaches,2026-09-20,22,57,Florida,370,0
+coaches,2026-09-20,23,264,Washington,251,0
+coaches,2026-09-20,24,201,Oklahoma,213,0
+coaches,2026-09-20,25,2567,SMU,162,0
+coaches,2026-09-27,1,251,Texas,1779,45
+coaches,2026-09-27,2,61,Georgia,1735,17
+coaches,2026-09-27,3,87,Notre Dame,1641,3
+coaches,2026-09-27,4,2390,Miami,1569,0
+coaches,2026-09-27,5,84,Indiana,1554,8
+coaches,2026-09-27,6,194,Ohio State,1463,0
+coaches,2026-09-27,7,333,Alabama,1399,0
+coaches,2026-09-27,8,57,Florida,1214,0
+coaches,2026-09-27,9,252,BYU,1166,0
+coaches,2026-09-27,10,2641,Texas Tech,1108,0
+coaches,2026-09-27,11,99,LSU,1097,0
+coaches,2026-09-27,12,145,Ole Miss,1021,0
+coaches,2026-09-27,13,254,Utah,917,0
+coaches,2026-09-27,14,2294,Iowa,887,0
+coaches,2026-09-27,15,2483,Oregon,866,0
+coaches,2026-09-27,16,344,Mississippi State,658,0
+coaches,2026-09-27,17,2633,Tennessee,648,0
+coaches,2026-09-27,18,30,USC,511,0
+coaches,2026-09-27,19,2567,SMU,327,0
+coaches,2026-09-27,20,248,Houston,301,0
+coaches,2026-09-27,21,150,Duke,230,0
+coaches,2026-09-27,22,213,Penn State,207,0
+coaches,2026-09-27,23,26,UCLA,183,0
+coaches,2026-09-27,24,130,Michigan,166,0
+coaches,2026-09-27,25,142,Missouri,152,0
+coaches,2026-10-04,1,251,Texas,1806,45
+coaches,2026-10-04,2,61,Georgia,1760,20
+coaches,2026-10-04,3,87,Notre Dame,1630,1
+coaches,2026-10-04,4,2390,Miami,1622,0
+coaches,2026-10-04,5,84,Indiana,1556,8
+coaches,2026-10-04,6,194,Ohio State,1514,0
+coaches,2026-10-04,7,333,Alabama,1483,0
+coaches,2026-10-04,8,252,BYU,1214,0
+coaches,2026-10-04,9,2641,Texas Tech,1169,0
+coaches,2026-10-04,10,99,LSU,1136,0
+coaches,2026-10-04,11,145,Ole Miss,1059,0
+coaches,2026-10-04,12,254,Utah,1015,0
+coaches,2026-10-04,13,2483,Oregon,948,0
+coaches,2026-10-04,14,2633,Tennessee,768,0
+coaches,2026-10-04,15,57,Florida,672,0
+coaches,2026-10-04,16,142,Missouri,646,0
+coaches,2026-10-04,17,30,USC,643,0
+coaches,2026-10-04,18,2294,Iowa,457,0
+coaches,2026-10-04,19,248,Houston,391,0
+coaches,2026-10-04,20,344,Mississippi State,355,0
+coaches,2026-10-04,21,2567,SMU,354,0
+coaches,2026-10-04,22,26,UCLA,318,0
+coaches,2026-10-04,23,150,Duke,274,0
+coaches,2026-10-04,24,221,Pittsburgh,242,0
+coaches,2026-10-04,25,96,Kentucky,210,0
+coaches,2026-10-11,1,61,Georgia,1832,60
+coaches,2026-10-11,2,87,Notre Dame,1713,3
+coaches,2026-10-11,3,2390,Miami,1688,1
+coaches,2026-10-11,4,84,Indiana,1633,9
+coaches,2026-10-11,5,194,Ohio State,1565,1
+coaches,2026-10-11,6,251,Texas,1369,0
+coaches,2026-10-11,7,333,Alabama,1358,0
+coaches,2026-10-11,8,252,BYU,1355,0
+coaches,2026-10-11,9,2641,Texas Tech,1240,0
+coaches,2026-10-11,10,145,Ole Miss,1180,0
+coaches,2026-10-11,11,254,Utah,1109,0
+coaches,2026-10-11,12,26,UCLA,912,0
+coaches,2026-10-11,13,142,Missouri,863,0
+coaches,2026-10-11,14,2633,Tennessee,837,0
+coaches,2026-10-11,15,30,USC,758,0
+coaches,2026-10-11,16,2294,Iowa,729,0
+coaches,2026-10-11,17,96,Kentucky,667,0
+coaches,2026-10-11,18,248,Houston,520,0
+coaches,2026-10-11,19,344,Mississippi State,463,0
+coaches,2026-10-11,20,197,Oklahoma State,403,0
+coaches,2026-10-11,21,99,LSU,361,0
+coaches,2026-10-11,22,2567,SMU,330,0
+coaches,2026-10-11,23,154,Wake Forest,229,0
+coaches,2026-10-11,24,68,Boise State,205,0
+coaches,2026-10-11,25,2483,Oregon,200,0
+coaches,2026-10-18,1,2390,Miami,1791,50
+coaches,2026-10-18,2,194,Ohio State,1725,13
+coaches,2026-10-18,3,252,BYU,1698,10
+coaches,2026-10-18,4,61,Georgia,1469,0
+coaches,2026-10-18,5,2641,Texas Tech,1414,0
+coaches,2026-10-18,6,84,Indiana,1378,0
+coaches,2026-10-18,7,145,Ole Miss,1371,0
+coaches,2026-10-18,8,87,Notre Dame,1332,0
+coaches,2026-10-18,9,254,Utah,1222,0
+coaches,2026-10-18,10,26,UCLA,1206,0
+coaches,2026-10-18,11,2633,Tennessee,1193,0
+coaches,2026-10-18,12,96,Kentucky,979,0
+coaches,2026-10-18,13,333,Alabama,813,0
+coaches,2026-10-18,14,2294,Iowa,807,0
+coaches,2026-10-18,15,30,USC,796,0
+coaches,2026-10-18,16,248,Houston,730,0
+coaches,2026-10-18,17,99,LSU,569,0
+coaches,2026-10-18,18,251,Texas,520,0
+coaches,2026-10-18,19,154,Wake Forest,514,0
+coaches,2026-10-18,20,2567,SMU,458,0
+coaches,2026-10-18,21,142,Missouri,274,0
+coaches,2026-10-18,22,68,Boise State,266,0
+coaches,2026-10-18,23,77,Northwestern,256,0
+coaches,2026-10-18,24,57,Florida,250,0
+coaches,2026-10-18,25,2483,Oregon,189,0
+coaches,2026-10-25,1,2390,Miami,1839,67
+coaches,2026-10-25,2,194,Ohio State,1767,6
+coaches,2026-10-25,3,61,Georgia,1646,0
+coaches,2026-10-25,4,84,Indiana,1578,0
+coaches,2026-10-25,5,254,Utah,1459,0
+coaches,2026-10-25,6,87,Notre Dame,1452,0
+coaches,2026-10-25,7,26,UCLA,1446,1
+coaches,2026-10-25,8,96,Kentucky,1318,0
+coaches,2026-10-25,9,252,BYU,1244,0
+coaches,2026-10-25,10,333,Alabama,1092,0
+coaches,2026-10-25,11,251,Texas,1002,0
+coaches,2026-10-25,12,145,Ole Miss,941,0
+coaches,2026-10-25,13,99,LSU,895,0
+coaches,2026-10-25,14,2641,Texas Tech,864,0
+coaches,2026-10-25,15,154,Wake Forest,749,0
+coaches,2026-10-25,16,2567,SMU,690,0
+coaches,2026-10-25,17,2633,Tennessee,650,0
+coaches,2026-10-25,18,77,Northwestern,545,0
+coaches,2026-10-25,19,248,Houston,435,0
+coaches,2026-10-25,20,57,Florida,417,0
+coaches,2026-10-25,21,12,Arizona,399,0
+coaches,2026-10-25,22,68,Boise State,396,0
+coaches,2026-10-25,23,142,Missouri,376,0
+coaches,2026-10-25,24,2294,Iowa,225,0
+coaches,2026-10-25,25,30,USC,132,0
+coaches,2026-11-01,1,2390,Miami,1818,68
+coaches,2026-11-01,2,61,Georgia,1719,4
+coaches,2026-11-01,3,84,Indiana,1597,0
+coaches,2026-11-01,4,254,Utah,1590,0
+coaches,2026-11-01,5,26,UCLA,1501,0
+coaches,2026-11-01,6,87,Notre Dame,1498,0
+coaches,2026-11-01,7,96,Kentucky,1344,1
+coaches,2026-11-01,8,252,BYU,1278,0
+coaches,2026-11-01,9,333,Alabama,1131,0
+coaches,2026-11-01,10,194,Ohio State,1101,0
+coaches,2026-11-01,11,251,Texas,1057,0
+coaches,2026-11-01,12,145,Ole Miss,1034,0
+coaches,2026-11-01,13,2641,Texas Tech,962,0
+coaches,2026-11-01,14,154,Wake Forest,897,0
+coaches,2026-11-01,15,99,LSU,886,0
+coaches,2026-11-01,16,2633,Tennessee,761,0
+coaches,2026-11-01,17,30,USC,570,0
+coaches,2026-11-01,18,248,Houston,556,0
+coaches,2026-11-01,19,142,Missouri,488,0
+coaches,2026-11-01,20,2294,Iowa,448,0
+coaches,2026-11-01,21,68,Boise State,445,0
+coaches,2026-11-01,22,12,Arizona,174,0
+coaches,2026-11-01,23,77,Northwestern,150,0
+coaches,2026-11-01,24,2567,SMU,146,0
+coaches,2026-11-01,25,167,New Mexico,119,0
+coaches,2026-11-08,1,61,Georgia,1796,54
+coaches,2026-11-08,2,254,Utah,1724,14
+coaches,2026-11-08,3,87,Notre Dame,1613,2
+coaches,2026-11-08,4,26,UCLA,1584,1
+coaches,2026-11-08,5,84,Indiana,1557,2
+coaches,2026-11-08,6,2390,Miami,1482,0
+coaches,2026-11-08,7,333,Alabama,1389,0
+coaches,2026-11-08,8,251,Texas,1287,0
+coaches,2026-11-08,9,2633,Tennessee,1196,0
+coaches,2026-11-08,10,2641,Texas Tech,1116,0
+coaches,2026-11-08,11,154,Wake Forest,1093,0
+coaches,2026-11-08,12,252,BYU,1008,0
+coaches,2026-11-08,13,96,Kentucky,913,0
+coaches,2026-11-08,14,30,USC,765,0
+coaches,2026-11-08,15,2294,Iowa,738,0
+coaches,2026-11-08,16,248,Houston,732,0
+coaches,2026-11-08,17,145,Ole Miss,529,0
+coaches,2026-11-08,18,68,Boise State,474,0
+coaches,2026-11-08,19,2483,Oregon,438,0
+coaches,2026-11-08,20,194,Ohio State,398,0
+coaches,2026-11-08,21,12,Arizona,377,0
+coaches,2026-11-08,22,99,LSU,368,0
+coaches,2026-11-08,23,2567,SMU,285,0
+coaches,2026-11-08,24,2579,South Carolina,267,0
+coaches,2026-11-08,25,167,New Mexico,191,0
+coaches,2026-11-15,1,61,Georgia,1802,58
+coaches,2026-11-15,2,254,Utah,1729,11
+coaches,2026-11-15,3,87,Notre Dame,1630,1
+coaches,2026-11-15,4,26,UCLA,1594,0
+coaches,2026-11-15,5,84,Indiana,1540,3
+coaches,2026-11-15,6,2390,Miami,1483,0
+coaches,2026-11-15,7,333,Alabama,1364,0
+coaches,2026-11-15,8,251,Texas,1303,0
+coaches,2026-11-15,9,2633,Tennessee,1209,0
+coaches,2026-11-15,10,154,Wake Forest,1172,0
+coaches,2026-11-15,11,2641,Texas Tech,1157,0
+coaches,2026-11-15,12,252,BYU,1057,0
+coaches,2026-11-15,13,2294,Iowa,927,0
+coaches,2026-11-15,14,2483,Oregon,783,0
+coaches,2026-11-15,15,68,Boise State,714,0
+coaches,2026-11-15,16,145,Ole Miss,705,0
+coaches,2026-11-15,17,194,Ohio State,644,0
+coaches,2026-11-15,18,96,Kentucky,592,0
+coaches,2026-11-15,19,30,USC,534,0
+coaches,2026-11-15,20,12,Arizona,399,0
+coaches,2026-11-15,21,248,Houston,312,0
+coaches,2026-11-15,22,97,Louisville,235,0
+coaches,2026-11-15,23,99,LSU,160,0
+coaches,2026-11-15,24,150,Duke,123,0
+coaches,2026-11-15,25,57,Florida,95,0
+coaches,2026-11-22,1,61,Georgia,1811,60
+coaches,2026-11-22,2,254,Utah,1755,12
+coaches,2026-11-22,3,87,Notre Dame,1668,1
+coaches,2026-11-22,4,2390,Miami,1569,0
+coaches,2026-11-22,5,333,Alabama,1465,0
+coaches,2026-11-22,6,251,Texas,1444,0
+coaches,2026-11-22,7,2633,Tennessee,1345,0
+coaches,2026-11-22,8,154,Wake Forest,1320,0
+coaches,2026-11-22,9,2641,Texas Tech,1230,0
+coaches,2026-11-22,10,26,UCLA,1211,0
+coaches,2026-11-22,11,252,BYU,1094,0
+coaches,2026-11-22,12,84,Indiana,1058,0
+coaches,2026-11-22,13,2294,Iowa,993,0
+coaches,2026-11-22,14,2483,Oregon,905,0
+coaches,2026-11-22,15,30,USC,720,0
+coaches,2026-11-22,16,12,Arizona,659,0
+coaches,2026-11-22,17,248,Houston,571,0
+coaches,2026-11-22,18,97,Louisville,564,0
+coaches,2026-11-22,19,145,Ole Miss,485,0
+coaches,2026-11-22,20,57,Florida,294,0
+coaches,2026-11-22,21,68,Boise State,230,0
+coaches,2026-11-22,22,201,Oklahoma,207,0
+coaches,2026-11-22,23,142,Missouri,187,0
+coaches,2026-11-22,24,2335,Liberty,171,0
+coaches,2026-11-22,25,96,Kentucky,155,0
