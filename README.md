@@ -18,6 +18,10 @@ Each directory has its own README that explains its piece the way we would at a 
 
 A team that loses a game points to the team that beat it. Run PageRank on that graph and credit flows from losers to winners, and from winners to the teams that beat them. Snapshot the graph after each week of the season and you get a weekly ranking with no vote in it. The comparison tables in `analysis/` put that ranking beside the human polls, week by week, for four seasons. The tables are measurements. The conclusions are left to the reader.
 
+## Viewing It Online
+
+The interactive pages, the schema figure, and every data file are published with GitHub Pages at https://denisekgosnell.github.io/CFB-PageRank/. The workflow in `.github/workflows/pages.yml` republishes the site on every push to `main`.
+
 ## Running It Yourself
 
 The scripts use the Python standard library only (Python 3.11 or newer). The tests need `pytest`, `networkx`, and `scipy`, which are listed in `requirements.txt`.

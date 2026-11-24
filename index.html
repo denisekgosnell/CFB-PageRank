@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<!--
+CFB-PageRank
+Copyright 2026 Denise Koessler Gosnell
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+    http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CFB-PageRank</title>
+<style>
+  body { margin: 0; font-family: Helvetica, Arial, sans-serif; color: #111; background: white; }
+  main { max-width: 860px; margin: 0 auto; padding: 32px 24px 48px; }
+  h1 { font-size: 28px; margin: 0 0 6px; }
+  h2 { font-size: 20px; margin: 32px 0 10px; border-bottom: 1px solid #111; padding-bottom: 4px; }
+  p { line-height: 1.5; }
+  a { color: #1F4ADE; }
+  table { border-collapse: collapse; width: 100%; font-size: 15px; }
+  th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid #ddd; vertical-align: top; }
+  th { background: #111; color: white; }
+  img { max-width: 100%; border: 1px solid #111; }
+  .caption { font-family: Georgia, Times, serif; font-style: italic; font-size: 14px; }
+  .fine { font-size: 13px; color: #444; }
+</style>
+</head>
+<body>
+<main>
+  <h1>CFB-PageRank</h1>
+  <p>A graph model and ranking of Division I college football teams. Because humans introduce bias.</p>
+  <p>A team that loses a game points to the team that beat it. Run PageRank on that graph after every week of the season and you get a ranking with no vote in it. This site holds the data, the graph, the weekly rankings, and the comparison with the human polls for the 2023, 2024, 2025, and 2026 seasons. The code and the write-ups are in <a href="https://github.com/denisekgosnell/CFB-PageRank">the repository</a>.</p>
+
+  <h2>Watch the Rankings Move</h2>
+  <p>One page per season. Drag the week slider, switch between the unweighted and weighted graphs, search for a team, and open the rank-over-time view.</p>
+  <table>
+    <tr><th>season</th><th>page</th><th>what it holds</th></tr>
+    <tr><td>2023</td><td><a href="visualization/2023/">visualization/2023</a></td><td>Regular season through rivalry week.</td></tr>
+    <tr><td>2024</td><td><a href="visualization/2024/">visualization/2024</a></td><td>Regular season through rivalry week.</td></tr>
+    <tr><td>2025</td><td><a href="visualization/2025/">visualization/2025</a></td><td>Regular season through rivalry week.</td></tr>
+    <tr><td>2026</td><td><a href="visualization/2026/">visualization/2026</a></td><td>Season in progress, games through November 21, 2026.</td></tr>
+  </table>
+
+  <h2>The Schema</h2>
+  <img src="graph_model/schema.png" alt="The CFB-PageRank schema: one Team vertex label with a self-referencing loses_to edge label, beside one real game drawn as data.">
+  <p class="caption">Figure 1. The CFB-PageRank schema: a team that loses a game points to the team that beat it.</p>
+
+  <h2>Read the Results</h2>
+  <table>
+    <tr><th>what</th><th>where</th></tr>
+    <tr><td>The 2026 PageRank top 25 as of the data cutoff</td><td><a href="https://github.com/denisekgosnell/CFB-PageRank/blob/main/analysis/2026_prediction/prediction.md">analysis/2026_prediction/prediction.md</a></td></tr>
+    <tr><td>PageRank beside the AP, Coaches, and CFP rankings, week by week</td><td><a href="https://github.com/denisekgosnell/CFB-PageRank/tree/main/analysis">analysis/</a></td></tr>
+    <tr><td>The weekly PageRank tables, unweighted and weighted</td><td><a href="https://github.com/denisekgosnell/CFB-PageRank/tree/main/pagerank">pagerank/</a></td></tr>
+    <tr><td>The graph files and how the translation was checked</td><td><a href="https://github.com/denisekgosnell/CFB-PageRank/tree/main/graph_model">graph_model/</a></td></tr>
+    <tr><td>The games, the teams, the polls, and the verification records</td><td><a href="https://github.com/denisekgosnell/CFB-PageRank/tree/main/datasets">datasets/</a></td></tr>
+  </table>
+  <p>Every CSV file is also served from this site, so a link such as <a href="datasets/2024/games.csv">datasets/2024/games.csv</a> downloads the data directly.</p>
+
+  <h2>Cite and Reuse</h2>
+  <p>Gosnell, Denise Koessler. <em>CFB-PageRank: a graph model and PageRank ranking of Division I college football</em>. 2026. https://github.com/denisekgosnell/CFB-PageRank</p>
+  <p class="fine">Copyright 2026 Denise Koessler Gosnell. Source code under the Apache License 2.0; data, tables, figures, and documentation under CC BY 4.0. Reuse requires attribution.</p>
+</main>
+</body>
+</html>
