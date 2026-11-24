@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, its data, or its results, please cite it as below."
+type: software
+title: "CFB-PageRank: a graph model and PageRank ranking of Division I college football"
+authors:
+  - family-names: Gosnell
+    given-names: Denise Koessler
+date-released: 2026-11-24
+url: "https://github.com/denisekgosnell/CFB-PageRank"
+repository-code: "https://github.com/denisekgosnell/CFB-PageRank"
+license: Apache-2.0
+license-url: "https://github.com/denisekgosnell/CFB-PageRank/blob/main/LICENSE"
+notes: "Source code is licensed under Apache-2.0. Datasets, graph files, result tables, figures, and documentation are licensed under CC-BY-4.0 (see LICENSE-DATA in the repository)."
+keywords:
+  - college football
+  - PageRank
+  - graph
+  - ranking

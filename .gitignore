@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Local configuration and secrets
+.env
+
+# Raw API responses cached during data collection
+datasets/_raw/
+
+# Operating system files
+.DS_Store
+Thumbs.db

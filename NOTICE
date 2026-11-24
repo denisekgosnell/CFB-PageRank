@@ -1,0 +1,15 @@
+CFB-PageRank
+Copyright 2026 Denise Koessler Gosnell
+
+Source code in this repository is licensed under the Apache License,
+Version 2.0 (see LICENSE). Datasets, graph files, result tables,
+figures, and documentation are licensed under the Creative Commons
+Attribution 4.0 International License (see LICENSE-DATA). Either way,
+reuse requires attribution to Denise Koessler Gosnell.
+
+This product includes data compiled from public college football
+records. See datasets/SOURCES.md for the list of sources.
+
+This product includes D3.js (visualization/lib/d3.v7.min.js),
+Copyright 2010-2023 Mike Bostock, distributed under the ISC License
+(see visualization/lib/d3-LICENSE).
