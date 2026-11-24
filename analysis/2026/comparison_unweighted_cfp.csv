@@ -1,0 +1,4 @@
+poll_date,poll_week,snapshot_week,games_in_snapshot,top25_overlap,top10_overlap,top5_overlap,number_one_match,spearman_top25,kendall_top25,mean_abs_rank_diff_top25,max_pagerank_rank_of_ap_top25
+2026-11-03,9,9,622,19,5,2,0,0.2792,0.2000,9.44,42
+2026-11-10,10,10,685,19,6,1,0,0.5731,0.4267,8.24,42
+2026-11-17,11,11,752,19,6,2,0,0.2777,0.2200,9.88,40

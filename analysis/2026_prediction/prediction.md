@@ -1,0 +1,35 @@
+# 2026 PageRank top 25 as of the data cutoff
+
+Data cutoff: the records were collected at 2026-11-24T19:35:09Z (UTC). The last game in the dataset was played on 2026-11-21, which is week 12. The snapshot holds 822 games. Rivalry week (week 13) had not been played.
+
+The two PageRank columns come from games alone: the unweighted graph, and the weighted graph with the margin capped at 28. Ranks are competition ranks, so tied teams share a number. Scores add up to 1 across every vertex in the graph.
+
+For reference, the two right-hand columns show the most recent human rankings in the dataset: the AP poll released 2026-11-22 and the CFP committee rankings released 2026-11-17. No CFP committee ranking released after the data cutoff is included.
+
+| rank | PageRank, unweighted | score | PageRank, weighted | score | AP poll 2026-11-22 | CFP rankings 2026-11-17 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1. Auburn | 0.02951023 | 1. Georgia | 0.03654868 | Georgia | Georgia |
+| 2 | 2. Georgia | 0.02844859 | 2. Auburn | 0.03394908 | Utah | Utah |
+| 3 | 3. Florida | 0.02613081 | 3. BYU | 0.02972067 | Notre Dame | Alabama |
+| 4 | 4. Texas | 0.02586174 | 4. Tennessee | 0.02701604 | Miami | UCLA |
+| 5 | 5. Oklahoma | 0.02459399 | 5. Oregon | 0.02616840 | Texas | Texas |
+| 6 | 6. BYU | 0.02313675 | 6. Utah | 0.02609177 | Alabama | Notre Dame |
+| 7 | 7. Utah | 0.02194350 | 7. Ohio State | 0.02465845 | Tennessee | Miami |
+| 8 | 8. South Carolina | 0.02095869 | 8. Texas | 0.02433568 | Wake Forest | Indiana |
+| 9 | 9. Michigan | 0.02047160 | 9. Florida | 0.02281135 | Texas Tech | Tennessee |
+| 10 | 10. Tennessee | 0.02027227 | 10. South Carolina | 0.02251675 | UCLA | BYU |
+| 11 | 11. Notre Dame | 0.01819293 | 11. Ole Miss | 0.02223974 | BYU | Wake Forest |
+| 12 | 12. Oregon | 0.01612818 | 12. Notre Dame | 0.02152021 | Indiana | Texas Tech |
+| 13 | 13. Ohio State | 0.01483245 | 13. Oklahoma | 0.02083404 | Iowa | Oregon |
+| 14 | 14. Ole Miss | 0.01422016 | 14. Alabama | 0.01795159 | Oregon | Ohio State |
+| 15 | 15. Cincinnati | 0.01417146 | 15. UCF | 0.01667884 | USC | Iowa |
+| 16 | 16. Kentucky | 0.01371424 | 16. Texas Tech | 0.01660976 | Arizona | Kentucky |
+| 17 | 17. UCLA | 0.01367749 | 17. Cincinnati | 0.01638928 | Houston | Boise State |
+| 18 | 18. Indiana | 0.01351458 | 18. LSU | 0.01629409 | Louisville | USC |
+| 19 | 19. UCF | 0.01350009 | 19. Illinois | 0.01606194 | Oklahoma | Arizona |
+| 20 | 20. Miami | 0.01345158 | 20. Iowa | 0.01522170 | Florida | Houston |
+| 21 | 21. Alabama | 0.01341083 | 21. USC | 0.01508306 | Liberty | South Carolina |
+| 22 | 22. Minnesota | 0.01311392 | 22. Oklahoma State | 0.01460835 | Boise State | Oklahoma |
+| 23 | 23. LSU | 0.01263487 | 23. Miami | 0.01446378 | Ole Miss | Louisville |
+| 24 | 24. Texas Tech | 0.01248881 | 24. Missouri | 0.01201505 | Missouri | Florida |
+| 25 | 25. Iowa | 0.01235902 | 25. Arkansas | 0.01172931 | Ohio State | Ole Miss |
