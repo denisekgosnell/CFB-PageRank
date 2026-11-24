@@ -1,0 +1,92 @@
+[
+  {
+    "game_id": "401777325",
+    "game_date": "2025-12-05",
+    "week": 15,
+    "home_team": "Jacksonville State",
+    "away_team": "Kennesaw State",
+    "notes": "Conference USA Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401777352",
+    "game_date": "2025-12-05",
+    "week": 15,
+    "home_team": "James Madison",
+    "away_team": "Troy",
+    "notes": "Sun Belt Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401777326",
+    "game_date": "2025-12-05",
+    "week": 15,
+    "home_team": "Boise State",
+    "away_team": "UNLV",
+    "notes": "Mountain West Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401777324",
+    "game_date": "2025-12-05",
+    "week": 15,
+    "home_team": "Tulane",
+    "away_team": "North Texas",
+    "notes": "American Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401777327",
+    "game_date": "2025-12-06",
+    "week": 15,
+    "home_team": "Texas Tech",
+    "away_team": "BYU",
+    "notes": "Big 12 Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401777329",
+    "game_date": "2025-12-06",
+    "week": 15,
+    "home_team": "Western Michigan",
+    "away_team": "Miami (OH)",
+    "notes": "MAC Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401777351",
+    "game_date": "2025-12-06",
+    "week": 15,
+    "home_team": "Alabama",
+    "away_team": "Georgia",
+    "notes": "SEC Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401777328",
+    "game_date": "2025-12-06",
+    "week": 15,
+    "home_team": "Virginia",
+    "away_team": "Duke",
+    "notes": "ACC Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401777353",
+    "game_date": "2025-12-06",
+    "week": 15,
+    "home_team": "Ohio State",
+    "away_team": "Indiana",
+    "notes": "Big Ten Championship",
+    "reason": "after rivalry week"
+  },
+  {
+    "game_id": "401762521",
+    "game_date": "2025-12-13",
+    "week": 16,
+    "home_team": "Navy",
+    "away_team": "Army",
+    "notes": null,
+    "reason": "after rivalry week"
+  }
+]

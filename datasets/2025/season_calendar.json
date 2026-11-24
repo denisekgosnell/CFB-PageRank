@@ -1,0 +1,91 @@
+{
+  "season": 2025,
+  "labor_day": "2025-09-01",
+  "week_1_starts": "2025-08-26",
+  "thanksgiving": "2025-11-27",
+  "rivalry_saturday": "2025-11-29",
+  "rivalry_week": 14,
+  "poll_cutoff": "2025-12-02",
+  "weeks": {
+    "0": {
+      "first_game": "2025-08-23",
+      "last_game": "2025-08-23",
+      "games": 5
+    },
+    "1": {
+      "first_game": "2025-08-28",
+      "last_game": "2025-09-01",
+      "games": 91
+    },
+    "2": {
+      "first_game": "2025-09-05",
+      "last_game": "2025-09-06",
+      "games": 83
+    },
+    "3": {
+      "first_game": "2025-09-11",
+      "last_game": "2025-09-13",
+      "games": 70
+    },
+    "4": {
+      "first_game": "2025-09-18",
+      "last_game": "2025-09-20",
+      "games": 62
+    },
+    "5": {
+      "first_game": "2025-09-25",
+      "last_game": "2025-09-27",
+      "games": 53
+    },
+    "6": {
+      "first_game": "2025-10-02",
+      "last_game": "2025-10-04",
+      "games": 51
+    },
+    "7": {
+      "first_game": "2025-10-08",
+      "last_game": "2025-10-11",
+      "games": 56
+    },
+    "8": {
+      "first_game": "2025-10-14",
+      "last_game": "2025-10-18",
+      "games": 60
+    },
+    "9": {
+      "first_game": "2025-10-21",
+      "last_game": "2025-10-25",
+      "games": 53
+    },
+    "10": {
+      "first_game": "2025-10-28",
+      "last_game": "2025-11-01",
+      "games": 52
+    },
+    "11": {
+      "first_game": "2025-11-04",
+      "last_game": "2025-11-08",
+      "games": 52
+    },
+    "12": {
+      "first_game": "2025-11-11",
+      "last_game": "2025-11-15",
+      "games": 59
+    },
+    "13": {
+      "first_game": "2025-11-18",
+      "last_game": "2025-11-22",
+      "games": 64
+    },
+    "14": {
+      "first_game": "2025-11-25",
+      "last_game": "2025-11-29",
+      "games": 67
+    }
+  },
+  "last_game_in_dataset": "2025-11-29",
+  "season_complete_through_rivalry_week": true,
+  "data_collected_at": "2026-11-24T19:33:59Z",
+  "poll_notes": [],
+  "resolutions_applied": 9
+}

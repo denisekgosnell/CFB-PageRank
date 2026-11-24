@@ -1,0 +1,231 @@
+team,team_id,conference,division,season
+Abilene Christian,2000,UAC,FCS,2025
+Air Force,2005,Mountain West,FBS,2025
+Akron,2006,Mid-American,FBS,2025
+Alabama,333,SEC,FBS,2025
+Alabama A&M,2010,SWAC,FCS,2025
+Alabama State,2011,SWAC,FCS,2025
+Alcorn State,2016,SWAC,FCS,2025
+App State,2026,Sun Belt,FBS,2025
+Arizona,12,Big 12,FBS,2025
+Arizona State,9,Big 12,FBS,2025
+Arkansas,8,SEC,FBS,2025
+Arkansas State,2032,Sun Belt,FBS,2025
+Arkansas-Pine Bluff,2029,SWAC,FCS,2025
+Army,349,American Athletic,FBS,2025
+Auburn,2,SEC,FBS,2025
+Austin Peay,2046,UAC,FCS,2025
+BYU,252,Big 12,FBS,2025
+Ball State,2050,Mid-American,FBS,2025
+Baylor,239,Big 12,FBS,2025
+Bethune-Cookman,2065,SWAC,FCS,2025
+Boise State,68,Mountain West,FBS,2025
+Boston College,103,ACC,FBS,2025
+Bowling Green,189,Mid-American,FBS,2025
+Bryant,2803,Coastal Athletic,FCS,2025
+Bucknell,2083,Patriot,FCS,2025
+Buffalo,2084,Mid-American,FBS,2025
+Cal Poly,13,Big Sky,FCS,2025
+California,25,ACC,FBS,2025
+Campbell,2097,Coastal Athletic,FCS,2025
+Central Arkansas,2110,UAC,FCS,2025
+Central Connecticut,2115,NEC,FCS,2025
+Central Michigan,2117,Mid-American,FBS,2025
+Charleston Southern,2127,OVC-Big South,FCS,2025
+Charlotte,2429,American Athletic,FBS,2025
+Chattanooga,236,Southern,FCS,2025
+Cincinnati,2132,Big 12,FBS,2025
+Clemson,228,ACC,FBS,2025
+Coastal Carolina,324,Sun Belt,FBS,2025
+Colgate,2142,Patriot,FCS,2025
+Colorado,38,Big 12,FBS,2025
+Colorado State,36,Mountain West,FBS,2025
+Delaware,48,Conference USA,FBS,2025
+Delaware State,2169,MEAC,FCS,2025
+Duke,150,ACC,FBS,2025
+Duquesne,2184,NEC,FCS,2025
+East Carolina,151,American Athletic,FBS,2025
+East Tennessee State,2193,Southern,FCS,2025
+East Texas A&M,2837,Southland,FCS,2025
+Eastern Illinois,2197,OVC-Big South,FCS,2025
+Eastern Kentucky,2198,UAC,FCS,2025
+Eastern Michigan,2199,Mid-American,FBS,2025
+Eastern Washington,331,Big Sky,FCS,2025
+Elon,2210,Coastal Athletic,FCS,2025
+Florida,57,SEC,FBS,2025
+Florida A&M,50,SWAC,FCS,2025
+Florida Atlantic,2226,American Athletic,FBS,2025
+Florida International,2229,Conference USA,FBS,2025
+Florida State,52,ACC,FBS,2025
+Fordham,2230,Patriot,FCS,2025
+Fresno State,278,Mountain West,FBS,2025
+Furman,231,Southern,FCS,2025
+Gardner-Webb,2241,OVC-Big South,FCS,2025
+Georgia,61,SEC,FBS,2025
+Georgia Southern,290,Sun Belt,FBS,2025
+Georgia State,2247,Sun Belt,FBS,2025
+Georgia Tech,59,ACC,FBS,2025
+Grambling,2755,SWAC,FCS,2025
+Hawai'i,62,Mountain West,FBS,2025
+Holy Cross,107,Patriot,FCS,2025
+Houston,248,Big 12,FBS,2025
+Houston Christian,2277,Southland,FCS,2025
+Howard,47,MEAC,FCS,2025
+Idaho,70,Big Sky,FCS,2025
+Idaho State,304,Big Sky,FCS,2025
+Illinois,356,Big Ten,FBS,2025
+Illinois State,2287,MVFC,FCS,2025
+Incarnate Word,2916,Southland,FCS,2025
+Indiana,84,Big Ten,FBS,2025
+Indiana State,282,MVFC,FCS,2025
+Iowa,2294,Big Ten,FBS,2025
+Iowa State,66,Big 12,FBS,2025
+Jackson State,2296,SWAC,FCS,2025
+Jacksonville State,55,Conference USA,FBS,2025
+James Madison,256,Sun Belt,FBS,2025
+Kansas,2305,Big 12,FBS,2025
+Kansas State,2306,Big 12,FBS,2025
+Kennesaw State,338,Conference USA,FBS,2025
+Kent State,2309,Mid-American,FBS,2025
+Kentucky,96,SEC,FBS,2025
+LSU,99,SEC,FBS,2025
+Lafayette,322,Patriot,FCS,2025
+Lamar,2320,Southland,FCS,2025
+Liberty,2335,Conference USA,FBS,2025
+Lindenwood,2815,OVC-Big South,FCS,2025
+Long Island University,2341,NEC,FCS,2025
+Louisiana,309,Sun Belt,FBS,2025
+Louisiana Tech,2348,Conference USA,FBS,2025
+Louisville,97,ACC,FBS,2025
+Maine,311,Coastal Athletic,FCS,2025
+Marshall,276,Sun Belt,FBS,2025
+Maryland,120,Big Ten,FBS,2025
+Massachusetts,113,Mid-American,FBS,2025
+McNeese,2377,Southland,FCS,2025
+Memphis,235,American Athletic,FBS,2025
+Mercer,2382,Southern,FCS,2025
+Merrimack,2771,FCS Independents,FCS,2025
+Miami,2390,ACC,FBS,2025
+Miami (OH),193,Mid-American,FBS,2025
+Michigan,130,Big Ten,FBS,2025
+Michigan State,127,Big Ten,FBS,2025
+Middle Tennessee,2393,Conference USA,FBS,2025
+Minnesota,135,Big Ten,FBS,2025
+Mississippi State,344,SEC,FBS,2025
+Missouri,142,SEC,FBS,2025
+Missouri State,2623,Conference USA,FBS,2025
+Monmouth,2405,Coastal Athletic,FCS,2025
+Montana State,147,Big Sky,FCS,2025
+Morgan State,2415,MEAC,FCS,2025
+Murray State,93,MVFC,FCS,2025
+NC State,152,ACC,FBS,2025
+Navy,2426,American Athletic,FBS,2025
+Nebraska,158,Big Ten,FBS,2025
+Nevada,2440,Mountain West,FBS,2025
+New Hampshire,160,Coastal Athletic,FCS,2025
+New Mexico,167,Mountain West,FBS,2025
+New Mexico State,166,Conference USA,FBS,2025
+Nicholls,2447,Southland,FCS,2025
+Norfolk State,2450,MEAC,FCS,2025
+North Alabama,2453,UAC,FCS,2025
+North Carolina,153,ACC,FBS,2025
+North Carolina A&T,2448,Coastal Athletic,FCS,2025
+North Carolina Central,2428,MEAC,FCS,2025
+North Dakota,155,MVFC,FCS,2025
+North Texas,249,American Athletic,FBS,2025
+Northern Arizona,2464,Big Sky,FCS,2025
+Northern Colorado,2458,Big Sky,FCS,2025
+Northern Illinois,2459,Mid-American,FBS,2025
+Northern Iowa,2460,MVFC,FCS,2025
+Northwestern,77,Big Ten,FBS,2025
+Northwestern State,2466,Southland,FCS,2025
+Notre Dame,87,FBS Independents,FBS,2025
+Ohio,195,Mid-American,FBS,2025
+Ohio State,194,Big Ten,FBS,2025
+Oklahoma,201,SEC,FBS,2025
+Oklahoma State,197,Big 12,FBS,2025
+Old Dominion,295,Sun Belt,FBS,2025
+Ole Miss,145,SEC,FBS,2025
+Oregon,2483,Big Ten,FBS,2025
+Oregon State,204,Pac-12,FBS,2025
+Penn State,213,Big Ten,FBS,2025
+Pittsburgh,221,ACC,FBS,2025
+Portland State,2502,Big Sky,FCS,2025
+Prairie View A&M,2504,SWAC,FCS,2025
+Purdue,2509,Big Ten,FBS,2025
+Rhode Island,227,Coastal Athletic,FCS,2025
+Rice,242,American Athletic,FBS,2025
+Richmond,257,Patriot,FCS,2025
+Robert Morris,2523,NEC,FCS,2025
+Rutgers,164,Big Ten,FBS,2025
+SE Louisiana,2545,Southland,FCS,2025
+SMU,2567,ACC,FBS,2025
+Sacramento State,16,Big Sky,FCS,2025
+Saint Francis,2598,NEC,FCS,2025
+Sam Houston,2534,Conference USA,FBS,2025
+Samford,2535,Southern,FCS,2025
+San Diego State,21,Mountain West,FBS,2025
+San José State,23,Mountain West,FBS,2025
+South Alabama,6,Sun Belt,FBS,2025
+South Carolina,2579,SEC,FBS,2025
+South Carolina State,2569,MEAC,FCS,2025
+South Dakota,233,MVFC,FCS,2025
+South Florida,58,American Athletic,FBS,2025
+Southeast Missouri State,2546,OVC-Big South,FCS,2025
+Southern,2582,SWAC,FCS,2025
+Southern Illinois,79,MVFC,FCS,2025
+Southern Miss,2572,Sun Belt,FBS,2025
+Stanford,24,ACC,FBS,2025
+Stephen F. Austin,2617,Southland,FCS,2025
+Stony Brook,2619,Coastal Athletic,FCS,2025
+Syracuse,183,ACC,FBS,2025
+TCU,2628,Big 12,FBS,2025
+Tarleton State,2627,UAC,FCS,2025
+Temple,218,American Athletic,FBS,2025
+Tennessee,2633,SEC,FBS,2025
+Tennessee Tech,2635,OVC-Big South,FCS,2025
+Texas,251,SEC,FBS,2025
+Texas A&M,245,SEC,FBS,2025
+Texas Southern,2640,SWAC,FCS,2025
+Texas State,326,Sun Belt,FBS,2025
+Texas Tech,2641,Big 12,FBS,2025
+The Citadel,2643,Southern,FCS,2025
+Toledo,2649,Mid-American,FBS,2025
+Towson,119,Coastal Athletic,FCS,2025
+Troy,2653,Sun Belt,FBS,2025
+Tulane,2655,American Athletic,FBS,2025
+Tulsa,202,American Athletic,FBS,2025
+UAB,5,American Athletic,FBS,2025
+UAlbany,399,Coastal Athletic,FCS,2025
+UC Davis,302,Big Sky,FCS,2025
+UCF,2116,Big 12,FBS,2025
+UCLA,26,Big Ten,FBS,2025
+UConn,41,FBS Independents,FBS,2025
+UL Monroe,2433,Sun Belt,FBS,2025
+UNLV,2439,Mountain West,FBS,2025
+USC,30,Big Ten,FBS,2025
+UT Martin,2630,OVC-Big South,FCS,2025
+UTEP,2638,Conference USA,FBS,2025
+UTSA,2636,American Athletic,FBS,2025
+Utah,254,Big 12,FBS,2025
+Utah State,328,Mountain West,FBS,2025
+VMI,2678,Southern,FCS,2025
+Vanderbilt,238,SEC,FBS,2025
+Villanova,222,Coastal Athletic,FCS,2025
+Virginia,258,ACC,FBS,2025
+Virginia Tech,259,ACC,FBS,2025
+Wagner,2681,NEC,FCS,2025
+Wake Forest,154,ACC,FBS,2025
+Washington,264,Big Ten,FBS,2025
+Washington State,265,Pac-12,FBS,2025
+Weber State,2692,Big Sky,FCS,2025
+West Virginia,277,Big 12,FBS,2025
+Western Carolina,2717,Southern,FCS,2025
+Western Illinois,2710,OVC-Big South,FCS,2025
+Western Kentucky,98,Conference USA,FBS,2025
+Western Michigan,2711,Mid-American,FBS,2025
+William & Mary,2729,Coastal Athletic,FCS,2025
+Wisconsin,275,Big Ten,FBS,2025
+Wofford,2747,Southern,FCS,2025
+Wyoming,2751,Mountain West,FBS,2025
+Youngstown State,2754,MVFC,FCS,2025

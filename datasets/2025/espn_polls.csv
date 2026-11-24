@@ -1,0 +1,951 @@
+poll,poll_date,rank,team_id,team,points,first_place_votes
+ap,2025-08-11,1,251,Texas,1552,25
+ap,2025-08-11,2,213,Penn State,1547,23
+ap,2025-08-11,3,194,Ohio State,1472,11
+ap,2025-08-11,4,228,Clemson,1398,4
+ap,2025-08-11,5,61,Georgia,1331,1
+ap,2025-08-11,6,87,Notre Dame,1325,0
+ap,2025-08-11,7,2483,Oregon,1236,1
+ap,2025-08-11,8,333,Alabama,1179,0
+ap,2025-08-11,9,99,LSU,1174,0
+ap,2025-08-11,10,2390,Miami,889,0
+ap,2025-08-11,11,9,Arizona State,791,0
+ap,2025-08-11,12,356,Illinois,713,0
+ap,2025-08-11,13,2579,South Carolina,667,0
+ap,2025-08-11,14,130,Michigan,662,0
+ap,2025-08-11,15,57,Florida,626,0
+ap,2025-08-11,16,2567,SMU,565,0
+ap,2025-08-11,17,2306,Kansas State,512,0
+ap,2025-08-11,18,201,Oklahoma,463,0
+ap,2025-08-11,19,245,Texas A&M,434,0
+ap,2025-08-11,20,84,Indiana,423,0
+ap,2025-08-11,21,145,Ole Miss,370,0
+ap,2025-08-11,22,66,Iowa State,309,0
+ap,2025-08-11,23,2641,Texas Tech,274,0
+ap,2025-08-11,24,2633,Tennessee,192,0
+ap,2025-08-11,25,68,Boise State,191,0
+ap,2025-09-02,1,194,Ohio State,1636,55
+ap,2025-09-02,2,213,Penn State,1558,7
+ap,2025-09-02,3,99,LSU,1514,3
+ap,2025-09-02,4,61,Georgia,1410,0
+ap,2025-09-02,5,2390,Miami,1360,0
+ap,2025-09-02,6,2483,Oregon,1302,1
+ap,2025-09-02,7,251,Texas,1293,0
+ap,2025-09-02,8,228,Clemson,1135,0
+ap,2025-09-02,9,87,Notre Dame,1068,0
+ap,2025-09-02,10,2579,South Carolina,882,0
+ap,2025-09-02,11,356,Illinois,855,0
+ap,2025-09-02,12,9,Arizona State,850,0
+ap,2025-09-02,13,57,Florida,737,0
+ap,2025-09-02,14,52,Florida State,705,0
+ap,2025-09-02,15,130,Michigan,686,0
+ap,2025-09-02,16,66,Iowa State,566,0
+ap,2025-09-02,17,2567,SMU,561,0
+ap,2025-09-02,18,201,Oklahoma,519,0
+ap,2025-09-02,19,245,Texas A&M,424,0
+ap,2025-09-02,20,145,Ole Miss,393,0
+ap,2025-09-02,21,333,Alabama,360,0
+ap,2025-09-02,22,2633,Tennessee,339,0
+ap,2025-09-02,23,84,Indiana,257,0
+ap,2025-09-02,24,2641,Texas Tech,247,0
+ap,2025-09-02,25,254,Utah,227,0
+ap,2025-09-07,1,194,Ohio State,1614,57
+ap,2025-09-07,2,213,Penn State,1524,5
+ap,2025-09-07,3,99,LSU,1487,2
+ap,2025-09-07,4,2483,Oregon,1375,1
+ap,2025-09-07,5,2390,Miami,1360,0
+ap,2025-09-07,6,61,Georgia,1350,0
+ap,2025-09-07,7,251,Texas,1248,0
+ap,2025-09-07,8,87,Notre Dame,1086,0
+ap,2025-09-07,9,356,Illinois,1001,0
+ap,2025-09-07,10,52,Florida State,954,0
+ap,2025-09-07,11,2579,South Carolina,927,0
+ap,2025-09-07,12,228,Clemson,894,0
+ap,2025-09-07,13,201,Oklahoma,893,0
+ap,2025-09-07,14,66,Iowa State,794,0
+ap,2025-09-07,15,2633,Tennessee,537,0
+ap,2025-09-07,16,245,Texas A&M,532,0
+ap,2025-09-07,17,145,Ole Miss,518,0
+ap,2025-09-07,18,58,South Florida,444,0
+ap,2025-09-07,19,333,Alabama,396,0
+ap,2025-09-07,20,254,Utah,361,0
+ap,2025-09-07,21,2641,Texas Tech,347,0
+ap,2025-09-07,22,84,Indiana,331,0
+ap,2025-09-07,23,130,Michigan,250,0
+ap,2025-09-07,24,2,Auburn,172,0
+ap,2025-09-07,25,142,Missouri,109,0
+ap,2025-09-14,1,194,Ohio State,1631,55
+ap,2025-09-14,2,213,Penn State,1490,5
+ap,2025-09-14,3,99,LSU,1470,2
+ap,2025-09-14,4,2390,Miami,1434,3
+ap,2025-09-14,5,61,Georgia,1428,0
+ap,2025-09-14,6,2483,Oregon,1423,1
+ap,2025-09-14,7,52,Florida State,1123,0
+ap,2025-09-14,8,251,Texas,1111,0
+ap,2025-09-14,9,356,Illinois,1110,0
+ap,2025-09-14,10,245,Texas A&M,1101,0
+ap,2025-09-14,11,201,Oklahoma,1056,0
+ap,2025-09-14,12,66,Iowa State,820,0
+ap,2025-09-14,13,145,Ole Miss,748,0
+ap,2025-09-14,14,333,Alabama,599,0
+ap,2025-09-14,15,2633,Tennessee,583,0
+ap,2025-09-14,16,254,Utah,573,0
+ap,2025-09-14,17,2641,Texas Tech,538,0
+ap,2025-09-14,18,59,Georgia Tech,511,0
+ap,2025-09-14,19,84,Indiana,458,0
+ap,2025-09-14,20,238,Vanderbilt,397,0
+ap,2025-09-14,21,130,Michigan,356,0
+ap,2025-09-14,22,2,Auburn,344,0
+ap,2025-09-14,23,142,Missouri,292,0
+ap,2025-09-14,24,87,Notre Dame,207,0
+ap,2025-09-14,25,30,USC,105,0
+ap,2025-09-21,1,194,Ohio State,1629,52
+ap,2025-09-21,2,2390,Miami,1479,7
+ap,2025-09-21,3,213,Penn State,1460,5
+ap,2025-09-21,4,99,LSU,1433,0
+ap,2025-09-21,5,61,Georgia,1420,0
+ap,2025-09-21,6,2483,Oregon,1404,1
+ap,2025-09-21,7,201,Oklahoma,1194,1
+ap,2025-09-21,8,52,Florida State,1183,0
+ap,2025-09-21,9,245,Texas A&M,1072,0
+ap,2025-09-21,10,251,Texas,1057,0
+ap,2025-09-21,11,84,Indiana,990,0
+ap,2025-09-21,12,2641,Texas Tech,890,0
+ap,2025-09-21,13,145,Ole Miss,843,0
+ap,2025-09-21,14,66,Iowa State,779,0
+ap,2025-09-21,15,2633,Tennessee,635,0
+ap,2025-09-21,16,59,Georgia Tech,598,0
+ap,2025-09-21,17,333,Alabama,595,0
+ap,2025-09-21,18,238,Vanderbilt,546,0
+ap,2025-09-21,19,130,Michigan,458,0
+ap,2025-09-21,20,142,Missouri,452,0
+ap,2025-09-21,21,30,USC,264,0
+ap,2025-09-21,22,87,Notre Dame,219,0
+ap,2025-09-21,23,356,Illinois,145,0
+ap,2025-09-21,24,2628,TCU,138,0
+ap,2025-09-21,25,252,BYU,131,0
+ap,2025-09-28,1,194,Ohio State,1626,46
+ap,2025-09-28,2,2483,Oregon,1589,16
+ap,2025-09-28,3,2390,Miami,1529,4
+ap,2025-09-28,4,145,Ole Miss,1354,0
+ap,2025-09-28,5,201,Oklahoma,1313,0
+ap,2025-09-28,6,245,Texas A&M,1308,0
+ap,2025-09-28,7,213,Penn State,1179,0
+ap,2025-09-28,8,84,Indiana,1156,0
+ap,2025-09-28,9,251,Texas,1071,0
+ap,2025-09-28,10,333,Alabama,1057,0
+ap,2025-09-28,11,2641,Texas Tech,967,0
+ap,2025-09-28,12,61,Georgia,965,0
+ap,2025-09-28,13,99,LSU,838,0
+ap,2025-09-28,14,66,Iowa State,830,0
+ap,2025-09-28,15,2633,Tennessee,697,0
+ap,2025-09-28,16,238,Vanderbilt,640,0
+ap,2025-09-28,17,59,Georgia Tech,549,0
+ap,2025-09-28,18,52,Florida State,535,0
+ap,2025-09-28,19,142,Missouri,528,0
+ap,2025-09-28,20,130,Michigan,422,0
+ap,2025-09-28,21,87,Notre Dame,333,0
+ap,2025-09-28,22,356,Illinois,271,0
+ap,2025-09-28,23,252,BYU,191,0
+ap,2025-09-28,24,258,Virginia,125,0
+ap,2025-09-28,25,9,Arizona State,107,0
+ap,2025-10-05,1,194,Ohio State,1620,40
+ap,2025-10-05,2,2390,Miami,1579,21
+ap,2025-10-05,3,2483,Oregon,1542,5
+ap,2025-10-05,4,145,Ole Miss,1376,0
+ap,2025-10-05,5,245,Texas A&M,1361,0
+ap,2025-10-05,6,201,Oklahoma,1346,0
+ap,2025-10-05,7,84,Indiana,1213,0
+ap,2025-10-05,8,333,Alabama,1202,0
+ap,2025-10-05,9,2641,Texas Tech,1135,0
+ap,2025-10-05,10,61,Georgia,1084,0
+ap,2025-10-05,11,99,LSU,949,0
+ap,2025-10-05,12,2633,Tennessee,892,0
+ap,2025-10-05,13,59,Georgia Tech,782,0
+ap,2025-10-05,14,142,Missouri,775,0
+ap,2025-10-05,15,130,Michigan,707,0
+ap,2025-10-05,16,87,Notre Dame,610,0
+ap,2025-10-05,17,356,Illinois,522,0
+ap,2025-10-05,18,252,BYU,463,0
+ap,2025-10-05,19,258,Virginia,452,0
+ap,2025-10-05,20,238,Vanderbilt,407,0
+ap,2025-10-05,21,9,Arizona State,214,0
+ap,2025-10-05,22,66,Iowa State,165,0
+ap,2025-10-05,23,235,Memphis,153,0
+ap,2025-10-05,24,58,South Florida,150,0
+ap,2025-10-05,25,52,Florida State,147,0
+ap,2025-10-12,1,194,Ohio State,1631,50
+ap,2025-10-12,2,2390,Miami,1582,13
+ap,2025-10-12,3,84,Indiana,1531,3
+ap,2025-10-12,4,245,Texas A&M,1433,0
+ap,2025-10-12,5,145,Ole Miss,1331,0
+ap,2025-10-12,6,333,Alabama,1315,0
+ap,2025-10-12,7,2641,Texas Tech,1266,0
+ap,2025-10-12,8,2483,Oregon,1175,0
+ap,2025-10-12,9,61,Georgia,1148,0
+ap,2025-10-12,10,99,LSU,1012,0
+ap,2025-10-12,11,2633,Tennessee,939,0
+ap,2025-10-12,12,59,Georgia Tech,904,0
+ap,2025-10-12,13,87,Notre Dame,793,0
+ap,2025-10-12,14,201,Oklahoma,786,0
+ap,2025-10-12,15,252,BYU,655,0
+ap,2025-10-12,16,142,Missouri,649,0
+ap,2025-10-12,17,238,Vanderbilt,547,0
+ap,2025-10-12,18,258,Virginia,521,0
+ap,2025-10-12,19,58,South Florida,398,0
+ap,2025-10-12,20,30,USC,361,0
+ap,2025-10-12,21,251,Texas,319,0
+ap,2025-10-12,22,235,Memphis,285,0
+ap,2025-10-12,23,254,Utah,261,0
+ap,2025-10-12,24,2132,Cincinnati,184,0
+ap,2025-10-12,25,158,Nebraska,149,0
+ap,2025-10-19,1,194,Ohio State,1643,60
+ap,2025-10-19,2,84,Indiana,1583,6
+ap,2025-10-19,3,245,Texas A&M,1499,0
+ap,2025-10-19,4,333,Alabama,1463,0
+ap,2025-10-19,5,61,Georgia,1360,0
+ap,2025-10-19,6,2483,Oregon,1317,0
+ap,2025-10-19,7,59,Georgia Tech,1143,0
+ap,2025-10-19,8,145,Ole Miss,1119,0
+ap,2025-10-19,9,2390,Miami,1073,0
+ap,2025-10-19,10,238,Vanderbilt,1031,0
+ap,2025-10-19,11,252,BYU,975,0
+ap,2025-10-19,12,87,Notre Dame,964,0
+ap,2025-10-19,13,201,Oklahoma,882,0
+ap,2025-10-19,14,2641,Texas Tech,782,0
+ap,2025-10-19,15,142,Missouri,748,0
+ap,2025-10-19,16,258,Virginia,624,0
+ap,2025-10-19,17,2633,Tennessee,527,0
+ap,2025-10-19,18,58,South Florida,501,0
+ap,2025-10-19,19,97,Louisville,458,0
+ap,2025-10-19,20,99,LSU,388,0
+ap,2025-10-19,21,2132,Cincinnati,350,0
+ap,2025-10-19,22,251,Texas,318,0
+ap,2025-10-19,23,356,Illinois,168,0
+ap,2025-10-19,24,9,Arizona State,155,0
+ap,2025-10-19,25,130,Michigan,123,0
+ap,2025-10-26,1,194,Ohio State,1633,54
+ap,2025-10-26,2,84,Indiana,1589,11
+ap,2025-10-26,3,245,Texas A&M,1523,1
+ap,2025-10-26,4,333,Alabama,1445,0
+ap,2025-10-26,5,61,Georgia,1359,0
+ap,2025-10-26,6,2483,Oregon,1249,0
+ap,2025-10-26,7,145,Ole Miss,1212,0
+ap,2025-10-26,8,59,Georgia Tech,1172,0
+ap,2025-10-26,9,238,Vanderbilt,1098,0
+ap,2025-10-26,10,252,BYU,1069,0
+ap,2025-10-26,10,2390,Miami,1069,0
+ap,2025-10-26,12,87,Notre Dame,944,0
+ap,2025-10-26,13,2641,Texas Tech,876,0
+ap,2025-10-26,14,2633,Tennessee,684,0
+ap,2025-10-26,15,258,Virginia,660,0
+ap,2025-10-26,16,97,Louisville,647,0
+ap,2025-10-26,17,2132,Cincinnati,609,0
+ap,2025-10-26,18,201,Oklahoma,485,0
+ap,2025-10-26,19,142,Missouri,447,0
+ap,2025-10-26,20,251,Texas,371,0
+ap,2025-10-26,21,130,Michigan,264,0
+ap,2025-10-26,22,248,Houston,256,0
+ap,2025-10-26,23,30,USC,215,0
+ap,2025-10-26,24,254,Utah,162,0
+ap,2025-10-26,25,235,Memphis,130,0
+ap,2025-11-02,1,194,Ohio State,1633,54
+ap,2025-11-02,2,84,Indiana,1591,11
+ap,2025-11-02,3,245,Texas A&M,1523,1
+ap,2025-11-02,4,333,Alabama,1447,0
+ap,2025-11-02,5,61,Georgia,1364,0
+ap,2025-11-02,6,2483,Oregon,1293,0
+ap,2025-11-02,7,145,Ole Miss,1263,0
+ap,2025-11-02,8,252,BYU,1207,0
+ap,2025-11-02,9,2641,Texas Tech,1091,0
+ap,2025-11-02,10,87,Notre Dame,1071,0
+ap,2025-11-02,11,201,Oklahoma,850,0
+ap,2025-11-02,12,258,Virginia,838,0
+ap,2025-11-02,13,251,Texas,835,0
+ap,2025-11-02,14,97,Louisville,827,0
+ap,2025-11-02,15,238,Vanderbilt,698,0
+ap,2025-11-02,16,59,Georgia Tech,667,0
+ap,2025-11-02,17,254,Utah,560,0
+ap,2025-11-02,18,2390,Miami,558,0
+ap,2025-11-02,19,142,Missouri,491,0
+ap,2025-11-02,20,30,USC,453,0
+ap,2025-11-02,21,130,Michigan,344,0
+ap,2025-11-02,22,235,Memphis,224,0
+ap,2025-11-02,23,2633,Tennessee,171,0
+ap,2025-11-02,24,264,Washington,110,0
+ap,2025-11-02,25,2132,Cincinnati,77,0
+ap,2025-11-09,1,194,Ohio State,1610,55
+ap,2025-11-09,2,84,Indiana,1549,6
+ap,2025-11-09,3,245,Texas A&M,1518,4
+ap,2025-11-09,4,333,Alabama,1427,0
+ap,2025-11-09,5,61,Georgia,1353,0
+ap,2025-11-09,6,145,Ole Miss,1248,0
+ap,2025-11-09,7,2483,Oregon,1245,0
+ap,2025-11-09,8,2641,Texas Tech,1211,0
+ap,2025-11-09,9,87,Notre Dame,1102,0
+ap,2025-11-09,10,251,Texas,961,0
+ap,2025-11-09,11,201,Oklahoma,928,0
+ap,2025-11-09,12,252,BYU,898,0
+ap,2025-11-09,13,238,Vanderbilt,821,0
+ap,2025-11-09,14,59,Georgia Tech,788,0
+ap,2025-11-09,15,254,Utah,695,0
+ap,2025-11-09,16,2390,Miami,683,0
+ap,2025-11-09,17,30,USC,645,0
+ap,2025-11-09,18,130,Michigan,498,0
+ap,2025-11-09,19,97,Louisville,326,0
+ap,2025-11-09,20,258,Virginia,313,0
+ap,2025-11-09,21,2633,Tennessee,276,0
+ap,2025-11-09,22,2132,Cincinnati,224,0
+ap,2025-11-09,23,221,Pittsburgh,201,0
+ap,2025-11-09,24,256,James Madison,167,0
+ap,2025-11-09,25,58,South Florida,116,0
+ap,2025-11-16,1,194,Ohio State,1639,57
+ap,2025-11-16,2,84,Indiana,1588,8
+ap,2025-11-16,3,245,Texas A&M,1520,1
+ap,2025-11-16,4,61,Georgia,1447,0
+ap,2025-11-16,5,145,Ole Miss,1331,0
+ap,2025-11-16,6,2483,Oregon,1299,0
+ap,2025-11-16,6,2641,Texas Tech,1299,0
+ap,2025-11-16,8,201,Oklahoma,1162,0
+ap,2025-11-16,9,87,Notre Dame,1130,0
+ap,2025-11-16,10,333,Alabama,1062,0
+ap,2025-11-16,11,252,BYU,992,0
+ap,2025-11-16,12,238,Vanderbilt,833,0
+ap,2025-11-16,13,254,Utah,795,0
+ap,2025-11-16,14,2390,Miami,773,0
+ap,2025-11-16,15,59,Georgia Tech,768,0
+ap,2025-11-16,16,30,USC,707,0
+ap,2025-11-16,17,251,Texas,564,0
+ap,2025-11-16,18,130,Michigan,547,0
+ap,2025-11-16,19,258,Virginia,476,0
+ap,2025-11-16,20,2633,Tennessee,360,0
+ap,2025-11-16,21,256,James Madison,294,0
+ap,2025-11-16,22,249,North Texas,186,0
+ap,2025-11-16,23,142,Missouri,173,0
+ap,2025-11-16,24,2655,Tulane,167,0
+ap,2025-11-16,25,248,Houston,107,0
+ap,2025-11-23,1,194,Ohio State,1640,58
+ap,2025-11-23,2,84,Indiana,1587,7
+ap,2025-11-23,3,245,Texas A&M,1522,1
+ap,2025-11-23,4,61,Georgia,1444,0
+ap,2025-11-23,5,2483,Oregon,1326,0
+ap,2025-11-23,6,145,Ole Miss,1320,0
+ap,2025-11-23,7,2641,Texas Tech,1295,0
+ap,2025-11-23,8,201,Oklahoma,1169,0
+ap,2025-11-23,9,87,Notre Dame,1117,0
+ap,2025-11-23,10,333,Alabama,1056,0
+ap,2025-11-23,11,252,BYU,1014,0
+ap,2025-11-23,12,238,Vanderbilt,876,0
+ap,2025-11-23,13,2390,Miami,849,0
+ap,2025-11-23,14,254,Utah,809,0
+ap,2025-11-23,15,130,Michigan,664,0
+ap,2025-11-23,16,251,Texas,646,0
+ap,2025-11-23,17,258,Virginia,556,0
+ap,2025-11-23,18,2633,Tennessee,473,0
+ap,2025-11-23,19,30,USC,464,0
+ap,2025-11-23,20,256,James Madison,331,0
+ap,2025-11-23,21,249,North Texas,288,0
+ap,2025-11-23,22,2655,Tulane,255,0
+ap,2025-11-23,23,59,Georgia Tech,228,0
+ap,2025-11-23,24,221,Pittsburgh,174,0
+ap,2025-11-23,25,2567,SMU,121,0
+ap,2025-11-30,1,194,Ohio State,1645,61
+ap,2025-11-30,2,84,Indiana,1589,5
+ap,2025-11-30,3,61,Georgia,1504,0
+ap,2025-11-30,4,2483,Oregon,1396,0
+ap,2025-11-30,5,2641,Texas Tech,1366,0
+ap,2025-11-30,6,145,Ole Miss,1350,0
+ap,2025-11-30,7,245,Texas A&M,1282,0
+ap,2025-11-30,8,201,Oklahoma,1140,0
+ap,2025-11-30,9,87,Notre Dame,1100,0
+ap,2025-11-30,10,333,Alabama,1053,0
+ap,2025-11-30,11,252,BYU,982,0
+ap,2025-11-30,12,2390,Miami,898,0
+ap,2025-11-30,13,238,Vanderbilt,871,0
+ap,2025-11-30,14,251,Texas,861,0
+ap,2025-11-30,15,254,Utah,739,0
+ap,2025-11-30,16,258,Virginia,637,0
+ap,2025-11-30,17,30,USC,566,0
+ap,2025-11-30,18,130,Michigan,441,0
+ap,2025-11-30,19,256,James Madison,417,0
+ap,2025-11-30,20,249,North Texas,402,0
+ap,2025-11-30,21,2655,Tulane,373,0
+ap,2025-11-30,22,12,Arizona,257,0
+ap,2025-11-30,23,2426,Navy,146,0
+ap,2025-11-30,24,59,Georgia Tech,90,0
+ap,2025-11-30,25,142,Missouri,73,0
+ap,2025-12-07,1,84,Indiana,1650,66
+ap,2025-12-07,2,61,Georgia,1550,0
+ap,2025-12-07,3,194,Ohio State,1538,0
+ap,2025-12-07,4,2641,Texas Tech,1452,0
+ap,2025-12-07,5,2483,Oregon,1358,0
+ap,2025-12-07,6,145,Ole Miss,1323,0
+ap,2025-12-07,7,245,Texas A&M,1278,0
+ap,2025-12-07,8,201,Oklahoma,1154,0
+ap,2025-12-07,9,87,Notre Dame,1094,0
+ap,2025-12-07,10,2390,Miami,1017,0
+ap,2025-12-07,11,333,Alabama,973,0
+ap,2025-12-07,12,252,BYU,899,0
+ap,2025-12-07,13,238,Vanderbilt,880,0
+ap,2025-12-07,14,251,Texas,872,0
+ap,2025-12-07,15,254,Utah,748,0
+ap,2025-12-07,16,30,USC,609,0
+ap,2025-12-07,17,2655,Tulane,521,0
+ap,2025-12-07,18,130,Michigan,503,0
+ap,2025-12-07,19,256,James Madison,490,0
+ap,2025-12-07,20,258,Virginia,323,0
+ap,2025-12-07,21,12,Arizona,322,0
+ap,2025-12-07,22,2426,Navy,173,0
+ap,2025-12-07,23,249,North Texas,151,0
+ap,2025-12-07,24,59,Georgia Tech,147,0
+ap,2025-12-07,25,142,Missouri,92,0
+cfp,2025-11-04,1,194,Ohio State,0,0
+cfp,2025-11-04,2,84,Indiana,0,0
+cfp,2025-11-04,3,245,Texas A&M,0,0
+cfp,2025-11-04,4,333,Alabama,0,0
+cfp,2025-11-04,5,61,Georgia,0,0
+cfp,2025-11-04,6,145,Ole Miss,0,0
+cfp,2025-11-04,7,252,BYU,0,0
+cfp,2025-11-04,8,2641,Texas Tech,0,0
+cfp,2025-11-04,9,2483,Oregon,0,0
+cfp,2025-11-04,10,87,Notre Dame,0,0
+cfp,2025-11-04,11,251,Texas,0,0
+cfp,2025-11-04,12,201,Oklahoma,0,0
+cfp,2025-11-04,13,254,Utah,0,0
+cfp,2025-11-04,14,258,Virginia,0,0
+cfp,2025-11-04,15,97,Louisville,0,0
+cfp,2025-11-04,16,238,Vanderbilt,0,0
+cfp,2025-11-04,17,59,Georgia Tech,0,0
+cfp,2025-11-04,18,2390,Miami,0,0
+cfp,2025-11-04,19,30,USC,0,0
+cfp,2025-11-04,20,2294,Iowa,0,0
+cfp,2025-11-04,21,130,Michigan,0,0
+cfp,2025-11-04,22,142,Missouri,0,0
+cfp,2025-11-04,23,264,Washington,0,0
+cfp,2025-11-04,24,221,Pittsburgh,0,0
+cfp,2025-11-04,25,2633,Tennessee,0,0
+cfp,2025-11-11,1,194,Ohio State,0,0
+cfp,2025-11-11,2,84,Indiana,0,0
+cfp,2025-11-11,3,245,Texas A&M,0,0
+cfp,2025-11-11,4,333,Alabama,0,0
+cfp,2025-11-11,5,61,Georgia,0,0
+cfp,2025-11-11,6,2641,Texas Tech,0,0
+cfp,2025-11-11,7,145,Ole Miss,0,0
+cfp,2025-11-11,8,2483,Oregon,0,0
+cfp,2025-11-11,9,87,Notre Dame,0,0
+cfp,2025-11-11,10,251,Texas,0,0
+cfp,2025-11-11,11,201,Oklahoma,0,0
+cfp,2025-11-11,12,252,BYU,0,0
+cfp,2025-11-11,13,254,Utah,0,0
+cfp,2025-11-11,14,238,Vanderbilt,0,0
+cfp,2025-11-11,15,2390,Miami,0,0
+cfp,2025-11-11,16,59,Georgia Tech,0,0
+cfp,2025-11-11,17,30,USC,0,0
+cfp,2025-11-11,18,130,Michigan,0,0
+cfp,2025-11-11,19,258,Virginia,0,0
+cfp,2025-11-11,20,97,Louisville,0,0
+cfp,2025-11-11,21,2294,Iowa,0,0
+cfp,2025-11-11,22,221,Pittsburgh,0,0
+cfp,2025-11-11,23,2633,Tennessee,0,0
+cfp,2025-11-11,24,58,South Florida,0,0
+cfp,2025-11-11,25,2132,Cincinnati,0,0
+cfp,2025-11-18,1,194,Ohio State,0,0
+cfp,2025-11-18,2,84,Indiana,0,0
+cfp,2025-11-18,3,245,Texas A&M,0,0
+cfp,2025-11-18,4,61,Georgia,0,0
+cfp,2025-11-18,5,2641,Texas Tech,0,0
+cfp,2025-11-18,6,145,Ole Miss,0,0
+cfp,2025-11-18,7,2483,Oregon,0,0
+cfp,2025-11-18,8,201,Oklahoma,0,0
+cfp,2025-11-18,9,87,Notre Dame,0,0
+cfp,2025-11-18,10,333,Alabama,0,0
+cfp,2025-11-18,11,252,BYU,0,0
+cfp,2025-11-18,12,254,Utah,0,0
+cfp,2025-11-18,13,2390,Miami,0,0
+cfp,2025-11-18,14,238,Vanderbilt,0,0
+cfp,2025-11-18,15,30,USC,0,0
+cfp,2025-11-18,16,59,Georgia Tech,0,0
+cfp,2025-11-18,17,251,Texas,0,0
+cfp,2025-11-18,18,130,Michigan,0,0
+cfp,2025-11-18,19,258,Virginia,0,0
+cfp,2025-11-18,20,2633,Tennessee,0,0
+cfp,2025-11-18,21,356,Illinois,0,0
+cfp,2025-11-18,22,142,Missouri,0,0
+cfp,2025-11-18,23,248,Houston,0,0
+cfp,2025-11-18,24,2655,Tulane,0,0
+cfp,2025-11-18,25,9,Arizona State,0,0
+cfp,2025-11-25,1,194,Ohio State,0,0
+cfp,2025-11-25,2,84,Indiana,0,0
+cfp,2025-11-25,3,245,Texas A&M,0,0
+cfp,2025-11-25,4,61,Georgia,0,0
+cfp,2025-11-25,5,2641,Texas Tech,0,0
+cfp,2025-11-25,6,2483,Oregon,0,0
+cfp,2025-11-25,7,145,Ole Miss,0,0
+cfp,2025-11-25,8,201,Oklahoma,0,0
+cfp,2025-11-25,9,87,Notre Dame,0,0
+cfp,2025-11-25,10,333,Alabama,0,0
+cfp,2025-11-25,11,252,BYU,0,0
+cfp,2025-11-25,12,2390,Miami,0,0
+cfp,2025-11-25,13,254,Utah,0,0
+cfp,2025-11-25,14,238,Vanderbilt,0,0
+cfp,2025-11-25,15,130,Michigan,0,0
+cfp,2025-11-25,16,251,Texas,0,0
+cfp,2025-11-25,17,30,USC,0,0
+cfp,2025-11-25,18,258,Virginia,0,0
+cfp,2025-11-25,19,2633,Tennessee,0,0
+cfp,2025-11-25,20,9,Arizona State,0,0
+cfp,2025-11-25,21,2567,SMU,0,0
+cfp,2025-11-25,22,221,Pittsburgh,0,0
+cfp,2025-11-25,23,59,Georgia Tech,0,0
+cfp,2025-11-25,24,2655,Tulane,0,0
+cfp,2025-11-25,25,12,Arizona,0,0
+cfp,2025-12-02,1,194,Ohio State,0,0
+cfp,2025-12-02,2,84,Indiana,0,0
+cfp,2025-12-02,3,61,Georgia,0,0
+cfp,2025-12-02,4,2641,Texas Tech,0,0
+cfp,2025-12-02,5,2483,Oregon,0,0
+cfp,2025-12-02,6,145,Ole Miss,0,0
+cfp,2025-12-02,7,245,Texas A&M,0,0
+cfp,2025-12-02,8,201,Oklahoma,0,0
+cfp,2025-12-02,9,333,Alabama,0,0
+cfp,2025-12-02,10,87,Notre Dame,0,0
+cfp,2025-12-02,11,252,BYU,0,0
+cfp,2025-12-02,12,2390,Miami,0,0
+cfp,2025-12-02,13,251,Texas,0,0
+cfp,2025-12-02,14,238,Vanderbilt,0,0
+cfp,2025-12-02,15,254,Utah,0,0
+cfp,2025-12-02,16,30,USC,0,0
+cfp,2025-12-02,17,258,Virginia,0,0
+cfp,2025-12-02,18,12,Arizona,0,0
+cfp,2025-12-02,19,130,Michigan,0,0
+cfp,2025-12-02,20,2655,Tulane,0,0
+cfp,2025-12-02,21,248,Houston,0,0
+cfp,2025-12-02,22,59,Georgia Tech,0,0
+cfp,2025-12-02,23,2294,Iowa,0,0
+cfp,2025-12-02,24,249,North Texas,0,0
+cfp,2025-12-02,25,256,James Madison,0,0
+cfp,2025-12-07,1,84,Indiana,0,0
+cfp,2025-12-07,2,194,Ohio State,0,0
+cfp,2025-12-07,3,61,Georgia,0,0
+cfp,2025-12-07,4,2641,Texas Tech,0,0
+cfp,2025-12-07,5,2483,Oregon,0,0
+cfp,2025-12-07,6,145,Ole Miss,0,0
+cfp,2025-12-07,7,245,Texas A&M,0,0
+cfp,2025-12-07,8,201,Oklahoma,0,0
+cfp,2025-12-07,9,333,Alabama,0,0
+cfp,2025-12-07,10,2390,Miami,0,0
+cfp,2025-12-07,11,87,Notre Dame,0,0
+cfp,2025-12-07,12,252,BYU,0,0
+cfp,2025-12-07,13,251,Texas,0,0
+cfp,2025-12-07,14,238,Vanderbilt,0,0
+cfp,2025-12-07,15,254,Utah,0,0
+cfp,2025-12-07,16,30,USC,0,0
+cfp,2025-12-07,17,12,Arizona,0,0
+cfp,2025-12-07,18,130,Michigan,0,0
+cfp,2025-12-07,19,258,Virginia,0,0
+cfp,2025-12-07,20,2655,Tulane,0,0
+cfp,2025-12-07,21,248,Houston,0,0
+cfp,2025-12-07,22,59,Georgia Tech,0,0
+cfp,2025-12-07,23,2294,Iowa,0,0
+cfp,2025-12-07,24,256,James Madison,0,0
+cfp,2025-12-07,25,249,North Texas,0,0
+coaches,2025-08-04,1,251,Texas,1606,28
+coaches,2025-08-04,2,194,Ohio State,1565,20
+coaches,2025-08-04,3,213,Penn State,1525,14
+coaches,2025-08-04,4,61,Georgia,1466,3
+coaches,2025-08-04,5,87,Notre Dame,1360,0
+coaches,2025-08-04,6,228,Clemson,1324,2
+coaches,2025-08-04,7,2483,Oregon,1307,0
+coaches,2025-08-04,8,333,Alabama,1210,0
+coaches,2025-08-04,9,99,LSU,1056,0
+coaches,2025-08-04,10,2390,Miami,823,0
+coaches,2025-08-04,11,9,Arizona State,806,0
+coaches,2025-08-04,12,356,Illinois,734,0
+coaches,2025-08-04,13,2579,South Carolina,665,0
+coaches,2025-08-04,14,130,Michigan,580,0
+coaches,2025-08-04,15,145,Ole Miss,573,0
+coaches,2025-08-04,16,2567,SMU,555,0
+coaches,2025-08-04,17,57,Florida,498,0
+coaches,2025-08-04,18,2633,Tennessee,492,0
+coaches,2025-08-04,19,84,Indiana,460,0
+coaches,2025-08-04,20,2306,Kansas State,438,0
+coaches,2025-08-04,21,66,Iowa State,392,0
+coaches,2025-08-04,21,245,Texas A&M,392,0
+coaches,2025-08-04,23,252,BYU,287,0
+coaches,2025-08-04,24,2641,Texas Tech,261,0
+coaches,2025-08-04,25,68,Boise State,246,0
+coaches,2025-09-02,1,194,Ohio State,1666,59
+coaches,2025-09-02,2,213,Penn State,1574,6
+coaches,2025-09-02,3,61,Georgia,1518,1
+coaches,2025-09-02,4,99,LSU,1469,1
+coaches,2025-09-02,5,2483,Oregon,1381,0
+coaches,2025-09-02,6,251,Texas,1339,0
+coaches,2025-09-02,7,2390,Miami,1304,0
+coaches,2025-09-02,8,228,Clemson,1067,0
+coaches,2025-09-02,9,87,Notre Dame,1038,0
+coaches,2025-09-02,10,9,Arizona State,957,0
+coaches,2025-09-02,11,2579,South Carolina,915,0
+coaches,2025-09-02,12,356,Illinois,909,0
+coaches,2025-09-02,13,130,Michigan,725,0
+coaches,2025-09-02,14,145,Ole Miss,668,0
+coaches,2025-09-02,15,57,Florida,638,0
+coaches,2025-09-02,16,2567,SMU,602,0
+coaches,2025-09-02,17,2633,Tennessee,563,0
+coaches,2025-09-02,18,66,Iowa State,518,0
+coaches,2025-09-02,19,52,Florida State,491,0
+coaches,2025-09-02,20,333,Alabama,390,0
+coaches,2025-09-02,21,84,Indiana,369,0
+coaches,2025-09-02,22,245,Texas A&M,363,0
+coaches,2025-09-02,23,2641,Texas Tech,253,0
+coaches,2025-09-02,24,201,Oklahoma,251,0
+coaches,2025-09-02,25,252,BYU,163,0
+coaches,2025-09-07,1,194,Ohio State,1668,62
+coaches,2025-09-07,2,213,Penn State,1576,4
+coaches,2025-09-07,3,61,Georgia,1488,0
+coaches,2025-09-07,4,99,LSU,1472,1
+coaches,2025-09-07,5,2483,Oregon,1423,0
+coaches,2025-09-07,6,2390,Miami,1330,0
+coaches,2025-09-07,7,251,Texas,1288,0
+coaches,2025-09-07,8,87,Notre Dame,1041,0
+coaches,2025-09-07,9,356,Illinois,1019,0
+coaches,2025-09-07,10,2579,South Carolina,1007,0
+coaches,2025-09-07,11,228,Clemson,995,0
+coaches,2025-09-07,12,52,Florida State,843,0
+coaches,2025-09-07,13,145,Ole Miss,803,0
+coaches,2025-09-07,14,66,Iowa State,794,0
+coaches,2025-09-07,15,2633,Tennessee,733,0
+coaches,2025-09-07,16,201,Oklahoma,693,0
+coaches,2025-09-07,17,245,Texas A&M,514,0
+coaches,2025-09-07,18,333,Alabama,436,0
+coaches,2025-09-07,19,84,Indiana,425,0
+coaches,2025-09-07,20,2641,Texas Tech,362,0
+coaches,2025-09-07,21,254,Utah,270,0
+coaches,2025-09-07,22,130,Michigan,241,0
+coaches,2025-09-07,23,58,South Florida,232,0
+coaches,2025-09-07,24,9,Arizona State,206,0
+coaches,2025-09-07,25,252,BYU,169,0
+coaches,2025-09-14,1,194,Ohio State,1668,62
+coaches,2025-09-14,2,213,Penn State,1559,3
+coaches,2025-09-14,3,61,Georgia,1501,1
+coaches,2025-09-14,4,99,LSU,1468,1
+coaches,2025-09-14,5,2483,Oregon,1444,0
+coaches,2025-09-14,6,2390,Miami,1379,0
+coaches,2025-09-14,7,251,Texas,1209,0
+coaches,2025-09-14,8,356,Illinois,1150,0
+coaches,2025-09-14,9,52,Florida State,1023,0
+coaches,2025-09-14,10,245,Texas A&M,1003,0
+coaches,2025-09-14,11,145,Ole Miss,951,0
+coaches,2025-09-14,12,201,Oklahoma,906,0
+coaches,2025-09-14,13,66,Iowa State,896,0
+coaches,2025-09-14,14,333,Alabama,630,0
+coaches,2025-09-14,15,2633,Tennessee,625,0
+coaches,2025-09-14,16,2641,Texas Tech,563,0
+coaches,2025-09-14,17,84,Indiana,550,0
+coaches,2025-09-14,18,254,Utah,510,0
+coaches,2025-09-14,19,59,Georgia Tech,333,0
+coaches,2025-09-14,20,130,Michigan,316,0
+coaches,2025-09-14,21,87,Notre Dame,296,0
+coaches,2025-09-14,22,142,Missouri,252,0
+coaches,2025-09-14,23,238,Vanderbilt,249,0
+coaches,2025-09-14,24,2579,South Carolina,198,0
+coaches,2025-09-14,25,2,Auburn,160,0
+coaches,2025-09-21,1,194,Ohio State,1667,61
+coaches,2025-09-21,2,213,Penn State,1552,3
+coaches,2025-09-21,3,61,Georgia,1497,1
+coaches,2025-09-21,4,99,LSU,1458,0
+coaches,2025-09-21,5,2483,Oregon,1442,1
+coaches,2025-09-21,6,2390,Miami,1399,1
+coaches,2025-09-21,7,251,Texas,1209,0
+coaches,2025-09-21,8,52,Florida State,1100,0
+coaches,2025-09-21,9,245,Texas A&M,1043,0
+coaches,2025-09-21,10,201,Oklahoma,1024,0
+coaches,2025-09-21,11,145,Ole Miss,996,0
+coaches,2025-09-21,12,84,Indiana,915,0
+coaches,2025-09-21,13,66,Iowa State,870,0
+coaches,2025-09-21,14,2641,Texas Tech,807,0
+coaches,2025-09-21,15,2633,Tennessee,715,0
+coaches,2025-09-21,16,333,Alabama,649,0
+coaches,2025-09-21,17,59,Georgia Tech,558,0
+coaches,2025-09-21,18,130,Michigan,469,0
+coaches,2025-09-21,19,142,Missouri,433,0
+coaches,2025-09-21,20,238,Vanderbilt,417,0
+coaches,2025-09-21,21,87,Notre Dame,261,0
+coaches,2025-09-21,22,30,USC,249,0
+coaches,2025-09-21,23,356,Illinois,214,0
+coaches,2025-09-21,24,252,BYU,185,0
+coaches,2025-09-21,25,2628,TCU,112,0
+coaches,2025-09-28,1,194,Ohio State,1617,58
+coaches,2025-09-28,2,2483,Oregon,1559,6
+coaches,2025-09-28,3,2390,Miami,1484,1
+coaches,2025-09-28,4,145,Ole Miss,1319,0
+coaches,2025-09-28,5,245,Texas A&M,1223,0
+coaches,2025-09-28,6,213,Penn State,1192,0
+coaches,2025-09-28,7,251,Texas,1165,0
+coaches,2025-09-28,8,201,Oklahoma,1123,0
+coaches,2025-09-28,9,84,Indiana,1059,0
+coaches,2025-09-28,10,61,Georgia,1006,0
+coaches,2025-09-28,11,333,Alabama,975,0
+coaches,2025-09-28,12,66,Iowa State,919,0
+coaches,2025-09-28,13,99,LSU,918,0
+coaches,2025-09-28,14,2641,Texas Tech,856,0
+coaches,2025-09-28,15,2633,Tennessee,728,0
+coaches,2025-09-28,16,59,Georgia Tech,604,0
+coaches,2025-09-28,17,238,Vanderbilt,502,0
+coaches,2025-09-28,18,142,Missouri,498,0
+coaches,2025-09-28,19,52,Florida State,483,0
+coaches,2025-09-28,20,130,Michigan,453,0
+coaches,2025-09-28,21,87,Notre Dame,316,0
+coaches,2025-09-28,22,356,Illinois,287,0
+coaches,2025-09-28,23,252,BYU,221,0
+coaches,2025-09-28,24,9,Arizona State,136,0
+coaches,2025-09-28,25,254,Utah,104,0
+coaches,2025-10-05,1,194,Ohio State,1638,59
+coaches,2025-10-05,2,2483,Oregon,1572,3
+coaches,2025-10-05,3,2390,Miami,1531,3
+coaches,2025-10-05,4,145,Ole Miss,1402,0
+coaches,2025-10-05,5,245,Texas A&M,1330,1
+coaches,2025-10-05,6,201,Oklahoma,1283,0
+coaches,2025-10-05,7,84,Indiana,1206,0
+coaches,2025-10-05,8,333,Alabama,1183,0
+coaches,2025-10-05,9,61,Georgia,1128,0
+coaches,2025-10-05,10,2641,Texas Tech,1082,0
+coaches,2025-10-05,11,99,LSU,999,0
+coaches,2025-10-05,12,2633,Tennessee,889,0
+coaches,2025-10-05,13,59,Georgia Tech,819,0
+coaches,2025-10-05,14,142,Missouri,736,0
+coaches,2025-10-05,15,130,Michigan,653,0
+coaches,2025-10-05,16,87,Notre Dame,491,0
+coaches,2025-10-05,17,356,Illinois,484,0
+coaches,2025-10-05,18,252,BYU,453,0
+coaches,2025-10-05,19,251,Texas,372,0
+coaches,2025-10-05,20,238,Vanderbilt,329,0
+coaches,2025-10-05,21,66,Iowa State,295,0
+coaches,2025-10-05,22,213,Penn State,294,0
+coaches,2025-10-05,23,9,Arizona State,292,0
+coaches,2025-10-05,24,258,Virginia,258,0
+coaches,2025-10-05,25,235,Memphis,162,0
+coaches,2025-10-12,1,194,Ohio State,1646,63
+coaches,2025-10-12,2,2390,Miami,1566,2
+coaches,2025-10-12,3,84,Indiana,1492,1
+coaches,2025-10-12,4,245,Texas A&M,1417,0
+coaches,2025-10-12,5,145,Ole Miss,1389,0
+coaches,2025-10-12,6,333,Alabama,1280,0
+coaches,2025-10-12,7,61,Georgia,1198,0
+coaches,2025-10-12,8,2641,Texas Tech,1183,0
+coaches,2025-10-12,9,2483,Oregon,1154,0
+coaches,2025-10-12,10,99,LSU,1062,0
+coaches,2025-10-12,11,2633,Tennessee,962,0
+coaches,2025-10-12,12,59,Georgia Tech,951,0
+coaches,2025-10-12,13,201,Oklahoma,781,0
+coaches,2025-10-12,14,252,BYU,720,0
+coaches,2025-10-12,15,87,Notre Dame,661,0
+coaches,2025-10-12,16,142,Missouri,585,0
+coaches,2025-10-12,17,251,Texas,519,0
+coaches,2025-10-12,18,238,Vanderbilt,498,0
+coaches,2025-10-12,19,258,Virginia,415,0
+coaches,2025-10-12,20,235,Memphis,337,0
+coaches,2025-10-12,21,30,USC,310,0
+coaches,2025-10-12,22,254,Utah,298,0
+coaches,2025-10-12,23,58,South Florida,234,0
+coaches,2025-10-12,24,2132,Cincinnati,169,0
+coaches,2025-10-12,25,356,Illinois,151,0
+coaches,2025-10-19,1,194,Ohio State,1625,65
+coaches,2025-10-19,2,84,Indiana,1549,0
+coaches,2025-10-19,3,245,Texas A&M,1470,0
+coaches,2025-10-19,4,333,Alabama,1408,0
+coaches,2025-10-19,5,61,Georgia,1358,0
+coaches,2025-10-19,6,2483,Oregon,1302,0
+coaches,2025-10-19,7,59,Georgia Tech,1153,0
+coaches,2025-10-19,8,145,Ole Miss,1110,0
+coaches,2025-10-19,9,2390,Miami,1027,0
+coaches,2025-10-19,10,252,BYU,990,0
+coaches,2025-10-19,11,201,Oklahoma,960,0
+coaches,2025-10-19,12,238,Vanderbilt,902,0
+coaches,2025-10-19,13,87,Notre Dame,872,0
+coaches,2025-10-19,14,142,Missouri,778,0
+coaches,2025-10-19,15,2641,Texas Tech,738,0
+coaches,2025-10-19,16,258,Virginia,528,0
+coaches,2025-10-19,17,2633,Tennessee,523,0
+coaches,2025-10-19,18,251,Texas,483,0
+coaches,2025-10-19,19,99,LSU,451,0
+coaches,2025-10-19,20,58,South Florida,393,0
+coaches,2025-10-19,21,2132,Cincinnati,355,0
+coaches,2025-10-19,22,97,Louisville,336,0
+coaches,2025-10-19,23,356,Illinois,192,0
+coaches,2025-10-19,24,130,Michigan,175,0
+coaches,2025-10-19,25,9,Arizona State,144,0
+coaches,2025-10-26,1,194,Ohio State,1598,62
+coaches,2025-10-26,2,84,Indiana,1524,0
+coaches,2025-10-26,3,245,Texas A&M,1478,2
+coaches,2025-10-26,4,333,Alabama,1381,0
+coaches,2025-10-26,5,61,Georgia,1331,0
+coaches,2025-10-26,6,2483,Oregon,1254,0
+coaches,2025-10-26,7,59,Georgia Tech,1183,0
+coaches,2025-10-26,8,145,Ole Miss,1173,0
+coaches,2025-10-26,9,2390,Miami,1029,0
+coaches,2025-10-26,10,252,BYU,1023,0
+coaches,2025-10-26,11,238,Vanderbilt,1004,0
+coaches,2025-10-26,12,87,Notre Dame,849,0
+coaches,2025-10-26,13,2641,Texas Tech,845,0
+coaches,2025-10-26,14,2633,Tennessee,683,0
+coaches,2025-10-26,15,258,Virginia,658,0
+coaches,2025-10-26,16,2132,Cincinnati,565,0
+coaches,2025-10-26,17,97,Louisville,544,0
+coaches,2025-10-26,18,201,Oklahoma,495,0
+coaches,2025-10-26,19,251,Texas,456,0
+coaches,2025-10-26,20,142,Missouri,423,0
+coaches,2025-10-26,21,130,Michigan,302,0
+coaches,2025-10-26,22,248,Houston,215,0
+coaches,2025-10-26,23,2426,Navy,144,0
+coaches,2025-10-26,24,254,Utah,129,0
+coaches,2025-10-26,25,235,Memphis,105,0
+coaches,2025-11-02,1,194,Ohio State,1596,60
+coaches,2025-11-02,2,84,Indiana,1525,1
+coaches,2025-11-02,3,245,Texas A&M,1479,3
+coaches,2025-11-02,4,333,Alabama,1385,0
+coaches,2025-11-02,5,61,Georgia,1335,0
+coaches,2025-11-02,6,2483,Oregon,1284,0
+coaches,2025-11-02,7,145,Ole Miss,1213,0
+coaches,2025-11-02,8,252,BYU,1157,0
+coaches,2025-11-02,9,2641,Texas Tech,1028,0
+coaches,2025-11-02,10,87,Notre Dame,992,0
+coaches,2025-11-02,11,258,Virginia,852,0
+coaches,2025-11-02,12,201,Oklahoma,806,0
+coaches,2025-11-02,13,251,Texas,788,0
+coaches,2025-11-02,14,59,Georgia Tech,740,0
+coaches,2025-11-02,15,97,Louisville,734,0
+coaches,2025-11-02,16,238,Vanderbilt,610,0
+coaches,2025-11-02,17,142,Missouri,501,0
+coaches,2025-11-02,18,2390,Miami,487,0
+coaches,2025-11-02,19,254,Utah,476,0
+coaches,2025-11-02,20,130,Michigan,468,0
+coaches,2025-11-02,21,30,USC,291,0
+coaches,2025-11-02,22,2633,Tennessee,243,0
+coaches,2025-11-02,23,235,Memphis,242,0
+coaches,2025-11-02,24,2294,Iowa,128,0
+coaches,2025-11-02,25,2132,Cincinnati,109,0
+coaches,2025-11-09,1,194,Ohio State,1571,59
+coaches,2025-11-09,2,84,Indiana,1492,0
+coaches,2025-11-09,3,245,Texas A&M,1465,4
+coaches,2025-11-09,4,333,Alabama,1368,0
+coaches,2025-11-09,5,61,Georgia,1322,0
+coaches,2025-11-09,6,2483,Oregon,1238,0
+coaches,2025-11-09,7,145,Ole Miss,1216,0
+coaches,2025-11-09,8,2641,Texas Tech,1143,0
+coaches,2025-11-09,9,87,Notre Dame,1041,0
+coaches,2025-11-09,10,201,Oklahoma,929,0
+coaches,2025-11-09,10,251,Texas,929,0
+coaches,2025-11-09,12,59,Georgia Tech,823,0
+coaches,2025-11-09,12,252,BYU,823,0
+coaches,2025-11-09,14,238,Vanderbilt,751,0
+coaches,2025-11-09,15,254,Utah,635,0
+coaches,2025-11-09,16,2390,Miami,626,0
+coaches,2025-11-09,17,130,Michigan,559,0
+coaches,2025-11-09,18,30,USC,528,0
+coaches,2025-11-09,19,258,Virginia,336,0
+coaches,2025-11-09,20,2633,Tennessee,312,0
+coaches,2025-11-09,21,97,Louisville,279,0
+coaches,2025-11-09,22,2132,Cincinnati,216,0
+coaches,2025-11-09,23,221,Pittsburgh,144,0
+coaches,2025-11-09,24,142,Missouri,132,0
+coaches,2025-11-09,25,256,James Madison,108,0
+coaches,2025-11-16,1,194,Ohio State,1573,61
+coaches,2025-11-16,2,84,Indiana,1497,0
+coaches,2025-11-16,3,245,Texas A&M,1457,2
+coaches,2025-11-16,4,61,Georgia,1381,0
+coaches,2025-11-16,5,2483,Oregon,1285,0
+coaches,2025-11-16,6,145,Ole Miss,1268,0
+coaches,2025-11-16,7,2641,Texas Tech,1213,0
+coaches,2025-11-16,8,201,Oklahoma,1099,0
+coaches,2025-11-16,9,87,Notre Dame,1064,0
+coaches,2025-11-16,10,333,Alabama,976,0
+coaches,2025-11-16,11,252,BYU,923,0
+coaches,2025-11-16,12,59,Georgia Tech,815,0
+coaches,2025-11-16,13,238,Vanderbilt,777,0
+coaches,2025-11-16,14,254,Utah,748,0
+coaches,2025-11-16,15,2390,Miami,707,0
+coaches,2025-11-16,16,30,USC,610,0
+coaches,2025-11-16,17,130,Michigan,587,0
+coaches,2025-11-16,18,251,Texas,521,0
+coaches,2025-11-16,19,258,Virginia,455,0
+coaches,2025-11-16,20,2633,Tennessee,403,0
+coaches,2025-11-16,21,142,Missouri,220,0
+coaches,2025-11-16,22,256,James Madison,201,0
+coaches,2025-11-16,23,249,North Texas,164,0
+coaches,2025-11-16,24,248,Houston,144,0
+coaches,2025-11-16,25,2655,Tulane,96,0
+coaches,2025-11-23,1,194,Ohio State,1573,61
+coaches,2025-11-23,2,84,Indiana,1495,0
+coaches,2025-11-23,3,245,Texas A&M,1461,2
+coaches,2025-11-23,4,61,Georgia,1378,0
+coaches,2025-11-23,5,2483,Oregon,1291,0
+coaches,2025-11-23,6,145,Ole Miss,1262,0
+coaches,2025-11-23,7,2641,Texas Tech,1211,0
+coaches,2025-11-23,8,201,Oklahoma,1108,0
+coaches,2025-11-23,9,87,Notre Dame,1073,0
+coaches,2025-11-23,10,333,Alabama,1002,0
+coaches,2025-11-23,11,252,BYU,943,0
+coaches,2025-11-23,12,238,Vanderbilt,828,0
+coaches,2025-11-23,13,2390,Miami,781,0
+coaches,2025-11-23,14,254,Utah,774,0
+coaches,2025-11-23,15,130,Michigan,683,0
+coaches,2025-11-23,16,251,Texas,615,0
+coaches,2025-11-23,17,258,Virginia,532,0
+coaches,2025-11-23,18,2633,Tennessee,499,0
+coaches,2025-11-23,19,59,Georgia Tech,344,0
+coaches,2025-11-23,20,30,USC,313,0
+coaches,2025-11-23,21,256,James Madison,262,0
+coaches,2025-11-23,22,249,North Texas,251,0
+coaches,2025-11-23,23,2655,Tulane,186,0
+coaches,2025-11-23,24,221,Pittsburgh,158,0
+coaches,2025-11-23,25,2567,SMU,109,0
+coaches,2025-11-30,1,194,Ohio State,1575,63
+coaches,2025-11-30,2,84,Indiana,1510,0
+coaches,2025-11-30,3,61,Georgia,1438,0
+coaches,2025-11-30,4,2483,Oregon,1353,0
+coaches,2025-11-30,5,145,Ole Miss,1306,0
+coaches,2025-11-30,6,2641,Texas Tech,1266,0
+coaches,2025-11-30,7,245,Texas A&M,1178,0
+coaches,2025-11-30,8,201,Oklahoma,1106,0
+coaches,2025-11-30,9,87,Notre Dame,1061,0
+coaches,2025-11-30,10,333,Alabama,1019,0
+coaches,2025-11-30,11,252,BYU,942,0
+coaches,2025-11-30,12,238,Vanderbilt,855,0
+coaches,2025-11-30,13,2390,Miami,844,0
+coaches,2025-11-30,14,251,Texas,753,0
+coaches,2025-11-30,15,254,Utah,750,0
+coaches,2025-11-30,16,258,Virginia,613,0
+coaches,2025-11-30,17,30,USC,505,0
+coaches,2025-11-30,18,130,Michigan,427,0
+coaches,2025-11-30,19,256,James Madison,356,0
+coaches,2025-11-30,20,249,North Texas,345,0
+coaches,2025-11-30,21,2655,Tulane,300,0
+coaches,2025-11-30,22,12,Arizona,223,0
+coaches,2025-11-30,23,59,Georgia Tech,170,0
+coaches,2025-11-30,24,2633,Tennessee,135,0
+coaches,2025-11-30,25,2426,Navy,107,0
+coaches,2025-12-07,1,84,Indiana,1549,61
+coaches,2025-12-07,2,61,Georgia,1461,1
+coaches,2025-12-07,3,194,Ohio State,1433,0
+coaches,2025-12-07,4,2641,Texas Tech,1339,0
+coaches,2025-12-07,5,2483,Oregon,1317,0
+coaches,2025-12-07,6,145,Ole Miss,1240,0
+coaches,2025-12-07,7,245,Texas A&M,1169,0
+coaches,2025-12-07,8,201,Oklahoma,1093,0
+coaches,2025-12-07,9,87,Notre Dame,1037,0
+coaches,2025-12-07,10,2390,Miami,941,0
+coaches,2025-12-07,11,333,Alabama,913,0
+coaches,2025-12-07,12,238,Vanderbilt,867,0
+coaches,2025-12-07,13,252,BYU,790,0
+coaches,2025-12-07,14,251,Texas,788,0
+coaches,2025-12-07,15,254,Utah,719,0
+coaches,2025-12-07,16,30,USC,558,0
+coaches,2025-12-07,17,130,Michigan,479,0
+coaches,2025-12-07,18,2655,Tulane,448,0
+coaches,2025-12-07,19,256,James Madison,389,0
+coaches,2025-12-07,20,12,Arizona,326,0
+coaches,2025-12-07,21,258,Virginia,288,0
+coaches,2025-12-07,22,59,Georgia Tech,223,0
+coaches,2025-12-07,23,2633,Tennessee,123,0
+coaches,2025-12-07,24,248,Houston,119,0
+coaches,2025-12-07,25,2426,Navy,118,0

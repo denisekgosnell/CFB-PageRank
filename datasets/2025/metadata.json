@@ -1,0 +1,23 @@
+{
+  "season": 2025,
+  "compiled_by": "Denise Koessler Gosnell",
+  "compiled_on": "2026-11-24",
+  "data_collected_at": "2026-11-24T19:33:59Z",
+  "license": "CC-BY-4.0",
+  "license_file": "../../LICENSE-DATA",
+  "sources": [
+    "College Football Data API (primary): https://collegefootballdata.com",
+    "ESPN scoreboard and rankings endpoints (cross-check)",
+    "NCAA.com weekly scoreboards (third source for games)",
+    "College Poll Archive (third source for AP polls)"
+  ],
+  "files": {
+    "ap_poll.csv": "132adcbbb4d8e769b7b394cc13b746d580473da209d03aeb9ee53dd2f2c5d8f1",
+    "cfp_rankings.csv": "659519b4c31934de6c427f7788cc3cc602e5818832f6af807ae364191dabe4d2",
+    "coaches_poll.csv": "0abd37f3bb915f409ecdcf3f1e29483b60c9fb0f36bd59bb2a50cbd0006d2d72",
+    "espn_games.csv": "6c8906946d878141072fdeb88b539cd6d1e5a76dd16a33bfd3b7e9f12e4891e4",
+    "espn_polls.csv": "3ed487d71e02fe591b97588b3400220b73a00d7480f9c28e619362b26575e72b",
+    "games.csv": "57e8ba5fcded15d610899e0054523a9808c905888f8f4030727defb54c9cd785",
+    "teams.csv": "24b2d571440af47cac5ea6eebaec0e2aaba19220c603dbf624f0b290c707abd6"
+  }
+}
