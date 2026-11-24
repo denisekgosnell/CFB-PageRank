@@ -1,4 +1,4 @@
-# 2023: PageRank against the human polls
+# PageRank against the human polls, 2023 season
 
 Each row is one poll release. The PageRank snapshot for a row holds every game played before the poll's release date. The preseason poll has no games before it, so its metrics are n/a. The metrics are defined in `analysis/README.md`.
 

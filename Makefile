@@ -13,13 +13,13 @@
 # How to use this file
 #
 #   make all        rebuild everything downstream of datasets/ (no network needed)
-#   make data       collect and verify the raw datasets (needs the network)
+#   make data       collect and verify the raw datasets, then point check the graph (needs the network)
 #   make graph      translate datasets into the graph model and verify it
 #   make pagerank   run PageRank week by week for every season and mode
 #   make analysis   compare PageRank to the human polls and write the prediction
 #   make viz        build the interactive pages from the PageRank snapshots
 #   make test       run the test suite
-#   make schema-png rasterize graph_model/schema.svg (needs Playwright, see graph_model/README.md)
+#   make schema-png rasterize graph_model/schema.svg (needs Playwright for Node, see graph_model/README.md)
 
 PYTHON ?= python3
 SEASONS ?= 2023 2024 2025 2026
@@ -34,7 +34,10 @@ data:
 		$(PYTHON) datasets/collect.py --season $$season || exit 1; \
 		$(PYTHON) datasets/build_datasets.py --season $$season || exit 1; \
 		$(PYTHON) datasets/cross_check.py --season $$season || exit 1; \
+		$(PYTHON) datasets/spot_check.py --season $$season || exit 1; \
 		$(PYTHON) datasets/checksums.py --season $$season || exit 1; \
+		$(PYTHON) datasets/write_verification.py --season $$season || exit 1; \
+		$(PYTHON) graph_model/point_check.py --season $$season || exit 1; \
 	done
 
 graph:
@@ -65,4 +68,5 @@ test:
 	$(PYTHON) -m pytest -q tests
 
 schema-png:
-	$(PYTHON) graph_model/render_schema.py
+	$(PYTHON) graph_model/draw_schema.py
+	node graph_model/render_schema.js

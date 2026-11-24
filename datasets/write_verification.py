@@ -135,7 +135,7 @@ def spot_check_section(spot):
              f"Random draw of 25 games with seed {spot['random_seed']}, plus every game of the top 10 in the AP poll of "
              f"{spot['final_ap_poll_date']} ({', '.join(spot['final_ap_top_10'])}).", "",
              f"Selected games checked: {spot['games_checked']}. Passed: {spot['games_passed']}.", "",
-             f"Beyond the selection, every game in the season was matched to NCAA.com on date, scores, and team names: "
+             f"Beyond the selection, every game in the season was matched to NCAA.com by date, by score, and by team name: "
              f"{spot['all_games_agreeing']} of {spot['all_games_total']} agree, {len(spot['games_not_found_in_ncaa'])} could not be matched.", ""]
     if spot["home_designation_differences"]:
         lines += ["Games where NCAA.com designates a different home team (scores and teams agree; this is a designation, not a result):", ""]
@@ -163,7 +163,7 @@ def polls_section(season_dir, spot, calendar):
         lines.append(f"- Build note: {note}")
     if calendar.get("poll_notes"):
         lines.append("")
-    lines += ["AP polls checked against College Poll Archive (rank, team, points, and first-place votes for every ranked team):", ""]
+    lines += ["AP polls checked against College Poll Archive (the rank and the team, then the points and the first-place votes, for every ranked team):", ""]
     rows = [(p.get("poll_date") or "", p["heading"], p.get("teams_compared", ""), p["result"], p["url"]) for p in spot["poll_checks"]]
     lines += [table(["poll date", "archive page", "teams compared", "check", "URL"], rows), ""]
     failures = [p for p in spot["poll_checks"] if p["result"] == "FAIL"]

@@ -1,0 +1,150 @@
+# Words and phrases that mark prose as machine-written, kept here so the
+# voice check in tests/test_voice.py is reproducible. One pattern per line.
+# A line that starts with "allow:" names a word that the author uses in her
+# own book, so it stays allowed; the reason follows the word.
+# Patterns are matched case-insensitively at word boundaries. A pattern may
+# be a regular expression.
+#
+# Group 1. The "AI vocabulary" list from Wikipedia's guide, Signs of AI writing
+# (WikiProject AI Cleanup, read 2026-11-24):
+# https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
+align with
+boasts
+bolstered
+crucial
+emphasizing
+enduring
+fostering
+foster
+garner
+interplay
+intricate
+intricacies
+landscape
+meticulous
+meticulously
+showcase
+tapestry
+testament
+underscores?
+vibrant
+allow: delve (used in Chapter 1: "delving into a more agile thought process")
+allow: pivotal (used in Chapter 1: "pivotal questions about your data")
+allow: robust (used in Chapter 4: "Planning for Robust Result Payloads")
+allow: additionally (used in Chapter 4: "Additionally, id is a naming clash")
+#
+# Group 2. Copula avoidance and inflated significance, from the same Wikipedia guide
+# (sections "Avoidance of basic copulatives" and "Undue emphasis on significance"):
+stands as
+marks a shift
+represents a shift
+plays a (crucial|pivotal|vital|significant|key) role
+a (crucial|pivotal|vital) moment
+key turning point
+evolving landscape
+indelible mark
+deeply rooted
+setting the stage for
+reflects broader
+valuable insights
+allow: serves as (used in Chapter 1: "this book serves as your guide")
+#
+# Group 3. Negative parallelisms, triads, and section summaries, from the Wikipedia guide
+# (sections "Negative parallelisms", "Rule of three", "Section summaries") and from
+# Pangram, 9 Signs of AI Writing, Backed by Data (read 2026-11-24):
+# https://www.pangram.com/signs-of-ai-writing
+not just \w+(,| \w+)* but (also )?
+not only \w+(,| \w+)* but (also )?
+it'?s not \w+(,| \w+)*, it'?s
+in conclusion
+in summary
+overall,
+#
+# Group 4. Overused words and phrases from Plus AI, The most overused ChatGPT words
+# (Dan Li, December 15, 2025, read 2026-11-24):
+# https://plusai.com/blog/the-most-overused-chatgpt-words
+embark
+excels
+comprehensive
+moreover
+notably
+no fluff
+here'?s the kicker
+you'?re not imagining it
+dive into the intricacies
+it'?s important to (note|remember)
+it is important to (note|remember)
+important to consider
+navigating the (landscape|complexities)
+allow: realm (used in Chapter 1: "Within the realm of data science")
+allow: ultimately (used in Chapter 1: "Ultimately, you are likely reading this book")
+#
+# Group 5. High-frequency words, transitions, and hedges from Grammarly, Common AI words
+# (read 2026-11-24):
+# https://www.grammarly.com/blog/ai-writing/common-ai-words/
+harness
+illuminate
+that being said
+at its core
+to put it simply
+this underscores the importance
+a key takeaway
+key takeaways?
+from a broader perspective
+generally speaking
+allow: dive into (used in Chapter 4: "Let's dive into how we would remove Michael")
+allow: deep dive (used in Chapter 5: "for a deep dive on the internals")
+allow: navigate (used in Chapter 1: "how to navigate the applicability and usage of graph data")
+allow: unlock (used in Chapter 1: "unlocking the wide adoption of graph technologies")
+allow: empower (used in Chapter 2: "Applied graph theory empowers the appeal")
+allow: leverage (used in Chapter 1: "When properly leveraged, your business's data")
+#
+# Group 6. Patterns an author found when a model audited her own prose, from PCWorld,
+# Does my writing sound like AI? (Ben Patterson, June 2026, read 2026-11-24):
+# https://www.pcworld.com/article/3179916/does-my-writing-sound-like-ai-claude-has-thoughts.html
+# and the model-specific tells reported by Gizmodo in 2026 ("looking ahead",
+# "why ... matters", "dependable"):
+# https://gizmodo.com/this-matters-researchers-identify-thousands-of-new-tells-in-ai-writing-2000820447
+looking ahead
+why \w+ matters
+dependable
+#
+# Group 7. The focal words from Juzek and Ward, Why Does ChatGPT "Delve" So Much?
+# (COLING 2025, read 2026-11-24): https://arxiv.org/abs/2412.11385
+# The ones not already listed above:
+multifaceted
+nuanced
+seamless
+seamlessly
+cutting-edge
+game-changer
+streamline
+holistic
+synergy
+ever-evolving
+fast-paced
+in today'?s (world|fast-paced)
+#
+# Group 8. Phrases from the seed list in the build instructions that the sources above
+# did not already cover:
+a wide range of
+a variety of
+whether you'?re a \w+ or a
+whether you are a \w+ or a
+designed to
+at the end of the day
+the answer\?
+here'?s the thing
+let'?s break it down
+let'?s dive in\b
+with that in mind
+i hope this helps
+feel free to
+elevate
+allow: simply put (used in Chapter 1: "Simply put, a complex system describes")
+allow: best practices (used in Chapter 4: "best practices for creating a property graph data model")
+allow: nuance (used in Chapter 2: "The nuances between the worlds of graph schema")
+allow: aims to (used in Chapter 2: "This section aims to synthesize topics")
+allow: note that (used in Chapter 2: "Note that the term property applies to concepts")
+allow: ensure (used in Chapter 4: "This Gremlin pattern ensures we have a nonempty list")
+allow: journey (used in Chapter 1: "your team's graph journey")

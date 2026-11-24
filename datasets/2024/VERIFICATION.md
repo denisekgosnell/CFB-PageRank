@@ -231,7 +231,7 @@ Random draw of 25 games with seed 20261124, plus every game of the top 10 in the
 
 Selected games checked: 138. Passed: 138.
 
-Beyond the selection, every game in the season was matched to NCAA.com on date, scores, and team names: 863 of 863 agree, 0 could not be matched.
+Beyond the selection, every game in the season was matched to NCAA.com by date, by score, and by team name: 863 of 863 agree, 0 could not be matched.
 
 | date | game | our result | NCAA.com result | why selected | check | URL |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -384,7 +384,7 @@ cfp_rankings.csv: 5 polls from 2024-11-05 to 2024-12-03, 125 rows. Every poll li
 
 - Build note: AP Top 25 released 2024-09-29 lists 26 teams
 
-AP polls checked against College Poll Archive (rank, team, points, and first-place votes for every ranked team):
+AP polls checked against College Poll Archive (the rank and the team, then the points and the first-place votes, for every ranked team):
 
 | poll date | archive page | teams compared | check | URL |
 | --- | --- | --- | --- | --- |

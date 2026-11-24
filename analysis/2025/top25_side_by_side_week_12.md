@@ -1,4 +1,4 @@
-# 2025: AP poll of 2025-11-16 beside PageRank
+# AP poll of 2025-11-16 beside PageRank, 2025 season
 
 PageRank is computed from every game played before 2025-11-16. Beside each AP team is its PageRank rank in each mode. The two right-hand columns list the PageRank top 25 in each mode.
 

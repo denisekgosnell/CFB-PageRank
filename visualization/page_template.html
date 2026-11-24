@@ -192,6 +192,7 @@ limitations under the License.
     bumpG.append("g").attr("transform", "translate(0," + (bh - margin.bottom) + ")").call(d3.axisBottom(x).tickFormat(w => "wk " + w));
     bumpG.append("g").attr("transform", "translate(" + margin.left + ",0)").call(d3.axisLeft(y).tickValues([1, 5, 10, 15, 20, 25, 30, 40, 50, 60]));
     const line = d3.line().x(w => x(w)).y((w, i, arr) => y(arr.rankOf(w))).curve(d3.curveMonotoneX);
+    const labels = [];
     teams.forEach(team => {
       const series = weeks.slice(); series.rankOf = w => data.snapshots[mode][String(w)][team][0];
       const v = nodeById.get(team);
@@ -199,8 +200,14 @@ limitations under the License.
       bumpG.append("path").datum(series).attr("fill", "none").attr("stroke", isHit ? "#FE7D2B" : colorOf(v))
         .attr("stroke-width", isHit ? 4 : 1.8).attr("stroke-opacity", highlighted && !isHit ? 0.25 : 0.9).attr("d", line)
         .on("click", () => setHighlight(team));
-      bumpG.append("text").attr("x", x(weeks[weeks.length - 1]) + 6).attr("y", y(series.rankOf(weeks[weeks.length - 1])) + 4)
-        .attr("font-size", 11).attr("font-weight", isHit ? "bold" : null).text(series.rankOf(week) + ". " + team);
+      labels.push({ team, isHit, y: y(series.rankOf(weeks[weeks.length - 1])), text: series.rankOf(week) + ". " + team });
+    });
+    // Labels sit at each line's right end. When two would overlap, the later one moves down.
+    labels.sort((a, b) => a.y - b.y);
+    for (let i = 1; i < labels.length; i++) if (labels[i].y < labels[i - 1].y + 12) labels[i].y = labels[i - 1].y + 12;
+    labels.forEach(l => {
+      bumpG.append("text").attr("x", x(weeks[weeks.length - 1]) + 6).attr("y", l.y + 4)
+        .attr("font-size", 11).attr("font-weight", l.isHit ? "bold" : null).text(l.text);
     });
     bumpG.append("line").attr("x1", x(week)).attr("x2", x(week)).attr("y1", margin.top).attr("y2", bh - margin.bottom).attr("stroke", "#111").attr("stroke-dasharray", "4 3");
   }

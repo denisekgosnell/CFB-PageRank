@@ -265,7 +265,7 @@ Random draw of 25 games with seed 20261124, plus every game of the top 10 in the
 
 Selected games checked: 134. Passed: 134.
 
-Beyond the selection, every game in the season was matched to NCAA.com on date, scores, and team names: 878 of 878 agree, 0 could not be matched.
+Beyond the selection, every game in the season was matched to NCAA.com by date, by score, and by team name: 878 of 878 agree, 0 could not be matched.
 
 Games where NCAA.com designates a different home team (scores and teams agree; this is a designation, not a result):
 
@@ -416,7 +416,7 @@ coaches_poll.csv: 15 polls from 2025-08-04 to 2025-11-30, 375 rows. Every poll l
 
 cfp_rankings.csv: 5 polls from 2025-11-04 to 2025-12-02, 125 rows. Every poll lists exactly 25 teams.
 
-AP polls checked against College Poll Archive (rank, team, points, and first-place votes for every ranked team):
+AP polls checked against College Poll Archive (the rank and the team, then the points and the first-place votes, for every ranked team):
 
 | poll date | archive page | teams compared | check | URL |
 | --- | --- | --- | --- | --- |

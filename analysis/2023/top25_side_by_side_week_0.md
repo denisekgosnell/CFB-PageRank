@@ -1,4 +1,4 @@
-# 2023: AP poll of 2023-08-14 beside PageRank
+# AP poll of 2023-08-14 beside PageRank, 2023 season
 
 PageRank is computed from every game played before 2023-08-14. Beside each AP team is its PageRank rank in each mode. The two right-hand columns list the PageRank top 25 in each mode.
 

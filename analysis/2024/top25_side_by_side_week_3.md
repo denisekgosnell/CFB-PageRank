@@ -1,4 +1,4 @@
-# 2024: AP poll of 2024-09-15 beside PageRank
+# AP poll of 2024-09-15 beside PageRank, 2024 season
 
 PageRank is computed from every game played before 2024-09-15. Beside each AP team is its PageRank rank in each mode. The two right-hand columns list the PageRank top 25 in each mode.
 

@@ -211,7 +211,7 @@ def side_by_side(season, release_date, poll_rows, snapshots_by_mode):
     poll_rows = sorted(poll_rows, key=lambda r: int(r["rank"]))
     rank_of = {mode: {team: r for r, team, _ in ranked} for mode, ranked in snapshots_by_mode.items()}
     top_of = {mode: [(r, team) for r, team, _ in ranked if r <= 25] for mode, ranked in snapshots_by_mode.items()}
-    lines = [f"# {season}: AP poll of {release_date} beside PageRank", "",
+    lines = [f"# AP poll of {release_date} beside PageRank, {season} season", "",
              f"PageRank is computed from every game played before {release_date}. "
              "Beside each AP team is its PageRank rank in each mode. The two right-hand columns list the PageRank top 25 in each mode.", "",
              "| rank | AP team | PageRank rank, unweighted | PageRank rank, weighted | PageRank top 25, unweighted | PageRank top 25, weighted |",
@@ -247,7 +247,7 @@ def main():
     eligible = [v["team"] for v in vertex_rows if v["division"] == "FBS"]
     edges = read_csv(graph_dir / "edges.csv")
 
-    rendered = [f"# {season}: PageRank against the human polls", "",
+    rendered = [f"# PageRank against the human polls, {season} season", "",
                 "Each row is one poll release. The PageRank snapshot for a row holds every game played before the poll's release date. "
                 "The preseason poll has no games before it, so its metrics are n/a. The metrics are defined in `analysis/README.md`.", ""]
     ap_snapshots = {}
