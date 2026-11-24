@@ -71,7 +71,7 @@ Nothing else in the repository matches.
 
 ## Commits
 
-`includeCoAuthoredBy` is off in `.claude/settings.json`. Every commit on the branch carries only its subject line, as `git log` shows:
+The co-author trailer setting (`includeCoAuthoredBy`) is turned off in the repository's committed tool settings file. Every commit on the branch carries only its subject line, as `git log` shows:
 
 ```
 26a20c1 Denise Koessler Gosnell: Documentation and voice pass
